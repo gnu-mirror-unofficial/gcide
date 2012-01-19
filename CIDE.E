@@ -13779,7 +13779,7 @@ And <qex>enticing</qex> men to pull.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 <p><q>The <qex>entourage</qex> and mode of life of the mikados were not such as to make of them able rulers.</q>  <rj><qau>B. H. Chamberlain.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><hw>En`to*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ within + <grk>zw,on</grk> an animal.]</ety> <fld>(Zo\'94l.)</fld> <sn>1.</sn> <def>A group of worms, including the tapeworms, flukes, roundworms, etc., most of which live parasitically in the interior of other animals; the Helminthes.</def><br/
+<p><hw>En`to*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ within + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zo\'94l.)</fld> <sn>1.</sn> <def>A group of worms, including the tapeworms, flukes, roundworms, etc., most of which live parasitically in the interior of other animals; the Helminthes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>An artificial group, including all kinds of animals living parasitically in others.</def></p>
