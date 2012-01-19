@@ -113,7 +113,7 @@ knowledge base should contact:
 <p><hw>Jab"o*rine</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <er>Jaborandi</er>.]</ety> <fld>(Chem.)</fld> <def>An alkaloid found in jaborandi leaves, from which it is extracted as a white amorphous substance. In its action it resembles atropine.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Jab"ot</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>Originally, a kind of ruffle worn by men on the bosom of the shirt.</def><br/
+<p><hw>Jab"ot</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>Originally, a kind of ruffle worn by men on the bosom of the shirt.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>An arrangement of lace or tulle, looped ornamentally, and worn by women on the front of the dress.</def><br/
@@ -547,10 +547,10 @@ There 's many a gentle person made a <qex>Jack</qex>.</q> <rj><qau>Shak.</qau></
 <p><cs><mcol><col><b>Jacquard apparatus</b></col> <it>or</it> <col><b>Jacquard arrangement</b></col></mcol>, <cd>a device applied to looms for weaving figured goods, consisting of mechanism controlled by a chain of variously perforated cards, which cause the warp threads to be lifted in the proper succession for producing the required figure.</cd> -- <col><b>Jacquard card</b></col>, <cd>one of the perforated cards of a Jacquard apparatus.</cd> -- <col><b>Jacquard loom</b></col>, <cd>a loom with Jacquard apparatus.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Jacque"mi*not</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A half-hardy, deep crimson  rose of the remontant class; -- so named after <person>General <etsep>Jacqueminot</etsep></person>, of France.</def><br/
+<p><hw>Jacque"mi*not</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A half-hardy, deep crimson  rose of the remontant class; -- so named after <person>General <etsep>Jacqueminot</etsep></person>, of France.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Jacque`rie"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>The name given to a revolt of French peasants against the nobles in 1358, the leader assuming the contemptuous title, <etsep>Jacques Bonhomme</etsep>, given by the nobles to the peasantry. Hence, any revolt of peasants.</def><br/
+<p><hw>Jacque`rie"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>The name given to a revolt of French peasants against the nobles in 1358, the leader assuming the contemptuous title, <etsep>Jacques Bonhomme</etsep>, given by the nobles to the peasantry. Hence, any revolt of peasants.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Jac"tan*cy</hw> <pr>(j<acr/k"t<ait/n*s<ycr/)</pr>, <pos>n.</pos> <ety>[L. <ets>jactantia</ets>, fr. <ets>jactans</ets>, p. pr. of <ets>jactare</ets> to throw, boast, freq. fr. <ets>jacere</ets> to throw; cf. F. <ets>jactance</ets>.]</ety> <def>A boasting; a bragging.</def> <mark>[Obs.]</mark><br/
@@ -675,7 +675,7 @@ There 's many a gentle person made a <qex>Jack</qex>.</q> <rj><qau>Shak.</qau></
 <p><sn>2.</sn>  <def>Unchaste; -- applied to a woman.</def>  <rj><au>L'Estrange.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Jae"ger</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Jager</er>.</def><br/
+<p><hw>Jae"ger</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Jager</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Jag</hw> <pr>(j<acr/g)</pr>, <pos>n.</pos> <ety>[Prob. of Celtic origin; cf. W. <ets>gag</ets> aperture, cleft, chink; akin to Ir. & Gael. <ets>gag</ets>.]</ety> <altsp>[Written also <asp>jagg</asp>.]</altsp><br/
@@ -720,7 +720,7 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <p><mhw><hw>JAG</hw>, <hw>J.A.G</hw></mhw>, <pos>n.</pos> <fld>(Mil.)</fld> <def>Same as <cref>Judge-Advocate General</cref>.</def> <mark>[Acronym]</mark> <br/
 [<source>PJC</source>]</p>
 
-<p><mhw>{ <hw>Jag"an*nath</hw> <pr>(?)</pr>, <hw>Jag`an*na"tha</hw>, <hw>\'d8Jag`a*nat"ha</hw>, <pr>(?)</pr>, <pos>prop. n.</pos> Also <hw>Jug"ger*naut</hw>}</mhw>. <ety>[Hind. <ets>Jagan-n\'beth</ets> lord of the world, Skr. <ets>jagann\'betha</ets>.]</ety> <fld>(Hinduism)</fld> <def>A particular form of <persfn>Vishnu</persfn>, or of <persfn>Krishna</persfn>, whose chief idol and worship are at Puri, in Orissa. The idol is considered to contain the bones of <persfn>Krishna</persfn> and to possess a soul. The principal festivals are the <b>Snanayatra</b>, when the idol is bathed, and the <b>Rathayatra</b>, when the image is drawn upon a car adorned with obscene paintings. Formerly it was erroneously supposed that devotees allowed themselves to be crushed beneath the wheels of this car. It is now known that any death within the temple of Jagannath is considered to render the place unclean, and any spilling of blood in the presence of the idol is a pollution.</def><br/
+<p><mhw>{ <hw>Jag"an*nath</hw> <pr>(?)</pr>, <hw>Jag`an*na"tha</hw>, <hw>Jag`a*nat"ha</hw>, <pr>(?)</pr>, <pos>prop. n.</pos> Also <hw>Jug"ger*naut</hw>}</mhw>. <ety>[Hind. <ets>Jagan-n\'beth</ets> lord of the world, Skr. <ets>jagann\'betha</ets>.]</ety> <fld>(Hinduism)</fld> <def>A particular form of <persfn>Vishnu</persfn>, or of <persfn>Krishna</persfn>, whose chief idol and worship are at Puri, in Orissa. The idol is considered to contain the bones of <persfn>Krishna</persfn> and to possess a soul. The principal festivals are the <b>Snanayatra</b>, when the idol is bathed, and the <b>Rathayatra</b>, when the image is drawn upon a car adorned with obscene paintings. Formerly it was erroneously supposed that devotees allowed themselves to be crushed beneath the wheels of this car. It is now known that any death within the temple of Jagannath is considered to render the place unclean, and any spilling of blood in the presence of the idol is a pollution.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Ja"ger</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G. <ets>j\'84ger</ets> a hunter, a sportsman.  Cf. <er>Yager</er>.]</ety> <altsp>[Written also <asp>jaeger</asp>.]</altsp> <sn>1.</sn>  <fld>(Mil.)</fld> <def>A sharpshooter. See <er>Yager</er>.</def><br/
@@ -764,10 +764,10 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <p><hw>Jag"gy</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Having jags; set with teeth; notched; uneven; <as>as, <ex>jaggy</ex> teeth</as>.</def>  <rj><au>Addison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Ja"ghir</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Per. <ets>j\'beg\'c6r</ets>.]</ety> <def>A village or district the government and revenues of which are assigned to some person, usually in consideration of some service to be rendered, esp. the maintenance of troops.</def> <altsp>[Written also <asp>jaghire</asp>, <asp>jagir</asp>, etc.]</altsp> <mark>[India]</mark>  <rj><au>Whitworth.</au></rj><br/
+<p><hw>Ja"ghir</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Per. <ets>j\'beg\'c6r</ets>.]</ety> <def>A village or district the government and revenues of which are assigned to some person, usually in consideration of some service to be rendered, esp. the maintenance of troops.</def> <altsp>[Written also <asp>jaghire</asp>, <asp>jagir</asp>, etc.]</altsp> <mark>[India]</mark>  <rj><au>Whitworth.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Ja"ghir*dar`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Per. <ets>j\'beg\'c6r-d\'ber</ets>.]</ety> <def>The holder of a jaghir.</def><br/
+<p><hw>Ja"ghir*dar`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Per. <ets>j\'beg\'c6r-d\'ber</ets>.]</ety> <def>The holder of a jaghir.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Ja"gua palm`</hw> <pr>(?)</pr>. <ety>[Sp. <ets>jagua</ets> the fruit of the jagua palm.]</ety> <fld>(Bot.)</fld> <def>A great Brazilian palm (<spn>Maximiliana regia</spn>), having immense spathes which are used for baskets and tubs.</def><br/
@@ -776,7 +776,7 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <p><hw>Ja*guar"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Braz. <ets>yago\'a0ra</ets>: cf. & Pg. <ets>jaguar</ets>.]</ety> <fld>(Zo\'94l.)</fld> <def>A large and powerful feline animal (<spn>Panthera onca</spn>, formerly <spn>Felis onca</spn>), ranging from Texas and Mexico to Patagonia. It is usually brownish yellow, with large, dark, somewhat angular rings, each generally inclosing one or two dark spots. It is chiefly arboreal in its habits. It is also called the <altname>panther</altname> and the <altname>American tiger</altname>.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
-<p><hw>\'d8Ja`gua*ron"di</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zo\'94l.)</fld> <def>A South American wild cat (<spn>Felis jaguarondi</spn>), having a long, slim body and very short legs. Its color is grayish brown, varied with a blackish hue. It is arboreal in its habits and feeds mostly on birds.</def><br/
+<p><hw>Ja`gua*ron"di</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zo\'94l.)</fld> <def>A South American wild cat (<spn>Felis jaguarondi</spn>), having a long, slim body and very short legs. Its color is grayish brown, varied with a blackish hue. It is arboreal in its habits and feeds mostly on birds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Jah</hw> <pr>(j<aum/)</pr>, <pos>n.</pos> <ety>[Heb. <ets>y\'beh</ets>.]</ety> <def>Jehovah.</def>  <rj><au>Ps. lxviii. 4.</au></rj><br/
@@ -831,7 +831,7 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <p><hw>Jain"ism</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The heterodox Hindu religion, founded in the 6th century as a revolt against Hinduism; its most striking features are the exaltation of saints or holy mortals, called <xex>jins</xex>, above the ordinary Hindu gods, and the denial of a supreme being and of the divine origin and infallibility of the Vedas.  Also, the sect comprising those adhering to Jainism.  Jainism believes in immortality and the transmigration of the soul. It is intermediate between Brahmanism and Buddhism, having some things in common with each.</def><br/
 [<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 
-<p><hw>\'d8Jai*rou"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zo\'94l.)</fld> <def>The ahu or Asiatic gazelle.</def><br/
+<p><hw>Jai*rou"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zo\'94l.)</fld> <def>The ahu or Asiatic gazelle.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Jak</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>see 1st <er>Jack</er>.</def><br/
@@ -861,10 +861,10 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <p><hw>Jal"a*pin</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A glucoside found in the stems of the jalap plant and scammony. It is a strong purgative.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Ja`lons"</hw>, <pos>n. pl.</pos> <ety>[F. Of unknown origin.]</ety> <fld>(Mil.)</fld> <def>Long poles, topped with wisps of straw, used as landmarks and signals.</def>  <rj><au>Farrow.</au></rj><br/
+<p><hw>Ja`lons"</hw>, <pos>n. pl.</pos> <ety>[F. Of unknown origin.]</ety> <fld>(Mil.)</fld> <def>Long poles, topped with wisps of straw, used as landmarks and signals.</def>  <rj><au>Farrow.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Ja`lou`sie"</hw>, <pos>n.</pos> <ety>[F. See <er>Jealousy</er>.]</ety> <sn>1.</sn> <def>A Venetian or slatted inside window blind.</def><br/
+<p><hw>Ja`lou`sie"</hw>, <pos>n.</pos> <ety>[F. See <er>Jealousy</er>.]</ety> <sn>1.</sn> <def>A Venetian or slatted inside window blind.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A window or door made of multiple glass or plastic slats, which can be opened or closed like a jalousie{1}.</def><br/
@@ -927,10 +927,10 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <p><cs><col><b>Jam nut</b></col>. <cd>See <cref>Check nut</cref>, under <er>Check</er>.</cd> -- <col><b>Jam weld</b></col> <fld>(Forging)</fld>, <cd>a butt weld. See under <er>Butt</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Jam`a*ci"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>Jamaicine.</def><br/
+<p><hw>Jam`a*ci"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>Jamaicine.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Jam"a*dar</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Jemidar</er>.</def><br/
+<p><hw>Jam"a*dar</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Jemidar</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Ja*mai"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One of the West Indian islands.</def><br/
@@ -975,7 +975,7 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <p><mhw>{ <hw>Jambes</hw> <pr>(?)</pr>, <hw>Jam"beux</hw> <pr>(?)</pr>, }</mhw> <pos>n. pl.</pos> <ety>[From  F. <ets>jambe</ets> a leg: cf. OF. <ets>jambiere</ets>. See <er>Jamb</er>, <pos>n.</pos>]</ety> <fld>(Ancient Armor)</fld> <def>In the Middle Ages, armor for the legs below the knees, usually having front and back pieces; called also <altname>greaves</altname>.</def> <altsp>[Written also <asp>giambeux</asp>.]</altsp>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Jam`bo*la"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. Pg. <ets>jambol<atil/o</ets> a kind of tropical fruit.]</ety> <fld>(Bot.)</fld> <def>A myrtaceous tree of the West Indies and tropical America (<spn>Calyptranthes Jambolana</spn>), with astringent bark, used for dyeing. It bears an edible fruit.</def><br/
+<p><hw>Jam`bo*la"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. Pg. <ets>jambol<atil/o</ets> a kind of tropical fruit.]</ety> <fld>(Bot.)</fld> <def>A myrtaceous tree of the West Indies and tropical America (<spn>Calyptranthes Jambolana</spn>), with astringent bark, used for dyeing. It bears an edible fruit.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><mhw>{ <hw>Jam"bool</hw>, <hw>Jam"bul</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[Hind. <ets>jamb<umac/</ets>, <ets>jamb<umac/l</ets>, prop., the rose-apple tree or its fruit, fr. Skr. <ets>jambu</ets>, <ets>jamb<umac/</ets>.]</ety> <def>The Java plum; also, a drug obtained from its bark and seeds, formerly used as a remedy for diabetes.</def><br/
@@ -992,7 +992,7 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <p><sn>3.</sn> <def>an assembly of boy scouts, usually at the national or international level, including camping among the activities; -- a term adopted by the Boy Scouts organization.</def><br/
 [<source>PJC</source>]</p>
 
-<p><hw>\'d8Jam"da*ni</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A silk fabric, with a woven pattern of sprigs of flowers.</def> <altsp>[Written also <asp>jamdanee</asp>.]</altsp>  <rj><au>Balfour (Cyc. of India).</au></rj><br/
+<p><hw>Jam"da*ni</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A silk fabric, with a woven pattern of sprigs of flowers.</def> <altsp>[Written also <asp>jamdanee</asp>.]</altsp>  <rj><au>Balfour (Cyc. of India).</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>James</hw> <pos>prop. n.</pos> <sn>1.</sn> <def><person>William James</person>, an American psychologist and philosopher (1842-1910).  He was the brother of <person>Henry James</person>.</def><br/
@@ -1163,7 +1163,7 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <p><hw>Jant</hw> <pr>(?)</pr>, <pos>v. i.</pos> <def>See <er>Jaunt</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Jan"thi*na</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>See <er>Ianthina</er>.</def><br/
+<p><hw>Jan"thi*na</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>See <er>Ianthina</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Jan"ti*ly</hw> <pr>(?)</pr>, <pos>adv.</pos> <def>See <er>Jauntily</er>.</def><br/
@@ -1172,7 +1172,7 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <p><hw>Jan"ti*ness</hw>, <pos>n.</pos> <def>See <er>Jauntiness</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Jan"tu</hw> <pr>(?)</pr> <pos>n.</pos> <def>A machine of great antiquity, used in Bengal for raising water to irrigate land.</def>  <rj><au>Knight.</au></rj><br/
+<p><hw>Jan"tu</hw> <pr>(?)</pr> <pos>n.</pos> <def>A machine of great antiquity, used in Bengal for raising water to irrigate land.</def>  <rj><au>Knight.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Jan"ty</hw> <pr>(?)</pr>, <pos>a.</pos> <def>See <er>Jaunty</er>.</def><br/
@@ -1352,13 +1352,13 @@ Their watches on unto mine eyes.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>4.</sn>  <pluf>pl.</pluf> <def>In deep well boring, a device resembling two long chain links, for connecting a percussion drill to the rod or rope which works it, so that the drill is driven down by impact and is jerked loose when jammed.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Jar`a*ra"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pg., from the native name.]</ety> <fld>(Zo\'94l.)</fld> <def>A poisonous serpent of Brazil (<spn>Bothrops jararaca</spn>), about eighteen inches long, and of a dusky, brownish color, variegated with red and black spots.</def><br/
+<p><hw>Jar`a*ra"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pg., from the native name.]</ety> <fld>(Zo\'94l.)</fld> <def>A poisonous serpent of Brazil (<spn>Bothrops jararaca</spn>), about eighteen inches long, and of a dusky, brownish color, variegated with red and black spots.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Jar"ble</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To wet; to bemire.</def> <mark>[Prov. Eng.]</mark>  <rj><au>Halliwell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Jar`di`ni\'8are"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fem. of <ets>jardinier</ets> gardener. See <er>Garden</er>.]</ety> <sn>1.</sn> <def>An ornamental stand or receptacle for plants, flowers, etc., used as a piece of decorative furniture in room.</def><br/
+<p><hw>Jar`di`ni\'8are"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fem. of <ets>jardinier</ets> gardener. See <er>Garden</er>.]</ety> <sn>1.</sn> <def>An ornamental stand or receptacle for plants, flowers, etc., used as a piece of decorative furniture in room.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Cookery)</fld> <def>A preparation of mixed vegetables stewed in a sauce with savory herbs, etc.; also, a soup made in this way.</def><br/
@@ -1399,7 +1399,7 @@ Their watches on unto mine eyes.</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>Jar"gon*ist</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One addicted to jargon; one who uses cant or slang.</def>  <rj><au>Macaulay.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Jarl</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Icel., nobleman, chief. See <er>Earl</er>.]</ety> <def>A chief; an earl; in English history, one of the leaders in the Danish and Norse invasions.</def>  <rj><au>Longfellow.</au></rj><br/
+<p><hw>Jarl</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Icel., nobleman, chief. See <er>Earl</er>.]</ety> <def>A chief; an earl; in English history, one of the leaders in the Danish and Norse invasions.</def>  <rj><au>Longfellow.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Jar"nut`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Of Scand. origin: cf. Dan. <ets>jordn\'94d</ets>.]</ety> <fld>(Bot.)</fld> <def>An earthnut.</def>  <rj><au>Dr. Prior.</au></rj><br/
@@ -1455,7 +1455,7 @@ Their watches on unto mine eyes.</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>Jas"pa*chate</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>iaspachates</ets>, Gr. <?/.]</ety> <fld>(Min.)</fld> <def>Agate jasper.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Ja`sp\'82"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., p.p. of <ets>jasper</ets> to mottle. See <er>Jasper</er>.]</ety> <fld>(Ceramics)</fld> <def>Having the surface decorated with cloudings and streaks, somewhat as if imitating jasper.</def><br/
+<p><hw>Ja`sp\'82"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., p.p. of <ets>jasper</ets> to mottle. See <er>Jasper</er>.]</ety> <fld>(Ceramics)</fld> <def>Having the surface decorated with cloudings and streaks, somewhat as if imitating jasper.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Jas"per</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>jaspre</ets>, <ets>jaspe</ets>, OF. <ets>jaspre</ets>, <ets>jaspe</ets>, F. <ets>jaspe</ets>, L. <ets>iaspis</ets>, Gr. <?/; cf. Per. <ets>yashp</ets>, <ets>yashf</ets>, Ar. <ets>yashb</ets>, <ets>yasb</ets>, <ets>yasf</ets>, Heb. <ets>y\'beshpheh</ets>.  Cf. <er>Diaper</er>.]</ety> <fld>(Min.)</fld> <def>An opaque, impure variety of quartz, of red, yellow, and other dull colors, breaking with a smooth surface. It admits of a high polish, and is used for vases, seals, snuff boxes, etc.  When the colors are in stripes or bands, it is called <stype>striped jasper</stype> <it>or</it> <stype>banded jasper</stype>. The Egyptian pebble is a brownish yellow jasper.</def><br/
@@ -1832,7 +1832,7 @@ Had lost his art, and kept his ears.</q> <rj><qau>Swift.</qau></rj><br/
 <p><hw>Jeers</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <fld>(Naut.)</fld> <def>See 1st <er>Jeer</er> <sd>(b)</sd>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Jef`fer*so"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. Named after <person>Thomas <etsep>Jefferson</etsep></person>.]</ety> <fld>(Bot.)</fld> <def>An American herb with a pretty, white, solitary blossom, and deeply two-cleft leaves (<spn>Jeffersonia diphylla</spn>); twinleaf.</def><br/
+<p><hw>Jef`fer*so"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. Named after <person>Thomas <etsep>Jefferson</etsep></person>.]</ety> <fld>(Bot.)</fld> <def>An American herb with a pretty, white, solitary blossom, and deeply two-cleft leaves (<spn>Jeffersonia diphylla</spn>); twinleaf.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Jef`fer*so"ni*an</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Pertaining to, or characteristic of, <person>Thomas Jefferson</person> (third President of the United States) or his political doctrines, which were those of the Republicanism of his time, as opposed to those of the Federalists.</def> -- <def2><pos>n.</pos>  <def>An adherent of Jefferson or his doctrines.</def></def2> -- <wordforms><wf>Jef`fer*so"ni*an*ism</wf> <pr>(#)</pr>, <pos>n.</pos></wordforms><br/
@@ -1892,10 +1892,10 @@ Had lost his art, and kept his ears.</q> <rj><qau>Swift.</qau></rj><br/
 <p><hw>Je*ju"ni*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The quality of being jejune; jejuneness.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Je*ju"num</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>jejunus</ets> empty, dry.]</ety> <fld>(Anat.)</fld> <def>The middle division of the small intestine, between the duodenum and ileum; -- so called because usually found empty after death.</def><br/
+<p><hw>Je*ju"num</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>jejunus</ets> empty, dry.]</ety> <fld>(Anat.)</fld> <def>The middle division of the small intestine, between the duodenum and ileum; -- so called because usually found empty after death.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Jel"er*ang</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zo\'94l.)</fld> <def>A large, handsome squirrel (<spn>Sciurus Javensis</spn>), native of Java and Southern Asia; -- called also <altname>Java squirrel</altname>.</def><br/
+<p><hw>Jel"er*ang</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zo\'94l.)</fld> <def>A large, handsome squirrel (<spn>Sciurus Javensis</spn>), native of Java and Southern Asia; -- called also <altname>Java squirrel</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Jell</hw> <pr>(?)</pr>, <pos>v. i.</pos> <sn>1.</sn> <def>To jelly.</def> <mark>[Colloq.]</mark><br/
@@ -1938,7 +1938,7 @@ Had lost his art, and kept his ears.</q> <rj><qau>Swift.</qau></rj><br/
 <p><hw>Jel"ly*fish`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>Any one of the acalephs, esp. one of the larger species, having a jellylike appearance. See <er>Medusa</er> and <er>acaleph</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Jem"i*dar`</hw> <pr>(j<ecr/m"<icr/*d<aum/r`)</pr>, <pos>n.</pos> <ety>[Per. & Hind. <ets>jama-d\'ber</ets>.]</ety> <def>The chief or leader of a band or body of persons; esp., in the native army of India, an officer of a rank corresponding to that of lieutenant in the English army.</def> <altsp>[Written also <asp>jemadar</asp>, <asp>jamadar</asp>.]</altsp><br/
+<p><hw>Jem"i*dar`</hw> <pr>(j<ecr/m"<icr/*d<aum/r`)</pr>, <pos>n.</pos> <ety>[Per. & Hind. <ets>jama-d\'ber</ets>.]</ety> <def>The chief or leader of a band or body of persons; esp., in the native army of India, an officer of a rank corresponding to that of lieutenant in the English army.</def> <altsp>[Written also <asp>jemadar</asp>, <asp>jamadar</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Jem"lah goat`</hw> <pr>(j<ecr/m"l<adot/ g<omac/t`)</pr>. <fld>(Zo\'94l.)</fld> <def>The jharal.</def><br/
@@ -1956,7 +1956,7 @@ Had lost his art, and kept his ears.</q> <rj><qau>Swift.</qau></rj><br/
 <p><sn>2.</sn>  <def>A baked sheep's head.</def> <mark>[Slang, Eng.]</mark>  <rj><au>Dickens.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Je*ni"quen</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. <ets>jeniquen</ets>.]</ety> <fld>(Bot.)</fld> <def>A Mexican name for the Sisal hemp (<spn>Agave rigida</spn>, <it>var.</it> <var>Sisalana</var>); also, its fiber.</def> <altsp>[Written also <asp>hen\'c6equen</asp>.]</altsp><br/
+<p><hw>Je*ni"quen</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. <ets>jeniquen</ets>.]</ety> <fld>(Bot.)</fld> <def>A Mexican name for the Sisal hemp (<spn>Agave rigida</spn>, <it>var.</it> <var>Sisalana</var>); also, its fiber.</def> <altsp>[Written also <asp>hen\'c6equen</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Je"nite</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Min.)</fld> <def>See <er>Yenite</er>.</def><br/
@@ -2433,12 +2433,12 @@ Calm and sweet repose.</q>  <rj><qau>S. Baring-Gould.</qau></rj><br/
 <p><hw>Jet"-black`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Black as jet; deep black.  See first <er>jet</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Jet` d'eau"</hw> <pr>(?)</pr>; <plu><it>pl.</it> <plw>Jets d'eau</plw> <pr>(#)</pr></plu>. <ety>[F., a throw of water. See <er>Jet</er> a shooting forth.]</ety> <def>A stream of water spouting, esp. upward, from a fountain or pipe for ornament; also, the fountain or pipe from which it issues.</def><br/
+<p><hw>Jet` d'eau"</hw> <pr>(?)</pr>; <plu><it>pl.</it> <plw>Jets d'eau</plw> <pr>(#)</pr></plu>. <ety>[F., a throw of water. See <er>Jet</er> a shooting forth.]</ety> <def>A stream of water spouting, esp. upward, from a fountain or pipe for ornament; also, the fountain or pipe from which it issues.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><hw>\'d8Jet"e*rus</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>A yellowness of the parts of plants which are normally green; yellows.</def></p>
+<p><hw>Jet"e*rus</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>A yellowness of the parts of plants which are normally green; yellows.</def></p>
 
-<p><mhw>{ <hw>\'d8Jet"sam</hw> <pr>(?)</pr>, <hw>\'d8Jet"son</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[F. <ets>jeter</ets> to throw: cf. OF. <ets>getaison</ets> a throwing.  Cf. <er>Flotsam</er>, <er>Jettison</er>.]</ety> <sn>1.</sn>  <fld>(Mar. Law)</fld> <def>Goods which sink when cast into the sea, and remain under water; -- distinguished from <contr>flotsam</contr>, goods which float, and <contr>ligan</contr> (or <contr>lagan</contr>), goods which are sunk attached to a buoy.</def><br/
+<p><mhw>{ <hw>Jet"sam</hw> <pr>(?)</pr>, <hw>Jet"son</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[F. <ets>jeter</ets> to throw: cf. OF. <ets>getaison</ets> a throwing.  Cf. <er>Flotsam</er>, <er>Jettison</er>.]</ety> <sn>1.</sn>  <fld>(Mar. Law)</fld> <def>Goods which sink when cast into the sea, and remain under water; -- distinguished from <contr>flotsam</contr>, goods which float, and <contr>ligan</contr> (or <contr>lagan</contr>), goods which are sunk attached to a buoy.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn>  <def>The act of throwing objects from  a ship to lighten the load; jettison{1}. See <er>Jettison</er>, 1.</def><br/
@@ -2513,10 +2513,10 @@ Calm and sweet repose.</q>  <rj><qau>S. Baring-Gould.</qau></rj><br/
 <p><hw>Jet"ty</hw>, <pos>v. i.</pos> <def>To jut out; to project.</def> <mark>[Obs.]</mark>  <rj><au>Florio.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Jeu" d'es`prit"</hw> <pr>(?)</pr>. <ety>[F., play of mind.]</ety> <def>A witticism.</def><br/
+<p><hw>Jeu" d'es`prit"</hw> <pr>(?)</pr>. <ety>[F., play of mind.]</ety> <def>A witticism.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Jeu`nesse" do`r\'82e"</hw> <pr>(?)</pr>. <ety>[F.]</ety> <def>Lit., gilded youth; young people of wealth and fashion, esp. if given to prodigal living; -- in the French Revolution, applied to young men of the upper classes who aided in suppressing the Jacobins after the Reign of Terror.</def><br/
+<p><hw>Jeu`nesse" do`r\'82e"</hw> <pr>(?)</pr>. <ety>[F.]</ety> <def>Lit., gilded youth; young people of wealth and fashion, esp. if given to prodigal living; -- in the French Revolution, applied to young men of the upper classes who aided in suppressing the Jacobins after the Reign of Terror.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Jew</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF. <ets>Juis</ets>, pl., F. <ets>Juif</ets>, L. <ets>Judaeus</ets>, Gr. <?/, fr. <?/ the country of the Jews, Judea, fr. Heb. <ets>Y<ecr/h<umac/d\'beh</ets> Judah, son of Jacob.  Cf. <er>Judaic</er>.]</ety> <sn>1.</sn> <def>Originally, one belonging to the tribe or kingdom of Judah; after the return from the Babylonish captivity, any member of the new state; a Hebrew; an Israelite.</def><br/
@@ -4482,7 +4482,7 @@ Is <qex>joyless</qex> of the grove, and spurns the growing grass.</q> <rj><qau>D
 <p><hw>Jub</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Perh. corrupted fr. <ets>jug</ets>.]</ety> <def>A vessel for holding ale or wine; a jug.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8ju"ba</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>jub\'91</plw> <pr>(-b<emac/)</pr>.</plu> <ety>[L., a mane.]</ety>  <sn>1.</sn> <fld>(Zo\'94l.)</fld> <def>The mane of an animal.</def><br/
+<p><hw>ju"ba</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>jub\'91</plw> <pr>(-b<emac/)</pr>.</plu> <ety>[L., a mane.]</ety>  <sn>1.</sn> <fld>(Zo\'94l.)</fld> <def>The mane of an animal.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Bot.)</fld> <def>A loose panicle, the axis of which falls to pieces, as in certain grasses.</def><br/
@@ -4501,7 +4501,7 @@ Danced the <qex>juba</qex> in their gambling-hall.</q> <rj><qau>Vachel Lindsay (
 <p><mhw>{ <hw>Jub"bah</hw> <pr>(?)</pr>, <pos>n.</pos> Also <hw>Jub"beh</hw>, <hw>Joob"beh</hw> <pr>(?)</pr> }</mhw>. <ety>[Hind. <ets>jubba</ets>, fr. Ar. <ets>jubbah</ets>.]</ety> <def>A long outer garment worn by both sexes of Mohammedans of the better class.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><hw>\'d8Ju`b\'82"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Arch.)</fld> <fld>(a)</fld> <def>A chancel screen or rood screen.</def> <sd>(b)</sd> <def>The gallery above such a screen, from which certain parts of the service were formerly read.</def> See <cref>Rood loft</cref>, under <er>Rood</er>.<br/
+<p><hw>Ju`b\'82"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Arch.)</fld> <fld>(a)</fld> <def>A chancel screen or rood screen.</def> <sd>(b)</sd> <def>The gallery above such a screen, from which certain parts of the service were formerly read.</def> See <cref>Rood loft</cref>, under <er>Rood</er>.<br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>jubilance</hw> <pos>n.</pos> <def>a feeling of extreme joy; jubilation.</def><br/
@@ -4946,7 +4946,7 @@ The fits o' the season.</q> <rj><qau>Shak.</qau></rj></p>
 <p><sn>2.</sn> <fld>(Anat.)</fld> <def>Pertaining to, or in the region of, the malar, or cheek bone.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Ju*ga"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Neut. pl. of L. <ets>jugatus</ets>, <ets>p. p.</ets> of <ets>jugare</ets> to join.]</ety> <fld>(Numis.)</fld> <def>The figures of two heads on a medal or coin, either side by side or joined.</def><br/
+<p><hw>Ju*ga"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Neut. pl. of L. <ets>jugatus</ets>, <ets>p. p.</ets> of <ets>jugare</ets> to join.]</ety> <fld>(Numis.)</fld> <def>The figures of two heads on a medal or coin, either side by side or joined.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Ju"ga*ted</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Bot.)</fld> <def>Coupled together.</def><br/
@@ -5061,7 +5061,7 @@ Men into such strange mysteries?</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>Jug"lan*dine</hw> <pr>(?)</pr>, <pos>n.</pos> <def>An alkaloid found in the leaves of the walnut (<spn>Juglans regia</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Jug"lans</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., walnut.]</ety> <fld>(Bot.)</fld> <def>A genus of valuable trees, including the true walnut of Europe, and the America black walnut, and butternut.</def><br/
+<p><hw>Jug"lans</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., walnut.]</ety> <fld>(Bot.)</fld> <def>A genus of valuable trees, including the true walnut of Europe, and the America black walnut, and butternut.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Ju"glone</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>jugl</ets>ans the walnut + <ets>-one</ets>.]</ety> <fld>(Chem.)</fld> <def>A yellow crystalline substance (<chform>C10H6O3</chform>) resembling quinone, extracted from green shucks of the walnut (<spn>Juglans regia</spn>); -- called also <altname>nucin</altname>.  Chemically, it is <chname>5-hydroxy-1,4-naphthalenedione</chname>.</def><br/
@@ -5096,10 +5096,10 @@ Men into such strange mysteries?</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>Ju"gu*late</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Jugulated</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Jugulating</conjf> <pr>(?)</pr>.]</vmorph> <ety>[L. <ets>jugulatus</ets>, <ets>p. p.</ets> of <ets>jugulare</ets>, fr. <ets>jugulatum</ets>. See <er>Jugular</er>.]</ety> <def>To cut the throat of.</def> <mark>[R.]</mark>  <rj><au>Jacob Bigelow.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Ju"gu*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Jugula</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Zo\'94l.)</fld> <def>The lower throat, or that part of the neck just above the breast.</def><br/
+<p><hw>Ju"gu*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Jugula</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Zo\'94l.)</fld> <def>The lower throat, or that part of the neck just above the breast.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Ju"gum</hw> <pr>(j<umac/"g<ucr/m)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Juga</plw> <pr>(j<umac/"g<adot/)</pr>, E. <plw>Jugums</plw> <pr>(#)</pr>.</plu> <ety>[L., a yoke, ridge.]</ety> <fld>(Bot.)</fld> <sd>(a)</sd> <def>One of the ridges commonly found on the fruit of umbelliferous plants.</def> <sd>(b)</sd> <def>A pair of the opposite leaflets of a pinnate plant.</def><br/
+<p><hw>Ju"gum</hw> <pr>(j<umac/"g<ucr/m)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Juga</plw> <pr>(j<umac/"g<adot/)</pr>, E. <plw>Jugums</plw> <pr>(#)</pr>.</plu> <ety>[L., a yoke, ridge.]</ety> <fld>(Bot.)</fld> <sd>(a)</sd> <def>One of the ridges commonly found on the fruit of umbelliferous plants.</def> <sd>(b)</sd> <def>A pair of the opposite leaflets of a pinnate plant.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 805 --></p>
@@ -5165,7 +5165,7 @@ Men into such strange mysteries?</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>Up [on] pain of hanging and high <qex>juise</qex>.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Ju"jit`su</hw> <pr>(?)</pr>, <pos>n.</pos> <def>same as <er>jujutsu</er>.</def><br/
+<p><hw>Ju"jit`su</hw> <pr>(?)</pr>, <pos>n.</pos> <def>same as <er>jujutsu</er>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>juju</hw> <pos>n.</pos> <sn>1.</sn> <def>the magical power associated with a juju{2}.</def><br/
@@ -5184,7 +5184,7 @@ Men into such strange mysteries?</q> <rj><qau>Shak.</qau></rj><br/
 <p><cs><col><b>Jujube paste</b></col>, <cd>the dried or inspissated jelly of the jujube; also, a confection made of gum arabic sweetened.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><mhw>{ <hw>\'d8Ju"jut`su</hw> <pr>(?)</pr>, <hw>Ju"jit`su</hw> <pr>(?)</pr>, <hw>Jiu"jut`su</hw>, <hw>Jiu"jit`su</hw> <pr>(?)</pr> }</mhw>. <pos>n.</pos> <ety>[Jap. <ets>j\'d4jutsu</ets>; <ets>j\'d4</ets> soft (prob. because no weapons are used) + <ets>jutsu</ets> art.]</ety> <def>The Japanese art of self-defense without weapons, now widely used as a system of physical training. It depends for its efficiency largely upon the principle of making clever use of an opponent's strength, weight, and movements to disable or injure him, and by applying pressure so that his opposing movement will throw him out of balance, dislocate or break a joint, etc.  It opposes knowledge and skill to brute strength, and demands an extensive practical knowledge of human anatomy.</def><br/
+<p><mhw>{ <hw>Ju"jut`su</hw> <pr>(?)</pr>, <hw>Ju"jit`su</hw> <pr>(?)</pr>, <hw>Jiu"jut`su</hw>, <hw>Jiu"jit`su</hw> <pr>(?)</pr> }</mhw>. <pos>n.</pos> <ety>[Jap. <ets>j\'d4jutsu</ets>; <ets>j\'d4</ets> soft (prob. because no weapons are used) + <ets>jutsu</ets> art.]</ety> <def>The Japanese art of self-defense without weapons, now widely used as a system of physical training. It depends for its efficiency largely upon the principle of making clever use of an opponent's strength, weight, and movements to disable or injure him, and by applying pressure so that his opposing movement will throw him out of balance, dislocate or break a joint, etc.  It opposes knowledge and skill to brute strength, and demands an extensive practical knowledge of human anatomy.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Juke</hw> <pr>(?)</pr>, <pos>v. i.</pos> <ety>[from Scottish <ets>jouk</ets> to bow.]</ety> <def>To bend the neck; to bow or duck the head.</def> <altsp>[Written also <asp>jook</asp> and <asp>jouk</asp>.]</altsp><br/
@@ -5229,13 +5229,13 @@ Men into such strange mysteries?</q> <rj><qau>Shak.</qau></rj><br/
 <p><cs><col><b>Julian calendar</b></col>, <cd>the calendar as adjusted by <person>Julius C\'91sar</person>, in which the year was made to consist of 365 days, each fourth year having 366 days.</cd> -- <col><b>Julian epoch</b></col>, <cd>the epoch of the commencement of the <cp>Julian calendar</cp>, or 46 b. c.</cd> -- <col><b>Julian period</b></col>, <cd>a chronological period of 7,980 years, combining the solar, lunar, and indiction cycles (28 x 19 x 15 = 7,980), being reckoned from the year 4713 <sc>B. C.</sc>, when the first years of these several cycles would coincide, so that if any year of the period be divided by 28, 19, or 15, the remainder will be the year of the corresponding cycle. The <ex>Julian period</ex> was proposed by <persfn>Scaliger</persfn>, to remove or avoid ambiguities in chronological dates, and was so named because composed of Julian years.</cd> -- <col><b>Julian year</b></col>, <cd>the year of 365 days, 6 hours, adopted in the <cp>Julian calendar</cp>, and in use until superseded by the Gregorian year, as established in the reformed or <cp>Gregorian calendar</cp>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Ju`li*enne"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A kind of soup containing thin slices or shreds of carrots, onions, etc.</def><br/
+<p><hw>Ju`li*enne"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A kind of soup containing thin slices or shreds of carrots, onions, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Ju"li*form</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Julus</ets> + <ets>-form</ets>.]</ety> <fld>(Bot.)</fld> <def>Having the shape or appearance of a julus or catkin.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Ju"lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it><plw>Juli</plw> <pr>(#)</pr>.</plu> <ety>[Of the same origin as <ets>iulus</ets>.]</ety> <fld>(Bot.)</fld> <def>A catkin or ament. See <er>Ament</er>.</def><br/
+<p><hw>Ju"lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it><plw>Juli</plw> <pr>(#)</pr>.</plu> <ety>[Of the same origin as <ets>iulus</ets>.]</ety> <fld>(Bot.)</fld> <def>A catkin or ament. See <er>Ament</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Ju*ly"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Julies</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>Julius</ets>; -- named from <person>Caius <ets>Julius</ets> C\'91sar</person>, who was born in this month: cf. F. <ets>Juillet</ets>.]</ety> <def>The seventh month of the year, containing thirty-one days.</def><br/
@@ -5291,7 +5291,7 @@ Men into such strange mysteries?</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>jum"bo jet`</hw> <pr>(j<ucr/m"b<osl/ j<ecr/t`)</pr>, <pos>n.</pos> <def>A large commercial jet airplane, usually having a passenger capacity of over 300 in normal use; also called <altname>widebody airlane</altname>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><hw>\'d8Ju`melle"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., fem. of <ets>jumeau</ets>, fr. L. <ets>gemellus</ets>. Cf. <er>Gemel</er>, <pos>a.</pos>]</ety> <def>Twin; paired; -- said of various objects made or formed in pairs, as a binocular opera glass, a pair of gimmal rings, etc.</def><br/
+<p><hw>Ju`melle"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., fem. of <ets>jumeau</ets>, fr. L. <ets>gemellus</ets>. Cf. <er>Gemel</er>, <pos>a.</pos>]</ety> <def>Twin; paired; -- said of various objects made or formed in pairs, as a binocular opera glass, a pair of gimmal rings, etc.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Ju`melle"</hw>, <pos>n.</pos> <def>A jumelle opera glass, or the like.</def><br/
@@ -5546,7 +5546,7 @@ Then, if ever, come perfect days.</q> <rj><qau>Lowell.</qau></rj><br/
 <syn><b>Syn. --</b> <person>Carl Jung</person>, <person>Carl Gustav Jung</person>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><hw>\'d8Jun`ger*man"ni*a</hw> <pr>(?)</pr>, <pos>prop. n.</pos>; <plu><it>pl.</it> <plw>Jungermanni\'91</plw> <pr>(#)</pr>.</plu> <ety>[NL. Named after <person>Ludwig <etsep>Jungermann</etsep></person>, a German botanist.]</ety> <fld>(Bot.)</fld> <def>A genus of hepatic mosses, now much circumscribed, but formerly comprising most plants of the family, which is sometimes therefore called <fam>Jungermanniace\'91</fam>.</def><br/
+<p><hw>Jun`ger*man"ni*a</hw> <pr>(?)</pr>, <pos>prop. n.</pos>; <plu><it>pl.</it> <plw>Jungermanni\'91</plw> <pr>(#)</pr>.</plu> <ety>[NL. Named after <person>Ludwig <etsep>Jungermann</etsep></person>, a German botanist.]</ety> <fld>(Bot.)</fld> <def>A genus of hepatic mosses, now much circumscribed, but formerly comprising most plants of the family, which is sometimes therefore called <fam>Jungermanniace\'91</fam>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Jungermanniaceae</hw> <pos>prop. n.</pos> <def>A natural family of plants comprising the leafy members of the order <ord>Jungermanniales</ord>.</def><br/
@@ -5663,7 +5663,7 @@ Then, if ever, come perfect days.</q> <rj><qau>Lowell.</qau></rj><br/
 <syn><b>Syn. --</b> cast-off(prenominal), discarded, scrap(prenominal), waste.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><hw>\'d8Jun"ker</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.  Cf. <er>Yonker</er>.]</ety> <def>A young German noble or squire; esp., a member of the aristocratic party in Prussia.</def><br/
+<p><hw>Jun"ker</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.  Cf. <er>Yonker</er>.]</ety> <def>A young German noble or squire; esp., a member of the aristocratic party in Prussia.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Jun"ker*ism</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The principles of the aristocratic party in Prussia.</def><br/
@@ -5803,7 +5803,7 @@ In dark cabals and mighty <qex>juntos</qex> met.</q> <rj><qau>Thomson.</qau></rj
 <p><sn>2.</sn> <fld>(Law)</fld> <def>Of or pertaining to jurisprudence.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Ju`ra*men"tum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Juramenta</plw> <pr>(<?/)</pr>.</plu> <ety>[L.]</ety> <fld>(Roman & Old Eng. Law)</fld> <def>An oath.</def><br/
+<p><hw>Ju`ra*men"tum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Juramenta</plw> <pr>(<?/)</pr>.</plu> <ety>[L.]</ety> <fld>(Roman & Old Eng. Law)</fld> <def>An oath.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Ju*ras"sic</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Geol.)</fld> <def>Of the age of the middle Mesozoic, about 190 to 140 million years ago, including, as divided in England and Europe, the Lias, O\'94lite, and Wealden; -- named from certain rocks of the <etsep>Jura</etsep> mountains.  It was noted for the predominance of dinosaurs on land, and the development of the first birds and mammals.</def> -- <def2><pos>n.</pos> <def>The Jurassic period or formation; -- called also the <altname>Jura</altname>.</def></def2><br/
@@ -6346,7 +6346,7 @@ And <qex>justify</qex> the ways of God to men.</q> <rj><qau>Milton.</qau></rj><b
 <p><hw>Ju"vi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>A Brazilian name for the lofty myrtaceous tree (<spn>Bertholetia excelsa</spn>) which produces the large seeds known as <prod>Brazil nuts</prod>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Ju*wan"sa</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>The camel's thorn. See under <er>Camel</er>.</def><br/
+<p><hw>Ju*wan"sa</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>The camel's thorn. See under <er>Camel</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Ju*wise"</hw> <pr>(?)</pr>, <pos>n.</pos> <mark>[Obs.]</mark> <def>Same as <er>Juise</er>.</def>  <rj><au>Chaucer.</au></rj><br/

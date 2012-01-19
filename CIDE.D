@@ -131,7 +131,7 @@ knowledge base should contact:
 <p><hw>Dab"chick`</hw> <pr>(d<acr/b"ch<icr/k`)</pr>, <pos>n.</pos> <ety>[For <ets>dabchick</ets>. See <er>Dap</er>, <er>Dip</er>, cf. <er>Dipchick</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>A small water bird (<spn>Podilymbus podiceps</spn>), allied to the grebes, remarkable for its quickness in diving; -- called also <altname>dapchick</altname>, <altname>dobchick</altname>, <altname>dipchick</altname>, <altname>didapper</altname>, <altname>dobber</altname>, <altname>devil-diver</altname>, <altname>hell-diver</altname>, and <altname>pied-billed grebe</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Da*boi"a</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>A large and highly venomous Asiatic viper (<spn>Daboia xanthica</spn>).</def><br/
+<p><hw>Da*boi"a</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>A large and highly venomous Asiatic viper (<spn>Daboia xanthica</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dab"ster</hw>, <pos>n.</pos> <ety>[Cf. <er>Dab</er> an expert.]</ety> <def>One who is skilled; a master of his business; a proficient; an adept.</def> <mark>[Colloq.]</mark><br/
@@ -140,7 +140,7 @@ knowledge base should contact:
 <p><note><hand/ Sometimes improperly used for <xex>dabbler</xex>; as, \'bdI am but a <xex>dabster</xex> with gentle art\'b8.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Da`ca"po</hw> <pr>(?)</pr>. <ety>[It., from [the] head or beginning.]</ety> <fld>(Mus.)</fld> <def>From the beginning; a direction to return to, and end with, the first strain; -- indicated by the letters <it>D. C.</it> Also, the strain so repeated.</def><br/
+<p><hw>Da`ca"po</hw> <pr>(?)</pr>. <ety>[It., from [the] head or beginning.]</ety> <fld>(Mus.)</fld> <def>From the beginning; a direction to return to, and end with, the first strain; -- indicated by the letters <it>D. C.</it> Also, the strain so repeated.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dace</hw> <pr>(d<amac/s)</pr>, <pos>n.</pos> <ety>[Written also <ets>dare</ets>, <ets>dart</ets>, fr. F. <ets>dard</ets> dase, dart, of German origin. <ets>Dace</ets> is for an older <ets>darce</ets>, fr. an OF. nom. <ets>darz</ets>. See <er>Dart</er> a javelin.]</ety> <fld>(Zo\'94l.)</fld> <def>A small European cyprinoid fish (<spn>Leuciscus leuciscus</spn>, formerly <spn>Squalius leuciscus</spn> or <spn>Leuciscus vulgaris</spn>); -- called also <altname>dare</altname>.</def><br/
@@ -156,7 +156,7 @@ knowledge base should contact:
 <p><hw>dacha</hw> <pos>n.</pos> <ety>[Russian.]</ety> <def>a Russian country house, especially a cottage used in the summer.</def><br/
 [<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
-<p>\'d8<hw>Dachs"hund`</hw> <pr>(d<aum/ks"h<udd/nt`)</pr>, <pos>n.</pos> <ety>[G., from <ets>dachs</ets> badger + <ets>hund</ets> dog.]</ety> <fld>(Zo\'94l.)</fld> <def>One of a breed of small dogs with short crooked legs, and long body; -- called also <altname>badger dog</altname>. There are two kinds, the rough-haired and the smooth-haired.</def><br/
+<p><hw>Dachs"hund`</hw> <pr>(d<aum/ks"h<udd/nt`)</pr>, <pos>n.</pos> <ety>[G., from <ets>dachs</ets> badger + <ets>hund</ets> dog.]</ety> <fld>(Zo\'94l.)</fld> <def>One of a breed of small dogs with short crooked legs, and long body; -- called also <altname>badger dog</altname>. There are two kinds, the rough-haired and the smooth-haired.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Da"cian</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pertaining to Dacia or the Dacians.</def> -- <def2><pos>n.</pos>  <def>A native of ancient Dacia.</def></def2><br/
@@ -233,7 +233,7 @@ knowledge base should contact:
 <p><hw>Dac"tyl*ist</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A writer of dactylic verse.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dac`tyl*i"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>da`ktylos</grk> finger + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>An inflammatory affection of the fingers.</def>  <rj><au>Gross.</au></rj><br/
+<p><hw>Dac`tyl*i"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>da`ktylos</grk> finger + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>An inflammatory affection of the fingers.</def>  <rj><au>Gross.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dac`tyl*ol"o*gy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>da`ktylos</grk> finger + <ets>-logy</ets>.]</ety> <def>The art of communicating ideas by certain movements and positions of the fingers; -- a method of conversing practiced by the deaf and dumb.</def><br/
@@ -255,7 +255,7 @@ knowledge base should contact:
 <syn><b>Syn. --</b> family <gen>Dactyloscopidae</gen>.</syn><br/
 [<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
-<p>\'d8<hw>Dac`ty*lo*the"ca</hw> <pr>(d<acr/k`t<icr/*l<osl/*th<emac/"k<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>da`ktylos</grk> finger, toe + <grk>qh`kh</grk> case, box.]</ety> <fld>(Zo\'94l.)</fld> <def>The scaly covering of the toes, as in birds.</def><br/
+<p><hw>Dac`ty*lo*the"ca</hw> <pr>(d<acr/k`t<icr/*l<osl/*th<emac/"k<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>da`ktylos</grk> finger, toe + <grk>qh`kh</grk> case, box.]</ety> <fld>(Zo\'94l.)</fld> <def>The scaly covering of the toes, as in birds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>dac`tyl*o*zo"oid</hw> <pr>(d<acr/k`t<icr/*l<osl/*z<omac/"oid)</pr>, <pos>n.</pos> <ety>[Gr. <grk>da`ktylos</grk> finger + E. <ets>zooid</ets>.]</ety> <fld>(Zo\'94l.)</fld> <def>A kind of zooid of Siphonophora which has an elongated or even vermiform body, with one tentacle, but no mouth. See <er>Siphonophora</er>.</def><br/
@@ -454,7 +454,7 @@ Was <qex>daggled</qex> by the dashing spray.</q> <rj><qau>Sir W. Scott.</qau></r
 <p><hw>Da"go</hw> <pr>(d<amac/"g<osl/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dagos</plw> <pr>(-g<omac/z)</pr>.</plu> <ety>[Cf. Sp. <ets>Diego</ets>, E. <ets>James</ets>.]</ety> <def>A nickname given to a person of Spanish (or, by extension, Portuguese or Italian) descent.</def> <mark>[U. S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Da*go"ba</hw> <pr>(d<adot/*g<omac/"b<adot/)</pr>, <pos>n.</pos> <ety>[Singhalese <ets>d\'begoba</ets>.]</ety> <def>A dome-shaped structure built over relics of Buddha or some Buddhist saint.</def> <mark>[East Indies]</mark><br/
+<p><hw>Da*go"ba</hw> <pr>(d<adot/*g<omac/"b<adot/)</pr>, <pos>n.</pos> <ety>[Singhalese <ets>d\'begoba</ets>.]</ety> <def>A dome-shaped structure built over relics of Buddha or some Buddhist saint.</def> <mark>[East Indies]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Da"gon</hw> <pr>(d<amac/"g<ocr/n)</pr>, <ety>[Heb. <ets>D\'begon</ets>, fr. <ets>dag</ets> a fish: cf. Gr. <grk>Dagw`n</grk>.]</ety> <def>The national god of the Philistines, represented with the face and hands and upper part of a man, and the tail of a fish.</def>  <rj><au>W. Smith.</au></rj><br/
@@ -495,7 +495,7 @@ To <qex>Dagon</qex>, their sea idol.</q> <rj><qau>Milton.</qau></rj><br/
 <p><hw>Da*guerre"o*ty`py</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The art or process of producing pictures by method of Daguerre.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Da`ha*be"ah</hw> <pr>(d<aum/`h<adot/*b<emac/"<adot/)</pr>, <pos>n.</pos> <ety>[Ar.]</ety> <def>A Nile boat constructed on the model of a floating house, having large lateen sails.</def><br/
+<p><hw>Da`ha*be"ah</hw> <pr>(d<aum/`h<adot/*b<emac/"<adot/)</pr>, <pos>n.</pos> <ety>[Ar.]</ety> <def>A Nile boat constructed on the model of a floating house, having large lateen sails.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dah"lia</hw> <pr>(d<aum/l"y<adot/ <i>or</i> d<amac/l"y<adot/; 277, 106)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dahlias</plw> <pr>(#)</pr>.</plu> <ety>[Named after Andrew <etsep>Dahl</etsep> a Swedish botanist.]</ety> <fld>(Bot.)</fld> <def>A genus of plants native to Mexico and Central America, of the order Composit\'91; also, any plant or flower of the genus. The numerous varieties of cultivated dahlias bear conspicuous flowers which differ in color.</def><br/
@@ -653,7 +653,7 @@ She, I'll swear, hath corns.</q> <rj><qau>Shak.</qau></rj><br/
 <syn><b>Syn. --</b> rum cocktail.</syn><br/
 [<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
-<p>\'d8<hw>Da"\'8b*ra</hw> <pr>(d<aum/"<esl/*r<aum/)</pr>, <pos>n.</pos> <ety>[Turk. <ets>daire</ets> circuit, department, fr. Ar. <ets>da\'8brah</ets> circle.]</ety> <def>Any of several valuable estates of the Egyptian khedive or his family. The most important are the <ecol><b>Da"i*ra Sa"ni*eh</b></ecol> <pr>(s<aum/"n<icr/*<ecr/)</pr>, or <ecol><b>Da"i*ra Sa"ni*yeh</b></ecol>, and the <ecol><b>Da"i*ra Khas"sa</b></ecol>, administered by the khedive's European bondholders, and known collectively as <ecol><b>the Daira</b></ecol>, or the <ecol><b>Daira estates</b></ecol>.</def><br/
+<p><hw>Da"\'8b*ra</hw> <pr>(d<aum/"<esl/*r<aum/)</pr>, <pos>n.</pos> <ety>[Turk. <ets>daire</ets> circuit, department, fr. Ar. <ets>da\'8brah</ets> circle.]</ety> <def>Any of several valuable estates of the Egyptian khedive or his family. The most important are the <ecol><b>Da"i*ra Sa"ni*eh</b></ecol> <pr>(s<aum/"n<icr/*<ecr/)</pr>, or <ecol><b>Da"i*ra Sa"ni*yeh</b></ecol>, and the <ecol><b>Da"i*ra Khas"sa</b></ecol>, administered by the khedive's European bondholders, and known collectively as <ecol><b>the Daira</b></ecol>, or the <ecol><b>Daira estates</b></ecol>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Dai"ry</hw> <pr>(d<amac/"r<ycr/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dairies</plw> <pr>(-r<icr/z)</pr>.</plu> <ety>[OE. <ets>deierie</ets>, from <ets>deie</ets>, <ets>daie</ets>, maid; of Scand. origin; cf. Icel. <ets>deigja</ets> maid, dairymaid, Sw. <ets>deja</ets>, orig., a baking maid, fr. Icel. <ets>deig</ets>. <root/66. See <er>Dough</er>.]</ety> <sn>1.</sn> <def>The place, room, or house where milk is kept, and converted into butter or cheese.</def><br/
@@ -733,7 +733,7 @@ She, I'll swear, hath corns.</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>Da*ko"tas</hw> <pr>(?)</pr>, <pos>n. pl</pos>.; <sing>sing. <singw>Dacota</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>An extensive race or stock of Indians, including many tribes, mostly dwelling west of the Mississippi River; -- also, in part, called <altname>Sioux</altname>.</def> <altsp>[Written also <asp>Dacotahs</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dal</hw> <pr>(d<aum/l)</pr>, <pos>n.</pos> <ety>[Hind.]</ety> <def>Split pulse, esp. of <spn>Cajanus Indicus</spn>.</def> <mark>[East Indies]</mark><br/
+<p><hw>Dal</hw> <pr>(d<aum/l)</pr>, <pos>n.</pos> <ety>[Hind.]</ety> <def>Split pulse, esp. of <spn>Cajanus Indicus</spn>.</def> <mark>[East Indies]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dalbergia</hw> <pos>n.</pos> <def>a large genus of tropical trees having pinnate leaves and paniculate flowers and cultivated commercially for their dramatically grained and colored timbers.</def><br/
@@ -820,10 +820,10 @@ The flattery and the strife!</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><q><qex>Dallying</qex> off the time with often skirmishes.</q> <rj><qau>Knolles.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dal*ma"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <etsep>Dalman</etsep>, the geologist.]</ety> <fld>(Paleon.)</fld> <def>A genus of trilobites, of many species, common in the Upper Silurian and Devonian rocks.</def><br/
+<p><hw>Dal*ma"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <etsep>Dalman</etsep>, the geologist.]</ety> <fld>(Paleon.)</fld> <def>A genus of trilobites, of many species, common in the Upper Silurian and Devonian rocks.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dal`ma*ni"tes</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Dalmania</er>.</def><br/
+<p><hw>Dal`ma*ni"tes</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Dalmania</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dal*ma"tian</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pertaining to Dalmatia.</def><br/
@@ -841,7 +841,7 @@ The flattery and the strife!</q> <rj><qau>Tennyson.</qau></rj><br/
 <syn><b>Syn. --</b> taro, taro plant, dasheen, <spn>Colocasia esculenta</spn>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p>\'d8<hw>Dal` se"gno</hw> <pr>(?)</pr>. <ety>[It., from the sign.]</ety> <fld>(Mus.)</fld> <def>A direction to go back to the sign <?/ and repeat from thence to the close. See <er>Segno</er>.</def><br/
+<p><hw>Dal` se"gno</hw> <pr>(?)</pr>. <ety>[It., from the sign.]</ety> <fld>(Mus.)</fld> <def>A direction to go back to the sign <?/ and repeat from thence to the close. See <er>Segno</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dalton</hw> <pos>n.</pos> <def><person>John Dalton</person>, scientist, born 1766, died 1844.</def><br/
@@ -1209,12 +1209,12 @@ Who doats, yet doubts, suspects, yet strongly loves.</q> <rj><qau>Shak.</qau></r
 <p><hw>Damn"ing*ness</hw>, <pos>n.</pos> <def>Tendency to bring damnation.</def> \'bdThe damningness of them [sins].\'b8  <rj><au>Hammond.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>dam"num</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(law)</fld> <def>Harm; detriment, either to character or property.</def><br/
+<p><hw>dam"num</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(law)</fld> <def>Harm; detriment, either to character or property.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 367 --></p>
 
-<p><mhw>{ <hw>Dam"o*sel</hw> <pr>(d<acr/m"<osl/*z<ecr/l)</pr>, <hw>Dam`o*sel"la</hw> <pr>(-z<ecr/l"l<adot/)</pr>, \'d8<hw>Da`moi`selle"</hw> <pr>(d<adot/`mw<aum/`z<ecr/l")</pr> }</mhw>, <pos>n.</pos> <def>See <er>Damsel</er>.</def> <mark>[Archaic]</mark><br/
+<p><mhw>{ <hw>Dam"o*sel</hw> <pr>(d<acr/m"<osl/*z<ecr/l)</pr>, <hw>Dam`o*sel"la</hw> <pr>(-z<ecr/l"l<adot/)</pr>, <hw>Da`moi`selle"</hw> <pr>(d<adot/`mw<aum/`z<ecr/l")</pr> }</mhw>, <pos>n.</pos> <def>See <er>Damsel</er>.</def> <mark>[Archaic]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dam"our*ite</hw> <pr>(d<acr/m"<oocr/*<imac/t)</pr>, <pos>n.</pos> <ety>[Ater the French chemist <etsep>Damour</etsep>.]</ety> <fld>(Min.)</fld> <def>A kind of Muscovite, or potash mica, containing water.</def><br/
@@ -1468,7 +1468,7 @@ For of that art she couth the olde <qex>dance</qex>.</q> <rj><qau>Chaucer.</qau>
 <p><hw>Dan"der</hw>, <pos>v. i.</pos> <ety>[See <er>Dandle</er>.]</ety> <def>To wander about; to saunter; to talk incoherently.</def> <mark>[Prov. Eng.]</mark>  <rj><au>Halliwell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dan"di</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets><dsdot/<amac/n<dsdot/i</ets>, fr. <ets><dsdot/<amac/n<dsdot/</ets> an oar.]</ety> <def>A boatman; an oarsman.</def> <mark>[India]</mark><br/
+<p><hw>Dan"di</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets><dsdot/<amac/n<dsdot/i</ets>, fr. <ets><dsdot/<amac/n<dsdot/</ets> an oar.]</ety> <def>A boatman; an oarsman.</def> <mark>[India]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dan"die</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>One of a breed of small terriers; -- called also <altname>Dandie Dinmont</altname>.</def><br/
@@ -1726,7 +1726,7 @@ are well inclined to pull down the present establishment.</q> <rj><qau>Swift.</q
 <p><cs><col><b>Order of Dannebrog</b></col>, <cd>an ancient Danish order of knighthood.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dan`seuse"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>danser</ets> to dance.]</ety> <def>A professional female dancer; a woman who dances at a public exhibition as in a ballet.</def><br/
+<p><hw>Dan`seuse"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>danser</ets> to dance.]</ety> <def>A professional female dancer; a woman who dances at a public exhibition as in a ballet.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dansk</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Dan.]</ety> <def>Danish.</def> <mark>[Obs.]</mark><br/
@@ -1765,7 +1765,7 @@ are well inclined to pull down the present establishment.</q> <rj><qau>Swift.</q
 <p><hw>Daph"ne*tin</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A colorless crystalline substance, <chform>C9H6O4</chform>, extracted from daphnin.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Daph"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of the genus <gen>Daphnia</gen>.</def><br/
+<p><hw>Daph"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of the genus <gen>Daphnia</gen>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Daph"nin</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>daphnine</ets>.]</ety> <fld>(Chem.)</fld> <sd>(a)</sd> <def>A dark green bitter resin extracted from the mezereon (<spn>Daphne mezereum</spn>) and regarded as the essential principle of the plant.</def> <mark>[R.]</mark> <sd>(b)</sd> <def>A white, crystalline, bitter substance, regarded as a glucoside, and extracted from <spn>Daphne mezereum</spn> and <spn>Daphne alpina</spn>.</def><br/
@@ -1774,7 +1774,7 @@ are well inclined to pull down the present establishment.</q> <rj><qau>Swift.</q
 <p><hw>Daph"no*man`cy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <ets><grk>da`fnh</grk></ets> the laurel + <ets>-mancy</ets>.]</ety> <def>Divination by means of the laurel.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dap"i*fer</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., <ets>daps</ets> a feast + <ets>ferre</ets> to bear.]</ety> <def>One who brings meat to the table; hence, in some countries, the official title of the grand master or steward of the king's or a nobleman's household.</def><br/
+<p><hw>Dap"i*fer</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., <ets>daps</ets> a feast + <ets>ferre</ets> to bear.]</ety> <def>One who brings meat to the table; hence, in some countries, the official title of the grand master or steward of the king's or a nobleman's household.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dap"per</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[OE. <ets>daper</ets>; prob. fr. D. <ets>dapper</ets> brave, valiant; akin to G. <ets>tapfer</ets> brave, OHG. <ets>taphar</ets> heavy, weighty, OSlav. <ets>dobr<ucr/</ets> good, Russ. <ets>dobrui</ets>.  Cf. <er>Deft</er>.]</ety> <def>Little and active; spruce; trim; smart; neat in dress or appearance; lively.</def><br/
@@ -2236,7 +2236,7 @@ To a broad gate, all built of beaten gold.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><hw>dar"ling</hw>, <pos>a.</pos> <def>Dearly beloved; regarded with especial kindness and tenderness; favorite.</def> \'bdSome <xex>darling</xex> science.\'b8 <au>I. Watts.</au> \'bd<xex>Darling</xex> sin.\'b8 <au>Macaulay.</au><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dar`ling*to"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. Named after Dr. William <etsep>Darlington</etsep>, a botanist of West Chester, Penn.]</ety> <fld>(Bot.)</fld> <def>A genus of California pitcher plants consisting of a single species. The long tubular leaves are hooded at the top, and frequently contain many insects drowned in the secretion of the leaves.</def><br/
+<p><hw>Dar`ling*to"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. Named after Dr. William <etsep>Darlington</etsep>, a botanist of West Chester, Penn.]</ety> <fld>(Bot.)</fld> <def>A genus of California pitcher plants consisting of a single species. The long tubular leaves are hooded at the top, and frequently contain many insects drowned in the secretion of the leaves.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Darmera</hw> <pos>n.</pos> <def>a genus consisting of one species.</def><br/
@@ -2273,7 +2273,7 @@ To a broad gate, all built of beaten gold.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><mhw>{ <hw>Dar"nex</hw> <pr>(d<acr/r"n<ecr/ks)</pr>, <hw>Dar"nic</hw> <pr>(d<acr/r"n<icr/k)</pr>, }</mhw> <pos>n.</pos> <def>Same as <er>Dornick</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Da*roo"</hw> <pr>(d<adot/*r<oomac/")</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>The Egyptian sycamore (<spn>Ficus Sycamorus</spn>). See <er>Sycamore</er>.</def><br/
+<p><hw>Da*roo"</hw> <pr>(d<adot/*r<oomac/")</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>The Egyptian sycamore (<spn>Ficus Sycamorus</spn>). See <er>Sycamore</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Darr</hw> <pr>(d<acr/r)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>The European black tern.</def></p>
@@ -2357,7 +2357,7 @@ Scarce wounds the hearing while it stabs the heart.</q> <rj><qau>Hannan More.</q
 <p><hw>Dar"toid</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Dartos</ets> + <ets>-oid</ets>.]</ety> <fld>(Anat.)</fld> <def>Like the dartos; dartoic; <as>as, <ex>dartoid</ex> tissue</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dar"tos</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <ets><?/</ets> flayed.]</ety> <fld>(Anat.)</fld> <def>A thin layer of peculiar contractile tissue directly beneath the skin of the scrotum.</def><br/
+<p><hw>Dar"tos</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <ets><?/</ets> flayed.]</ety> <fld>(Anat.)</fld> <def>A thin layer of peculiar contractile tissue directly beneath the skin of the scrotum.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dar"trous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F. <ets>dartreux</ets>. See <er>Dartars</er>.]</ety> <fld>(Med.)</fld> <def>Relating to, or partaking of the nature of, the disease called tetter; herpetic.</def><br/
@@ -2572,7 +2572,7 @@ And down the rough cascade all <qex>dashing</qex> fall.</q> <rj><qau>Thomson.</q
 <p><hw>Das`y*p\'91"dal</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zo\'94l.)</fld> <def>Dasyp\'91dic.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Das`y*p\'91"des</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>dasy`s</grk> hairy, shaggy + <ets><?/</ets>, <ets><?/</ets>, a child.]</ety> <fld>(Zo\'94l.)</fld> <def>Those birds whose young are covered with down when hatched.</def><br/
+<p><hw>Das`y*p\'91"des</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>dasy`s</grk> hairy, shaggy + <ets><?/</ets>, <ets><?/</ets>, a child.]</ety> <fld>(Zo\'94l.)</fld> <def>Those birds whose young are covered with down when hatched.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Das`y*p\'91"dic</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zo\'94l.)</fld> <def>Pertaining to the Dasyp\'91des; ptilop\'91dic.</def><br/
@@ -2606,7 +2606,7 @@ And down the rough cascade all <qex>dashing</qex> fall.</q> <rj><qau>Thomson.</q
 <p><hw>DAT</hw> <pos>n.</pos> <ety>[acronym, from <ets>D</ets>igital <ets>A</ets>udio<ets>T</ets>ape.]</ety> <def>digital audiotape, a digitally encoded tape recording of sound; -- in contrast to the usual analog audio tape.</def> <mark>[acronym]</mark> <br/
 [<source>WordNet 1.5</source>]</p>
 
-<p>\'d8<hw>Da"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L. <ets>pl</ets>. of <ets>datum</ets>.]</ety> <sn>1.</sn> <def>See <er>Datum</er>.</def><br/
+<p><hw>Da"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L. <ets>pl</ets>. of <ets>datum</ets>.]</ety> <sn>1.</sn> <def>See <er>Datum</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>a collection of facts, observations, or other information related to a particular question or problem; <as>as, the historical <ex>data</ex> show that the budget deficit is only a small factor in determining interest rates</as>.</def>  <note>The term in this sense is used especially in reference to experimental observations collected in the course of a controlled scientific investigation.</note><br/
@@ -2626,7 +2626,7 @@ And down the rough cascade all <qex>dashing</qex> fall.</q> <rj><qau>Thomson.</q
 <syn><b>Syn. --</b> dateable.</syn>
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Da*ta"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL., fr. L. <ets>datum</ets> given.]</ety> <fld>(R. C. Ch.)</fld> <def>Formerly, a part of the Roman chancery; now, a separate office from which are sent graces or favors, cognizable <xex>in foro externo</xex>, such as appointments to benefices. The name is derived from the word <xex>datum</xex>, given or dated (with the indications of the time and place of granting the gift or favor).</def><br/
+<p><hw>Da*ta"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL., fr. L. <ets>datum</ets> given.]</ety> <fld>(R. C. Ch.)</fld> <def>Formerly, a part of the Roman chancery; now, a separate office from which are sent graces or favors, cognizable <xex>in foro externo</xex>, such as appointments to benefices. The name is derived from the word <xex>datum</xex>, given or dated (with the indications of the time and place of granting the gift or favor).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Da"ta*ry</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL. <ets>datarius</ets>. See <er>Dataria</er>.]</ety> <sn>1.</sn> <fld>(R. C. Ch.)</fld> <def>An officer in the pope's court, having charge of the Dataria.</def><br/
@@ -2757,7 +2757,7 @@ The field of motion, and the hour of rest.</q> <rj><qau>Akenside.</qau></rj><br/
 <syn><b>Syn. --</b> acetaminophen, Tylenol.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p>\'d8<hw>Da"tum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Data</plw> <pr>(#)</pr>.</plu> <ety>[L. See 2d <er>Date</er>.]</ety> <sn>1.</sn> <def>Something given or admitted; a fact or principle granted; that upon which an inference or an argument is based; -- used chiefly in the plural.</def><br/
+<p><hw>Da"tum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Data</plw> <pr>(#)</pr>.</plu> <ety>[L. See 2d <er>Date</er>.]</ety> <sn>1.</sn> <def>Something given or admitted; a fact or principle granted; that upon which an inference or an argument is based; -- used chiefly in the plural.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Any writer, therefore, who . . . furnishes us with <qex>data</qex> sufficient to determine the time in which he wrote.</q> <rj><qau>Priestley.</qau></rj><br/
@@ -2775,7 +2775,7 @@ The field of motion, and the hour of rest.</q> <rj><qau>Akenside.</qau></rj><br/
 <p><cs><col><b>Datum line</b></col> <fld>(Surv.)</fld>, <cd>the horizontal or base line, from which the heights of points are reckoned or measured, as in the plan of a railway, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Da*tu"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.; cf. Skr. <ets>dhatt<umac/ra</ets>, Per. & Ar. <ets>tat<umac/ra</ets>, <ets>Tat<umac/la</ets>.]</ety> <fld>(Bot.)</fld> <def>A genus of solanaceous plants, with large funnel-shaped flowers and a four-celled, capsular fruit.</def><br/
+<p><hw>Da*tu"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.; cf. Skr. <ets>dhatt<umac/ra</ets>, Per. & Ar. <ets>tat<umac/ra</ets>, <ets>Tat<umac/la</ets>.]</ety> <fld>(Bot.)</fld> <def>A genus of solanaceous plants, with large funnel-shaped flowers and a four-celled, capsular fruit.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The commonest species are the thorn apple (<spn>D. stramonium</spn>), with a prickly capsule (see <xex>Illust.</xex> of <er>capsule</er>), white flowers and green stem, and <spn>Datura tatula</spn>, with a purplish tinge of the stem and flowers.  Both are narcotic and dangerously poisonous.</note><br/
@@ -2957,7 +2957,7 @@ I am very sincerely your very affectionate, humble servant.</q> <rj><qau>Smollet
 <p><mhw>{ <hw>Dau"phin*ess</hw> <pr>(?)</pr>, <it>or</it> <hw>Dau"phine</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <def>The title of the wife of the dauphin.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dauw</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[D.]</ety> <fld>(Zo\'94l.)</fld> <def>The striped quagga, or Burchell's zebra, of South Africa (<spn>Asinus Burchellii</spn>); -- called also <altname>peechi</altname>, or <altname>peetsi</altname>.</def><br/
+<p><hw>Dauw</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[D.]</ety> <fld>(Zo\'94l.)</fld> <def>The striped quagga, or Burchell's zebra, of South Africa (<spn>Asinus Burchellii</spn>); -- called also <altname>peechi</altname>, or <altname>peetsi</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>davallia</hw> <pos>n.</pos> <def>any fern of the genus <gen>Davallia</gen>; they have scaly creeping rhizomes.</def><br/
@@ -3046,7 +3046,7 @@ The whole assembly of his fellow <qex>daws</qex>.</q> <rj><qau>Waller.</qau></rj
 <p><hw>Daw"ish</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Like a daw.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dawk</hw> <pr>(d<add/k)</pr>, <pos>n.</pos> <def>See <er>Dak</er>.</def><br/
+<p><hw>Dawk</hw> <pr>(d<add/k)</pr>, <pos>n.</pos> <def>See <er>Dak</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dawk</hw>, <pos>v. t.</pos> <ety>[Prov. E. <ets>dauk</ets> to cut or pierce with a jerk; cf. OE. <ets>dalk</ets> a dimple.  Cf. Ir. <ets>tolch</ets>, <ets>tollachd</ets>, <ets>tolladh</ets>, a hole, crevice, <ets>toll</ets> to bore, pierce, W. <ets>tyllu</ets>.]</ety> <def>To cut or mark with an incision; to gash.</def>  <rj><au>Moxon.</au></rj><br/
@@ -4440,7 +4440,7 @@ Fatigued and sick.</q> <rj><qau>Cowley.</qau></rj><br/
 <p><hw>Deb`el*la"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL. <ets>debellatio</ets>.]</ety> <def>The act of conquering or subduing.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De be"ne es"se</hw> <pr>(?)</pr>. <ety>[L.]</ety> <fld>(Law)</fld> <def>Of well being; of formal sufficiency for the time; conditionally; provisionally.</def>  <rj><au>Abbott.</au></rj><br/
+<p><hw>De be"ne es"se</hw> <pr>(?)</pr>. <ety>[L.]</ety> <fld>(Law)</fld> <def>Of well being; of formal sufficiency for the time; conditionally; provisionally.</def>  <rj><au>Abbott.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>De*ben"ture</hw> <pr>(?; 135)</pr>, <pos>n.</pos> <ety>[L. <ets>debentur</ets> they are due, fr. <ets>debere</ets> to owe; cf. F. <ets>debentur</ets>. So called because these receipts began with the words <ets>Debentur mihi</ets>.]</ety> <sn>1.</sn> <def>A writing acknowledging a debt; a writing or certificate signed by a public officer, as evidence of a debt due to some person; the sum thus due.</def><br/
@@ -4523,7 +4523,7 @@ Fatigued and sick.</q> <rj><qau>Cowley.</qau></rj><br/
 <p><hw>De`bi*tu"mi*nize</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To deprive of bitumen.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>D\'82`blai"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Fort.)</fld> <def>The cavity from which the earth for parapets, etc. (remblai), is taken.</def><br/
+<p><hw>D\'82`blai"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Fort.)</fld> <def>The cavity from which the earth for parapets, etc. (remblai), is taken.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Deb`o*nair"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[OE. <ets>debonere</ets>, OF. <ets>de bon aire</ets>, <ets>debonaire</ets>, of good descent or lineage, excellent, debonair, F. <ets>d\'82bonnaire</ets> debonair; <ets>de</ets> of (L. <ets>de</ets>) + <ets>bon</ets> good (L. <ets>bonus</ets>) + <ets>aire</ets>. See <er>Air</er>, and <er>Bounty</er>, and cf. <er>Bonair</er>.]</ety> <def>Characterized by courteousness, affability, or gentleness; of good appearance and manners; graceful; complaisant.</def><br/
@@ -4556,13 +4556,13 @@ Fatigued and sick.</q> <rj><qau>Cowley.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Geog.)</fld> <def>To issue; -- said of a stream passing from a gorge out into an open valley or a plain.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p>\'d8<hw>D\'82`bou`ch\'82"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A place for exit; an outlet; hence, a market for goods.</def><br/
+<p><hw>D\'82`bou`ch\'82"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A place for exit; an outlet; hence, a market for goods.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The <qex>d\'82bouch\'82s</qex> were ordered widened to afford easy egress.</q> <rj><qau>The Century.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>D\'82`bou`chure"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>The outward opening of a river, of a valley, or of a strait.</def><br/
+<p><hw>D\'82`bou`chure"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>The outward opening of a river, of a valley, or of a strait.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>De*brief"</hw> <pr>(?)</pr>, <pos>v.</pos> <def>to interrogate (a person) who has recently experienced an event, to obtain information about that experience; -- used especially of military pilots or diplomatic agents who have just returned from a mission.</def><br/
@@ -4574,7 +4574,7 @@ Fatigued and sick.</q> <rj><qau>Cowley.</qau></rj><br/
 <p><hw>De*bride"ment</hw> <pr>(?)</pr>, <pos>n.</pos> <def>the surgical excision of dead, contaminated, or damaged tissue, and foreign matter, especially from a wound.</def><br/
 [<source>PJC</source>]</p>
 
-<p>\'d8<hw>D\'82`bris"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. pref. <ets>d\'82-</ets> (L. <ets>dis</ets>) + <ets>briser</ets> to break, shatter; perh. of Celtic origin.]</ety> <sn>1.</sn> <fld>(Geol.)</fld> <def>Broken and detached fragments, taken collectively; especially, fragments detached from a rock or mountain, and piled up at the base.</def><br/
+<p><hw>D\'82`bris"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. pref. <ets>d\'82-</ets> (L. <ets>dis</ets>) + <ets>briser</ets> to break, shatter; perh. of Celtic origin.]</ety> <sn>1.</sn> <fld>(Geol.)</fld> <def>Broken and detached fragments, taken collectively; especially, fragments detached from a rock or mountain, and piled up at the base.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Rubbish, especially such as results from the destruction of anything; remains; ruins.</def><br/
@@ -4641,9 +4641,9 @@ And thankfully rest <qex>debtor</qex> for the first.</q> <rj><qau>Shak.</qau></r
 <p><hw>De"bu*scope</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From the inventor, <ets>Debus</ets>, a French optician + <ets>-scope</ets>.]</ety> <fld>(Opt.)</fld> <def>A modification of the kaleidoscope; -- used to reflect images so as to form beautiful designs.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>D\'82`but"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>d\'82but</ets>, prop., the first cast or throw at play, fr. <ets>but</ets> aim, mark. See <er>Butt</er> an end.]</ety> <def>A beginning or first attempt; hence, a first appearance before the public, as of an actor or public speaker.</def></p>
+<p><hw>D\'82`but"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>d\'82but</ets>, prop., the first cast or throw at play, fr. <ets>but</ets> aim, mark. See <er>Butt</er> an end.]</ety> <def>A beginning or first attempt; hence, a first appearance before the public, as of an actor or public speaker.</def></p>
 
-<p><mhw>\'d8<hw>D\'82`bu`tant"</hw> <pr>(?)</pr>, <pos>n.</pos>; fem. <hw>D\'82`bu`tante"</hw> <pr>(<?/)</pr></mhw>. <ety>[F., p. pr. of <ets>d\'82buter</ets> to have the first throw, to make one's <ets>d\'82but</ets>. See <er>D\'82but</er>.]</ety> <def>A person who makes his (or her) first appearance before the public.</def><br/
+<p><mhw><hw>D\'82`bu`tant"</hw> <pr>(?)</pr>, <pos>n.</pos>; fem. <hw>D\'82`bu`tante"</hw> <pr>(<?/)</pr></mhw>. <ety>[F., p. pr. of <ets>d\'82buter</ets> to have the first throw, to make one's <ets>d\'82but</ets>. See <er>D\'82but</er>.]</ety> <def>A person who makes his (or her) first appearance before the public.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>D\'82`bu`tante"</hw>  <pr>(?)</pr>, <pos>fem. n.</pos> <def>A young woman making her first appearance in society, especially one who is one of the honorees at a debutante cotillion.  See <er>cotillion</er>{4}.</def><br/
@@ -4652,7 +4652,7 @@ And thankfully rest <qex>debtor</qex> for the first.</q> <rj><qau>Shak.</qau></r
 <p><hw>Dec"a-</hw> <pr>(?)</pr>. <pos>pref.</pos> <ety>[Cf. <er>Ten</er>.]</ety> <def>A prefix, from Gr. <grk>de`ka</grk>, signifying <it>ten</it>;</def> <specif>specifically</specif> <fld>(Metric System)</fld>, <def>a prefix signifying the weight or measure that is <sig>ten times</sig> the principal unit.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De*cac`e*ra"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>de`ka</grk> ten + <grk>ke`ras</grk> a horn.]</ety> <fld>(Zo\'94l.)</fld> <def>The division of Cephalopoda which includes the squids, cuttlefishes, and others having ten arms or tentacles; -- called also <altname>Decapoda</altname>. <altsp>[Written also <asp>Decacera</asp>.]</altsp> See <er>Dibranchiata</er>.</def></p>
+<p><hw>De*cac`e*ra"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>de`ka</grk> ten + <grk>ke`ras</grk> a horn.]</ety> <fld>(Zo\'94l.)</fld> <def>The division of Cephalopoda which includes the squids, cuttlefishes, and others having ten arms or tentacles; -- called also <altname>Decapoda</altname>. <altsp>[Written also <asp>Decacera</asp>.]</altsp> See <er>Dibranchiata</er>.</def></p>
 
 <p><mhw>{ <hw>Dec"a*chord</hw> <pr>(?)</pr>, <hw>Dec`a*chor"don</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[Gr. <grk>deka`chordos</grk> tenstringed; <grk>de`ka</grk> ten + <grk>chordh`</grk> a string.]</ety> <sn>1.</sn> <def>An ancient Greek musical instrument of ten strings, resembling the harp.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -4701,7 +4701,7 @@ And thankfully rest <qex>debtor</qex> for the first.</q> <rj><qau>Shak.</qau></r
 <p><mhw>{ <hw>Dec"a*gram</hw>, <hw>Dec"a*gramme</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>d\'82cagramme</ets>; Gr. <grk>de`ka</grk> ten + F. <ets>gramme</ets>. See <er>Gram</er>.]</ety> <def>A weight of the metric system; ten grams, equal to about 154.32 grains avoirdupois.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dec`a*gyn"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>de`ka</grk> ten + <?/ a woman, a female.]</ety> <fld>(Bot.)</fld> <def>A Linn\'91an order of plants characterized by having ten styles.</def></p>
+<p><hw>Dec`a*gyn"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>de`ka</grk> ten + <?/ a woman, a female.]</ety> <fld>(Bot.)</fld> <def>A Linn\'91an order of plants characterized by having ten styles.</def></p>
 
 <p><mhw>{ <hw>Dec`a*gyn"i*an</hw> <pr>(?)</pr>, <hw>Dec*cag"y*nous</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[Cf. F. <ets>d\'82cagyne</ets>.]</ety> <fld>(Bot.)</fld> <def>Belonging to the Decagynia; having ten styles.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -4757,7 +4757,7 @@ And thankfully rest <qex>debtor</qex> for the first.</q> <rj><qau>Shak.</qau></r
 <p><cs><col><b>Decanal side</b></col>, <cd>the side of the choir on which the dean's tall is placed.</cd> -- <col><b>Decanal stall</b></col>, <cd>the stall allotted to the dean in the choir, on the right or south side of the chancel.</cd>  <rj><au>Shipley.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De*can"dri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>de`ka</grk> ten + <?/, <?/, a man.]</ety> <fld>(Bot.)</fld> <def>A Linn\'91an class of plants characterized by having ten stamens.</def></p>
+<p><hw>De*can"dri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>de`ka</grk> ten + <?/, <?/, a man.]</ety> <fld>(Bot.)</fld> <def>A Linn\'91an class of plants characterized by having ten stamens.</def></p>
 
 <p><mhw>{ <hw>De*can"dri*an</hw> <pr>(?)</pr>, <hw>De*can"drous</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[Cf. F. <ets>d\'82candre</ets>.]</ety> <fld>(Bot.)</fld> <def>Belonging to the Decandria; having ten stamens.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -4768,7 +4768,7 @@ And thankfully rest <qex>debtor</qex> for the first.</q> <rj><qau>Shak.</qau></r
 <p><hw>Dec*an"gu*lar</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Pref. <ets>deca-</ets> + <ets>angular</ets>.]</ety> <def>Having ten angles.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De*ca"ni</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L., lit., of the dean.]</ety> <def>Used of the side of the choir on which the dean's stall is placed; decanal; -- correlative to <contr>cantoris</contr>; <as>as, the decanal, or <ex>decani</ex>, side</as>.</def><br/
+<p><hw>De*ca"ni</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L., lit., of the dean.]</ety> <def>Used of the side of the choir on which the dean's stall is placed; decanal; -- correlative to <contr>cantoris</contr>; <as>as, the decanal, or <ex>decani</ex>, side</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>De*cant"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Decanted</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Decanting</conjf>.]</vmorph> <ety>[F. <ets>d\'82canter</ets> (cf. It. <ets>decantare</ets>), prop., to pour off from the edge of a vessel; pref. <ets>d\'82-</ets> (L. <ets>de</ets>) + OF. <ets>cant</ets> (It. <ets>canto</ets>) edge, border, end. See <er>Cant</er> an edge.]</ety> <def>To pour off gently, as liquor, so as not to disturb the sediment; or to pour from one vessel into another; <as>as, to <ex>decant</ex> wine</as>.</def><br/
@@ -4807,7 +4807,7 @@ And thankfully rest <qex>debtor</qex> for the first.</q> <rj><qau>Shak.</qau></r
 
 <p><-- p. 375 --></p>
 
-<p>\'d8<hw>De*cap"o*da</hw> <pr>(d<esl/*k<acr/p"<osl/*d<adot/)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>de`ka</grk>  ten + <grk>poy`s</grk>, <grk>podo`s</grk>, foot.]</ety> <sn>1.</sn> <fld>(Zo\'94l.)</fld> <def>The order of <class>Crustacea</class> which includes the shrimps, lobsters, crabs, etc.</def><br/
+<p><hw>De*cap"o*da</hw> <pr>(d<esl/*k<acr/p"<osl/*d<adot/)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>de`ka</grk>  ten + <grk>poy`s</grk>, <grk>podo`s</grk>, foot.]</ety> <sn>1.</sn> <fld>(Zo\'94l.)</fld> <def>The order of <class>Crustacea</class> which includes the shrimps, lobsters, crabs, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ They have a carapace, covering and uniting the somites of the head and thorax and inclosing a gill chamber on each side, and usually have five (rarely six) pairs of legs. They are divided into two principal groups: Brachyura and Macrura. Some writers recognize a third (Anomura) intermediate between the others.</note><br/
@@ -5151,7 +5151,7 @@ From all her words and actions.</q> <rj><qau>Milton.</qau></rj><br/
 <p><hw>De*cen"ni*al</hw>, <pos>n.</pos> <def>A tenth year or tenth anniversary.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De*cen"ni*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Decenniums</plw> <pr>(#)</pr>, L. <plw>Decennia</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <def>A period of ten years.</def> \'bdThe present <xex>decennium</xex>.\'b8 <au>Hallam.</au> \'bdThe last <xex>decennium</xex> of Chaucer's life.\'b8  <rj><au>A. W. Ward.</au></rj></p>
+<p><hw>De*cen"ni*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Decenniums</plw> <pr>(#)</pr>, L. <plw>Decennia</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <def>A period of ten years.</def> \'bdThe present <xex>decennium</xex>.\'b8 <au>Hallam.</au> \'bdThe last <xex>decennium</xex> of Chaucer's life.\'b8  <rj><au>A. W. Ward.</au></rj></p>
 
 <p><mhw>{ <hw>De*cen"no*val</hw> <pr>(?)</pr>, <hw>De*cen"no*va*ry</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[L. <ets>decem</ets> ten + <ets>novem</ets> nine.]</ety> <def>Pertaining to the number nineteen; of nineteen years.</def> <mark>[R.]</mark>  <rj><au>Holder.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -5338,10 +5338,10 @@ Betwixt ourselves let us <qex>decide</qex> it then.</q> <rj><qau>Shak.</qau></rj
 <p><hw>De*cid"er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who decides.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De*cid"u*a</hw> <pr>(?; 135)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>deciduus</ets>. See <er>Deciduous</er>.]</ety> <fld>(Anat.)</fld> <def>The inner layer of the wall of the uterus, which envelops the embryo, forms a part of the placenta, and is discharged with it.</def><br/
+<p><hw>De*cid"u*a</hw> <pr>(?; 135)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>deciduus</ets>. See <er>Deciduous</er>.]</ety> <fld>(Anat.)</fld> <def>The inner layer of the wall of the uterus, which envelops the embryo, forms a part of the placenta, and is discharged with it.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De*cid`u*a"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zo\'94l.)</fld> <def>A group of Mammalia in which a decidua is thrown off with, or after, the fetus, as in the human species.</def><br/
+<p><hw>De*cid`u*a"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zo\'94l.)</fld> <def>A group of Mammalia in which a decidua is thrown off with, or after, the fetus, as in the human species.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>De*cid"u*ate</hw> <pr>(?; 135)</pr>, <pos>a.</pos> <fld>(Anat.)</fld> <def>Possessed of, or characterized by, a decidua.</def><br/
@@ -5425,7 +5425,7 @@ Betwixt ourselves let us <qex>decide</qex> it then.</q> <rj><qau>Shak.</qau></rj
 <p><hw>Dec"i*ma`tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. LL. <ets>decimator</ets>.]</ety> <def>One who decimates.</def>  <rj><au>South.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>D\'82`cime"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A French coin, the tenth part of a franc, equal to about two cents.</def></p>
+<p><hw>D\'82`cime"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A French coin, the tenth part of a franc, equal to about two cents.</def></p>
 
 <p><mhw>{ <hw>Dec"i*me`ter</hw>, <hw>Dec"i*me`tre</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>d\'82cim\'8atre</ets>; pref. <ets>d\'82ci-</ets> tenth (fr. L. <ets>decimus</ets>) + <ets>m\'8atre</ets>. See <er>Meter</er>.]</ety> <def>A measure of length in the metric system; one tenth of a meter, equal to 3.937 inches.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -5830,7 +5830,7 @@ And then come smiling, and <qex>declare</qex> for fate.</q> <rj><qau>Dryden.</qa
 <p><hw>De*class"</hw> <pr>(?)</pr>, <pos>v. t.</pos>  <vmorph>[<pos>imp. & p. p.</pos> <conjf>Declassed</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Declassing</conjf>.]</vmorph> <ety>[Cf. F. <ets>d\'82classer</ets>.]</ety> <def>To remove from a class; to separate or degrade from one's class.</def>  <rj><au>North Am. Rev.</au></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p>\'d8<hw>d\'82class\'82</hw> <pr>(d<asl/`kl<acr/`s<amac/", d<asl/`kl<aum/`s<amac/")</pr> <pos>adj.</pos>  <ety>[F.  Cf. F. <ets>d\'82classer</ets>.]</ety> <sn>1.</sn> <def>reduced or fallen in status, social position, class or rank; fallen from a high status or rank to a lower one.</def><br/
+<p><hw>d\'82class\'82</hw> <pr>(d<asl/`kl<acr/`s<amac/", d<asl/`kl<aum/`s<amac/")</pr> <pos>adj.</pos>  <ety>[F.  Cf. F. <ets>d\'82classer</ets>.]</ety> <sn>1.</sn> <def>reduced or fallen in status, social position, class or rank; fallen from a high status or rank to a lower one.</def><br/
 [<source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>of inferior grade, rank, status, or prestige.</def><br/
@@ -6119,13 +6119,13 @@ His weary wagon to the western vale.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><sn>2.</sn> <def>A painting representing the beheading of a saint or martyr, esp. of St. John the Baptist.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>D\'82`col`le*tage"</hw> <pr>(d<amac/`k<osl/`l'*t<adot/zh)</pr>, <pos>n.</pos> <ety>[F. See <er>D\'82collet\'82</er>.]</ety> <fld>(Costume)</fld> <sn>1.</sn> <def>The upper border or part of a low-cut (i.e., d\'82collet\'82) dress.</def><br/
+<p><hw>D\'82`col`le*tage"</hw> <pr>(d<amac/`k<osl/`l'*t<adot/zh)</pr>, <pos>n.</pos> <ety>[F. See <er>D\'82collet\'82</er>.]</ety> <fld>(Costume)</fld> <sn>1.</sn> <def>The upper border or part of a low-cut (i.e., d\'82collet\'82) dress.</def><br/
 [<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
 
 <p><sn>2.</sn> <def>the exposed upper parts of the breasts of a woman wearing a low-cut dress.</def><br/
 [<source>PJC</source>]</p>
 
-<p>\'d8<hw>D\'82`col`le*t\'82"</hw> <pr>(d<asl/`k<ocr/l`l<eit/*t<asl/")</pr>, <pos>a.</pos> <ety>[F., p. p. of <ets>d\'82colleter</ets> to bare the neck and shoulders; <ets>d\'82-</ets> + <ets>collet</ets> collar, fr. L. <ets>collum</ets> neck.]</ety> <sn>1.</sn> <def>Leaving the neck and shoulders uncovered; cut low in the neck, or low-necked, as a dress.</def><br/
+<p><hw>D\'82`col`le*t\'82"</hw> <pr>(d<asl/`k<ocr/l`l<eit/*t<asl/")</pr>, <pos>a.</pos> <ety>[F., p. p. of <ets>d\'82colleter</ets> to bare the neck and shoulders; <ets>d\'82-</ets> + <ets>collet</ets> collar, fr. L. <ets>collum</ets> neck.]</ety> <sn>1.</sn> <def>Leaving the neck and shoulders uncovered; cut low in the neck, or low-necked, as a dress.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Wearing a d\'82collet\'82 gown.</def><br/
@@ -6554,7 +6554,7 @@ Mine, both in heaven and earth to do thy will.</q> <rj><qau>Milton.</qau></rj><b
 <p><hw>De*crep"i*tude</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>d\'82cr\'82pitude</ets>.]</ety> <def>The broken state produced by decay and the infirmities of age; infirm old age.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De`cres*cen"do</hw> <pr>(?)</pr>, <pos>a. & adv.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>With decreasing volume of sound; -- a direction to performers, either written upon the staff (abbreviated <xex>Dec</xex>., or <xex>Decresc</xex>.), or indicated by the sign.</def><br/
+<p><hw>De`cres*cen"do</hw> <pr>(?)</pr>, <pos>a. & adv.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>With decreasing volume of sound; -- a direction to performers, either written upon the staff (abbreviated <xex>Dec</xex>., or <xex>Decresc</xex>.), or indicated by the sign.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>De*cres"cent</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>decrescens</ets>, p. pr. of <ets>decrescere</ets>. See <er>Decrease</er>.]</ety> <def>Becoming less by gradual diminution; decreasing; <as>as, a <ex>decrescent</ex> moon</as>.</def><br/
@@ -6637,10 +6637,10 @@ Mine, both in heaven and earth to do thy will.</q> <rj><qau>Milton.</qau></rj><b
 <p><hw>Dec`u*ba"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From L. <ets>decubare</ets>; <ets>de-</ets> + <ets>cubare</ets>. See <er>Decumbent</er>.]</ety> <def>Act of lying down; decumbence.</def> <mark>[Obs.]</mark>  <rj><au>Evelyn.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De*cu"bi*tus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>de-</ets> + <ets>cubare</ets>, to lie down: cf. F. <ets>d\'82cubitus</ets>.]</ety> <fld>(Med.)</fld> <def>An attitude assumed in lying down; <as>as, the dorsal <ex>decubitus</ex></as>.</def><br/
+<p><hw>De*cu"bi*tus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>de-</ets> + <ets>cubare</ets>, to lie down: cf. F. <ets>d\'82cubitus</ets>.]</ety> <fld>(Med.)</fld> <def>An attitude assumed in lying down; <as>as, the dorsal <ex>decubitus</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><mhw>\'d8<hw>D\'82`cu`lasse`ment"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> Also, sometimes, Anglicized <hw>Dec`u*lass"ment</hw> <pr>(<?/)</pr>.</mhw> <fld>(Ordnance)</fld> <def>An accidental blowing off of, or other serious damage to, the breechblock of a gun; also, a removal of the breechblock for the purpose of disabling the gun.</def><br/
+<p><mhw><hw>D\'82`cu`lasse`ment"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> Also, sometimes, Anglicized <hw>Dec`u*lass"ment</hw> <pr>(<?/)</pr>.</mhw> <fld>(Ordnance)</fld> <def>An accidental blowing off of, or other serious damage to, the breechblock of a gun; also, a removal of the breechblock for the purpose of disabling the gun.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Dec"u*man</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>decumanus</ets> of the tenth, and by metonymy, large, fr. <ets>decem</ets> ten.]</ety> <def>Large; chief; -- applied to an extraordinary billow, supposed by some to be every tenth in order. <mark>[R.]</mark> Also used substantively.</def> \'bdSuch <xex>decuman</xex> billows.\'b8 <au>Gauden.</au> \'bdThe baffled <xex>decuman</xex>.\'b8  <rj><au>Lowell.</au></rj></p>
@@ -6750,7 +6750,7 @@ Mine, both in heaven and earth to do thy will.</q> <rj><qau>Milton.</qau></rj><b
 <p><hw>Ded"a*lous</hw> <pr>(?)</pr>, <pos>a.</pos> <def>See <er>D\'91dalous</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De*dans"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Court Tennis)</fld> <def>A division, at one end of a tennis court, for spectators.</def><br/
+<p><hw>De*dans"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Court Tennis)</fld> <def>A division, at one end of a tennis court, for spectators.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dede</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Dead.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
@@ -6832,7 +6832,7 @@ Mine, both in heaven and earth to do thy will.</q> <rj><qau>Milton.</qau></rj><b
 <p><hw>Ded"i*ca*to*ry</hw>, <pos>n.</pos> <def>Dedication.</def> <mark>[R.]</mark>  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Ded"i*mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>dedimus</ets> we have given, fr. <ets>dare</ets> to give. So called because the writ began, <ets>Dedimus potestatem</ets>, etc.]</ety> <fld>(Law)</fld> <def>A writ to commission private persons to do some act in place of a judge, as to examine a witness, etc.</def>  <rj><au>Bouvier.</au></rj><br/
+<p><hw>Ded"i*mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>dedimus</ets> we have given, fr. <ets>dare</ets> to give. So called because the writ began, <ets>Dedimus potestatem</ets>, etc.]</ety> <fld>(Law)</fld> <def>A writ to commission private persons to do some act in place of a judge, as to examine a witness, etc.</def>  <rj><au>Bouvier.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>De*di"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>deditio</ets>, fr. <ets>dedere</ets> to give away, surrender; <ets>de-</ets> + <ets>dare</ets> to give.]</ety> <def>The act of yielding; surrender.</def> <mark>[R.]</mark>  <rj><au>Sir M. Hale.</au></rj><br/
@@ -6960,7 +6960,7 @@ From any use that pleased him.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 <p><hw>De*duct"ive*ly</hw>, <pos>adv.</pos> <def>By deduction; by way of inference; by consequence.</def>  <rj><au>Sir T. Browne.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De*duc"tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a guide. See <er>Deduce</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>The pilot whale or blackfish.</def><br/
+<p><hw>De*duc"tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a guide. See <er>Deduce</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>The pilot whale or blackfish.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>De*duit"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>d\'82duit</ets>.  Cf. <er>Deduct</er>.]</ety> <def>Delight; pleasure.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
@@ -7369,13 +7369,13 @@ Is the king's ship in the <qex>deep</qex> nook.</q> <rj><qau>Shak.</qau></rj><br
 <p><hw>de-escalation</hw> <pos>n.</pos> <def>a reduction in intensity (of a crisis or a war).</def><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p>\'d8<hw>De*e"sis</hw> <pr>(d<esl/*<emac/"s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>de`hsis</grk> supplication.]</ety> <fld>(Rhet.)</fld> <def>An invocation of, or address to, the Supreme Being.</def><br/
+<p><hw>De*e"sis</hw> <pr>(d<esl/*<emac/"s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>de`hsis</grk> supplication.]</ety> <fld>(Rhet.)</fld> <def>An invocation of, or address to, the Supreme Being.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>De"ess</hw> <pr>(d<esl/"<ecr/s)</pr>, <pos>n.</pos> <ety>[F. <ets>d\'82esse</ets>, fem. of <ets>dieu</ets> god.]</ety> <def>A goddess.</def> <mark>[Obs.]</mark> <rj><au>Croft.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Deev</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Hind. & Pers. Myth.)</fld> <def>See <er>Dev</er>.</def><br/
+<p><hw>Deev</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Hind. & Pers. Myth.)</fld> <def>See <er>Dev</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>De*face"</hw> <pr>(d<esl/*f<amac/s")</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Defaced</conjf> <pr>(d<esl/*f<amac/st")</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Defacing</conjf>.]</vmorph> <ety>[OE. <ets>defacen</ets> to disfigure, efface, OF. <ets>desfacier</ets>; L. <ets>dis-</ets> + <ets>facies</ets> face. See <er>Face</er>, and cf. <er>Efface</er>.]</ety> <sn>1.</sn> <def>To destroy or mar the face or external appearance of; to disfigure; to injure, spoil, or mar, by effacing or obliterating important features or portions of; <as>as, to <ex>deface</ex> a monument; to <ex>deface</ex> an edifice; to <ex>deface</ex> writing; to <ex>deface</ex> a note, deed, or bond; to <ex>deface</ex> a record.</as></def> \'bdThis high face <xex>defaced</xex>.\'b8 <rj><au>Emerson.</au></rj><br/
@@ -7408,7 +7408,7 @@ Is the king's ship in the <qex>deep</qex> nook.</q> <rj><qau>Shak.</qau></rj><br
 <p><hw>De*fa"cer</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who, or that which, defaces or disfigures.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De` fac"to</hw> <pr>(?)</pr>. <ety>[L.]</ety> <def>Actually; in fact; in reality; <as>as, a king <ex>de facto</ex>, -- distinguished from a king <ex>de jure</ex>, or by right</as>.</def><br/
+<p><hw>De` fac"to</hw> <pr>(?)</pr>. <ety>[L.]</ety> <def>Actually; in fact; in reality; <as>as, a king <ex>de facto</ex>, -- distinguished from a king <ex>de jure</ex>, or by right</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>De*fail"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[F. <ets>d\'82faillir</ets> to fail; pref. <ets>d\'82-</ets> (L. <ets>de</ets>) + <ets>faillir</ets>. See <er>Fail</er>, and cf. <er>Default</er>.]</ety> <def>To cause to fail.</def> <mark>[Obs.]</mark><br/
@@ -8687,7 +8687,7 @@ Should look so near upon her foul <qex>deformities</qex>.</q> <rj><qau>Milton.</
 <p><hw>de*fy"</hw> <pr>(d<esl/*f<imac/")</pr>, <pos>n.</pos> <def>A challenge.</def> <mark>[Obs.]</mark> <rj><au>Dryden.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>d\'82`ga`g\'82"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., p. p. of <ets>d\'82gager</ets> to disengage. See <er>De-</er>, 1st Gage, and cf. <er>Disgage</er>.]</ety> <def>Unconstrained; easy; free.</def>  <rj><au>Vanbrugh.</au></rj></p>
+<p><hw>d\'82`ga`g\'82"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., p. p. of <ets>d\'82gager</ets> to disengage. See <er>De-</er>, 1st Gage, and cf. <er>Disgage</er>.]</ety> <def>Unconstrained; easy; free.</def>  <rj><au>Vanbrugh.</au></rj></p>
 
 <p><q>A graceful and <qex>d\'82gag\'82</qex> manner.</q>  <rj><qau>Poe.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -8927,7 +8927,7 @@ Should look so near upon her foul <qex>deformities</qex>.</q> <rj><qau>Milton.</
 <p><hw>de*grad"ing*ly</hw>, <pos>adv.</pos> <def>In a degrading manner.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><mhw>\'d8<hw>D\'82`gras"</hw> <pr>(?)</pr>, <hw>Deg"ras</hw> <pr>(<?/)</pr></mhw>, <pos>n.</pos> <ety>[F.; cf. F. <ets>gras</ets>, a. & n., fat.]</ety> <def>A semisolid emulsion produced by the treatment of certain skins with oxidized fish oil, which extracts their soluble albuminoids. It was formerly solely a by-product of chamois leather manufacture, but is now made for its own sake, being valuable as a dressing for hides.</def><br/
+<p><mhw><hw>D\'82`gras"</hw> <pr>(?)</pr>, <hw>Deg"ras</hw> <pr>(<?/)</pr></mhw>, <pos>n.</pos> <ety>[F.; cf. F. <ets>gras</ets>, a. & n., fat.]</ety> <def>A semisolid emulsion produced by the treatment of certain skins with oxidized fish oil, which extracts their soluble albuminoids. It was formerly solely a by-product of chamois leather manufacture, but is now made for its own sake, being valuable as a dressing for hides.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Deg`ra*va"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>degravare</ets>, <ets>degravatum</ets>, to make heavy. See <er>Grave</er>, <pos>a.</pos>]</ety> <def>The act of making heavy.</def> <mark>[Obs.]</mark> <rj><au>Bailey.</au></rj><br/
@@ -9001,7 +9001,7 @@ Should look so near upon her foul <qex>deformities</qex>.</q> <rj><qau>Milton.</
 <p><sn>2.</sn> <def>gradually decreasing in rate on sums below a certain amount.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p>\'d8<hw>De"gu</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zo\'94l.)</fld> <def>A small South American rodent (<spn>Octodon Cumingii</spn>), of the family <fam>Octodontid\'91</fam>.</def><br/
+<p><hw>De"gu</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zo\'94l.)</fld> <def>A small South American rodent (<spn>Octodon Cumingii</spn>), of the family <fam>Octodontid\'91</fam>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>De*gum"</hw> <pr>(?)</pr>, <pos>v. t.</pos>  <vmorph>[<pos>imp. & p. p.</pos> <conjf>Degummed</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Degumming</conjf>.]</vmorph> <def>To deprive of, or free from, gum; <as>as, to <ex>degum</ex> ramie</as>.</def><br/
@@ -9034,10 +9034,10 @@ Should look so near upon her foul <qex>deformities</qex>.</q> <rj><qau>Milton.</
 <p><hw>De*horn"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Dehorned</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Dehorning</conjf>.]</vmorph> <def>To deprive of horns; to prevent the growth of the horns of (cattle) by burning their ends soon after they start. See <er>Dishorn</er>.</def> \'bd<xex>Dehorning</xex> cattle.\'b8 <rj><au>Farm Journal (1886).</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De*hors"</hw> <pr>(?)</pr>, <pos>prep.</pos> <ety>[F., outside.]</ety> <fld>(Law)</fld> <def>Out of; without; foreign to; out of the agreement, record, will, or other instrument.</def><br/
+<p><hw>De*hors"</hw> <pr>(?)</pr>, <pos>prep.</pos> <ety>[F., outside.]</ety> <fld>(Law)</fld> <def>Out of; without; foreign to; out of the agreement, record, will, or other instrument.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De*hors"</hw>, <pos>n.</pos> <fld>(Mil.)</fld> <def>All sorts of outworks in general, at a distance from the main works; any advanced works for protection or cover.</def> <rj><au>Farrow.</au></rj><br/
+<p><hw>De*hors"</hw>, <pos>n.</pos> <fld>(Mil.)</fld> <def>All sorts of outworks in general, at a distance from the main works; any advanced works for protection or cover.</def> <rj><au>Farrow.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>De*hort"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Dehorted</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Dehorting</conjf>.]</vmorph> <ety>[L. <ets>dehortari</ets>; <ets>de-</ets> + <ets>hortari</ets> to urge, exhort.]</ety> <def>To urge to abstain or refrain; to dissuade.</def> <mark>[Obs.]</mark><br/
@@ -9200,16 +9200,16 @@ Those craven ranks to see.</q> <rj><qau>Macaulay.</qau></rj><br/
 <p><cs><col><b>Deil's buckie</b></col>. <cd>See under <er>Buckie</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dei*noc"e*ras</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Paleon.)</fld> <def>See <er>Dinoceras</er>.</def><br/
+<p><hw>Dei*noc"e*ras</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Paleon.)</fld> <def>See <er>Dinoceras</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dei*nor"nis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Paleon.)</fld> <def>See <er>Dinornis</er>.</def><br/
+<p><hw>Dei*nor"nis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Paleon.)</fld> <def>See <er>Dinornis</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dei"no*saur</hw> <pr>(d<imac/"n<osl/*s<add/r)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Paleon.)</fld> <def>See <er>Dinosaur</er>.</def><br/
+<p><hw>Dei"no*saur</hw> <pr>(d<imac/"n<osl/*s<add/r)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Paleon.)</fld> <def>See <er>Dinosaur</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dei`no*the"ri*um</hw> <pr>(d<imac/`n<osl/*th<emac/"r<icr/*<ucr/m)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Paleon.)</fld> <def>See <er>Dinotherium</er>.</def><br/
+<p><hw>Dei`no*the"ri*um</hw> <pr>(d<imac/`n<osl/*th<emac/"r<icr/*<ucr/m)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Paleon.)</fld> <def>See <er>Dinotherium</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>De*in"te*grate</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[L. <ets>deintegrare</ets> to impair; <ets>de-</ets> + <ets>integrare</ets> to make whole.]</ety> <def>To disintegrate.</def> <mark>[Obs.]</mark></p>
@@ -9324,7 +9324,7 @@ Of Egypt.</q> <rj><qau>Milton.</qau></rj><br/
 <p><hw>De*ject"</hw>, <pos>a.</pos> <ety>[L. <ets>dejectus</ets>, p. p.]</ety> <def>Dejected.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De*jec"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., neut. pl. from L. <ets>dejectus</ets>, p. p.]</ety> <def>Excrements; <as>as, the <ex>dejecta</ex> of the sick</as>.</def><br/
+<p><hw>De*jec"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., neut. pl. from L. <ets>dejectus</ets>, p. p.]</ety> <def>Excrements; <as>as, the <ex>dejecta</ex> of the sick</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>De*ject"ed</hw>, <pos>a.</pos> <def>Cast down; afflicted; low-spirited; sad; <as>as, a <ex>dejected</ex> look or countenance</as>.</def> -- <wordforms><wf>De*ject"ed*ly</wf>, <pos>adv.</pos> -- <wf>De*ject"ed*ness</wf>, <pos>n.</pos></wordforms><br/
@@ -9377,16 +9377,16 @@ Our frailty can sustain, thy tidings bring.</q> <rj><qau>Milton.</qau></rj><br/
 <p><hw>Dej`er*a"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>dejeratio</ets>.]</ety> <def>The act of swearing solemnly.</def> <mark>[Obs.]</mark> <rj><au>Bp. Hall.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>D\'82`jeu`n\'82"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A d\'82jeuner.</def><br/
+<p><hw>D\'82`jeu`n\'82"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A d\'82jeuner.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Take a <qex>d\'82jeun\'82</qex> of muskadel and eggs.</q> <rj><qau>B. Jonson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>D\'82`jeu`ner"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>d\'82jeuner</ets> breakfast, as a verb, to breakfast. Cf. <er>Dinner</er>.]</ety> <def>A breakfast; sometimes, also, a lunch or collation.</def><br/
+<p><hw>D\'82`jeu`ner"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>d\'82jeuner</ets> breakfast, as a verb, to breakfast. Cf. <er>Dinner</er>.]</ety> <def>A breakfast; sometimes, also, a lunch or collation.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De` ju"re</hw> <pr>(?)</pr>. <ety>[L.]</ety> <def>By right; of right; by law; -- often opposed to <contr>de facto</contr>.</def><br/
+<p><hw>De` ju"re</hw> <pr>(?)</pr>. <ety>[L.]</ety> <def>By right; of right; by law; -- often opposed to <contr>de facto</contr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dek"a-</hw> <pr>(?)</pr>. <fld>(Metric System)</fld> <def>A prefix signifying <sig>ten</sig>. See <er>Deca-</er>.</def><br/
@@ -9551,7 +9551,7 @@ The huddling brook to hear his madrigal.</q> <rj><qau>Milton.</qau></rj><br/
 <p><hw>De*lay"ment</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Hindrance.</def> <mark>[Obs.]</mark> <rj><au>Gower.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Del` cred"er*e</hw> <pr>(?)</pr>. <ety>[It., of belief or trust.]</ety> <fld>(Mercantile Law)</fld> <def>An agreement by which an agent or factor, in consideration of an additional premium or commission (called a <xex>del credere</xex> commission), engages, when he sells goods on credit, to insure, warrant, or guarantee to his principal the solvency of the purchaser, the engagement of the factor being to pay the debt himself if it is not punctually discharged by the buyer when it becomes due.</def><br/
+<p><hw>Del` cred"er*e</hw> <pr>(?)</pr>. <ety>[It., of belief or trust.]</ety> <fld>(Mercantile Law)</fld> <def>An agreement by which an agent or factor, in consideration of an additional premium or commission (called a <xex>del credere</xex> commission), engages, when he sells goods on credit, to insure, warrant, or guarantee to his principal the solvency of the purchaser, the engagement of the factor being to pay the debt himself if it is not punctually discharged by the buyer when it becomes due.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>De"le</hw> <pr>(?)</pr>, <pos>imperative sing.</pos> <mord>of L. <xex>delere</xex> to destroy</mord>. <ety>[Cf. <er>Delete</er>.]</ety> <fld>(Print.)</fld> <def>Erase; remove; -- a direction to cancel something which has been put in type; usually expressed by a peculiar form of <xex>d</xex>, thus: <dele/.</def><br/
@@ -9584,7 +9584,7 @@ The huddling brook to hear his madrigal.</q> <rj><qau>Milton.</qau></rj><br/
 <p><hw>De`lec*ta"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>delectatio</ets>: cf. F. <ets>d\'82lectation</ets>.]</ety> <def>Great pleasure; delight.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De*lec"tus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., selection, from <ets>deligere</ets>, <ets>delectum</ets>, to select.]</ety> <def>A name given to an elementary book for learners of Latin or Greek.</def> <rj><au>G. Eliot.</au></rj><br/
+<p><hw>De*lec"tus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., selection, from <ets>deligere</ets>, <ets>delectum</ets>, to select.]</ety> <def>A name given to an elementary book for learners of Latin or Greek.</def> <rj><au>G. Eliot.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Del`e*ga*cy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <er>Delegate</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <def>The act of delegating, or state of being delegated; deputed power.</def> <mark>[Obs.]</mark><br/
@@ -9639,7 +9639,7 @@ The huddling brook to hear his madrigal.</q> <rj><qau>Milton.</qau></rj><br/
 <p><hw>Del"e*ga*to*ry</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>delegatorius</ets> pert. to an assignment.]</ety> <def>Holding a delegated position.</def> <rj><au>Nash.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De*len"da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., fr. <ets>delere</ets> to destroy.]</ety> <def>Things to be erased or blotted out.</def><br/
+<p><hw>De*len"da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., fr. <ets>delere</ets> to destroy.]</ety> <def>Things to be erased or blotted out.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Del`e*nif"ic*al</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>delenificus</ets>; <ets>delenire</ets> to soothe + <ets>facere</ets> to make. See <er>Lenient</er>.]</ety> <def>Assuaging pain.</def> <mark>[Obs.]</mark> <rj><au>Bailey.</au></rj><br/
@@ -10166,7 +10166,7 @@ Smiles with gay fruits or with <qex>delightful</qex> green.</q> <rj><qau>Addison
 <p><hw>De*liq`ui*a"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The act of deliquiating.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De*liq"ui*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Deliquiate</er>.]</ety> <sn>1.</sn> <fld>(Chem.)</fld> <def>A melting or dissolution in the air, or in a moist place; a liquid condition; <as>as, a salt falls into a <ex>deliquium</ex></as>.</def> <mark>[R.]</mark><-- the result of deliquescence --><br/
+<p><hw>De*liq"ui*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Deliquiate</er>.]</ety> <sn>1.</sn> <fld>(Chem.)</fld> <def>A melting or dissolution in the air, or in a moist place; a liquid condition; <as>as, a salt falls into a <ex>deliquium</ex></as>.</def> <mark>[R.]</mark><-- the result of deliquescence --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A sinking away; a swooning.</def> <mark>[Obs.]</mark> <rj><au>Bacon.</au></rj><br/
@@ -10413,7 +10413,7 @@ And carry it sweetly and <qex>deliverly</qex>.</q> <rj><qau>Beau. & Fl.</qau></r
 <p><q>Sweet doxies and <qex>dells</qex>.</q> <rj><qau>B. Jonson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Del"la Crus"ca</hw> <pr>(?)</pr>. <def>A shortened form of <xex>Accademia della Crusca</xex>, an academy in Florence, Italy, founded in the 16th century, especially for conserving the purity of the Italian language.</def><br/
+<p><hw>Del"la Crus"ca</hw> <pr>(?)</pr>. <def>A shortened form of <xex>Accademia della Crusca</xex>, an academy in Florence, Italy, founded in the 16th century, especially for conserving the purity of the Italian language.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The Accademia della Crusca (literally, <xex>academy of the bran</xex> or <xex>chaff</xex>) was so called in allusion to its chief object of bolting or purifying the national language.</note><br/
@@ -10425,10 +10425,10 @@ And carry it sweetly and <qex>deliverly</qex>.</q> <rj><qau>Beau. & Fl.</qau></r
 <p><cs><col><b>The Dellacruscan School</b></col>, <cd>a name given in satire to a class of affected English writers, most of whom lived in Florence, about <sc>a. d.</sc> 1785.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De"loo</hw> <pr>(d<asl/"l<omac/)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>The duykerbok.</def><br/
+<p><hw>De"loo</hw> <pr>(d<asl/"l<omac/)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>The duykerbok.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De*loul"</hw> <pr>(d<asl/*l<oomac/l")</pr>, <pos>n.</pos> <ety>[Prob. of Arabic or Bedouin origin.]</ety> <fld>(Zo\'94l.)</fld> <def>A special breed of the dromedary used for rapid traveling; the swift camel; -- called also <altname>herire</altname>, and <altname>maharik</altname>.</def><br/
+<p><hw>De*loul"</hw> <pr>(d<asl/*l<oomac/l")</pr>, <pos>n.</pos> <ety>[Prob. of Arabic or Bedouin origin.]</ety> <fld>(Zo\'94l.)</fld> <def>A special breed of the dromedary used for rapid traveling; the swift camel; -- called also <altname>herire</altname>, and <altname>maharik</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Delph</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Delftware.</def><br/
@@ -10472,10 +10472,10 @@ And carry it sweetly and <qex>deliverly</qex>.</q> <rj><qau>Beau. & Fl.</qau></r
 <p><hw>Del"phi*noid</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>delphinus</ets> a dolphin + <ets>-oid</ets>.]</ety> <fld>(Zo\'94l.)</fld> <def>Pertaining to, or resembling, the dolphin.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Del`phi*noi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zo\'94l.)</fld> <def>The division of Cetacea which comprises the dolphins, porpoises, and related forms.</def><br/
+<p><hw>Del`phi*noi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zo\'94l.)</fld> <def>The division of Cetacea which comprises the dolphins, porpoises, and related forms.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Del*phi"nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a dolphin, fr. Gr. <grk>delfi`s</grk>, <grk>delfi`n</grk>.]</ety> <sn>1.</sn> <fld>(Zo\'94l.)</fld> <def>A genus of Cetacea, including the dolphin. See <er>Dolphin</er>, 1.</def><br/
+<p><hw>Del*phi"nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a dolphin, fr. Gr. <grk>delfi`s</grk>, <grk>delfi`n</grk>.]</ety> <sn>1.</sn> <fld>(Zo\'94l.)</fld> <def>A genus of Cetacea, including the dolphin. See <er>Dolphin</er>, 1.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Astron.)</fld> <def>The Dolphin, a constellation near the equator and east of Aquila.</def><br/
@@ -10505,7 +10505,7 @@ And carry it sweetly and <qex>deliverly</qex>.</q> <rj><qau>Beau. & Fl.</qau></r
 <p><hw>Del*ta"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Relating to, or like, a delta.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Del*thy"ris</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>de`lta</grk> the name of the letter <DELTA/ + <grk>thy`ra</grk> door.]</ety> <fld>(Zo\'94l.)</fld> <def>A name formerly given to certain Silurian brachiopod shells of the genus <er>Spirifer</er>.</def><br/
+<p><hw>Del*thy"ris</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>de`lta</grk> the name of the letter <DELTA/ + <grk>thy`ra</grk> door.]</ety> <fld>(Zo\'94l.)</fld> <def>A name formerly given to certain Silurian brachiopod shells of the genus <er>Spirifer</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Delthyris limestone</b></col> <fld>(Geol.)</fld>, <cd>one of the divisions of the Upper Silurian rocks in New York.</cd></cs><br/
@@ -10514,7 +10514,7 @@ And carry it sweetly and <qex>deliverly</qex>.</q> <rj><qau>Beau. & Fl.</qau></r
 <p><hw>Del"tic</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Deltaic.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Del*tid"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>de`lta</grk>, the letter <DELTA/.]</ety> <fld>(Zo\'94l.)</fld> <def>The triangular space under the beak of many brachiopod shells.</def><br/
+<p><hw>Del*tid"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>de`lta</grk>, the letter <DELTA/.]</ety> <fld>(Zo\'94l.)</fld> <def>The triangular space under the beak of many brachiopod shells.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Del`to*he"dron</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>de`lta</grk>, the letter <DELTA/ + <grk>'e`dra</grk> seat, base.]</ety> <fld>(Crystallog.)</fld> <def>A solid bounded by twelve quadrilateral faces. It is a hemihedral form of the isometric system, allied to the tetrahedron.</def><br/
@@ -10585,7 +10585,7 @@ With ever-burning sulphur unconsumed.</q> <rj><qau>Milton.</qau></rj><br/
 Shall <qex>deluge</qex> all.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De*lun"dung</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zo\'94l.)</fld> <def>An East Indian carnivorous mammal (<spn>Prionodon gracilis</spn>), resembling the civets, but without scent pouches. It is handsomely spotted.</def><br/
+<p><hw>De*lun"dung</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zo\'94l.)</fld> <def>An East Indian carnivorous mammal (<spn>Prionodon gracilis</spn>), resembling the civets, but without scent pouches. It is handsomely spotted.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>De*lu"sion</hw> <pr>(?)</pr> <pos>n.</pos> <ety>[L. <ets>delusio</ets>, fr. <ets>deludere</ets>. See <er>Delude</er>.]</ety> <sn>1.</sn> <def>The act of deluding; deception; a misleading of the mind.</def> <rj><au>Pope.</au></rj><br/
@@ -10900,7 +10900,7 @@ How narrow our <qex>demeans</qex> are.</q> <rj><qau>Massinger.</qau></rj><br/
 <syn><b>Syn. --</b> dementia.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p>\'d8<hw>De*men"ti*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>demens</ets>. See <er>Dement</er>.]</ety> <def>Insanity; madness; esp. that form which consists in weakness or total loss of thought and reason; mental imbecility; idiocy.</def><br/
+<p><hw>De*men"ti*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>demens</ets>. See <er>Dement</er>.]</ety> <def>Insanity; madness; esp. that form which consists in weakness or total loss of thought and reason; mental imbecility; idiocy.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>De*meph"i*tize</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Demephitized</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Demephitizing</conjf>.]</vmorph> <ety>[Cf. F. <ets>m\'82phitiser</ets> to infect with <ets>mephitis</ets>.]</ety> <def>To purify from mephitic or foul air.</def> -- <wordforms><wf>De*meph`i*ti*za"tion</wf>, <pos>n.</pos></wordforms><br/
@@ -11058,7 +11058,7 @@ How narrow our <qex>demeans</qex> are.</q> <rj><qau>Massinger.</qau></rj><br/
 <p><hw>Dem"i*rep`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Contr. fr. <ets>demi-reputation</ets>.]</ety> <def>A woman of doubtful reputation or suspected character; an adventuress.</def> <mark>[Colloq.]</mark> <rj><au>De Quincey.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dem"i-ri*lie"vo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>demi-</ets> + It. <ets>rilievo</ets>.]</ety> <fld>(Fine Arts)</fld> <sd>(a)</sd> <def>Half relief; sculpture in relief of which the figures project from the background by one half their full roundness.</def> <sd>(b)</sd> <def>A work of sculpture of the above character. See <er>Alto-rilievo</er>.</def><br/
+<p><hw>Dem"i-ri*lie"vo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>demi-</ets> + It. <ets>rilievo</ets>.]</ety> <fld>(Fine Arts)</fld> <sd>(a)</sd> <def>Half relief; sculpture in relief of which the figures project from the background by one half their full roundness.</def> <sd>(b)</sd> <def>A work of sculpture of the above character. See <er>Alto-rilievo</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>De*mis`a*bil"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Law)</fld> <def>The state of being demisable.</def><br/
@@ -11161,7 +11161,7 @@ And abject thrall.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><hw>De*mit"</hw>, <pos>n.</pos> <def>The act of demitting; also, a letter, certificate, or the like, certifying that a person has (honorably) demitted, as from a Masonic lodge.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p>\'d8<hw>De*mi"-tasse"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., half cup.]</ety> <def>A small cup for, or of, black coffee.</def><br/
+<p><hw>De*mi"-tasse"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., half cup.]</ety> <def>A small cup for, or of, black coffee.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Dem"i*tint`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Fine Arts)</fld> <sd>(a)</sd> <def>That part of a painting, engraving, or the like, which is neither in full darkness nor full light.</def> <sd>(b)</sd> <def>The shade itself; neither the darkest nor the lightest in a composition. Also called <xex>half tint</xex>.</def><br/
@@ -11279,7 +11279,7 @@ Of <qex>Demogorgon</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><hw>de*mog"ra*phy</hw> <pr>(d<esl/*m<ocr/g"r<adot/f<ycr/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>dh^mos</grk> the people + <ets>-graphy</ets>.]</ety> <def>The study of vital statistics, such as births, deaths, marriages, mortality, health, etc., in populations and subgroups of populations.</def> -- <wordforms><wf>Dem`o*graph"ic</wf>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
-<p>\'d8<hw>De`moi`selle"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Damsel</er>.]</ety> <sn>1.</sn> <def>A young lady; a damsel; a lady's maid.</def><br/
+<p><hw>De`moi`selle"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Damsel</er>.]</ety> <sn>1.</sn> <def>A young lady; a damsel; a lady's maid.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zo\'94l.)</fld> <def>The Numidian crane (<spn>Anthropoides virgo</spn>); -- so called on account of the grace and symmetry of its form and movements.</def><br/
@@ -11778,7 +11778,7 @@ At last he whispers, \'bdDo; and we go snacks.\'b8</q> <rj><qau>Pope.</qau></rj>
 <p><hw>De*nar"co*tize</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To deprive of narcotine; <as>as, to <ex>denarcotize</ex> opium</as>.</def> -- <wordforms><wf>De*nar`co*ti*za"tion</wf> <pr>(#)</pr>, <pos>n.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De*na"ri*us</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Denarii</plw> <pr>(#)</pr>.</plu> <ety>[L. See 2d <er>Denier</er>.]</ety> <def>A Roman silver coin of the value of about fourteen cents; the \'bdpenny\'b8 of the New Testament; -- so called from being worth originally <xex>ten</xex> of the pieces called <part>as</part>.</def><br/
+<p><hw>De*na"ri*us</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Denarii</plw> <pr>(#)</pr>.</plu> <ety>[L. See 2d <er>Denier</er>.]</ety> <def>A Roman silver coin of the value of about fourteen cents; the \'bdpenny\'b8 of the New Testament; -- so called from being worth originally <xex>ten</xex> of the pieces called <part>as</part>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Den"a*ry</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>denarius</ets>. See 2d <er>Denier</er>.]</ety> <def>Containing ten; tenfold; proceeding by tens; <as>as, the <ex>denary</ex>, or decimal, scale</as>.</def><br/
@@ -11871,7 +11871,7 @@ At last he whispers, \'bdDo; and we go snacks.\'b8</q> <rj><qau>Pope.</qau></rj>
 <syn><b>Syn. --</b> <gen>Dendraspis</gen>, genus <gen>Dendroaspis</gen>, genus <gen>Dendroaspis</gen>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p>\'d8<hw>Den`dro*c<oe/"la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>de`ndron</grk> tree + <grk>koi^los</grk> hollow.]</ety> <fld>(Zo\'94l.)</fld> <def>A division of the Turbellaria in which the digestive cavity gives off lateral branches, which are often divided into smaller branchlets.</def></p>
+<p><hw>Den`dro*c<oe/"la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>de`ndron</grk> tree + <grk>koi^los</grk> hollow.]</ety> <fld>(Zo\'94l.)</fld> <def>A division of the Turbellaria in which the digestive cavity gives off lateral branches, which are often divided into smaller branchlets.</def></p>
 
 <p><mhw>{ <hw>Den"droid</hw> <pr>(?)</pr>, <hw>Den*droid"al</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[Gr. <?/ treelike; <grk>de`ndron</grk> tree + <grk>e'i^dos</grk> form: cf. F. <ets>dendro\'8bde</ets>.]</ety> <def>Resembling a shrub or tree in form; treelike; branching.</def><br/
 <syn><b>Syn. --</b> arboreal, arboreous, arborescent, arboresque, arboriform, dendriform, treelike, tree-shaped.</syn><br/
@@ -11948,7 +11948,7 @@ At last he whispers, \'bdDo; and we go snacks.\'b8</q> <rj><qau>Pope.</qau></rj>
 <p><hw>De*ni"er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who denies; <as>as, a <ex>denier</ex> of a fact, or of the faith, or of Christ</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De*nier"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>denier</ets>, fr. L. <ets>denarius</ets> a Roman silver coin orig. equiv. to ten asses, later, a copper, fr. <ets>deni</ets> ten by ten, fr. the root of <ets>decem</ets> ten; akin to E. <ets>ten</ets>. See <er>Ten</er>, and cf. <er>Denary</er>, <er>Dinar</er>.]</ety> <def>A small copper coin of insignificant value.</def><br/
+<p><hw>De*nier"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>denier</ets>, fr. L. <ets>denarius</ets> a Roman silver coin orig. equiv. to ten asses, later, a copper, fr. <ets>deni</ets> ten by ten, fr. the root of <ets>decem</ets> ten; akin to E. <ets>ten</ets>. See <er>Ten</er>, and cf. <er>Denary</er>, <er>Dinar</er>.]</ety> <def>A small copper coin of insignificant value.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>My dukedom to a beggarly <qex>denier</qex>.</q> <rj><qau>Shak.</qau></rj><br/
@@ -12171,7 +12171,7 @@ Natives, or <qex>denizens</qex>, of blest abodes.</q> <rj><qau>Dryden.</qau></rj
 <p><hw>De*not"ive</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Serving to denote.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>D\'82`noue`ment"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>d\'82nouement</ets>, fr. <ets>d\'82nouer</ets> to untie; pref. <ets>d\'82-</ets> (L. <ets>dis-</ets>) + <ets>nouer</ets> to tie, fr. L. <ets>nodus</ets> knot, perh. for <ets>gnodus</ets> and akin to E. <ets>knot</ets>.]</ety> <sn>1.</sn> <def>The unraveling or discovery of a plot; the catastrophe, especially of a drama or a romance.</def><br/
+<p><hw>D\'82`noue`ment"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>d\'82nouement</ets>, fr. <ets>d\'82nouer</ets> to untie; pref. <ets>d\'82-</ets> (L. <ets>dis-</ets>) + <ets>nouer</ets> to tie, fr. L. <ets>nodus</ets> knot, perh. for <ets>gnodus</ets> and akin to E. <ets>knot</ets>.]</ety> <sn>1.</sn> <def>The unraveling or discovery of a plot; the catastrophe, especially of a drama or a romance.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The solution of a mystery; issue; outcome.</def><br/
@@ -12297,7 +12297,7 @@ Natives, or <qex>denizens</qex>, of blest abodes.</q> <rj><qau>Dryden.</qau></rj
 <p><hw>Den"tal*ism</hw> <pr>(d<ecr/n"t<ait/l*<icr/z'm)</pr>, <pos>n.</pos> <def>The quality of being formed by the aid of the teeth.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Den*ta"li*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>dens</ets>, <ets>dentis</ets>, tooth.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of marine mollusks belonging to the <class>Scaphopoda</class>, having a tubular conical shell.</def><br/
+<p><hw>Den*ta"li*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>dens</ets>, <ets>dentis</ets>, tooth.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of marine mollusks belonging to the <class>Scaphopoda</class>, having a tubular conical shell.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dentaria</hw> <pos>n.</pos> <def>a genus usually included in genus <gen>Cardamine</gen>; in some classifications considered a separate genus.</def><br/
@@ -12333,16 +12333,16 @@ Natives, or <qex>denizens</qex>, of blest abodes.</q> <rj><qau>Dryden.</qau></rj
 <p><hw>Dent"el</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Dentil</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Den*telle"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Bookbinding)</fld> <def>An ornamental tooling like lace.</def>  <rj><au>Knight.</au></rj><br/
+<p><hw>Den*telle"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Bookbinding)</fld> <def>An ornamental tooling like lace.</def>  <rj><au>Knight.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Den*tel"li</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[It., sing. <ets>dentello</ets>, prop., little tooth, dim. of <ets>dente</ets> tooth, L. <ets>dens</ets>, <ets>dentis</ets>.  Cf. <er>Dentil</er>.]</ety> <def>Modillions.</def>  <rj><au>Spectator.</au></rj><br/
+<p><hw>Den*tel"li</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[It., sing. <ets>dentello</ets>, prop., little tooth, dim. of <ets>dente</ets> tooth, L. <ets>dens</ets>, <ets>dentis</ets>.  Cf. <er>Dentil</er>.]</ety> <def>Modillions.</def>  <rj><au>Spectator.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Den"tex</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., cf. L. <ets>dentix</ets> a sort of sea fish.]</ety> <fld>(Zo\'94l.)</fld> <def>An edible European marine fish (<spn>Sparus dentex</spn>, or <spn>Dentex vulgaris</spn>) of the family <fam>Percid\'91</fam>.</def><br/
+<p><hw>Den"tex</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., cf. L. <ets>dentix</ets> a sort of sea fish.]</ety> <fld>(Zo\'94l.)</fld> <def>An edible European marine fish (<spn>Sparus dentex</spn>, or <spn>Dentex vulgaris</spn>) of the family <fam>Percid\'91</fam>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Den`ti*ce"te</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>dens</ets>, <ets>dentis</ets>, tooth + <ets>cetus</ets>, pl. <ets>cete</ets>, whale, Gr. <?/.]</ety> <fld>(Zo\'94l.)</fld> <def>The division of Cetacea in which the teeth are developed, including the sperm whale, dolphins, etc.</def><br/
+<p><hw>Den`ti*ce"te</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>dens</ets>, <ets>dentis</ets>, tooth + <ets>cetus</ets>, pl. <ets>cete</ets>, whale, Gr. <?/.]</ety> <fld>(Zo\'94l.)</fld> <def>The division of Cetacea in which the teeth are developed, including the sperm whale, dolphins, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Den"ti*cle</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>denticulus</ets> a little tooth, dim. of <ets>dens</ets>, <ets>dentis</ets>, tooth. See <er>Dental</er>, and cf. <er>Dentelli</er>.]</ety> <def>A small tooth or projecting point.</def></p>
@@ -12407,7 +12407,7 @@ Natives, or <qex>denizens</qex>, of blest abodes.</q> <rj><qau>Dryden.</qau></rj
 <p><hw>Den"ti*phone</hw> <pr>(d<ecr/n"t<icr/*f<omac/n)</pr>, <pos>n.</pos> <ety>[L. <ets>dens</ets>, <ets>dentis</ets>, tooth + Gr. <grk>fwnh`</grk> sound.]</ety> <def>An instrument which, placed against the teeth, conveys sound to the auditory nerve; an audiphone.</def>  <rj><au>Knight.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Den`ti*ros"ter</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dentirostres</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. L. <ets>dens</ets>, <ets>dentis</ets>, tooth + <ets>rostrum</ets> bill, beak: cf. F. <ets>dentirostre</ets>.]</ety> <fld>(Zo\'94l.)</fld> <def>A dentirostral bird.</def><br/
+<p><hw>Den`ti*ros"ter</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dentirostres</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. L. <ets>dens</ets>, <ets>dentis</ets>, tooth + <ets>rostrum</ets> bill, beak: cf. F. <ets>dentirostre</ets>.]</ety> <fld>(Zo\'94l.)</fld> <def>A dentirostral bird.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Den`ti*ros"tral</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zo\'94l.)</fld> <def>Having a toothed bill; -- applied to a group of passerine birds, having the bill notched, and feeding chiefly on insects, as the shrikes and vireos. See <xex>Illust.</xex> (<xex>N</xex>) under <er>Beak</er>.</def><br/
@@ -13553,7 +13553,7 @@ Your oath, my lord, is vain and frivolous.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>I am the sole <qex>depository</qex> of my own secret, and it shall perish with me.</q> <rj><qau>Junius.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De*pos"i*tum</hw> <pr>(-t<ucr/m)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Deposit.</def><br/
+<p><hw>De*pos"i*tum</hw> <pr>(-t<ucr/m)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Deposit.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>De*pos"i*ture</hw> <pr>(-t<usl/r; 135)</pr>, <pos>n.</pos> <def>The act of depositing; deposition.</def> <mark>[Obs.]</mark>  <rj><au>Sir T. Browne.</au></rj><br/
@@ -14158,7 +14158,7 @@ That should <qex>deracinate</qex> such savagery.</q> <rj><qau>Shak.</qau></rj><b
 <p><hw>De*ray"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF. <ets>derroi</ets>, <ets>desroi</ets>, <ets>desrei</ets>; pref. <ets>des-</ets> (L. <ets>dis-</ets>) + <ets>roi</ets>, <ets>rei</ets>, <ets>rai</ets>, order. See <er>Array</er>.]</ety> <def>Disorder; merriment.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Der"bi*o</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>A large European food fish (<spn>Lichia glauca</spn>).</def><br/
+<p><hw>Der"bi*o</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>A large European food fish (<spn>Lichia glauca</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Der"by</hw> <pr>(?; <it>usually</it> ? <it>in Eng.</it>; 85)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A race for three-old horses, run annually at Epsom (near London), for the Derby stakes. It was instituted by the 12th Earl of Derby, in 1780.</def><br/
@@ -14259,7 +14259,7 @@ And Laughter holding both his sides.</q> <rj><qau>Milton.</qau></rj></p>
 <p><hw>De*rid"ing*ly</hw>, <pos>adv.</pos> <def>By way of derision or mockery.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De ri`gueur"</hw> <pr>(?)</pr>. <ety>[F. See 2d <er>Rigor</er>.]</ety> <def>According to strictness (of etiquette, rule, or the like); obligatory; strictly required.</def><br/
+<p><hw>De ri`gueur"</hw> <pr>(?)</pr>. <ety>[F. See 2d <er>Rigor</er>.]</ety> <def>According to strictness (of etiquette, rule, or the like); obligatory; strictly required.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>De*ri"sion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>derisio</ets>: cf. F. <ets>d\'82rision</ets>. See <er>Deride</er>.]</ety> <sn>1.</sn> <def>The act of deriding, or the state of being derided; mockery; scornful or contemptuous treatment which holds one up to ridicule.</def><br/
@@ -14441,7 +14441,7 @@ And to his mates thus in <qex>derision</qex> called.</q> <rj><qau>Milton.</qau><
 <p><sn>2.</sn> <fld>(Anat.)</fld> <def>See <er>Dermis</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Der"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Derm</er>.]</ety> <fld>(Anat.)</fld> <def>See <er>Dermis</er>.</def><br/
+<p><hw>Der"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Derm</er>.]</ety> <fld>(Anat.)</fld> <def>See <er>Dermis</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dermacentor</hw> <pos>n.</pos> <def>a genus comprising vectors of important diseases of man and animals.</def><br/
@@ -14453,7 +14453,7 @@ And to his mates thus in <qex>derision</qex> called.</q> <rj><qau>Milton.</qau><
 
 <p><sn>2.</sn> <fld>(Anat.)</fld> <def>Pertaining to the dermis or true skin.</def></p>
 
-<p><mhw>\'d8<hw>Der*map"te*ra</hw> <pr>(?)</pr>, <hw>Der*map"ter*an</hw> <pr>(<?/)</pr></mhw>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>See <er>Dermoptera</er>, <er>Dermopteran</er>.</def></p>
+<p><mhw><hw>Der*map"te*ra</hw> <pr>(?)</pr>, <hw>Der*map"ter*an</hw> <pr>(<?/)</pr></mhw>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>See <er>Dermoptera</er>, <er>Dermopteran</er>.</def></p>
 
 <p><mhw>{ <hw>Der*mat"ic</hw> <pr>(?)</pr>, <hw>Der"ma*tine</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[Gr. <?/, <?/, fr. <?/ skin.]</ety> <def>Of or pertaining to the skin.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -14488,7 +14488,7 @@ And to his mates thus in <qex>derision</qex> called.</q> <rj><qau>Milton.</qau><
 
 <p><hw>Der*mat"o*phyte</hw> <pr>(d<etil/r*m<acr/t"<osl/*f<imac/t <it>or</it> d<etil/r"m<adot/*t<osl/*f<imac/t)</pr>, <pos>n.</pos> <ety>[Gr. <grk>de`rma</grk>, <grk>-atos</grk>, skin + <grk>fyto`n</grk> plant.]</ety> <fld>(Med.)</fld> <def>A fungus infecting and parasitic on the skin, especially one which causes disease; <as>as, ringworm is caused by a  <ex>dermatophyte</ex></as>.</def></p>
 
-<p>\'d8<hw>Der*mes"tes</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>dermhsth`s</grk>; <grk>de`rma</grk> skin + root of <?/  to eat.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of coleopterous insects, the larv\'91 of which feed animal substances. They are very destructive to dries meats, skins, woolens, and furs. The most common species is <spn>Dermestes lardarius</spn>, known as the <stype>bacon beetle</stype>.</def><br/
+<p><hw>Der*mes"tes</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>dermhsth`s</grk>; <grk>de`rma</grk> skin + root of <?/  to eat.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of coleopterous insects, the larv\'91 of which feed animal substances. They are very destructive to dries meats, skins, woolens, and furs. The most common species is <spn>Dermestes lardarius</spn>, known as the <stype>bacon beetle</stype>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Der*mes"toid</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Dermestes</ets> + <ets>-oid</ets>.]</ety> <fld>(Zo\'94l.)</fld> <def>Pertaining to or resembling the genus Dermestes.</def><br/
@@ -14509,10 +14509,10 @@ And to his mates thus in <qex>derision</qex> called.</q> <rj><qau>Milton.</qau><
 <p><cs><col><b>Dermic remedies</b></col> <fld>(Med.)</fld>, <cd>such as act through the skin.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Der"mis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Derm</er>.]</ety> <fld>(Anat.)</fld> <def>The deep sensitive layer of the skin beneath the scarfskin or epidermis; -- called also <altname>true skin</altname>, <altname>derm</altname>, <altname>derma</altname>, <altname>corium</altname>, <altname>cutis</altname>, and <altname>enderon</altname>. See <er>Skin</er>, and <xex>Illust.</xex> in Appendix.</def><br/
+<p><hw>Der"mis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Derm</er>.]</ety> <fld>(Anat.)</fld> <def>The deep sensitive layer of the skin beneath the scarfskin or epidermis; -- called also <altname>true skin</altname>, <altname>derm</altname>, <altname>derma</altname>, <altname>corium</altname>, <altname>cutis</altname>, and <altname>enderon</altname>. See <er>Skin</er>, and <xex>Illust.</xex> in Appendix.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Der`mo*bran`chi*a"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zo\'94l.)</fld> <def>A group of nudibranch mollusks without special gills.</def><br/
+<p><hw>Der`mo*bran`chi*a"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zo\'94l.)</fld> <def>A group of nudibranch mollusks without special gills.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Der`mo*bran"chi*ate</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Derm</ets> + <ets>branchiate</ets>.]</ety> <fld>(Zo\'94l.)</fld> <def>Having the skin modified to serve as a gill.</def><br/
@@ -14536,7 +14536,7 @@ And to his mates thus in <qex>derision</qex> called.</q> <rj><qau>Milton.</qau><
 <p><hw>Der"mo*phyte</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A dermatophyte.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Der*mop"te*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ skin + <?/ wing.]</ety> <sn>1.</sn> <fld>(Zo\'94l.)</fld> <def>The division of insects which includes the earwigs (<fam>Forticulid\'91</fam>).</def><-- now usu. <ord>Dermaptera</ord> --><br/
+<p><hw>Der*mop"te*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ skin + <?/ wing.]</ety> <sn>1.</sn> <fld>(Zo\'94l.)</fld> <def>The division of insects which includes the earwigs (<fam>Forticulid\'91</fam>).</def><-- now usu. <ord>Dermaptera</ord> --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zo\'94l.)</fld> <def>A group of lemuroid mammals having a parachutelike web of skin between the fore and hind legs, of which the colugo (<gen>Galeopithecus</gen>) is the type. See <er>Colugo</er>.</def><br/
@@ -14550,16 +14550,16 @@ And to his mates thus in <qex>derision</qex> called.</q> <rj><qau>Milton.</qau><
 <p><hw>Der*mop"ter*an</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>An insect which has the anterior pair of wings coriaceous, and does not use them in flight, as the earwig.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Der*mop"te*ri</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zo\'94l.)</fld> <def>Same as <er>Dermopterygii</er>.</def><br/
+<p><hw>Der*mop"te*ri</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zo\'94l.)</fld> <def>Same as <er>Dermopterygii</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Der*mop`te*ryg"i*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ skin + <?/ wing, fin, dim. of <?/ wing.]</ety> <fld>(Zo\'94l.)</fld> <def>A group of fishlike animals including the Marsipobranchiata and Leptocardia.</def><br/
+<p><hw>Der*mop`te*ryg"i*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ skin + <?/ wing, fin, dim. of <?/ wing.]</ety> <fld>(Zo\'94l.)</fld> <def>A group of fishlike animals including the Marsipobranchiata and Leptocardia.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Der`mo*skel"e*ton</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Derm</ets> + <ets>skeleton</ets>.]</ety> <fld>(Anat.)</fld> <def>See <er>Exoskeleton</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Der`mos*to"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/ skin + <?/ bone.]</ety> <fld>(Physiol.)</fld> <def>Ossification of the dermis.</def><br/
+<p><hw>Der`mos*to"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/ skin + <?/ bone.]</ety> <fld>(Physiol.)</fld> <def>Ossification of the dermis.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dern</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Etymol. uncertain.]</ety> <def>A gatepost or doorpost.</def> <mark>[Local Eng.]</mark>  <rj><au>C. Kingsley.</au></rj><br/
@@ -14580,7 +14580,7 @@ And to his mates thus in <qex>derision</qex> called.</q> <rj><qau>Milton.</qau><
 <p><hw>Dern"ful</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Secret; hence, lonely; sad; mournful.</def> <mark>[Obs.]</mark> \'bd<xex>Dernful</xex> noise.\'b8  <rj><au>Spenser.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Der`nier"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., from OF. <ets>darrein</ets>, <ets>derrain</ets>. See <er>Darrein</er>.]</ety> <def>Last; final.</def><br/
+<p><hw>Der`nier"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., from OF. <ets>darrein</ets>, <ets>derrain</ets>. See <er>Darrein</er>.]</ety> <def>Last; final.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Dernier ressort</b></col> <pr>(<?/)</pr> <ety>[F.]</ety>, <cd>last resort or expedient.</cd></cs><br/
@@ -14666,7 +14666,7 @@ And to his mates thus in <qex>derision</qex> called.</q> <rj><qau>Milton.</qau><
 <p><cs><col><b>Derogatory clause in a testament</b></col> <fld>(Law)</fld>, <cd>a sentence of secret character inserted by the testator alone, of which he reserves the knowledge to himself, with a condition that no will he may make thereafter shall be valid, unless this clause is inserted word for word; -- a precaution to guard against later wills extorted by violence, or obtained by suggestion.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Der`o*tre"ma*ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>de`ros</grk> skin + <?/, <?/, hole.]</ety> <fld>(Zo\'94l.)</fld> <def>The tribe of aquatic Amphibia which includes Amphiuma, Menopoma, etc. They have permanent gill openings, but no external gills; -- called also <fam>Cryptobranchiata</fam>.</def> <altsp>[Written also <asp>Derotrema</asp>.]</altsp><br/
+<p><hw>Der`o*tre"ma*ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>de`ros</grk> skin + <?/, <?/, hole.]</ety> <fld>(Zo\'94l.)</fld> <def>The tribe of aquatic Amphibia which includes Amphiuma, Menopoma, etc. They have permanent gill openings, but no external gills; -- called also <fam>Cryptobranchiata</fam>.</def> <altsp>[Written also <asp>Derotrema</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Der"re</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Dearer.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
@@ -14696,7 +14696,7 @@ And to his mates thus in <qex>derision</qex> called.</q> <rj><qau>Milton.</qau><
 <p><hw>Derth</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Dearth; scarcity.</def> <mark>[Obs.]</mark>  <rj><au>Spenser.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Der`tro*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ beak + <?/ box, case.]</ety> <fld>(Zo\'94l.)</fld> <def>The horny covering of the end of the bill of birds.</def></p>
+<p><hw>Der`tro*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ beak + <?/ box, case.]</ety> <fld>(Zo\'94l.)</fld> <def>The horny covering of the end of the bill of birds.</def></p>
 
 <p><mhw>{ <hw>Der"vish</hw> <pr>(?)</pr>, <hw>Der"vise</hw> <pr>(?)</pr>, <hw>Der"vis</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[Per. <ets>derw<emac/sch</ets>, fr. OPer. <ets>derew</ets> to beg, ask alms: cf. F. <ets>derviche</ets>.]</ety> <sn>1.</sn> <def>A Turkish or Persian monk, especially one who professes extreme poverty and leads an austere life.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -15275,7 +15275,7 @@ So well <qex>deserved</qex> me.</q> <rj><qau>Massinger.</qau></rj><br/
 <p><hw>De*sid"er*a*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Desirable.</def> <mark>[R.]</mark> \'bdGood and <xex>desiderable</xex> things.\'b8  <rj><au>Holland.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De*sid`e*ra"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>See <er>Desideratum</er>.</def><br/
+<p><hw>De*sid`e*ra"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>See <er>Desideratum</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>De*sid"er*ate</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Desiderated</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Desiderating</conjf>.]</vmorph> <ety>[L. <ets>desideratus</ets>, p. p. of <ets>desiderare</ets> to desire, miss. See <er>Desire</er>, and cf.  <er>Desideratum</er>.]</ety> <def>To desire; to feel the want of; to lack; to miss; to want.</def><br/
@@ -15299,7 +15299,7 @@ So well <qex>deserved</qex> me.</q> <rj><qau>Massinger.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Gram.)</fld> <def>A verb formed from another verb by a change of termination, and expressing the desire of doing that which is indicated by the primitive verb.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De*sid`e*ra"tum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Desiderata</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. <ets>desideratus</ets>, p. p. See <er>Desiderate</er>.]</ety> <def>Anything desired; that of which the lack is felt; a want generally felt and acknowledge.</def></p>
+<p><hw>De*sid`e*ra"tum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Desiderata</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. <ets>desideratus</ets>, p. p. See <er>Desiderate</er>.]</ety> <def>Anything desired; that of which the lack is felt; a want generally felt and acknowledge.</def></p>
 
 <p><mhw>{ <hw>De*sid"i*ose`</hw> <pr>(?)</pr>, <hw>De*sid"i*ous</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[L. <ets>desidiosus</ets>, fr. <ets>desidia</ets> a sitting idle, fr. <ets>desid<?/re</ets> to sit idle; <ets>de-</ets> + <ets>sed<?/re</ets> to sit.]</ety> <def>Idle; lazy.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -15664,7 +15664,7 @@ And toil'st in vain).</q> <rj><qau>Milton.</qau></rj><br/
 <p><hw>Des"mine</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>de`smh</grk>, <grk>desmo`s</grk>, bundle, fr. <grk>dei^n</grk> to bind.]</ety> <fld>(Min.)</fld> <def>Same as <er>Stilbite</er>. It commonly occurs in bundles or tufts of crystals.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Des`mo*bac*te"ri*a</hw> <pr>(d<ecr/s`m<osl/*b<acr/k*t<emac/"r<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[Gr. <grk>desmo`s</grk> bond + E. <ets>bacteria</ets>.]</ety> <def>See <er>Microbacteria</er>.</def><br/
+<p><hw>Des`mo*bac*te"ri*a</hw> <pr>(d<ecr/s`m<osl/*b<acr/k*t<emac/"r<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[Gr. <grk>desmo`s</grk> bond + E. <ets>bacteria</ets>.]</ety> <def>See <er>Microbacteria</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Desmodontidae</hw> <pos>n.</pos> <def>a natural family comprisng the true vampire bats.</def><br/
@@ -15687,10 +15687,10 @@ And toil'st in vain).</q> <rj><qau>Milton.</qau></rj><br/
 <p><hw>Des*mol"o*gy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>desmo`s</grk> ligament + <ets>-logy</ets>.]</ety> <def>The science which treats of the ligaments.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Des`mo*my*a"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ bond + <?/ muscle.]</ety> <fld>(Zo\'94l.)</fld> <def>The division of Tunicata which includes the Salp\'91. See <er>Salpa</er>.</def><br/
+<p><hw>Des`mo*my*a"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ bond + <?/ muscle.]</ety> <fld>(Zo\'94l.)</fld> <def>The division of Tunicata which includes the Salp\'91. See <er>Salpa</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Des"o*late</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>desolatus</ets>, p. p. of <ets>desolare</ets> to leave alone, forsake; <ets>de-</ets> + <ets>solare</ets> to make lonely, <ets>solus</ets> alone. See <er>Sole</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <def>Destitute or deprived of inhabitants; deserted; uninhabited; hence, gloomy; <as>as, a <ex>desolate</ex> isle; a <ex>desolate</ex> wilderness; a <ex>desolate</ex> house.</as></def><br/
+<p><hw>Des"o*late</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>desolatus</ets>, p. p. of <ets>desolare</ets> to leave alone, forsake; <ets>de-</ets> + <ets>solare</ets> to make lonely, <ets>solus</ets> alone. See <er>Sole</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <def>Destitute or deprived of inhabitants; deserted; uninhabited; hence, gloomy; <as>as, a <ex>desolate</ex> isle; a <ex>desolate</ex> wilderness; a <ex>desolate</ex> house.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>I will make Jerusalem . . . a den of dragons, and I will make the cities of Judah <qex>desolate</qex>, without an inhabitant.</q> <rj><qau>Jer. ix. 11.</qau></rj><br/
@@ -17287,7 +17287,7 @@ That <qex>detriment</qex>, if such it be.</q> <rj><qau>Milton.</qau></rj><br/
 <p><hw>De`tu*mes"cence</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>detumescere</ets> to cease swelling; <ets>de</ets> + <ets>tumescere</ets>, <ets>tumere</ets>, to swell.]</ety> <def>Diminution of swelling; subsidence of anything swollen.</def> <mark>[R.]</mark>  <rj><au>Cudworth.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De"tur</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>detur</ets> let it be given.]</ety> <def>A present of books given to a meritorious undergraduate student as a prize.</def> <mark>[Harvard Univ., U. S.]</mark><br/
+<p><hw>De"tur</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>detur</ets> let it be given.]</ety> <def>A present of books given to a meritorious undergraduate student as a prize.</def> <mark>[Harvard Univ., U. S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>De*turb"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[L. <ets>deturbare</ets>.]</ety> <def>To throw down.</def> <mark>[Obs.]</mark>  <rj><au>Bp. Hall.</au></rj><br/
@@ -17339,7 +17339,7 @@ That <qex>detriment</qex>, if such it be.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><hw>Deu`ter*on"o*my</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/; <?/ second + <?/ law: cf. L. <ets>Deuteronomium</ets>.]</ety> <fld>(Bibl.)</fld> <def>The fifth book of the Pentateuch, containing the second giving of the law by Moses.</def></p>
 
-<p><mhw>{ \'d8<hw>Deu`ter*o*pa*thi"a</hw> <pr>(?)</pr>, <hw>Deu`ter*op"a*thy</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>deuteropathia</ets>, fr. Gr. <?/ second + <?/ suffering, fr. <?/, <?/, to suffer: cf. F. <ets>deut\'82ropathie</ets>.]</ety> <fld>(Med.)</fld> <def>A sympathetic affection of any part of the body, as headache from an overloaded stomach.</def><br/
+<p><mhw>{ <hw>Deu`ter*o*pa*thi"a</hw> <pr>(?)</pr>, <hw>Deu`ter*op"a*thy</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>deuteropathia</ets>, fr. Gr. <?/ second + <?/ suffering, fr. <?/, <?/, to suffer: cf. F. <ets>deut\'82ropathie</ets>.]</ety> <fld>(Med.)</fld> <def>A sympathetic affection of any part of the body, as headache from an overloaded stomach.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Deu`ter*o*path"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Pertaining to deuteropathy; of the nature of deuteropathy.</def><br/
@@ -17377,12 +17377,12 @@ That <qex>detriment</qex>, if such it be.</q> <rj><qau>Milton.</qau></rj><br/
 <p><hw>Deu*tox"ide</hw> <pr>(?; 104)</pr>, <pos>n.</pos> <ety>[Pref. <ets>deut-</ets> + <ets>oxide</ets>.]</ety> <fld>(Chem.)</fld> <def>A compound containing in the molecule two atoms of oxygen united with some other element or radical; -- usually called <altname>dioxide</altname>, or less frequently, <altname>binoxide</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Deut"zi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. Named after <person>Jan <etsep>Deutz</etsep></person> of Holland.]</ety> <fld>(Bot.)</fld> <def>A genus of shrubs with pretty white flowers, much cultivated.</def></p>
+<p><hw>Deut"zi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. Named after <person>Jan <etsep>Deutz</etsep></person> of Holland.]</ety> <fld>(Bot.)</fld> <def>A genus of shrubs with pretty white flowers, much cultivated.</def></p>
 
-<p><mhw>\'d8<hw>Dev</hw> <pr>(?)</pr>, <it>or</it>  \'d8<hw>De"va</hw> (<?/)</mhw>, <pos>n.</pos> <ety>[Skr. <ets>d<?/va</ets>.  Cf. <er>Deity</er>.]</ety> <fld>(Hind. Myth.)</fld> <def>A god; a deity; a divine being; an idol; a king.</def><br/
+<p><mhw><hw>Dev</hw> <pr>(?)</pr>, <it>or</it>  <hw>De"va</hw> (<?/)</mhw>, <pos>n.</pos> <ety>[Skr. <ets>d<?/va</ets>.  Cf. <er>Deity</er>.]</ety> <fld>(Hind. Myth.)</fld> <def>A god; a deity; a divine being; an idol; a king.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De`va*na"ga*ri</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr. <ets>d<emac/van\'begar\'c6</ets>; <ets>d<emac/va</ets> god + <ets>nagara</ets> city, <it>i. e.</it>, divine city.]</ety> <def>The script or characters in which Sanskrit and Hindi are written.</def><br/
+<p><hw>De`va*na"ga*ri</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr. <ets>d<emac/van\'begar\'c6</ets>; <ets>d<emac/va</ets> god + <ets>nagara</ets> city, <it>i. e.</it>, divine city.]</ety> <def>The script or characters in which Sanskrit and Hindi are written.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><hw>De*vap`o*ra"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The change of vapor into water, as in the formation of rain.</def><br/
@@ -17426,10 +17426,10 @@ And half the business of destruction done.</q> <rj><qau>Goldsmith.</qau></rj><br
 <p><hw>Dev"as*ta`tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>One who, or that which, devastates.</def>  <rj><au>Emerson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dev`as*ta"vit</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., he has wasted.]</ety> <fld>(Law)</fld> <def>Waste or misapplication of the assets of a deceased person by an executor or an administrator.</def>  <rj><au>Bouvier.</au></rj><br/
+<p><hw>Dev`as*ta"vit</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., he has wasted.]</ety> <fld>(Law)</fld> <def>Waste or misapplication of the assets of a deceased person by an executor or an administrator.</def>  <rj><au>Bouvier.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De"va*ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind., fr. Skr. <ets>d<?/va</ets> god.]</ety> <fld>(Hind. Myth.)</fld> <def>A deity; a divine being; a good spirit; an idol.</def> <altsp>[Written also <asp>dewata</asp>.]</altsp><br/
+<p><hw>De"va*ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind., fr. Skr. <ets>d<?/va</ets> god.]</ety> <fld>(Hind. Myth.)</fld> <def>A deity; a divine being; a good spirit; an idol.</def> <altsp>[Written also <asp>dewata</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Deve</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[See <er>Deaf</er>.]</ety> <def>Deaf.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
@@ -17571,7 +17571,7 @@ That life <qex>develops</qex> from within.</q> <rj><qau>Mrs. Browning.</qau></rj
 <p><hw>De*vex"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>devexitas</ets>, fr. <ets>devexus</ets>. See <er>Devex</er>, <pos>a.</pos>]</ety> <def>A bending downward; a sloping; incurvation downward; declivity.</def> <mark>[R.]</mark>  <rj><au>Davies (Wit's Pilgr.)</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De"vi</hw> <pr>(?)</pr>, <pos>n.</pos><def>; <xex>fem</xex>. of <er>Deva</er>. A goddess.</def><br/
+<p><hw>De"vi</hw> <pr>(?)</pr>, <pos>n.</pos><def>; <xex>fem</xex>. of <er>Deva</er>. A goddess.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>deviance</hw> <pos>n.</pos> <sn>1.</sn> <def>an aberrant state or condition.</def><br/
@@ -17933,7 +17933,7 @@ They are which fortunes do by vows <qex>devise</qex>.</q> <rj><qau>Spenser.</qau
 <p><sn>2.</sn> <def>Destitute; not in possession; -- with <xex>of</xex>; <as>as, <ex>devoid</ex> of sense; <ex>devoid</ex> of pity or of pride.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De*voir"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. L. <ets>debere</ets> to owe. See <er>Due</er>.]</ety> <def>Duty; service owed; hence, due act of civility or respect; -- now usually in the plural; <as>as, they paid their <ex>devoirs</ex> to the ladies</as>.</def> \'bdDo now your <xex>devoid</xex>, young knights!\'b8  <rj><au>Chaucer.</au></rj><br/
+<p><hw>De*voir"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. L. <ets>debere</ets> to owe. See <er>Due</er>.]</ety> <def>Duty; service owed; hence, due act of civility or respect; -- now usually in the plural; <as>as, they paid their <ex>devoirs</ex> to the ladies</as>.</def> \'bdDo now your <xex>devoid</xex>, young knights!\'b8  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dev"o*lute</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[L. <ets>devolutus</ets>, p. p. of <ets>devolvere</ets>. See <er>Devolve</er>.]</ety> <def>To devolve.</def> <mark>[Obs.]</mark>  <rj><au>Foxe.</au></rj><br/
@@ -18084,7 +18084,7 @@ Tumbled together into rude chaos.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 <p><hw>De*vo"tion*al*ly</hw> <pr>(?)</pr>, <pos>adv.</pos> <def>In a devotional manner; toward devotion.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>De*vo"to</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <def>A devotee.</def>  <rj><au>Dr. J. Scott.</au></rj><br/
+<p><hw>De*vo"to</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <def>A devotee.</def>  <rj><au>Dr. J. Scott.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>De*vo"tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>A worshiper; one given to devotion.</def> <mark>[Obs.]</mark>  <rj><au>Beau. &  Fl.</au></rj><br/
@@ -18440,18 +18440,18 @@ Went and watered all the ground.</q> <rj><qau>Milton.</qau></rj><br/
 <p><hw>Dhaulagiri</hw> <pos>prop. n.</pos> <def>a mountain in Nepal, 26,810 feet high.</def> <mark>[proper name]</mark><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p>\'d8<hw>Dhole</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>A fierce, wild dog (<spn>Canis Dukhunensis</spn>), found in the mountains of India. It is remarkable for its propensity to hunt the tiger and other wild animals in packs.</def><br/
+<p><hw>Dhole</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>A fierce, wild dog (<spn>Canis Dukhunensis</spn>), found in the mountains of India. It is remarkable for its propensity to hunt the tiger and other wild animals in packs.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dho"ny</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A Ceylonese boat. See <er>Doni</er>.</def><br/
+<p><hw>Dho"ny</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A Ceylonese boat. See <er>Doni</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 405 --></p>
 
-<p><mhw>\'d8<hw>Dhoor"ra</hw>, \'d8<hw>Dhour"ra</hw>, <it>or</it> <hw>Dhur"ra</hw> <pr>(<?/)</pr></mhw>, <pos>n.</pos> <def>Indian millet. See <er>Durra</er>.</def><br/
+<p><mhw><hw>Dhoor"ra</hw>, <hw>Dhour"ra</hw>, <it>or</it> <hw>Dhur"ra</hw> <pr>(<?/)</pr></mhw>, <pos>n.</pos> <def>Indian millet. See <er>Durra</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dhow</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Ar. <ets>d\'beo</ets>?]</ety> <def>A coasting vessel of Arabia, East Africa, and the Indian Ocean. It has generally but one mast and a lateen sail.</def> <altsp>[Also written <asp>dow</asp>.]</altsp><br/
+<p><hw>Dhow</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Ar. <ets>d\'beo</ets>?]</ety> <def>A coasting vessel of Arabia, East Africa, and the Indian Ocean. It has generally but one mast and a lateen sail.</def> <altsp>[Also written <asp>dow</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di-</hw> <pr>(?)</pr>. <ety>[Gr. <grk>di`s-</grk> twice; akin to <?/ two, L. <ets>bis</ets> twice. See <er>Two</er>, and cf. <er>Bi-</er>, <er>Dia-</er>. The L. pref. <ets>dis-</ets> sometimes assumes the form <ets>di</ets>-. See <er>Dis-</er>.]</ety> <def>A prefix, signifying <sig>twofold</sig>, <sig>double</sig>, <sig>twice</sig></def>; <fld>(Chem.)</fld> <def>denoting <sig>two</sig> atoms, radicals, groups, or equivalents, as the case may be. See <er>Bi-</er>, 2.</def></p>
@@ -18482,7 +18482,7 @@ Went and watered all the ground.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><cs><col><b>Diabetic sugar</b></col>. <fld>(Chem.)</fld> <cd>Same as <er>Dextrose</er>.</cd></cs></p>
 
-<p><mhw>{ \'d8<hw>Dia`ble*rie"</hw> <pr>(?)</pr>, <hw>Di*ab"le*y</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[F. <ets>diablerie</ets>, fr. <ets>diable</ets> devil, L. <ets>diabolus</ets>. See <er>Devil</er>.]</ety> <def>Devilry; sorcery or incantation; a diabolical deed; mischief.</def></p>
+<p><mhw>{ <hw>Dia`ble*rie"</hw> <pr>(?)</pr>, <hw>Di*ab"le*y</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[F. <ets>diablerie</ets>, fr. <ets>diable</ets> devil, L. <ets>diabolus</ets>. See <er>Devil</er>.]</ety> <def>Devilry; sorcery or incantation; a diabolical deed; mischief.</def></p>
 
 <p><mhw>{ <hw>Di`a*bol"ic</hw> <pr>(?)</pr>, <hw>Di`a*bol"ic*al</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[L. <ets>diabolicus</ets>, Gr. <?/ devilish, slanderous: cf. F. <ets>diabolique</ets>. See <er>Devil</er>.]</ety> <sn>1.</sn> <def>Pertaining to the devil; resembling, or appropriate, or appropriate to, the devil; befitting hell or satan; devilish; infernal; impious; <as>as, a <ex>diabolic</ex> or <ex>diabolical</ex> temper or act; the <ex>diabolical</ex> expression on his face; fires lit up a <ex>diabolic</ex> scene</as>.</def> \'bd<xex>Diabolic</xex> power.\'b8 <au>Milton.</au> \'bdThe <xex>diabolical</xex> institution.\'b8 <au>Motley.</au><br/
 <syn><b>Syn. --</b> devilish, mephistophelian, mephistophelean.</syn><br/
@@ -18524,13 +18524,13 @@ Went and watered all the ground.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><sn>2.</sn> <fld>(Math.)</fld> <def>A curved formed by the consecutive intersections of rays of light refracted through a lens.</def></p>
 
-<p><mhw>{ \'d8<hw>Di*ach"y*lon</hw> <pr>(?)</pr>, \'d8<hw>Di*ach"y*lum</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>diachylum</ets>, fr. Gr. <?/ very juicy; <grk>dia`</grk> thoroughly + <?/ juice.]</ety> <fld>(Med. & Chem.)</fld> <def>A plaster originally composed of the juices of several plants (whence its name), but now made of an oxide of lead and oil, and consisting essentially of glycerin mixed with lead salts of the fat acids.</def><br/
+<p><mhw>{ <hw>Di*ach"y*lon</hw> <pr>(?)</pr>, <hw>Di*ach"y*lum</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>diachylum</ets>, fr. Gr. <?/ very juicy; <grk>dia`</grk> thoroughly + <?/ juice.]</ety> <fld>(Med. & Chem.)</fld> <def>A plaster originally composed of the juices of several plants (whence its name), but now made of an oxide of lead and oil, and consisting essentially of glycerin mixed with lead salts of the fat acids.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di*ac"id</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Pref. <ets>di-</ets> + <ets>acid</ets>.]</ety> <fld>(Chem.)</fld> <def>Divalent; -- said of a base or radical as capable of saturating two acid monad radicals or a dibasic acid.  Cf. <er>Dibasic</er>, <pos>a.</pos>, and <er>Biacid</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di`a*co"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., from Gr. <?/ <?/ from poppy heads; <grk>dia`</grk> through, from + <?/ head, a poppy head.]</ety> <def>A sirup made of poppies.</def><br/
+<p><hw>Di`a*co"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., from Gr. <?/ <?/ from poppy heads; <grk>dia`</grk> through, from + <?/ head, a poppy head.]</ety> <def>A sirup made of poppies.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di*ac"o*nal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[LL. <ets>diaconalis</ets>: cf. F. <ets>diaconal</ets>.  Cf. <er>Deacon</er>.]</ety> <def>Of or pertaining to a deacon.</def><br/
@@ -18542,7 +18542,7 @@ Went and watered all the ground.</q> <rj><qau>Milton.</qau></rj><br/
 <p><hw>Di*ac"o*nate</hw>, <pos>a.</pos> <def>Governed by deacons.</def> \'bd<xex>Diaconate</xex> church.\'b8  <rj><au>T. Goodwin.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di*ac"o*pe</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/ a cutting in two; <grk>dia`</grk> through + <?/.]</ety> <fld>(Gram.)</fld> <def>Tmesis.</def><br/
+<p><hw>Di*ac"o*pe</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/ a cutting in two; <grk>dia`</grk> through + <?/.]</ety> <fld>(Gram.)</fld> <def>Tmesis.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di`a*cous"tic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Pref. <ets>di-</ets> + <ets>acoustic</ets>.]</ety> <def>Pertaining to the science or doctrine of refracted sounds.</def><br/
@@ -18559,7 +18559,7 @@ Went and watered all the ground.</q> <rj><qau>Milton.</qau></rj><br/
 <p><hw>Di`ac*tin"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Pref. <ets>di-</ets> + <ets>actinic</ets>.]</ety> <fld>(Physics)</fld> <def>Capable of transmitting the chemical or actinic rays of light; <as>as, <ex>diactinic</ex> media</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di`a*del"phi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ brother.]</ety> <fld>(Bot.)</fld> <def>A Linn\'91an class of plants whose stamens are united into two bodies or bundles by their filaments.</def></p>
+<p><hw>Di`a*del"phi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ brother.]</ety> <fld>(Bot.)</fld> <def>A Linn\'91an class of plants whose stamens are united into two bodies or bundles by their filaments.</def></p>
 
 <p><mhw>{ <hw>Di`a*del"phi*an</hw> <pr>(?)</pr>, <hw>Di`a*del"phous</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[Cf. F. <ets>diadelphe</ets>.]</ety> <fld>(Bot.)</fld> <def>Of or pertaining to the class Diadelphia; having the stamens united into two bodies by their filaments (said of a plant or flower); grouped into two bundles or sets by coalescence of the filaments (said of stamens).</def><br/
 [<source>1913 Webster</source>]</p>
@@ -18797,7 +18797,7 @@ The universal <qex>dialect</qex> of the world.</q> <rj><qau>South.</qau></rj><br
 <p><hw>Di"al*ist</hw>, <pos>n.</pos> <def>A maker of dials; one skilled in dialing.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di*al"la*ge</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ interchange, change, fr. <?/ to interchange.]</ety> <fld>(Rhet.)</fld> <def>A figure by which arguments are placed in various points of view, and then turned to one point.</def>  <rj><au>Smart.</au></rj><br/
+<p><hw>Di*al"la*ge</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ interchange, change, fr. <?/ to interchange.]</ety> <fld>(Rhet.)</fld> <def>A figure by which arguments are placed in various points of view, and then turned to one point.</def>  <rj><au>Smart.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di"al*lage</hw> <pr>(?; 277)</pr>, <pos>n.</pos> <ety>[Gr. <?/ change, alluding to the change and inequality of luster between the natural joints of the mineral.]</ety> <fld>(Min.)</fld> <def>A dark green or bronze-colored laminated variety of pyroxene, common in certain igneous rocks.</def><br/
@@ -18850,7 +18850,7 @@ The universal <qex>dialect</qex> of the world.</q> <rj><qau>South.</qau></rj><br
 <p><hw>Di`al*y*pet"al*ous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>dia`</grk> through, asunder + <?/ to loose + <?/ leaf.]</ety> <fld>(Bot.)</fld> <def>Having separate petals; polypetalous.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di*al"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dialyses</plw> <pr>(#)</pr>.</plu> <ety>[L., separation, fr. Gr. <?/, fr. <?/ to part asunder, dissolve; <grk>dia`</grk> through + <?/ to loose.]</ety> <sn>1.</sn> <fld>(Gram.)</fld> <def>Di\'91resis. See <er>Di\'91resis</er>, 1.</def><br/
+<p><hw>Di*al"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dialyses</plw> <pr>(#)</pr>.</plu> <ety>[L., separation, fr. Gr. <?/, fr. <?/ to part asunder, dissolve; <grk>dia`</grk> through + <?/ to loose.]</ety> <sn>1.</sn> <fld>(Gram.)</fld> <def>Di\'91resis. See <er>Di\'91resis</er>, 1.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Rhet.)</fld> <def>Same as <er>Asyndeton</er>.</def><br/
@@ -19029,7 +19029,7 @@ The universal <qex>dialect</qex> of the world.</q> <rj><qau>South.</qau></rj><br
 <p><cs><col><b>Diana monkey</b></col> <fld>(Zo\'94l.)</fld>, <cd>a handsome, white-bearded monkey of West Africa (<spn>Cercopithecus Diana</spn>).</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di*an"dri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <?/, <?/, a man, a male.]</ety> <fld>(Bot.)</fld> <def>A Linn\'91an class of plants having two stamens.</def><br/
+<p><hw>Di*an"dri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <?/, <?/, a man, a male.]</ety> <fld>(Bot.)</fld> <def>A Linn\'91an class of plants having two stamens.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di*an"dri*an</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Diandrous.</def><br/
@@ -19038,7 +19038,7 @@ The universal <qex>dialect</qex> of the world.</q> <rj><qau>South.</qau></rj><br
 <p><hw>Di*an"drous</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>diandre</ets>.]</ety> <fld>(Bot.)</fld> <def>Of or pertaining to the class Diandria; having two stamens.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di*a"ni*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>Diana</ets>; either as the name of the Roman goddess, or from its use in OE. as a name of silver.]</ety> <fld>(Chem.)</fld> <def>Same as <er>Columbium</er>.</def> <mark>[Obs.]</mark><br/
+<p><hw>Di*a"ni*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>Diana</ets>; either as the name of the Roman goddess, or from its use in OE. as a name of silver.]</ety> <fld>(Chem.)</fld> <def>Same as <er>Columbium</er>.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di`a*no*et"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <?/; <grk>dia`</grk> through + <?/ to revolve in the mind.]</ety> <fld>(Metaph.)</fld> <def>Pertaining to the discursive faculty, its acts or products.</def><br/
@@ -19085,7 +19085,7 @@ The <qex>diapason</qex> closing full in man.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><sn>5.</sn> <def>One of certain stops in the organ, so called because they extend through the scale of the instrument. They are of several kinds, as <stype>open diapason</stype>, <stype>stopped diapason</stype>, <stype>double diapason</stype>, and the like.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di`a*pe*de"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a leaping or oozing through, fr. <?/ to leap through; <grk>dia`</grk> through + <?/ to leap.]</ety> <fld>(Med.)</fld> <def>The passage of the corpuscular elements of the blood from the blood vessels into the surrounding tissues, without rupture of the walls of the blood vessels.</def><br/
+<p><hw>Di`a*pe*de"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a leaping or oozing through, fr. <?/ to leap through; <grk>dia`</grk> through + <?/ to leap.]</ety> <fld>(Med.)</fld> <def>The passage of the corpuscular elements of the blood from the blood vessels into the surrounding tissues, without rupture of the walls of the blood vessels.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Diapensiaceae</hw> <pos>n.</pos> <def>a natural family of northern temperate low evergreen plants; in some classifications placed in its own order <ord>Diapensiales</ord>.</def><br/
@@ -19096,7 +19096,7 @@ The <qex>diapason</qex> closing full in man.</q> <rj><qau>Dryden.</qau></rj><br/
 <syn><b>Syn. --</b> order <ord>Diapensiales</ord>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p>\'d8<hw>Di`a*pen"te</hw> <pr>(-p<ecr/n"t<esl/)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>dia`pente</grk> a fifth; <grk>dia`</grk> through + <grk>pe`nte</grk> five: cf. F. <ets>diapente</ets>.]</ety> <sn>1.</sn> <fld>(Anc. Mus.)</fld> <def>The interval of the fifth.</def><br/
+<p><hw>Di`a*pen"te</hw> <pr>(-p<ecr/n"t<esl/)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>dia`pente</grk> a fifth; <grk>dia`</grk> through + <grk>pe`nte</grk> five: cf. F. <ets>diapente</ets>.]</ety> <sn>1.</sn> <fld>(Anc. Mus.)</fld> <def>The interval of the fifth.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Med.)</fld> <def>A composition of five ingredients.</def><br/
@@ -19177,7 +19177,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>Di`a*phon"ics</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The doctrine of refracted sound; diacoustics.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di`a*pho*re"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, fr. <?/ to carry through, to throw off by perspiration; <grk>dia`</grk> through + <?/ to carry.]</ety> <fld>(Med.)</fld> <def>Perspiration, or an increase of perspiration.</def></p>
+<p><hw>Di`a*pho*re"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, fr. <?/ to carry through, to throw off by perspiration; <grk>dia`</grk> through + <?/ to carry.]</ety> <fld>(Med.)</fld> <def>Perspiration, or an increase of perspiration.</def></p>
 
 <p><mhw>{ <hw>Di`a*pho*ret"ic</hw> <pr>(?)</pr>, <hw>Di`a*pho*ret"ic*al</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[L. <ets>diaphoreticus</ets>, Gr. <?/: cf. F. <ets>diaphor\'82tique</ets>. See <er>Diaphoresis</er>.]</ety> <def>Having the power to increase perspiration.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -19227,7 +19227,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>Di*ap`o*phys"ic*al</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Anat.)</fld> <def>Pertaining to a diapophysis.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di`a*poph"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Dia-</er>, and <er>Apophysis</er>.]</ety> <fld>(Anat.)</fld> <def>The dorsal transverse, or tubercular, process of a vertebra. See <er>Vertebra</er>.</def><br/
+<p><hw>Di`a*poph"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Dia-</er>, and <er>Apophysis</er>.]</ety> <fld>(Anat.)</fld> <def>The dorsal transverse, or tubercular, process of a vertebra. See <er>Vertebra</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di"arch*y</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ to rule.]</ety> <def>A form of government in which the supreme power is vested in two persons.</def></p>
@@ -19247,7 +19247,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>Di`ar*thro"di*al</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Anat.)</fld> <def>Relating to diarthrosis, or movable articulations.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di`ar*thro"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <?/ to joint, articulate; <grk>dia`</grk> through, asunder + <?/ to fasten by a joint, <grk>'a`rqron</grk> joint.]</ety> <fld>(Anat.)</fld> <def>A form of articulation which admits of considerable motion; a complete joint; abarticulation. See <er>Articulation</er>.</def><br/
+<p><hw>Di`ar*thro"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <?/ to joint, articulate; <grk>dia`</grk> through, asunder + <?/ to fasten by a joint, <grk>'a`rqron</grk> joint.]</ety> <fld>(Anat.)</fld> <def>A form of articulation which admits of considerable motion; a complete joint; abarticulation. See <er>Articulation</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di"a*ry</hw> <pr>(d<imac/"<adot/*r<ycr/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Diaries</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>diarium</ets>, fr. <ets>dies</ets> day. See <er>Deity</er>.]</ety> <def>A register of daily events or transactions; a daily record; a journal; a blank book dated for the record of daily memoranda; <as>as, a <ex>diary</ex> of the weather; a physician's <ex>diary</ex>.</as></def><br/
@@ -19256,7 +19256,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>Di"a*ry</hw>, <pos>a.</pos> <def>lasting for one day; <as>as, a <ex>diary</ex> fever</as>.</def> <mark>[Obs.]</mark> \'bd<xex>Diary</xex> ague.\'b8  <rj><au>Bacon.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di*as"po*ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/. See <er>Diaspore</er>.]</ety> <def>Lit., \'bdDispersion.\'b8 -- applied collectively: (<it>a</it>) To those Jews who, after the Exile, were scattered through the Old World, and afterwards to Jewish Christians living among heathen. Cf. <au>James i. 1</au>. (<it>b</it>) By extension, to Christians isolated from their own communion, as among the Moravians to those living, usually as missionaries, outside of the parent congregation.</def><br/
+<p><hw>Di*as"po*ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/. See <er>Diaspore</er>.]</ety> <def>Lit., \'bdDispersion.\'b8 -- applied collectively: (<it>a</it>) To those Jews who, after the Exile, were scattered through the Old World, and afterwards to Jewish Christians living among heathen. Cf. <au>James i. 1</au>. (<it>b</it>) By extension, to Christians isolated from their own communion, as among the Moravians to those living, usually as missionaries, outside of the parent congregation.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Di"a*spore</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From Gr. <?/ a scattering; <grk>dia`</grk> through, asunder + <?/ to sow, scatter like seed: cf. F. <ets>diaspore</ets>.]</ety> <fld>(Min.)</fld> <def>A hydrate of alumina, often occurring in white lamellar masses with brilliant pearly luster; -- so named on account of its decrepitating when heated before the blowpipe.</def><br/
@@ -19271,7 +19271,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>Di`a*sta"sic</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Pertaining to, or consisting of, diastase; <as>as, <ex>diastasic</ex> ferment</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di*as"ta*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Diastase</er>.]</ety> <fld>(Surg.)</fld> <def>A forcible separation of bones without fracture.</def><br/
+<p><hw>Di*as"ta*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Diastase</er>.]</ety> <fld>(Surg.)</fld> <def>A forcible separation of bones without fracture.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di`a*stat"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <?/ separative. See <er>Diastase</er>.]</ety> <fld>(Physiol. Chem.)</fld> <def>Relating to diastase; having the properties of diastase; effecting the conversion of starch into sugar.</def><br/
@@ -19283,13 +19283,13 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>Di"a*stem</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>diastema</ets>, Gr. <?/, fr. <?/: cf. F. <ets>diast\'8ame</ets>.]</ety> <sd>(a)</sd> <def>Intervening space; interval.</def> <sd>(b)</sd> <fld>(Anc. Mus.)</fld> <def>An interval.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di`a*ste"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Diastem</er>.]</ety> <fld>(Anat.)</fld> <def>A vacant space, or gap, esp. between teeth in a jaw.</def><br/
+<p><hw>Di`a*ste"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Diastem</er>.]</ety> <fld>(Anat.)</fld> <def>A vacant space, or gap, esp. between teeth in a jaw.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di*as"ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ star.]</ety> <fld>(Biol.)</fld> <def>A double star; -- applied to the nucleus of a cell, when, during cell division, the loops of the nuclear network separate into two groups, preparatory to the formation of two daughter nuclei. See <er>Karyokinesis</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di*as"to*le</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, fr. <?/ to put asunder, to separate; <grk>dia`</grk> through + <?/ to set, to place.]</ety> <sn>1.</sn> <fld>(Physiol.)</fld> <def>The rhythmical expansion or dilatation of the heart and arteries; -- correlative to <contr>systole</contr>, or contraction.</def><br/
+<p><hw>Di*as"to*le</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, fr. <?/ to put asunder, to separate; <grk>dia`</grk> through + <?/ to set, to place.]</ety> <sn>1.</sn> <fld>(Physiol.)</fld> <def>The rhythmical expansion or dilatation of the heart and arteries; -- correlative to <contr>systole</contr>, or contraction.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Gram.)</fld> <def>A figure by which a syllable naturally short is made long.</def><br/
@@ -19301,7 +19301,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>Di"a*style</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>diastylus</ets>, Gr. <?/; <grk>dia`</grk> through, asunder + <?/ pillar, column: cf. F. <ets>diastyle</ets>.]</ety> <fld>(Arch.)</fld> <def>See under <er>Intercolumniation</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di`a*tes"sa*ron</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/ (sc. <?/); <grk>dia`</grk> through + <?/, gen. of <?/ four (sc. <?/.).]</ety> <sn>1.</sn> <fld>(Anc. Mus.)</fld> <def>The interval of a fourth.</def><br/
+<p><hw>Di`a*tes"sa*ron</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/ (sc. <?/); <grk>dia`</grk> through + <?/, gen. of <?/ four (sc. <?/.).]</ety> <sn>1.</sn> <fld>(Anc. Mus.)</fld> <def>The interval of a fourth.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Theol.)</fld> <def>A continuous narrative arranged from the first four books of the New Testament.</def><br/
@@ -19330,7 +19330,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>Di`a*ther"mous</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Same as <er>Diathermal</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di*ath"e*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <?/ to place separately, arrange; <grk>dia`</grk> through, asunder + <?/ to place, put.]</ety> <fld>(Med.)</fld> <def>Bodily condition or constitution, esp. a morbid habit which predisposes to a particular disease, or class of diseases.</def><br/
+<p><hw>Di*ath"e*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <?/ to place separately, arrange; <grk>dia`</grk> through, asunder + <?/ to place, put.]</ety> <fld>(Med.)</fld> <def>Bodily condition or constitution, esp. a morbid habit which predisposes to a particular disease, or class of diseases.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di`a*thet"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Pertaining to, or dependent on, a diathesis or special constitution of the body; <as>as, <ex>diathetic</ex> disease</as>.</def><br/
@@ -19379,7 +19379,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>Di*at"ri*bist</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who makes a diatribe or diatribes.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di`a*try"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>dia`</grk> through + <?/ hole.]</ety> <fld>(Paleon.)</fld> <def>An extinct eocene bird from New Mexico, larger than the ostrich.</def></p>
+<p><hw>Di`a*try"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>dia`</grk> through + <?/ hole.]</ety> <fld>(Paleon.)</fld> <def>An extinct eocene bird from New Mexico, larger than the ostrich.</def></p>
 
 <p><mhw>{ <hw>Di`a*zeuc"tic</hw> <pr>(?)</pr>, <hw>Di`a*zeu"tic</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[Gr. <?/ disjunctive, fr. <?/ to disjoin; <grk>dia`</grk> through, asunder + <?/ to join, yoke.]</ety> <fld>(Anc. Mus.)</fld> <def>Disjoining two fourths; <as>as, the <ex>diazeutic</ex> tone, which, like that from F to G in modern music, lay between two fourths, and, being joined to either, made a fifth</as>.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -19447,7 +19447,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <syn><b>Syn. --</b> Dibranchiata, subclass ta, Dibranchia, subclass Dibranchia.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p>\'d8<hw>Di*bran`chi*a"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ gills.]</ety> <fld>(Zo\'94l.)</fld> <def>An order of cephalopods which includes those with two gills, an apparatus for emitting an inky fluid, and either eight or ten cephalic arms bearing suckers or hooks, as the octopi and squids. See <er>Cephalopoda</er>.</def><br/
+<p><hw>Di*bran`chi*a"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ gills.]</ety> <fld>(Zo\'94l.)</fld> <def>An order of cephalopods which includes those with two gills, an apparatus for emitting an inky fluid, and either eight or ten cephalic arms bearing suckers or hooks, as the octopi and squids. See <er>Cephalopoda</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di*bran"chi*ate</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zo\'94l.)</fld> <def>Having two gills.</def> -- <def2><pos>n.</pos> <def>One of the Dibranchiata.</def></def2><br/
@@ -19511,7 +19511,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>dice"box`</hw> <pr>(d<imac/s"b<ocr/ks`)</pr>, <pos>n.</pos> <def>A box from which dice are thrown in gaming.</def>  <rj><au>Thackeray.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di*cen"tra</hw> <pr>(d<isl/*s<ecr/n"tr<adot/)</pr>, <pos>Prop. n.</pos> <ety>[NL., fr. Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <grk>ke`ntron</grk> spur.]</ety> <fld>(Bot.)</fld> <def>A genus of herbaceous plants, with racemes of two-spurred or heart-shaped flowers, including the <stype>Dutchman's breeches</stype>, and the more showy <stype>Bleeding heart</stype> (<spn>Dicentra spectabilis</spn>).</def> <altsp>[Corruptly written <asp>dielytra</asp>.]</altsp><br/
+<p><hw>Di*cen"tra</hw> <pr>(d<isl/*s<ecr/n"tr<adot/)</pr>, <pos>Prop. n.</pos> <ety>[NL., fr. Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <grk>ke`ntron</grk> spur.]</ety> <fld>(Bot.)</fld> <def>A genus of herbaceous plants, with racemes of two-spurred or heart-shaped flowers, including the <stype>Dutchman's breeches</stype>, and the more showy <stype>Bleeding heart</stype> (<spn>Dicentra spectabilis</spn>).</def> <altsp>[Corruptly written <asp>dielytra</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>di*ceph"a*lous</hw> <pr>(d<isl/*s<ecr/f"<adot/*l<ucr/s)</pr>, <pos>a.</pos> <ety>[Gr. <grk>dike`falos</grk>; <grk>di-</grk> = <grk>di`s-</grk> twice + <grk>kefalh`</grk> head.]</ety> <def>Having two heads on one body; double-headed.</def><br/
@@ -19743,16 +19743,16 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>Di"cro*tism</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Physiol.)</fld> <def>A condition in which there are two beats or waves of the arterial pulse to each beat of the heart.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dic"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L.]</ety> <def>See <er>Dictum</er>.</def><br/
+<p><hw>Dic"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L.]</ety> <def>See <er>Dictum</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dic"ta*graph</hw> <pr>(d<icr/k"t<adot/*gr<adot/f)</pr>. <def>Var. of <er>Dictograph</er>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p>\'d8<hw>Dic*ta"men</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL., fr. <ets>dictare</ets> to dictate.]</ety> <def>A dictation or dictate.</def> <mark>[R.]</mark>  <rj><au>Falkland.</au></rj><br/
+<p><hw>Dic*ta"men</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL., fr. <ets>dictare</ets> to dictate.]</ety> <def>A dictation or dictate.</def> <mark>[R.]</mark>  <rj><au>Falkland.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dic*tam"nus</hw> <pr>(d<icr/k*t<acr/m"n<ucr/s)</pr>, <pos>n.</pos> <ety>[L. See <er>Dittany</er>.]</ety> <fld>(Bot.)</fld> <def>A suffrutescent herb, <spn>Dictamnus Fraxinella</spn> (the only species), with strong perfume and showy flowers. The volatile oil of the leaves is highly inflammable.</def><br/
+<p><hw>Dic*tam"nus</hw> <pr>(d<icr/k*t<acr/m"n<ucr/s)</pr>, <pos>n.</pos> <ety>[L. See <er>Dittany</er>.]</ety> <fld>(Bot.)</fld> <def>A suffrutescent herb, <spn>Dictamnus Fraxinella</spn> (the only species), with strong perfume and showy flowers. The volatile oil of the leaves is highly inflammable.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dic"ta*phone</hw> <pr>(?)</pr>, <pos>n.</pos>  <ety>[<ets>Dicta</ets>te + <ets>-phone</ets>, as in <ets>telephone</ets>.]</ety> <def>A form of phonographic recorder and reproducer adapted for use in dictation, as in business.</def><br/
@@ -19874,7 +19874,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>dictostylium</hw> <pos>n.</pos> <sn>1.</sn> <def>any slime mold of the genus Dictostylium.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p>\'d8<hw>Dic"tum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Dicta</plw> <pr>(#)</pr>, E. <plw>Dictums</plw> <pr>(#)</pr>.</plu> <ety>[L., neuter of <ets>dictus</ets>, p. p. of <ets>dicere</ets> to say. See <er>Diction</er>, and cf. <er>Ditto</er>.]</ety> <sn>1.</sn> <def>An authoritative statement; a dogmatic saying; an apothegm.</def><br/
+<p><hw>Dic"tum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Dicta</plw> <pr>(#)</pr>, E. <plw>Dictums</plw> <pr>(#)</pr>.</plu> <ety>[L., neuter of <ets>dictus</ets>, p. p. of <ets>dicere</ets> to say. See <er>Diction</er>, and cf. <er>Ditto</er>.]</ety> <sn>1.</sn> <def>An authoritative statement; a dogmatic saying; an apothegm.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>A class of critical <qex>dicta</qex> everywhere current.</q> <rj><qau>M. Arnold.</qau></rj><br/
@@ -19889,7 +19889,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>Di*cy"a*nide</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>di-</ets> + <ets>cyan</ets>ogen.]</ety> <fld>(Chem.)</fld> <def>A compound of a binary type containing two cyanogen groups or radicals; -- called also <altname>bicyanide</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di`cy*e"ma*ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ an embryo.]</ety> <fld>(Zo\'94l.)</fld> <def>An order of worms parasitic in cephalopods. They are remarkable for the extreme simplicity of their structure. The embryo exists in two forms.</def><br/
+<p><hw>Di`cy*e"ma*ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ an embryo.]</ety> <fld>(Zo\'94l.)</fld> <def>An order of worms parasitic in cephalopods. They are remarkable for the extreme simplicity of their structure. The embryo exists in two forms.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di`cy*e"mid</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zo\'94l.)</fld> <def>Like or belonging to the Dicyemata.</def> -- <def2><pos>n.</pos> <def>One of the <ord>Dicyemata</ord>.</def></def2><br/
@@ -19957,7 +19957,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><cs><col><b>Jeremy Diddler</b></col>, <cd>a character in a play by <person>James Kenney</person>, entitled \'bdRaising the wind.\'b8 The name is applied to any needy, tricky, constant borrower; a confidence man.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di*del"phi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ = <?/ matrix, uterus.]</ety> <fld>(Zo\'94l.)</fld> <def>The subclass of Mammalia which includes the marsupials. See <er>Marsupialia</er>.</def><br/
+<p><hw>Di*del"phi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ = <?/ matrix, uterus.]</ety> <fld>(Zo\'94l.)</fld> <def>The subclass of Mammalia which includes the marsupials. See <er>Marsupialia</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di*del"phi*an</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zo\'94l.)</fld> <def>Of or relating to the Didelphia.</def> -- <def2><pos>n.</pos> <def>One of the Didelphia.</def></def2><br/
@@ -19978,7 +19978,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>Di*del"phyc</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zo\'94l.)</fld> <def>Same as <er>Didelphic</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di*del"phys</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Didelphia</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>Formerly, any marsupial; but the term is now restricted to an American genus which includes the opossums, of which there are many species. See <er>Opossum</er>. <altsp>[Written also <asp>Didelphis</asp>.]</altsp> See <xex>Illustration</xex> in Appendix.</def>  <rj><au>Cuvier.</au></rj><br/
+<p><hw>Di*del"phys</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Didelphia</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>Formerly, any marsupial; but the term is now restricted to an American genus which includes the opossums, of which there are many species. See <er>Opossum</er>. <altsp>[Written also <asp>Didelphis</asp>.]</altsp> See <xex>Illustration</xex> in Appendix.</def>  <rj><au>Cuvier.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di"dine</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zo\'94l.)</fld> <def>Like or pertaining to the genus <gen>Didus</gen>, or the dodo.</def><br/
@@ -19990,7 +19990,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><cs><col><b>To cut a dido</b></col>, <cd>to play a trick; to cut a caper; -- perhaps so called from the trick of Dido, who having bought so much land as a hide would cover, is said to have cut it into thin strips long enough to inclose a spot for a citadel.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di*do"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. So called in allusion to the classical story of Dido and the bull's hide.]</ety> <fld>(Geom.)</fld> <def>The curve which on a given surface and with a given perimeter contains the greatest area.</def>  <rj><au>Tait.</au></rj></p>
+<p><hw>Di*do"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. So called in allusion to the classical story of Dido and the bull's hide.]</ety> <fld>(Geom.)</fld> <def>The curve which on a given surface and with a given perimeter contains the greatest area.</def>  <rj><au>Tait.</au></rj></p>
 
 <p><mhw>{ <hw>Di"drachm</hw> <pr>(?)</pr>, <hw>Di*drach"ma</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[Gr. <?/; <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ a drachm.]</ety> <def>A two-drachma piece; an ancient Greek silver coin, worth nearly forty cents.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -20013,10 +20013,10 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>Did"y*mous</hw> <pr>(d<icr/d"<icr/*m<ucr/s)</pr>, <pos>a.</pos> <ety>[Gr. <grk>di`dymos</grk> twofold, twin.]</ety> <fld>(Bot.)</fld> <def>Growing in pairs or twins.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Did`y*na"mi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ power.]</ety> <fld>(Bot.)</fld> <def>A Linn\'91an class of plants having four stamens disposed in pairs of unequal length.</def><br/
+<p><hw>Did`y*na"mi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ power.]</ety> <fld>(Bot.)</fld> <def>A Linn\'91an class of plants having four stamens disposed in pairs of unequal length.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Did`y*na"mi*an</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Didynamous.</def><br/
+<p><hw>Did`y*na"mi*an</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Didynamous.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di*dyn"a*mous</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Bot.)</fld> <def>Of or pertaining to the Didynamia; containing four stamens disposed in pairs of unequal length.</def><br/
@@ -20113,7 +20113,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <syn><b>Syn. --</b> genus <gen>Dieffenbachia</gen>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p>\'d8<hw>Di`e*ge"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <?/ to narrate; <grk>dia`</grk> through + <?/ to lead.]</ety> <def>A narrative or history; a recital or relation.</def><br/
+<p><hw>Di`e*ge"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <?/ to narrate; <grk>dia`</grk> through + <?/ to lead.]</ety> <def>A narrative or history; a recital or relation.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>die"hard`</hw> <pr>(d<imac/"h<aum/rd`)</pr>, <pos>n.</pos> <sn>1.</sn> <def>one who stubbornly adheres to traditional and outdated views.</def><br/
@@ -20130,13 +20130,13 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>Di`e*lec"tric</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>dia-</ets> + <ets>electric</ets>.]</ety> <fld>(Elec.)</fld> <def>Any substance or medium that transmits the electric force by a process different from conduction, as in the phenomena of induction; a nonconductor, separating a body electrified by induction, from the electrifying body.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di*el"y*tra</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>See <er>Dicentra</er>.</def><br/
+<p><hw>Di*el"y*tra</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>See <er>Dicentra</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di`en*ceph"a*lon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Dia-</er>, and <er>Encephalon</er>.]</ety> <fld>(Anat.)</fld> <def>The interbrain or thalamencephalon; -- sometimes abbreviated to <abbr>dien</abbr>.  See <er>Thalamencephalon</er>.</def><br/
+<p><hw>Di`en*ceph"a*lon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Dia-</er>, and <er>Encephalon</er>.]</ety> <fld>(Anat.)</fld> <def>The interbrain or thalamencephalon; -- sometimes abbreviated to <abbr>dien</abbr>.  See <er>Thalamencephalon</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di*er"e*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>Same as <er>Di\'91resis</er>.</def><br/
+<p><hw>Di*er"e*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>Same as <er>Di\'91resis</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Diervilla</hw> <pos>n.</pos> <def>small genus of low deciduous shrubs; the bush honeysuckles.</def><br/
@@ -20156,20 +20156,20 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>Die"sink`ing</hw>, <pos>n.</pos> <def>The process of engraving dies.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di"es I"r\'91</hw> <pr>(?)</pr>. <def>Day of wrath; -- the name and beginning of a famous medi\'91val Latin hymn on the Last Judgment.</def><br/
+<p><hw>Di"es I"r\'91</hw> <pr>(?)</pr>. <def>Day of wrath; -- the name and beginning of a famous medi\'91val Latin hymn on the Last Judgment.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di"e*sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dieses</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/, fr. <?/ to let go through, dissolve; <grk>dia`</grk> through + <?/ to let go, send.]</ety> <sn>1.</sn> <fld>(Mus.)</fld> <def>A small interval, less than any in actual practice, but used in the mathematical calculation of intervals.</def><br/
+<p><hw>Di"e*sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dieses</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/, fr. <?/ to let go through, dissolve; <grk>dia`</grk> through + <?/ to let go, send.]</ety> <sn>1.</sn> <fld>(Mus.)</fld> <def>A small interval, less than any in actual practice, but used in the mathematical calculation of intervals.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Print.)</fld> <def>The mark <Dagger/; -- called also <altname>double dagger</altname>.  It is used in printing to indicate a cross reference or footnote</def><br/
 <syn><b>Syn. --</b> double obelisk.</syn><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di"es ju*rid"i*cus</hw> <pr>(?)</pr>; <plu><it>pl.</it> <plw>Dies juridici</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Law)</fld> <def>A court day.</def><br/
+<p><hw>Di"es ju*rid"i*cus</hw> <pr>(?)</pr>; <plu><it>pl.</it> <plw>Dies juridici</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Law)</fld> <def>A court day.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di"es non"</hw> <pr>(?)</pr>. <ety>[L. <ets>dies non juridicus</ets>.]</ety> <fld>(Law)</fld> <def>A day on which courts are not held, as Sunday or any legal holiday.</def><br/
+<p><hw>Di"es non"</hw> <pr>(?)</pr>. <ety>[L. <ets>dies non juridicus</ets>.]</ety> <fld>(Law)</fld> <def>A day on which courts are not held, as Sunday or any legal holiday.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Die"stock`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A stock to hold the dies used for cutting screws.</def><br/
@@ -20799,7 +20799,7 @@ His good to worlds and ages infinite.</q> <rj><qau>Milton.</qau></rj><br/
 <p><hw>Di*gas"tric</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ belly: cf. F. <ets>digastrique</ets>.]</ety> <fld>(Anat.)</fld> <sd>(a)</sd> <def>Having two bellies; biventral; -- applied to muscles which are fleshy at each end and have a tendon in the middle, and esp. to the muscle which pulls down the lower jaw.</def> <sd>(b)</sd> <def>Pertaining to the digastric muscle of the lower jaw; <as>as, the <ex>digastric</ex> nerves</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di*ge"ne*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ race, offspring.]</ety> <fld>(Zo\'94l.)</fld> <def>A division of Trematoda in which alternate generations occur, the immediate young not resembling their parents.</def><br/
+<p><hw>Di*ge"ne*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ race, offspring.]</ety> <fld>(Zo\'94l.)</fld> <def>A division of Trematoda in which alternate generations occur, the immediate young not resembling their parents.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di*gen"e*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>di-</ets> + <ets>genesis</ets>.]</ety> <fld>(Biol.)</fld> <def>The faculty of multiplying in two ways; -- by ova fecundated by spermatic fluid, and asexually, as by buds. See <er>Parthenogenesis</er>.</def><br/
@@ -21247,7 +21247,7 @@ That it will live engraven in my face.</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>Digue</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Dike</er>.]</ety> <def>A bank; a dike.</def> <mark>[Obs.]</mark>  <rj><au>Sir W. Temple.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di*gyn"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ a woman, a female.]</ety> <fld>(Bot.)</fld> <def>A Linn\'91an order of plants having two styles.</def></p>
+<p><hw>Di*gyn"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ a woman, a female.]</ety> <fld>(Bot.)</fld> <def>A Linn\'91an order of plants having two styles.</def></p>
 
 <p><mhw>{ <hw>Di*gyn"i*an</hw> <pr>(?)</pr>, <hw>Dig"y*nous</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[Cf. F. <ets>digyne</ets>.]</ety> <fld>(Bot.)</fld> <def>Of or pertaining to the Digynia; having two styles.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -21294,7 +21294,7 @@ That it will live engraven in my face.</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>Di*ju`di*ca"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>dijudicatio</ets>.]</ety> <def>The act of dijudicating; judgment.</def> <mark>[R.]</mark>  <rj><au>Cockeram.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di"ka</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native West African name.]</ety> <def>A kind of food, made from the almondlike seeds of the <spn>Irvingia Barteri</spn>, much used by natives of the west coast of Africa; -- called also <altname>dika bread</altname>.</def><br/
+<p><hw>Di"ka</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native West African name.]</ety> <def>A kind of food, made from the almondlike seeds of the <spn>Irvingia Barteri</spn>, much used by natives of the west coast of Africa; -- called also <altname>dika bread</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dike</hw> <pr>(d<imac/)</pr>, <pos>n.</pos> <ety>[OE. <ets>dic</ets>, <ets>dike</ets>, <ets>diche</ets>, ditch, AS. <ets>d<imac/c</ets> dike, ditch; akin to D. <ets>dijk</ets> dike, G. <ets>deich</ets>, and prob. <ets>teich</ets> pond, Icel. <ets>d<imac/ki</ets> dike, ditch, Dan. <ets>dige</ets>; perh. akin to Gr. <grk>tei^chos</grk> (for <grk>qei^chos</grk>) wall, and even E. <ets>dough</ets>; or perh. to Gr. <grk>ti^fos</grk> pool, marsh.  Cf. <er>Ditch</er>.]</ety> <sn>1.</sn> <def>A ditch; a channel for water made by digging.</def><br/
@@ -21400,7 +21400,7 @@ Shut out the turbulent tides.</q> <rj><qau>Longfellow.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Anat.)</fld> <def>A dilation or enlargement of a canal or other organ.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dil`a*ta"tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.  Cf. L. <ets>dilatator</ets> a propagator.]</ety> <fld>(Anat.)</fld> <def>A muscle which dilates any part; a dilator.</def><br/
+<p><hw>Dil`a*ta"tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.  Cf. L. <ets>dilatator</ets> a propagator.]</ety> <fld>(Anat.)</fld> <def>A muscle which dilates any part; a dilator.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di*late"</hw> <pr>(?; 277)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Dilated</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Dilating</conjf> <pr>(?)</pr>.]</vmorph> <ety>[L. <ets>dilatare</ets>; either fr. <ets>di-</ets> = <ets>dis-</ets> + <ets>latus</ets> wide, not the same word as <ets>latus</ets>, used as p. p. of <ets>ferre</ets> to bear (see <er>Latitude</er>); or fr. <ets>dilatus</ets>, used as p. p. of <ets>differre</ets> to separate (see <er>Delay</er>, <er>Tolerate</er>, <er>Differ</er>, and cf. <er>Dilatory</er>): cf. F. <ets>dilater</ets>.]</ety> <sn>1.</sn> <def>To expand; to distend; to enlarge or extend in all directions; to swell; -- opposed to <ant>contract</ant>; <as>as, the air <ex>dilates</ex> the lungs; air is <ex>dilated</ex> by increase of heat.</as></def><br/
@@ -21532,7 +21532,7 @@ To act with infamy, or quit the place.</q> <rj><qau>Swift.</qau></rj><br/
 <p><q>Though few art lovers can be connoisseurs, many are <qex>dilettants</qex>.</q> <rj><qau>Fairholt.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dil`et*tan"te</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dilettanti</plw> <pr>(#)</pr>.</plu> <ety>[It., prop. p. pr. of <ets>dillettare</ets> to take delight in, fr. L. <ets>delectare</ets> to delight. See <er>Delight</er>, <pos>v. t.</pos>]</ety> <def>An admirer or lover of the fine arts; popularly, an amateur; especially, one who follows an art or a branch of knowledge, desultorily, or for amusement only.</def><br/
+<p><hw>Dil`et*tan"te</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dilettanti</plw> <pr>(#)</pr>.</plu> <ety>[It., prop. p. pr. of <ets>dillettare</ets> to take delight in, fr. L. <ets>delectare</ets> to delight. See <er>Delight</er>, <pos>v. t.</pos>]</ety> <def>An admirer or lover of the fine arts; popularly, an amateur; especially, one who follows an art or a branch of knowledge, desultorily, or for amusement only.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 413 --></p>
@@ -21580,7 +21580,7 @@ But for the end it works to.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q><qex>Diligence</qex> and accuracy are the only merits which an historical writer ascribe to himself.</q> <rj><qau>Gibbon.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di`li*gence"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A four-wheeled public stagecoach, used in France.</def><br/
+<p><hw>Di`li*gence"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A four-wheeled public stagecoach, used in France.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dil"i*gen*cy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>diligentia</ets>.]</ety> <def>Diligence; care; persevering endeavor.</def> <mark>[Obs.]</mark>  <rj><au>Milton.</au></rj><br/
@@ -21826,7 +21826,7 @@ Through words and things, a <qex>dim</qex> and perilous way.</q> <rj><qau>Wordsw
 <p><q>Who can draw the soul's <qex>dimensive</qex> lines?</q> <rj><qau>Sir J. Davies.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dim"e*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ part.]</ety> <fld>(Zo\'94l.)</fld> <sd>(a)</sd> <def>A division of Coleoptera, having two joints to the tarsi.</def> <sd>(b)</sd> <def>A division of the Hemiptera, including the aphids.</def><br/
+<p><hw>Dim"e*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ part.]</ety> <fld>(Zo\'94l.)</fld> <sd>(a)</sd> <def>A division of Coleoptera, having two joints to the tarsi.</def> <sd>(b)</sd> <def>A division of the Hemiptera, including the aphids.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dim"er*an</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>One of the Dimera.</def><br/
@@ -22076,7 +22076,7 @@ Breaks into <qex>dimples</qex> small and bright.</q> <rj><qau>Wordsworth.</qau><
 <syn><b>Syn. --</b> half-witted, simple, simple-minded.</syn><br/
 [<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
-<p><mhw>\'d8<hw>Dim"y*a</hw> <pr>(?)</pr>, <hw>Dim`y*a"ri*a</hw> <pr>(<?/)</pr></mhw>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ = <?/ + <?/ to close.]</ety> <fld>(Zo\'94l.)</fld> <def>An order of lamellibranchiate mollusks having an anterior and posterior adductor muscle, as the common clam. See <er>Bivalve</er>.</def><br/
+<p><mhw><hw>Dim"y*a</hw> <pr>(?)</pr>, <hw>Dim`y*a"ri*a</hw> <pr>(<?/)</pr></mhw>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ = <?/ + <?/ to close.]</ety> <fld>(Zo\'94l.)</fld> <def>An order of lamellibranchiate mollusks having an anterior and posterior adductor muscle, as the common clam. See <er>Bivalve</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dim`y*a"ri*an</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zo\'94l.)</fld> <def>Like or pertaining to the Dimya.</def> -- <def2><pos>n.</pos> <def>One of the Dimya.</def></def2><br/
@@ -22241,7 +22241,7 @@ A <qex>dingthrift</qex> and a knave?</q> <rj><qau>Drant.</qau></rj><br/
 <p><hw>Din"gy</hw> <pr>(d<icr/n"j<ycr/)</pr>, <pos>a.</pos> <amorph>[<pos>Compar.</pos> <adjf>Dingier</adjf> <pr>(?)</pr>; <pos>superl.</pos> <adjf>Dingiest</adjf>.]</amorph> <ety>[Prob. fr. <ets>dung</ets>.  Cf. <er>Dungy</er>.]</ety> <def>Soiled; sullied; of a dark or dusky color; dark brown; dirty.</def> \'bdScraps of <xex>dingy</xex> paper.\'b8  <rj><au>Macaulay.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di*nich"thys</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ terrible + <?/ fish.]</ety> <fld>(Paleon.)</fld> <def>A genus of large extinct Devonian ganoid fishes. In some parts of Ohio remains of the Dinichthys are abundant, indicating animals twenty feet in length.</def><br/
+<p><hw>Di*nich"thys</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ terrible + <?/ fish.]</ety> <fld>(Paleon.)</fld> <def>A genus of large extinct Devonian ganoid fishes. In some parts of Ohio remains of the Dinichthys are abundant, indicating animals twenty feet in length.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Din"ing</hw> <pr>(?)</pr>, <pos>n. & a.</pos> <def>from <er>Dine</er>, <pos>a.</pos></def><br/
@@ -22309,7 +22309,7 @@ A <qex>dingthrift</qex> and a knave?</q> <rj><qau>Drant.</qau></rj><br/
 <syn><b>Syn. --</b> suppertime.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p>\'d8<hw>Di*noc"e*ras</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ terrible + <?/, <?/, horn.]</ety> <fld>(Paleon.)</fld> <def>A genus of large extinct Eocene mammals from Wyoming; -- called also <altname><gen>Uintatherium</gen></altname>. See <xex>Illustration</xex> in Appendix.</def><br/
+<p><hw>Di*noc"e*ras</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ terrible + <?/, <?/, horn.]</ety> <fld>(Paleon.)</fld> <def>A genus of large extinct Eocene mammals from Wyoming; -- called also <altname><gen>Uintatherium</gen></altname>. See <xex>Illustration</xex> in Appendix.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ They were herbivorous, and remarkable for three pairs of hornlike protuberances on the skull. The males were armed with a pair of powerful canine tusks.</note><br/
@@ -22326,14 +22326,14 @@ A <qex>dingthrift</qex> and a knave?</q> <rj><qau>Drant.</qau></rj><br/
 <p><hw>dinoflagellate</hw> <pos>n.</pos> <def>a member of the <ord>Dinoflagellata</ord>, chiefly marine protozoa having two flagella.  The dinoflagellates form a chief constituent of plankton.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p>\'d8<hw>Di*nor"nis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ terrible + <?/ bird.]</ety> <fld>(Paleon.)</fld> <def>A genus of extinct, ostrichlike birds of gigantic size, which formerly inhabited New Zealand. See <er>Moa</er>.</def> <altsp>[Written also <asp>Deinornis</asp>.]</altsp></p>
+<p><hw>Di*nor"nis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ terrible + <?/ bird.]</ety> <fld>(Paleon.)</fld> <def>A genus of extinct, ostrichlike birds of gigantic size, which formerly inhabited New Zealand. See <er>Moa</er>.</def> <altsp>[Written also <asp>Deinornis</asp>.]</altsp></p>
 
 <p><mhw>{ <hw>Di"no*saur</hw> <pr>(?)</pr>, <hw>Di`no*sau"ri*an</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[Gr. <?/ terrible + <?/ lizard.]</ety> <fld>(Paleon.)</fld> <def>One of the Dinosauria.</def> <altsp>[Written also <asp>deinosaur</asp>, and <asp>deinosaurian</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di`no*sau"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ terrible + <?/ lizard.]</ety> <fld>(Paleon.)</fld> <def>An order of extinct mesozoic reptiles, mostly of large size (whence the name). Notwithstanding their size, they present birdlike characters in the skeleton, esp. in the pelvis and hind limbs. Some walked on their three-toed hind feet, thus producing the large \'bdbird tracks,\'b8 so-called, of mesozoic sandstones; others were five-toed and quadrupedal. See <xex>Illust.</xex> of <er>Compsognathus</er>, also <xex>Illustration</xex> of <xex>Dinosaur</xex> in Appendix.</def></p>
+<p><hw>Di`no*sau"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ terrible + <?/ lizard.]</ety> <fld>(Paleon.)</fld> <def>An order of extinct mesozoic reptiles, mostly of large size (whence the name). Notwithstanding their size, they present birdlike characters in the skeleton, esp. in the pelvis and hind limbs. Some walked on their three-toed hind feet, thus producing the large \'bdbird tracks,\'b8 so-called, of mesozoic sandstones; others were five-toed and quadrupedal. See <xex>Illust.</xex> of <er>Compsognathus</er>, also <xex>Illustration</xex> of <xex>Dinosaur</xex> in Appendix.</def></p>
 
-<p><mhw>{ <hw>Di"no*there</hw> <pr>(?)</pr>, \'d8<hw>Di`no*the"ri*um</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>dinotherium</ets>, fr. Gr. <grk>deino`s</grk> terrible + <grk>qhri`on</grk> beast.]</ety> <fld>(Paleon.)</fld> <def>A large extinct proboscidean mammal from the miocene beds of Europe and Asia. It is remarkable for a pair of tusks directed downward from the decurved apex of the lower jaw.</def><br/
+<p><mhw>{ <hw>Di"no*there</hw> <pr>(?)</pr>, <hw>Di`no*the"ri*um</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>dinotherium</ets>, fr. Gr. <grk>deino`s</grk> terrible + <grk>qhri`on</grk> beast.]</ety> <fld>(Paleon.)</fld> <def>A large extinct proboscidean mammal from the miocene beds of Europe and Asia. It is remarkable for a pair of tusks directed downward from the decurved apex of the lower jaw.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Din*ox"ide</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>Same as <er>Dioxide</er>.</def><br/
@@ -22394,7 +22394,7 @@ That he moved the massy stone at length.</q> <rj><qau>Sir W. Scott.</qau></rj><b
 
 <p><-- p. 415 --></p>
 
-<p>\'d8<hw>Di*\'d2"ci*a</hw> <pr>(d<isl/*<emac/"sh<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>di</grk> = <grk>di`s</grk> twice + <grk>o'i^kos</grk> a house.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A Linn\'91an class of plants having the stamens and pistils on different plants.</def><br/
+<p><hw>Di*\'d2"ci*a</hw> <pr>(d<isl/*<emac/"sh<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>di</grk> = <grk>di`s</grk> twice + <grk>o'i^kos</grk> a house.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A Linn\'91an class of plants having the stamens and pistils on different plants.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zo\'94l.)</fld> <def>A subclass of gastropod mollusks in which the sexes are separate. It includes most of the large marine species, like the conchs, cones, and cowries.</def></p>
@@ -22427,13 +22427,13 @@ That he moved the massy stone at length.</q> <rj><qau>Sir W. Scott.</qau></rj><b
 <p><hw>Di*oi"cous</hw> <pr>(?)</pr>, <pos>a.</pos> <def>See <er>Di\'d2cious</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di*om`e*de"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of large sea birds, including the albatross. See <er>Albatross</er>.</def><br/
+<p><hw>Di*om`e*de"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of large sea birds, including the albatross. See <er>Albatross</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di`o*n\'91"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a name of Aphrodite.]</ety> <fld>(Bot.)</fld> <def>An insectivorous plant. See <er>Venus's flytrap</er>.</def><br/
+<p><hw>Di`o*n\'91"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a name of Aphrodite.]</ety> <fld>(Bot.)</fld> <def>An insectivorous plant. See <er>Venus's flytrap</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di`o*ny"si*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., fr. Gr. <?/.]</ety> <fld>(Class. Antiq.)</fld> <def>Any of the festivals held in honor of the Olympian god Dionysus. They correspond to the Roman Bacchanalia; the greater Dionysia were held at Athens in March or April, and were celebrated with elaborate performances of both tragedies and comedies.</def><br/
+<p><hw>Di`o*ny"si*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., fr. Gr. <?/.]</ety> <fld>(Class. Antiq.)</fld> <def>Any of the festivals held in honor of the Olympian god Dionysus. They correspond to the Roman Bacchanalia; the greater Dionysia were held at Athens in March or April, and were celebrated with elaborate performances of both tragedies and comedies.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Di`o*ny"si*ac</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pertaining to Dionysus or to the Dionysia; Bacchic; <as>as, a <ex>Dionysiac</ex> festival; the <ex>Dionysiac</ex> theater at Athens</as>.</def><br/
@@ -22456,10 +22456,10 @@ That he moved the massy stone at length.</q> <rj><qau>Sir W. Scott.</qau></rj><b
 
 <p><hw>Di*op"tase</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ = <grk>dia`</grk> through + <?/ to see: cf. F. <ets>dioptase</ets>.]</ety> <fld>(Min.)</fld> <def>A hydrous silicate of copper, occurring in emerald-green crystals.</def></p>
 
-<p><mhw>{ <hw>Di*op"ter</hw> <pr>(?)</pr>, \'d8<hw>Di*op"tra</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>dioptra</ets>, fr. Gr. <?/. See 2d <er>Dioptric</er>.]</ety> <def>An optical instrument, invented by Hipparchus, for taking altitudes, leveling, etc.</def><br/
+<p><mhw>{ <hw>Di*op"ter</hw> <pr>(?)</pr>, <hw>Di*op"tra</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>dioptra</ets>, fr. Gr. <?/. See 2d <er>Dioptric</er>.]</ety> <def>An optical instrument, invented by Hipparchus, for taking altitudes, leveling, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di*op"tre</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See 2d <er>Dioptric</er>.]</ety> <fld>(Optics)</fld> <def>A unit employed by oculists in numbering glasses according to the metric system; a refractive power equal to that of a glass whose principal focal distance is one meter.</def><br/
+<p><hw>Di*op"tre</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See 2d <er>Dioptric</er>.]</ety> <fld>(Optics)</fld> <def>A unit employed by oculists in numbering glasses according to the metric system; a refractive power equal to that of a glass whose principal focal distance is one meter.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di*op"tric</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Optics)</fld> <def>Of or pertaining to the dioptre, or to the metric system of numbering glasses.</def> -- <def2><pos>n.</pos> <def>A dioptre. See <er>Dioptre</er>.</def></def2></p>
@@ -22500,14 +22500,14 @@ That he moved the massy stone at length.</q> <rj><qau>Sir W. Scott.</qau></rj><b
 <p><hw>Di`or*thot"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <?/; <?/ = <?/ + <?/ to set straight.]</ety> <def>Relating to the correcting or straightening out of something; corrective.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di`os*co"re*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. Named after <person><etsep>Dioscorides</etsep></person> the Greek physician.]</ety> <fld>(Bot.)</fld> <def>A genus of plants, the roots of which are eaten as <prod>yams</prod>. See <er>Yam</er>.</def><br/
+<p><hw>Di`os*co"re*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. Named after <person><etsep>Dioscorides</etsep></person> the Greek physician.]</ety> <fld>(Bot.)</fld> <def>A genus of plants, the roots of which are eaten as <prod>yams</prod>. See <er>Yam</er>.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><hw>Dioscoreaceae</hw> <pos>n.</pos> <sn>1.</sn> <def>a natural family of tuberous plants including the yams.</def><br/
 <syn><b>Syn. --</b> family <fam>Dioscoreaceae</fam>, yam family.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p>\'d8<hw>Di*o"ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/ two-handled; <grk>di-</grk> = <grk>di`s-</grk> twice + <?/, <?/, ear, handle.]</ety> <fld>(Rom. Antiq.)</fld> <def>A vase or drinking cup having two handles or ears.</def><br/
+<p><hw>Di*o"ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/ two-handled; <grk>di-</grk> = <grk>di`s-</grk> twice + <?/, <?/, ear, handle.]</ety> <fld>(Rom. Antiq.)</fld> <def>A vase or drinking cup having two handles or ears.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di*ox"ide</hw> <pr>(?; 104)</pr>, <pos>n.</pos> <ety>[Pref. <ets>di-</ets> + <ets>oxide</ets>.]</ety> <fld>(Chem.)</fld> <sd>(a)</sd> <def>An oxide containing two atoms of oxygen in each molecule; binoxide.</def> <sd>(b)</sd> <def>An oxide containing but one atom or equivalent of oxygen to two of a metal; a suboxide.</def> <mark>[Obs.]</mark><br/
@@ -22699,10 +22699,10 @@ That he moved the massy stone at length.</q> <rj><qau>Sir W. Scott.</qau></rj><b
 <p><hw>Dip`lo*car"di*ac</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <?/ double + E. <ets>cardiac</ets>.]</ety> <fld>(Anat.)</fld> <def>Having the heart completely divided or double, one side systemic, the other pulmonary.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dip`lo*coc"cus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Diplococci</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>diplo`os</grk> twofold + <grk>ko`kkos</grk> grain, seed.]</ety> <fld>(Biol.)</fld> <def>A form of micrococcus in which cocci are united in a binary manner. See <er>Micrococcus</er>.</def><br/
+<p><hw>Dip`lo*coc"cus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Diplococci</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>diplo`os</grk> twofold + <grk>ko`kkos</grk> grain, seed.]</ety> <fld>(Biol.)</fld> <def>A form of micrococcus in which cocci are united in a binary manner. See <er>Micrococcus</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dip"lo*\'89</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ fold, fr. <?/ twofold, double.]</ety> <fld>(Anat.)</fld> <def>The soft, spongy, or cancellated substance between the plates of the skull.</def><br/
+<p><hw>Dip"lo*\'89</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ fold, fr. <?/ twofold, double.]</ety> <fld>(Anat.)</fld> <def>The soft, spongy, or cancellated substance between the plates of the skull.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dip`lo*et"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Anat.)</fld> <def>Diploic.</def><br/
@@ -22774,7 +22774,7 @@ B: Oh, how I wish your parents had felt the same way!</q> <rj><qau></qau></rj></
 
 <p><q>In ability, Avaux had no superior among the numerous able <qex>diplomatists</qex> whom his country then possessed.</q> <rj><qau>Macaulay.</qau></rj></p>
 
-<p><mhw>{ \'d8<hw>Di*plo"pi*a</hw> <pr>(?)</pr>, <hw>Dip"lo*py</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>diplopia</ets>, from Gr. <?/ double + the root of <?/ sight: cf. F. <ets>diplopie</ets>.]</ety> <fld>(Med.)</fld> <def>The act or state of seeing double.</def><br/
+<p><mhw>{ <hw>Di*plo"pi*a</hw> <pr>(?)</pr>, <hw>Dip"lo*py</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>diplopia</ets>, from Gr. <?/ double + the root of <?/ sight: cf. F. <ets>diplopie</ets>.]</ety> <fld>(Med.)</fld> <def>The act or state of seeing double.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ In <xex>crossed</xex> or <xex>heteronymous diplopia</xex> the image seen by the right eye is upon the left hand, and that seen by the left eye is upon the right hand. In <xex>homonymous diplopia</xex> the image seen by the right eye is on the right side, that by the left eye on the left side. In <xex>vertical diplopia</xex> one image stands above the other.</note><br/
@@ -22785,7 +22785,7 @@ B: Oh, how I wish your parents had felt the same way!</q> <rj><qau></qau></rj></
 <p><hw>Dip"lo*pod</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>One of the Diplopoda.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di*plop"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Gr. <?/ double + <ets>-poda</ets>.]</ety> <fld>(Zo\'94l.)</fld> <def>An order of myriapods having two pairs of legs on each segment; the Chilognatha.</def><br/
+<p><hw>Di*plop"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Gr. <?/ double + <ets>-poda</ets>.]</ety> <fld>(Zo\'94l.)</fld> <def>An order of myriapods having two pairs of legs on each segment; the Chilognatha.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dip`lo*stem"o*nous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <?/ double + <?/ the warp, a thread.]</ety> <fld>(Bot.)</fld> <def>Having twice as many stamens as petals, as the geranium.</def>  <rj><au>R. Brown.</au></rj><br/
@@ -22797,10 +22797,10 @@ B: Oh, how I wish your parents had felt the same way!</q> <rj><qau></qau></rj></
 <p><hw>diplotene</hw> <pos>n.</pos> <fld>(Cell biol.)</fld> <def>the fourth stage of the prophase of meiosis, when the paired chromosomes being to separate.  This stage follows the <contr>pachytene</contr>.</def><br/
 [<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
-<p>\'d8<hw>Dip*neu"mo*na</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ = <?/ lung.]</ety> <fld>(Zo\'94l.)</fld> <def>A group of spiders having only two lunglike organs.</def> <altsp>[Written also <asp>Dipneumones</asp>.]</altsp><br/
+<p><hw>Dip*neu"mo*na</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ = <?/ lung.]</ety> <fld>(Zo\'94l.)</fld> <def>A group of spiders having only two lunglike organs.</def> <altsp>[Written also <asp>Dipneumones</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dip"no*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ <?/ with two breathing apertures; <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ breath.]</ety> <fld>(Zo\'94l.)</fld> <def>A group of ganoid fishes, including the living genera <gen>Ceratodus</gen> and <gen>Lepidosiren</gen>, which present the closest approximation to the Amphibia. The air bladder acts as a lung, and the nostrils open inside the mouth. See <er>Ceratodus</er>, and <xex>Illustration</xex> in Appendix.</def><br/
+<p><hw>Dip"no*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ <?/ with two breathing apertures; <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ breath.]</ety> <fld>(Zo\'94l.)</fld> <def>A group of ganoid fishes, including the living genera <gen>Ceratodus</gen> and <gen>Lepidosiren</gen>, which present the closest approximation to the Amphibia. The air bladder acts as a lung, and the nostrils open inside the mouth. See <er>Ceratodus</er>, and <xex>Illustration</xex> in Appendix.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dipodomys</hw> <pos>n.</pos> <def>a genus of rodents of the family <fam>Heteromyidae</fam>, comprising the genus of kangaroo rats which live in arid regions of Mexico and the western U. S.</def> <note>An Australian rodent of the genus <gen>Notomys</gen> is also referred to as a <er>kangaroo rat</er>, as is the potoroo.  See <er>kangaroo rat</er></note><br/
@@ -22863,7 +22863,7 @@ B: Oh, how I wish your parents had felt the same way!</q> <rj><qau></qau></rj></
 <p><hw>Di*pro"pyl</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>di-</ets> + <ets>propyl</ets>.]</ety> <fld>(Chem.)</fld> <def>One of the hexane paraffins, found in petroleum, consisting of two propyl radicals. See <er>Hexane</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di*pro"to*don</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ first + <grk>'odoy`s</grk>, <grk>'odo`ntos</grk>, tooth.]</ety> <fld>(Paleon.)</fld> <def>An extinct Quaternary marsupial from Australia, about as large as the hippopotamus; -- so named because of its two large front teeth. See <xex>Illustration</xex> in Appendix.</def><br/
+<p><hw>Di*pro"to*don</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ first + <grk>'odoy`s</grk>, <grk>'odo`ntos</grk>, tooth.]</ety> <fld>(Paleon.)</fld> <def>An extinct Quaternary marsupial from Australia, about as large as the hippopotamus; -- so named because of its two large front teeth. See <xex>Illustration</xex> in Appendix.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dip"sas</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, fr. <?/ thirst.]</ety> <sn>1.</sn> <def>A serpent whose bite was fabled to produce intense thirst.</def>  <rj><au>Milton.</au></rj><br/
@@ -22893,13 +22893,13 @@ B: Oh, how I wish your parents had felt the same way!</q> <rj><qau></qau></rj></
 <p><hw>Dip`so*ma*ni"a*cal</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pertaining to dipsomania.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dip*so"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ thirst.]</ety> <fld>(Med.)</fld> <def>Excessive thirst produced by disease.</def><br/
+<p><hw>Dip*so"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ thirst.]</ety> <fld>(Med.)</fld> <def>Excessive thirst produced by disease.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>dipstick</hw> <pos>n.</pos> <def>a graduated rod dipped into a container to indicate the fluid level; <as>as, to check the oil level in a car with a <ex>dipstick</ex></as>.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p>\'d8<hw>Dip"te*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ with two wings, <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ feather, wing: cf. F. <ets>dipt\'8are</ets>.]</ety> <fld>(Zo\'94l.)</fld> <def>An extensive order of insects having only two functional wings and two balancers, as the house fly, mosquito, etc. They have a suctorial proboscis, often including two pairs of sharp organs (mandibles and maxill\'91) with which they pierce the skin of animals. They undergo a complete metamorphosis, their larv\'91 (called maggots) being usually without feet.</def><br/
+<p><hw>Dip"te*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ with two wings, <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ feather, wing: cf. F. <ets>dipt\'8are</ets>.]</ety> <fld>(Zo\'94l.)</fld> <def>An extensive order of insects having only two functional wings and two balancers, as the house fly, mosquito, etc. They have a suctorial proboscis, often including two pairs of sharp organs (mandibles and maxill\'91) with which they pierce the skin of animals. They undergo a complete metamorphosis, their larv\'91 (called maggots) being usually without feet.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dip"ter*al</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <fld>(Zo\'94l.)</fld> <def>Having two wings only; belonging to the order Diptera.</def><br/
@@ -22911,7 +22911,7 @@ B: Oh, how I wish your parents had felt the same way!</q> <rj><qau></qau></rj></
 <p><hw>Dip"ter*an</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>An insect of the order Diptera.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dip`te*ro*car"pus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ with two wings + <?/ fruit.]</ety> <fld>(Bot.)</fld> <def>A genus of trees found in the East Indies, some species of which produce a fragrant resin, other species wood oil. The fruit has two long wings.</def><br/
+<p><hw>Dip`te*ro*car"pus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ with two wings + <?/ fruit.]</ety> <fld>(Bot.)</fld> <def>A genus of trees found in the East Indies, some species of which produce a fragrant resin, other species wood oil. The fruit has two long wings.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dip"ter*ous</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <fld>(Zo\'94l.)</fld> <def>Having two wings, as certain insects; belonging to the order Diptera.</def><br/
@@ -23415,7 +23415,7 @@ To sing my <qex>dirige</qex> with great devotion.</q> <rj><qau>Lamentation of Ma
 <p><sn>2.</sn> <def>A prefix from Gr. <grk>di`s-</grk> twice. See <er>Di-</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dis</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L.]</ety> <def>The god Pluto, god of the underworld; also called <altname>Dis Pater</altname>.</def>  <rj><au>Shak.</au></rj><br/
+<p><hw>Dis</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L.]</ety> <def>The god Pluto, god of the underworld; also called <altname>Dis Pater</altname>.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>dis</hw> <pos>v. t.</pos> <ety>[shortened from <ets>dis</ets>respect.]</ety> <vmorph>[<pos>imp. & p. p.</pos> <conjf>dissed</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>dissing</conjf> <pr>(?)</pr>.]</vmorph> <def>to treat in a disrespectful manner; to insult, disparage or belittle.</def> <mark>[slang]</mark><br/
@@ -24578,7 +24578,7 @@ Hath paid his ransom now and full <qex>discharge</qex>.</q> <rj><qau>Milton.</qa
 <p><hw>Dis"ci*form</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Discoid.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dis*ci"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>discus</ets> disk, Gr. <?/.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of Branchiopoda, having a disklike shell, attached by one valve, which is perforated by the peduncle.</def><br/
+<p><hw>Dis*ci"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>discus</ets> disk, Gr. <?/.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of Branchiopoda, having a disklike shell, attached by one valve, which is perforated by the peduncle.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dis*cinct</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>discinctus</ets>, p. p. of <ets>discingere</ets> to ungird; <ets>dis-</ets> + <ets>cingere</ets> to gird.]</ety> <def>Ungirded; loosely dressed.</def> <mark>[R.]</mark>  <rj><au>Sir W. Scott.</au></rj><br/
@@ -24848,7 +24848,7 @@ Our friendship 's an end.</q> <rj><qau>Addison.</qau></rj></p>
 <p><hw>Dis`co*blas"tic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <?/ disk + <?/ to grow.]</ety> <fld>(Biol.)</fld> <def>Applied to a form of egg cleavage seen in osseous fishes, which occurs only in a small disk that separates from the rest of the egg.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dis*cob"o*lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Discoboli</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/; <?/ a discu + <?/ to throw.]</ety> <fld>(Fine Arts)</fld> <sd>(a)</sd> <def>A thrower of the discus.</def> <sd>(b)</sd> <def>A statue of an athlete holding the discus, or about to throw it.</def><br/
+<p><hw>Dis*cob"o*lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Discoboli</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/; <?/ a discu + <?/ to throw.]</ety> <fld>(Fine Arts)</fld> <sd>(a)</sd> <def>A thrower of the discus.</def> <sd>(b)</sd> <def>A statue of an athlete holding the discus, or about to throw it.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The <xex>Discobolus</xex> of Myron was a famous statue of antiquity, and several copies or imitations of it have been preserved.</note><br/
@@ -24857,7 +24857,7 @@ Our friendship 's an end.</q> <rj><qau>Addison.</qau></rj></p>
 <p><hw>Dis`co*dac"tyl</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Discodactylia</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>One of the tree frogs.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dis`co*dac*tyl"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ disk + <?/ finger.]</ety> <fld>(Zo\'94l.)</fld> <def>A division of amphibians having suctorial disks on the toes, as the tree frogs.</def><br/
+<p><hw>Dis`co*dac*tyl"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ disk + <?/ finger.]</ety> <fld>(Zo\'94l.)</fld> <def>A division of amphibians having suctorial disks on the toes, as the tree frogs.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dis`co*dac"tyl*ous</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zo\'94l.)</fld> <def>Having sucking disks on the toes, as the tree frogs.</def><br/
@@ -25352,7 +25352,7 @@ Above a twelvemonth.</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>Dis`con*ven"ient</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Not convenient or congruous; unsuitable; ill-adapted.</def> <mark>[Obs.]</mark>  <rj><au>Bp. Reynolds.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dis*coph"o*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ disk + <ets><?/</ets> to bear.]</ety> <fld>(Zo\'94l.)</fld> <def>A division of acalephs or jellyfishes, including most of the large disklike species.</def> -- <wordforms><wf>Dis*coph"o*rous</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+<p><hw>Dis*coph"o*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ disk + <ets><?/</ets> to bear.]</ety> <fld>(Zo\'94l.)</fld> <def>A division of acalephs or jellyfishes, including most of the large disklike species.</def> -- <wordforms><wf>Dis*coph"o*rous</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dis"cord`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>discord</ets>, <ets>descord</ets>, OF. <ets>discorde</ets>, <ets>descorde</ets>, F. <ets>discorde</ets>, from L. <ets>discordia</ets>, fr. <ets>discors</ets>, <ets>-cordis</ets>, discordant, disagreeable; <ets>dis-</ets> + <ets>cor</ets>, <ets>cordis</ets>, heart; cf. F. <ets>discord</ets>, <ets>n.</ets>, and OF. <ets>descorder</ets>, <ets>discorder</ets>, F. <ets>discorder</ets>, to discord, L. <ets>discordare</ets>, from <ets>discors</ets>. See <er>Heart</er>, and cf. <er>Discord</er>, <pos>v. i.</pos>]</ety> <sn>1.</sn> <def>Want of concord or agreement; absence of unity or harmony in sentiment or action; variance leading to contention and strife; disagreement; -- applied to persons or to things, and to thoughts, feelings, or purposes.</def><br/
@@ -28072,7 +28072,7 @@ And tear his helpless breast, o'erwhelmed with wild <qex>dismay</qex>.</q> <rj><
 <p><hw>Dis*may"ful</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Terrifying.</def>  <rj><au>Spenser.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Disme</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF. See <er>Dime</er>.]</ety> <def>A tenth; a tenth part; a tithe.</def>  <rj><au>Ayliffe.</au></rj><br/
+<p><hw>Disme</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF. See <er>Dime</er>.]</ety> <def>A tenth; a tenth part; a tithe.</def>  <rj><au>Ayliffe.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dis*mem"ber</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Dismembered</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Dismembering</conjf>.]</vmorph> <ety>[OF. <ets>desmembrer</ets>, F. <ets>d\'82membrer</ets>; pref. <ets>des-</ets> (L. <ets>dis</ets>) + OF. & F. <ets>membre</ets> limb. See <er>Member</er>.]</ety> <sn>1.</sn> <def>To tear limb from limb; to dilacerate; to disjoin member from member; to tear or cut in pieces; to break up.</def><br/
@@ -31670,7 +31670,7 @@ Than of his outward show.</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>Dis*ti"tle</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To deprive of title or right.</def> <mark>[R.]</mark>  <rj><au>B. Jonson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dis"to*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <grk>sto`ma</grk> mouth.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of parasitic, trematode worms, having two suckers for attaching themselves to the part they infest. See 1st <er>Fluke</er>, 2.</def><br/
+<p><hw>Dis"to*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <grk>sto`ma</grk> mouth.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of parasitic, trematode worms, having two suckers for attaching themselves to the part they infest. See 1st <er>Fluke</er>, 2.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dis*tort"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>distortus</ets>, p. p. of <ets>distorquere</ets> to twist, distort; <ets>dis-</ets> + <ets>torquere</ets> to twist. See <er>Torsion</er>.]</ety> <def>Distorted; misshapen.</def> <mark>[Obs.]</mark><br/
@@ -31847,7 +31847,7 @@ Beguiled all species.</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>Dis*traint"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF. <ets>destrainte</ets> distress, force.]</ety> <fld>(Law)</fld> <def>The act or proceeding of seizing personal property by distress.</def>  <rj><au>Abbott.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dis`trait"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F. See <er>Distract</er>.]</ety> <def>Absent-minded; lost in thought; abstracted.</def><br/
+<p><hw>Dis`trait"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F. See <er>Distract</er>.]</ety> <def>Absent-minded; lost in thought; abstracted.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dis*traught"</hw> <pr>(?)</pr>, <pos>p. p. & a.</pos> <ety>[OE. <ets>distract</ets>, <ets>distrauht</ets>. See <er>Distract</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <def>Torn asunder; separated.</def> <mark>[Obs.]</mark> \'bdHis greedy throat . . . <xex>distraught</xex>.\'b8  <rj><au>Spenser.</au></rj><br/
@@ -32101,7 +32101,7 @@ Which are the most <qex>distraught</qex> and full of pain.</q> <rj><qau>Mrs. Bro
 <p><hw>Dis"trict*ly</hw> <pr>(?)</pr>, <pos>adv.</pos> <def>Strictly.</def> <mark>[Obs.]</mark>  <rj><au>Foxe.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dis*trin"gas</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., that you distrain, fr. <ets>distringere</ets>. See <er>Distrain</er>.]</ety> <fld>(Law)</fld> <def>A writ commanding the sheriff to distrain a person by his goods or chattels, to compel a compliance with something required of him.</def><br/
+<p><hw>Dis*trin"gas</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., that you distrain, fr. <ets>distringere</ets>. See <er>Distrain</er>.]</ety> <fld>(Law)</fld> <def>A writ commanding the sheriff to distrain a person by his goods or chattels, to compel a compliance with something required of him.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dis*trou"ble</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[Pref. <ets>dis-</ets> (intens.) + <ets>trouble</ets>.]</ety> <def>To trouble.</def> <mark>[Obs.]</mark>  <rj><au>Spenser.</au></rj><br/
@@ -32509,7 +32509,7 @@ His inmost counsels from their destined aim.</q> <rj><qau>Milton.</qau></rj></p>
 <p><hw>Di*u"re*ide</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Di-</ets> + <ets>ureide</ets>.]</ety> <fld>(Chem.)</fld> <def>One of a series of complex nitrogenous substances regarded as containing two molecules of urea or their radicals, as uric acid or allantoin.  Cf. <er>Ureide</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di`u*re"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Diuretic</er>.]</ety> <fld>(Med.)</fld> <def>Free excretion of urine.</def><br/
+<p><hw>Di`u*re"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Diuretic</er>.]</ety> <fld>(Med.)</fld> <def>Free excretion of urine.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di`u*ret"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>diureticus</ets>, Gr. <?/, fr. <?/ to make water; <?/ through + <?/ to make water, fr. <?/ urine: cf. F. <ets>diur\'82tique</ets>.]</ety> <fld>(Med.)</fld> <def>Tending to increase the secretion and discharge of urine.</def> -- <def2><pos>n.</pos> <def>A medicine with diuretic properties.</def></def2><br/
@@ -32524,7 +32524,7 @@ His inmost counsels from their destined aim.</q> <rj><qau>Milton.</qau></rj></p>
 <p><hw>Di`u*ret"ic*al*ness</hw>, <pos>n.</pos> <def>The quality of being diuretical; diuretic property.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di*ur"na</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>diurnus</ets> belonging to the day.]</ety> <fld>(Zo\'94l.)</fld> <def>A division of Lepidoptera, including the butterflies; -- so called because they fly only in the daytime.</def><br/
+<p><hw>Di*ur"na</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>diurnus</ets> belonging to the day.]</ety> <fld>(Zo\'94l.)</fld> <def>A division of Lepidoptera, including the butterflies; -- so called because they fly only in the daytime.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di*ur"nal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>diurnalis</ets>, fr. <ets>dies</ets> day. See <er>Deity</er>, and cf. <er>Journal</er>.]</ety> <sn>1.</sn> <def>Relating to the daytime; belonging to the period of daylight, distinguished from the night; -- opposed to <ant>nocturnal</ant>; <as>as, <ex>diurnal</ex> heat; <ex>diurnal</ex> hours.</as></def><br/
@@ -32578,7 +32578,7 @@ Their fiery torcher his <qex>diurnal</qex> ring.</q> <rj><qau>Shak.</qau></rj><b
 <p><hw>Di`u*tur"ni*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>diuturnitas</ets>.]</ety> <def>Long duration; lastingness.</def> <mark>[R.]</mark>  <rj><au>Sir T. Browne.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di"va</hw> <pr>(d<emac/"v<adot/)</pr>, <pos>n.</pos>; <plu><it>It. pl.</it> <plw>Dive</plw> <pr>(d<emac/"v<amac/)</pr></plu>. <ety>[It., prop. fem. of <ets>divo</ets> divine, L. <ets>divus</ets>.]</ety> <def>A prima donna.</def><br/
+<p><hw>Di"va</hw> <pr>(d<emac/"v<adot/)</pr>, <pos>n.</pos>; <plu><it>It. pl.</it> <plw>Dive</plw> <pr>(d<emac/"v<amac/)</pr></plu>. <ety>[It., prop. fem. of <ets>divo</ets> divine, L. <ets>divus</ets>.]</ety> <def>A prima donna.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Di`va*ga"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>divagari</ets> to wander about; <ets>di-</ets> = <ets>dis-</ets> + <ets>vagari</ets> to stroll about: cf. F. <ets>divagation</ets>. See <er>Vagary</er>.]</ety> <def>A wandering about or going astray; digression.</def><br/
@@ -32930,10 +32930,10 @@ Their fiery torcher his <qex>diurnal</qex> ring.</q> <rj><qau>Shak.</qau></rj><b
 <p><hw>Div`er*tic"u*lar</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Anat.)</fld> <def>Pertaining to a diverticulum.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Div`er*tic"u*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Diverticula</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Diverticle</er>.]</ety> <fld>(Anat.)</fld> <def>A blind tube branching out of a longer one.</def><br/
+<p><hw>Div`er*tic"u*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Diverticula</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Diverticle</er>.]</ety> <fld>(Anat.)</fld> <def>A blind tube branching out of a longer one.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di*ver`ti*men"to</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>-ti</plw> <pr>(#)</pr>.</plu> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>A light and pleasing composition.</def><br/
+<p><hw>Di*ver`ti*men"to</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>-ti</plw> <pr>(#)</pr>.</plu> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>A light and pleasing composition.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di*vert"ing</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Amusing; entertaining.</def> -- <wordforms><wf>Di*vert"ing*ly</wf>, <pos>adv.</pos> -- <wf>Di*vert"ing*ness</wf>, <pos>n.</pos></wordforms><br/
@@ -32945,7 +32945,7 @@ Their fiery torcher his <qex>diurnal</qex> ring.</q> <rj><qau>Shak.</qau></rj><b
 <p><hw>Di*vert"ise*ment</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. the next word.]</ety> <def>Diversion; amusement; recreation.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di`ver`tisse`ment"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A short ballet, or other entertainment, between the acts of a play.</def>  <rj><au>Smart.</au></rj><br/
+<p><hw>Di`ver`tisse`ment"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A short ballet, or other entertainment, between the acts of a play.</def>  <rj><au>Smart.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di*vert"ive</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[From <er>Divert</er>.]</ety> <def>Tending to divert; diverting; amusing; interesting.</def><br/
@@ -33125,7 +33125,7 @@ Their fiery torcher his <qex>diurnal</qex> ring.</q> <rj><qau>Shak.</qau></rj><b
 <p><hw>Di*vid"ing*ly</hw> <pr>(?)</pr>, <pos>adv.</pos> <def>By division.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Di"vi-di"vi</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Bot.)</fld> <def>A small tree of tropical America (<spn>C\'91salpinia coriaria</spn>), whose legumes contain a large proportion of tannic and gallic acid, and are used by tanners and dyers.</def><br/
+<p><hw>Di"vi-di"vi</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Bot.)</fld> <def>A small tree of tropical America (<spn>C\'91salpinia coriaria</spn>), whose legumes contain a large proportion of tannic and gallic acid, and are used by tanners and dyers.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Di*vid"u*al</hw> <pr>(?; 135)</pr>, <pos>a.</pos> <ety>[See <er>Dividuous</er>.]</ety> <def>Divided, shared, or participated in, in common with others.</def> <mark>[R.]</mark>  <rj><au>Milton.</au></rj><br/
@@ -33648,7 +33648,7 @@ That <qex>dizen</qex> Nature's carnival.</q> <rj><qau>Emerson.</qau></rj><br/
 <p><hw>DJ</hw> <pr>(d<emac/"j<amac/`)</pr> <pos>n.</pos> <def>same as <er>disc jockey</er>.</def> <mark>[acronym, capitalized]</mark> <br/
 [<source>PJC</source>]</p>
 
-<p><mhw>\'d8<hw>Djer*eed"</hw> <pr>(?)</pr> <it>or</it> <hw>Djer*rid"</hw> <pr>(<?/)</pr></mhw>, <pos>n.</pos> <ety>[F. <ets>djerid</ets>, fr. Ar. See <er>Jereed</er>.]</ety> <sd>(a)</sd> <def>A blunt javelin used in military games in Moslem countries.</def> <sd>(b)</sd> <def>A game played with it.</def> <altsp>[Written also <asp>jereed</asp>, <asp>jerrid</asp>, etc.]</altsp><br/
+<p><mhw><hw>Djer*eed"</hw> <pr>(?)</pr> <it>or</it> <hw>Djer*rid"</hw> <pr>(<?/)</pr></mhw>, <pos>n.</pos> <ety>[F. <ets>djerid</ets>, fr. Ar. See <er>Jereed</er>.]</ety> <sd>(a)</sd> <def>A blunt javelin used in military games in Moslem countries.</def> <sd>(b)</sd> <def>A game played with it.</def> <altsp>[Written also <asp>jereed</asp>, <asp>jerrid</asp>, etc.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>DJIA</hw> <pr>(d<emac/"j<amac/*<imac/`<amac/)</pr>, <pos>n.</pos> <fld>(Finance)</fld> <def>The <er>Dow Jones Industrial Average</er>.</def> <mark>[acronym]</mark> <br/
@@ -33661,7 +33661,7 @@ That <qex>dizen</qex> Nature's carnival.</q> <rj><qau>Emerson.</qau></rj><br/
 <p><hw>Djiboutian</hw> <pos>n.</pos> <def>A native or inhabitant of <country>Djibouti</country>.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><mhw>\'d8<hw>djin"nee</hw> <hw>djin"ni</hw>, <hw>djin"ny</hw></mhw> <pr>(j<icr/n"n<emac/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>djinn</plw> <pr>(j<icr/n)</pr> or <plw>djinns</plw> <pr>(j<icr/nz)</pr>.</plu> <def>A spirit believed by Muslims to inhabit the earth and influence mankind by appearing in the form of humans or animals.  Same as <er>djinni</er> and <er>Jinnee</er>.  See <er>Jinnee</er>, <er>Jinn</er>.</def><br/
+<p><mhw><hw>djin"nee</hw> <hw>djin"ni</hw>, <hw>djin"ny</hw></mhw> <pr>(j<icr/n"n<emac/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>djinn</plw> <pr>(j<icr/n)</pr> or <plw>djinns</plw> <pr>(j<icr/nz)</pr>.</plu> <def>A spirit believed by Muslims to inhabit the earth and influence mankind by appearing in the form of humans or animals.  Same as <er>djinni</er> and <er>Jinnee</er>.  See <er>Jinnee</er>, <er>Jinn</er>.</def><br/
 <syn><b>Syn. --</b> genie, jinn, jinni, jinnee, djinn, djinni.</syn><br/
 [<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 
@@ -33840,7 +33840,7 @@ As the light <qex>does</qex> the shadow.</q> <rj><qau> Longfellow.</qau></rj></p
 <p><sn>3.</sn> <def>A cheat; a swindle.</def> <mark>[Slang, Eng.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Do"ab</hw> <pr>(?)</pr>, <ety>[Pers. & Hind. <ets>do\'beb</ets>, prop., two waters.]</ety> <def>A tongue or tract of land included between two rivers; <as>as, the <ex>doab</ex> between the Ganges and the Jumna</as>.</def> <mark>[India]</mark>  <rj><au>Am. Cyc.</au></rj><br/
+<p><hw>Do"ab</hw> <pr>(?)</pr>, <ety>[Pers. & Hind. <ets>do\'beb</ets>, prop., two waters.]</ety> <def>A tongue or tract of land included between two rivers; <as>as, the <ex>doab</ex> between the Ganges and the Jumna</as>.</def> <mark>[India]</mark>  <rj><au>Am. Cyc.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Do"a*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Capable of being done.</def>  <rj><au>Carlyle.</au></rj><br/
@@ -33888,7 +33888,7 @@ As the light <qex>does</qex> the shadow.</q> <rj><qau> Longfellow.</qau></rj></p
 <p><hw>Do"cent</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>docens</ets>, <ets>-entis</ets>, p. pr. of <ets>docere</ets> to teach.]</ety> <def>Serving to instruct; teaching.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Do*ce"t\'91</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. <?/ to appear.]</ety> <fld>(Eccl. Hist.)</fld> <def>Ancient heretics who held that Christ's body was merely a phantom or appearance.</def><br/
+<p><hw>Do*ce"t\'91</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. <?/ to appear.]</ety> <fld>(Eccl. Hist.)</fld> <def>Ancient heretics who held that Christ's body was merely a phantom or appearance.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Do*cet"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Pertaining to, held by, or like, the Docet\'91.</def> \'bd<xex>Docetic</xex> Gnosticism.\'b8  <rj><au> Plumptre.</au></rj><br/
@@ -33900,7 +33900,7 @@ As the light <qex>does</qex> the shadow.</q> <rj><qau> Longfellow.</qau></rj></p
 <p><hw>Doch"mi*ac</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Pros.)</fld> <def>Pertaining to, or containing, the dochmius.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Doch"mi*us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/.]</ety> <fld>(Pros.)</fld> <def>A foot of five syllables (usually <?/ -- -<?/ -).</def></p>
+<p><hw>Doch"mi*us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/.]</ety> <fld>(Pros.)</fld> <def>A foot of five syllables (usually <?/ -- -<?/ -).</def></p>
 
 <p><mhw>{ <hw>Doc`i*bil"i*ty</hw> <pr>(?)</pr>, <hw>Doc"i*ble*ness</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>docibilitas</ets>.]</ety> <def>Aptness for being taught; teachableness; docility.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -34038,7 +34038,7 @@ As the light <qex>does</qex> the shadow.</q> <rj><qau> Longfellow.</qau></rj></p
 <p><hw>dock"yard`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A yard or storage place for all sorts of naval stores and timber for shipbuilding.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Doc`o*glos"sa</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ a beam + <?/ the tongue.]</ety> <fld>(Zo\'94l.)</fld> <def>An order of gastropods, including the true limpets, and having the teeth on the odontophore or lingual ribbon.</def><br/
+<p><hw>Doc`o*glos"sa</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ a beam + <?/ the tongue.]</ety> <fld>(Zo\'94l.)</fld> <def>An order of gastropods, including the true limpets, and having the teeth on the odontophore or lingual ribbon.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>doc"quet</hw> <pr>(?)</pr>, <pos>n. & v.</pos> <def>See <er>Docket</er>.</def><br/
@@ -34116,7 +34116,7 @@ Will seize the <qex>doctor</qex> too.</q> <rj><qau> Shak.</qau></rj><br/
 <p><hw>Doc"tri*na*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of the nature of, or constituting, doctrine.</def> <mark>[Obs.]</mark>  <rj><au>Sir P. Sidney.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Doc`tri*naire"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Doctrine</er>.]</ety> <def>One who would apply to political or other practical concerns the abstract doctrines or the theories of his own philosophical system; a propounder of a new set of opinions; a dogmatic theorist. Used also adjectively; <as>as, <ex>doctrinaire</ex> notions</as>.</def><br/
+<p><hw>Doc`tri*naire"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Doctrine</er>.]</ety> <def>One who would apply to political or other practical concerns the abstract doctrines or the theories of his own philosophical system; a propounder of a new set of opinions; a dogmatic theorist. Used also adjectively; <as>as, <ex>doctrinaire</ex> notions</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ In french history, the <xex>Doctrinaires</xex> were a constitutionalist party which originated after the restoration of the Bourbons, and represented the interests of liberalism and progress. After the Revolution of July, 1830, when they came into power, they assumed a conservative position in antagonism with the republicans and radicals.</note>  <rj><au>Am. Cyc.</au></rj><br/
@@ -34240,7 +34240,7 @@ By <qex>doctrines</qex> fashioned to the varying hour.</q> <rj><qau> Goldsmith.<
 <p><hw>Do*dec"a*gon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ twelve + <?/ angle: cf. F. <ets>dod\'82cagone</ets>.]</ety> <fld>(Geom.)</fld> <def>A figure or polygon bounded by twelve sides and containing twelve angles.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Do*dec`a*gyn"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ twelve + <?/ woman, female.]</ety> <fld>(Bot.)</fld> <def>A Linn\'91an order of plants having twelve styles.</def></p>
+<p><hw>Do*dec`a*gyn"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ twelve + <?/ woman, female.]</ety> <fld>(Bot.)</fld> <def>A Linn\'91an order of plants having twelve styles.</def></p>
 
 <p><mhw>{ <hw>Do*dec`a*gyn"i*an</hw> <pr>(?)</pr>, <hw>Do`de*cag"y*nous</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <fld>(Bot.)</fld> <def>Of or pertaining to the Dodecagynia; having twelve styles.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -34257,7 +34257,7 @@ By <qex>doctrines</qex> fashioned to the varying hour.</q> <rj><qau> Goldsmith.<
 <p><note><hand/ The <xex>regular dodecahedron</xex> is bounded by twelve equal and regular pentagons; the pyritohedron (see <er>Pyritohedron</er>) is related to it; the <xex>rhombic dodecahedron</xex> is bounded by twelve equal rhombic faces.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Do`de*can"dri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ twelve + <?/, <?/, man, male.]</ety> <fld>(Bot.)</fld> <def>A Linn\'91an class of plants including all that have any number of stamens between twelve and nineteen.</def></p>
+<p><hw>Do`de*can"dri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ twelve + <?/, <?/, man, male.]</ety> <fld>(Bot.)</fld> <def>A Linn\'91an class of plants including all that have any number of stamens between twelve and nineteen.</def></p>
 
 <p><mhw>{ <hw>Do`de*can"dri*an</hw> <pr>(?)</pr>, <hw>Do`de*can"drous</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <fld>(Bot.)</fld> <def>Of or pertaining to the Dodecandria; having twelve stamens, or from twelve to nineteen.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -34349,7 +34349,7 @@ By <qex>doctrines</qex> fashioned to the varying hour.</q> <rj><qau> Goldsmith.<
 <p><hw>D\'d2g"lic</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Pertaining to, or obtained from, the d\'d2gling; <as>as, <ex>d\'d2glic</ex> acid <fld>(Chem.)</fld>, an oily substance resembling oleic acid.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>D\'d2g"ling</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name in Faroe Islands.]</ety> <fld>(Zo\'94l.)</fld> <def>The beaked whale (<spn>Bal\'91noptera rostrata</spn>), from which d\'d2gling oil is obtained.</def><br/
+<p><hw>D\'d2g"ling</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name in Faroe Islands.]</ety> <fld>(Zo\'94l.)</fld> <def>The beaked whale (<spn>Bal\'91noptera rostrata</spn>), from which d\'d2gling oil is obtained.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Do"er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <er>Do</er>, <pos>v. t. & i.</pos>]</ety> <sn>1.</sn> <def>One who does; one who performs or executes; one who is wont and ready to act; an actor; an agent.</def><br/
@@ -34794,17 +34794,17 @@ He dons a surcoat which he <qex>doffs</qex> at morn.</q> <rj><qau> Emerson.</qau
 <p><hw>Dok`i*mas"tic</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Docimastic.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Do"ko</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>See <er>Lepidosiren</er>.</def><br/
+<p><hw>Do"ko</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>See <er>Lepidosiren</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Do*la"bra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>dolare</ets> to hew.]</ety> <def>A rude ancient ax or hatchet, seen in museums.</def><br/
+<p><hw>Do*la"bra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>dolare</ets> to hew.]</ety> <def>A rude ancient ax or hatchet, seen in museums.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Do*lab"ri*form</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>dolabra</ets> a mattock + <ets>-form</ets>.]</ety> <def>Shaped like the head of an ax or hatchet, as some leaves, and also certain organs of some shellfish.</def></p>
 
-<p><mhw>{ \'d8<hw>Dol"ce</hw> <pr>(?)</pr>, <hw>Dol`ce*men"te</hw> <pr>(?)</pr>, }</mhw> <pos>adv.</pos> <ety>[It., fr. L. <ets>dulcis</ets> sweet, soft.]</ety> <fld>(Mus.)</fld> <def>Softly; sweetly; with soft, smooth, and delicate execution.</def></p>
+<p><mhw>{ <hw>Dol"ce</hw> <pr>(?)</pr>, <hw>Dol`ce*men"te</hw> <pr>(?)</pr>, }</mhw> <pos>adv.</pos> <ety>[It., fr. L. <ets>dulcis</ets> sweet, soft.]</ety> <fld>(Mus.)</fld> <def>Softly; sweetly; with soft, smooth, and delicate execution.</def></p>
 
-<p><mhw>\'d8<hw>Dol*ci"no</hw> <pr>(?)</pr>, <it>or</it>  \'d8<hw>Dul*ci"no</hw> <pr>(<?/)</pr></mhw>, <pos>n.</pos> <ety>[Cf. It. <ets>dolcigno</ets> sweetish.]</ety> <fld>(Mus.)</fld> <def>A small bassoon, formerly much used.</def>  <rj><au>Simmonds.</au></rj><br/
+<p><mhw><hw>Dol*ci"no</hw> <pr>(?)</pr>, <it>or</it>  <hw>Dul*ci"no</hw> <pr>(<?/)</pr></mhw>, <pos>n.</pos> <ety>[Cf. It. <ets>dolcigno</ets> sweetish.]</ety> <fld>(Mus.)</fld> <def>A small bassoon, formerly much used.</def>  <rj><au>Simmonds.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>dol"drums</hw> <pr>(d<ocr/l"dr<ucr/mz)</pr>, <pos>n. pl.</pos> <ety>[Cf. Gael. <ets>doltrum</ets> grief, vexation?]</ety> <def>A part of the ocean near the equator, abounding in calms, squalls, and light, baffling winds, which sometimes prevent all progress for weeks; -- so called by sailors.</def><br/
@@ -34876,7 +34876,7 @@ They stood prepared to see the manna fall.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><hw>Do"lent</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>dolens</ets>, p. pr. of <ets>dolere</ets>: cf. F. <ets>dolent</ets>. See <er>Dole</er> sorrow.]</ety> <def>Sorrowful.</def> <mark>[Obs.]</mark>  <rj><au>Ford.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Do*len"te</hw> <pr>(?)</pr>, <pos>a. & adv.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Plaintively. See <er>Doloroso</er>.</def><br/
+<p><hw>Do*len"te</hw> <pr>(?)</pr>, <pos>a. & adv.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Plaintively. See <er>Doloroso</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dol"er*ite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>dolero`s</grk> deceptive, because it was easily confounded with diorite.]</ety> <fld>(Petrography)</fld> <sd>(a)</sd> <def>A dark, crystalline, igneous rock, chiefly pyroxene with labradorite.</def> <sd>(b)</sd> <def>Coarse-grained basalt.</def> <sd>(c)</sd> <def>Diabase.</def> <sd>(d)</sd> <def>Any dark, igneous rock composed chiefly of silicates of iron and magnesium with some feldspar.</def> -- <wordforms><wf>Dol`er*it"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
@@ -34906,7 +34906,7 @@ They stood prepared to see the manna fall.</q> <rj><qau>Dryden.</qau></rj><br/
 <syn><b>Syn. --</b> family <fam>Doliolidae</fam>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p>\'d8<hw>Do*li"o*lum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>doliolum</ets> a small cask.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of freeswimming oceanic tunicates, allied to <gen>Salpa</gen>, and having alternate generations.</def><br/
+<p><hw>Do*li"o*lum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>doliolum</ets> a small cask.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of freeswimming oceanic tunicates, allied to <gen>Salpa</gen>, and having alternate generations.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Do"-lit`tle</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who performs little though professing much.</def> <mark>[Colloq.]</mark><br/
@@ -34915,7 +34915,7 @@ They stood prepared to see the manna fall.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><q>Great talkers are commonly <qex>dolittles</qex>.</q> <rj><qau>Bp. Richardson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Do"li*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. large jar.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of large univalve mollusks, including the partridge shell and tun shells.</def><br/
+<p><hw>Do"li*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. large jar.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of large univalve mollusks, including the partridge shell and tun shells.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>doll</hw> <pr>(d<ocr/l)</pr>, <pos>n.</pos> <ety>[A contraction of <ets>Dorothy</ets>; or less prob. an abbreviation of <ets>idol</ets>; or cf. OD. <ets>dol</ets> a whipping top, D. <ets>dollen</ets> to rave, and E. <ets>dull</ets>.]</ety> <sn>1.</sn> <def>a small, usually flexible figure representing a human being, especially a toy baby for a little girl; a child's puppet.</def><br/
@@ -35033,7 +35033,7 @@ They stood prepared to see the manna fall.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><mhw>{ <hw>Dol`or*if"ic</hw> <pr>(?)</pr>, <hw>Dol`or*if"ic*al</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[LL. <ets>dolorificus</ets>; L. <ets>dolor</ets> pain + <ets>facere</ets> to make.]</ety> <def>Causing pain or grief.</def>  <rj><au>Arbuthnot.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Do`lo*ro"so</hw> <pr>(?)</pr>, <pos>a. & adv.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Plaintive; pathetic; -- used adverbially as a musical direction.</def><br/
+<p><hw>Do`lo*ro"so</hw> <pr>(?)</pr>, <pos>a. & adv.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Plaintive; pathetic; -- used adverbially as a musical direction.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dol"or*ous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>dolorosus</ets>, from <ets>dolor</ets>: cf. F. <ets>douloureux</ets>. See <er>Dolor</er>.]</ety> <sn>1.</sn> <def>Full of grief; sad; sorrowful; doleful; dismal; <as>as, a <ex>dolorous</ex> object; <ex>dolorous</ex> discourses.</as></def><br/
@@ -35103,7 +35103,7 @@ I spake to you for your comfort.</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>dolt"ish</hw> <pr>(d<omac/lt"<icr/sh)</pr>, <pos>a.</pos> <def>Doltlike; dull in intellect; stupid; blockish; <as>as, a <ex>doltish</ex> clown</as>.</def> -- <wordforms><wf>Dolt"ish*ly</wf>, <pos>adv.</pos> -- <wf>Dolt"ish*ness</wf>, <pos>n.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Do"lus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., deceit; akin to Gr. <?/.]</ety> <fld>(Law)</fld> <def>Evil intent, embracing both malice and fraud. See <er>Culpa</er>.</def>  <rj><au>Wharton.</au></rj><br/
+<p><hw>Do"lus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., deceit; akin to Gr. <?/.]</ety> <fld>(Law)</fld> <def>Evil intent, embracing both malice and fraud. See <er>Culpa</er>.</def>  <rj><au>Wharton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dolv"en</hw> <pr>(?)</pr>, <pos>p. p.</pos> <def>of <er>Delve</er>.</def> <mark>[Obs.]</mark>  <rj><au>Rom. of R.</au></rj><br/
@@ -35344,7 +35344,7 @@ I spake to you for your comfort.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>To tame; to domesticate.</def> <mark>[Obs.]</mark>  <rj><au>Johnson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dom"i*na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., lady. See <er>Dame</er>.]</ety> <fld>(O. Eng. Law)</fld> <def>Lady; a lady; -- a title formerly given to noble ladies who held a barony in their own right.</def>  <rj><au>Burrill.</au></rj></p>
+<p><hw>Dom"i*na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., lady. See <er>Dame</er>.]</ety> <fld>(O. Eng. Law)</fld> <def>Lady; a lady; -- a title formerly given to noble ladies who held a barony in their own right.</def>  <rj><au>Burrill.</au></rj></p>
 
 <p><mhw>{ <hw>Dom"i*nance</hw> <pr>(?)</pr>, <hw>Dom"i*nan*cy</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <def>Predominance; ascendency; authority.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -35546,7 +35546,7 @@ And hers to <qex>domineer</qex> at home.</q> <rj><qau>Prior.</qau></rj><br/
 <p><hw>Dom"i*no whist</hw>. <def>A game of cards in which the suits are played in sequence, beginning with a 5 or 9, the player who gets rid of his cards first being the winner.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p>\'d8<hw>Dom"i*nus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Domini</plw> <pr>(#)</pr>.</plu> <ety>[L., master. See <er>Dame</er>.]</ety> <def>Master; sir; -- a title of respect formerly applied to a knight or a clergyman, and sometimes to the lord of a manor.</def>  <rj><au>Cowell.</au></rj><br/
+<p><hw>Dom"i*nus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Domini</plw> <pr>(#)</pr>.</plu> <ety>[L., master. See <er>Dame</er>.]</ety> <def>Master; sir; -- a title of respect formerly applied to a knight or a clergyman, and sometimes to the lord of a manor.</def>  <rj><au>Cowell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dom"i*ta*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>domitare</ets> to tame, fr. <ets>domare</ets>.]</ety> <def>That can be tamed.</def> <mark>[R.]</mark>  <rj><au>Sir M. Hale.</au></rj><br/
@@ -35574,7 +35574,7 @@ And hers to <qex>domineer</qex> at home.</q> <rj><qau>Prior.</qau></rj><br/
 He <qex>dons</qex> a surcoat which he doffs at morn.</q> <rj><qau>Emerson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Do"\'a4a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. <ets>do\'a4a</ets>. See <er>Duenna</er>.]</ety> <def>Lady; mistress; madam; -- a title of respect used in Spain, prefixed to the Christian name of a lady.</def><br/
+<p><hw>Do"\'a4a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. <ets>do\'a4a</ets>. See <er>Duenna</er>.]</ety> <def>Lady; mistress; madam; -- a title of respect used in Spain, prefixed to the Christian name of a lady.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Do"na*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>donabilis</ets>, fr. <ets>donare</ets> to donate.]</ety> <def>Capable of being donated or given.</def> <mark>[R.]</mark><br/
@@ -35637,7 +35637,7 @@ On the bless'd lovers.</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>Don"a*tive</hw>, <pos>a.</pos> <def>Vested or vesting by donation; <as>as, a <ex>donative</ex> advowson</as>.</def>  <rj><au>Blackstone.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Do*na"tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.  Cf. <er>Donor</er>.]</ety> <fld>(Law)</fld> <def>One who makes a gift; a donor; a giver.</def><br/
+<p><hw>Do*na"tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.  Cf. <er>Donor</er>.]</ety> <fld>(Law)</fld> <def>One who makes a gift; a donor; a giver.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Don"a*to*ry</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Scots Law)</fld> <def>A donee of the crown; one the whom, upon certain condition, escheated property is made over.</def><br/
@@ -35646,10 +35646,10 @@ On the bless'd lovers.</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>Do"-naught`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Do</ets> + <ets>naught</ets>.]</ety> <def>A lazy, good-for-nothing fellow.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Do"nax</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., reed, also a sea fish, Gr. <?/.]</ety> <fld>(Bot.)</fld> <def>A canelike grass of southern Europe (<spn>Arundo Donax</spn>), used for fishing rods, etc.</def><br/
+<p><hw>Do"nax</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., reed, also a sea fish, Gr. <?/.]</ety> <fld>(Bot.)</fld> <def>A canelike grass of southern Europe (<spn>Arundo Donax</spn>), used for fishing rods, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Don*cel"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., lit., a maid.  Cf. <er>Damsel</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>A handsome fish of Florida and the West Indies (<spn>Platyglossus radiatus</spn>). The name is applied also to the ladyfish (<spn>Harpe rufa</spn>) of the same region.</def><br/
+<p><hw>Don*cel"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., lit., a maid.  Cf. <er>Damsel</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>A handsome fish of Florida and the West Indies (<spn>Platyglossus radiatus</spn>). The name is applied also to the ladyfish (<spn>Harpe rufa</spn>) of the same region.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Done</hw> <pr>(?)</pr>, <def><pos>p. p.</pos> from <er>Do</er>, and formerly the <pos>infinitive.</pos></def> <sn>1.</sn> <def>Performed; executed; finished.</def><br/
@@ -35717,7 +35717,7 @@ On the bless'd lovers.</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>Don"nat</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Corrupted from <ets>do-naught</ets>.]</ety> <def>See <er>Do-naught</er>.</def> <mark>[Prov. Eng.]</mark>  <rj><au>Halliwell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Don`n\'82e"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>donner</ets> to give.]</ety> <def>Lit., given; hence, in a literary work, as a drama or tale, that which is assumed as to characters, situation, etc., as a basis for the plot or story.</def>  <rj><au>W. E. Henley.</au></rj></p>
+<p><hw>Don`n\'82e"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>donner</ets> to give.]</ety> <def>Lit., given; hence, in a literary work, as a drama or tale, that which is assumed as to characters, situation, etc., as a basis for the plot or story.</def>  <rj><au>W. E. Henley.</au></rj></p>
 
 <p><q>That favorite romance <qex>donn\'82e</qex> of the heir kept out of his own.</q>  <rj><qau>Saintsbury.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -35928,7 +35928,7 @@ That fast was locked.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><hw>Door"cheek`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The jamb or sidepiece of a door.</def>  <rj><au>Ex. xii. 22 (Douay version).</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Door"ga</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr. <ets>Durg\'be</ets>.]</ety> <fld>(Myth.)</fld> <def>A Hindoo divinity, the consort of Siva, represented with ten arms.</def> <mark>[Written also Durga.]</mark>  <rj><au>Malcom.</au></rj><br/
+<p><hw>Door"ga</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr. <ets>Durg\'be</ets>.]</ety> <fld>(Myth.)</fld> <def>A Hindoo divinity, the consort of Siva, represented with ten arms.</def> <mark>[Written also Durga.]</mark>  <rj><au>Malcom.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Door"ing</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The frame of a door.</def>  <rj><au>Milton.</au></rj><br/
@@ -36051,7 +36051,7 @@ That fast was locked.</q> <rj><qau>Spenser.</qau></rj><br/
 <syn><b>Syn. --</b> anserine, dopey, fool(prenominal), foolish, goosey, goosy, gooselike.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p>\'d8<hw>Dop"pel*g\'84ng`er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.]</ety> <def>A spiritual or ghostly double or counterpart; esp., an apparitional double of a living person; a cowalker.</def><br/
+<p><hw>Dop"pel*g\'84ng`er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.]</ety> <def>A spiritual or ghostly double or counterpart; esp., an apparitional double of a living person; a cowalker.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Dop"per</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[D. <ets>dooper</ets>.]</ety> <altsp>[Written also <asp>doper</asp>.]</altsp> <def>An Anabaptist or Baptist.</def> <mark>[Contemptuous]</mark>  <rj><au>B. Jonson.</au></rj><br/
@@ -36126,7 +36126,7 @@ That fast was locked.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><hw>Dor"i*cism</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A Doric phrase or idiom.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Do"ris</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>Doris</ets>, the daughter of Oceanus, and wife of Nereus, Gr. <?/.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of nudibranchiate mollusks having a wreath of branchi\'91 on the back.</def><br/
+<p><hw>Do"ris</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>Doris</ets>, the daughter of Oceanus, and wife of Nereus, Gr. <?/.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of nudibranchiate mollusks having a wreath of branchi\'91 on the back.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Do"rism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/.]</ety> <def>A Doric phrase or idiom.</def><br/
@@ -36260,7 +36260,7 @@ That fast was locked.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><hw>Dor"ser</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Dosser</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>dor`si*bran`chi*a"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from L. <ets>dorsum</ets> back + <ets>branchiae</ets> gills.]</ety> <fld>(Zo\'94l.)</fld> <def>A division of ch\'91topod annelids in which the branchi\'91 are along the back, on each side, or on the parapodia. [See <xex>Illusts</xex>. under <er>Annelida</er> and <er>Ch\'91topoda</er>.]</def><br/
+<p><hw>dor`si*bran`chi*a"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from L. <ets>dorsum</ets> back + <ets>branchiae</ets> gills.]</ety> <fld>(Zo\'94l.)</fld> <def>A division of ch\'91topod annelids in which the branchi\'91 are along the back, on each side, or on the parapodia. [See <xex>Illusts</xex>. under <er>Annelida</er> and <er>Ch\'91topoda</er>.]</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dor`si*bran"chi*ate</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zo\'94l.)</fld> <def>Having branchi\'91 along the back; belonging to the Dorsibranchiata.</def> -- <def2><pos>n.</pos> <def>One of the Dorsibranchiata.</def></def2><br/
@@ -36284,7 +36284,7 @@ That fast was locked.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><hw>Dor`so*ven"tral</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>dorsum</ets> + <ets>ventral</ets>.]</ety> <fld>(Anat.)</fld> <def>From the dorsal to the ventral side of an animal; <as>as, the <ex>dorsoventral</ex> axis</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dor"sum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <sn>1.</sn> <def>The ridge of a hill.</def><br/
+<p><hw>Dor"sum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <sn>1.</sn> <def>The ridge of a hill.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Anat.)</fld> <def>The back or dorsal region of an animal; the upper side of an appendage or part; <as>as, the <ex>dorsum</ex> of the tongue</as>.</def></p>
@@ -36301,16 +36301,16 @@ That fast was locked.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><hw>Do"ry</hw>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dories</plw> <pr>(<?/)</pr>.</plu> <def>A small, strong, flat-bottomed rowboat, with sharp prow and flaring sides.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Do*ryph"o*ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Doryphoros</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of plant-eating beetles, including the potato beetle. See <er>Potato beetle</er>.</def><br/
+<p><hw>Do*ryph"o*ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Doryphoros</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of plant-eating beetles, including the potato beetle. See <er>Potato beetle</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Do*ryph"o*ros</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, lit., spear bearing; <?/ a spear + <grk>fe`rein</grk> to bear.]</ety> <fld>(Fine Arts)</fld> <def>A spear bearer; a statue of a man holding a spear or in the attitude of a spear bearer. Several important sculptures of this subject existed in antiquity, copies of which remain to us.</def><br/
+<p><hw>Do*ryph"o*ros</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, lit., spear bearing; <?/ a spear + <grk>fe`rein</grk> to bear.]</ety> <fld>(Fine Arts)</fld> <def>A spear bearer; a statue of a man holding a spear or in the attitude of a spear bearer. Several important sculptures of this subject existed in antiquity, copies of which remain to us.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dos`-\'85-dos"</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[F.]</ety> <def>Back to back; <as>as, to sit <ex>dos-\'85-dos</ex> in a dogcart; to dance <ex>dos-\'85-dos</ex>, or so that two dancers move forward and pass back to back</as>.</def><br/
+<p><hw>Dos`-\'85-dos"</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[F.]</ety> <def>Back to back; <as>as, to sit <ex>dos-\'85-dos</ex> in a dogcart; to dance <ex>dos-\'85-dos</ex>, or so that two dancers move forward and pass back to back</as>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p>\'d8<hw>Dos`-\'85-dos"</hw>, <pos>n.</pos> <def>A sofa, open carriage, or the like, so constructed that the occupants sit back to back.</def><br/
+<p><hw>Dos`-\'85-dos"</hw>, <pos>n.</pos> <def>A sofa, open carriage, or the like, so constructed that the occupants sit back to back.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Dos"age</hw> <pr>(d<omac/s"<asl/j)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>dosage</ets>. See <er>Dose</er>, <pos>v.</pos>]</ety> <sn>1.</sn>  <fld>(Med.)</fld> <def>The administration of medicine in doses; specif., a scheme or system of grading doses of medicine according to age, etc.</def><br/
@@ -36404,7 +36404,7 @@ That fast was locked.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><sn>2.</sn> <def>A hanging tapestry; a dorsal.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dos`sier"</hw> <pr>(d<osl/s`sy<asl/"; <it>E.</it> d<ocr/s"s<icr/*<etil/r)</pr>, <pos>n.</pos> <ety>[F., back of a thing, bulging bundle of papers, fr. <ets>dos</ets> back.]</ety> <def>A bundle containing the papers in reference to some matter.</def><br/
+<p><hw>Dos`sier"</hw> <pr>(d<osl/s`sy<asl/"; <it>E.</it> d<ocr/s"s<icr/*<etil/r)</pr>, <pos>n.</pos> <ety>[F., back of a thing, bulging bundle of papers, fr. <ets>dos</ets> back.]</ety> <def>A bundle containing the papers in reference to some matter.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Dos"sil</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>dosil</ets> faucet of a barrel, OF. <ets>dosil</ets>, <ets>duisil</ets>, spigot, LL. <ets>diciculus</ets>, <ets>ducillus</ets>, fr. L. <ets>ducere</ets> to lead, draw. See <er>Duct</er>, <er>Duke</er>.]</ety> <sn>1.</sn> <fld>(Surg.)</fld> <def>A small ovoid or cylindrical roil or pledget of lint, for keeping a sore, wound, etc., open; a tent.</def><br/
@@ -36592,10 +36592,10 @@ Of arms imagined in your lonely cell.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><hw>Do"ty</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[See <er>Dottard</er>.]</ety> <def>Half-rotten; <as>as, <ex>doty</ex> timber</as>.</def> <mark>[Local, U. S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dou`ane"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A customhouse.</def><br/
+<p><hw>Dou`ane"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A customhouse.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dou`a"nier"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>An officer of the French customs.</def> <altsp>[Anglicized form <asp>douaneer</asp>.]</altsp><br/
+<p><hw>Dou`a"nier"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>An officer of the French customs.</def> <altsp>[Anglicized form <asp>douaneer</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dou"ar</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. Ar. <ets>d<?/\'ber</ets>.]</ety> <def>A village composed of Arab tents arranged in streets.</def><br/
@@ -36825,7 +36825,7 @@ Of plagues.</q> <rj><qau>Marston.</qau></rj><br/
 <p><hw>Dou"ble-end"er</hw> <pr>(?)</pr>, <pos>n.</pos> <sd>(a)</sd> <fld>(Naut.)</fld> <def>A vessel capable of moving in either direction, having bow and rudder at each end.</def> <sd>(b)</sd> <fld>(Railroad)</fld> <def>A locomotive with pilot at each end.</def>  <rj><au>Knight.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dou"ble-en*ten"dre</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>double</ets> double + <ets>entendre</ets> to mean. This is a barbarous compound of French words. The true French equivalent is <ets>double entente</ets>.]</ety> <def>A word or expression admitting of a double interpretation, one of which is often obscure or indelicate.</def><br/
+<p><hw>Dou"ble-en*ten"dre</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>double</ets> double + <ets>entendre</ets> to mean. This is a barbarous compound of French words. The true French equivalent is <ets>double entente</ets>.]</ety> <def>A word or expression admitting of a double interpretation, one of which is often obscure or indelicate.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dou"ble-eyed`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Having a deceitful look.</def> <mark>[R.]</mark> \'bdDeceitful meanings is <xex>double-eyed</xex>.\'b8  <rj><au>Spenser.</au></rj><br/
@@ -37004,7 +37004,7 @@ Of plagues.</q> <rj><qau>Marston.</qau></rj><br/
 <p><hw>Doub*loon"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>doublon</ets>, Sp. <ets>doblon</ets>. See <er>Double</er>, <pos>a.</pos>, and cf. <er>Dupion</er>.]</ety> <def>A Spanish gold coin, no longer issued, varying in value at different times from over fifteen dollars to about five. See <er>Doblon</er> in Sup.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dou`blure"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <fld>(Bookbinding)</fld> <def>The lining of a book cover, esp. one of unusual sort, as of tooled leather, painted vellum, rich brocade, or the like.</def><br/
+<p><hw>Dou`blure"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <fld>(Bookbinding)</fld> <def>The lining of a book cover, esp. one of unusual sort, as of tooled leather, painted vellum, rich brocade, or the like.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <fld>(Paleon.)</fld> <def>The reflexed margin of the trilobite carapace.</def><br/
@@ -37216,7 +37216,7 @@ And bosomed with her.</q> <rj><qau>Shak.</qau></rj></p>
 <p><sn>2.</sn> <def>A dowcet, or deep's testicle.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dou`ceur"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>doux</ets> sweet. See <er>Douce</er>.]</ety> <sn>1.</sn> <def>Gentleness and sweetness of manner; agreeableness.</def>  <rj><au>Chesterfield.</au></rj><br/
+<p><hw>Dou`ceur"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>doux</ets> sweet. See <er>Douce</er>.]</ety> <sn>1.</sn> <def>Gentleness and sweetness of manner; agreeableness.</def>  <rj><au>Chesterfield.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A gift for service done or to be done; an honorarium; a present; sometimes, a bribe.</def>  <rj><au>Burke.</au></rj><br/
@@ -37313,7 +37313,7 @@ And bosomed with her.</q> <rj><qau>Shak.</qau></rj></p>
 <syn><b>Syn. --</b> durra, doura, dourah, Egyptian corn, Indian millet, Guinea corn.</syn><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dou`rou*cou"li</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>A small, nocturnal, South American monkey of the genus <gen>Aotus</gen> (formerly <spn>Nyctipithecus trivirgatus</spn>), with large owl-like eyes; hence, the common name <altname>owl monkey</altname>.</def> <altsp>[Written also <asp>Durukuli</asp> and <asp>dourikuli</asp>.]</altsp><br/
+<p><hw>Dou`rou*cou"li</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>A small, nocturnal, South American monkey of the genus <gen>Aotus</gen> (formerly <spn>Nyctipithecus trivirgatus</spn>), with large owl-like eyes; hence, the common name <altname>owl monkey</altname>.</def> <altsp>[Written also <asp>Durukuli</asp> and <asp>dourikuli</asp>.]</altsp><br/
 [<source>1913 Webster</source> <source>+PJC</source> ]</p>
 
 <p><hw>Douse</hw> <pr>(dous)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Doused</conjf> <pr>(doust)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Dousing</conjf>.]</vmorph> <ety>[Cf. <er>Dowse</er>, and OD. <ets>donsen</ets> to strike with the fist on the back, Sw. <ets>dunsa</ets> to fall down violently and noisily; perh. akin to E. <ets>din</ets>.]</ety> <sn>1.</sn> <def>To plunge suddenly into water; to duck; to immerse; to dowse.</def>  <rj><au>Bp. Stillingfleet.</au></rj><br/
@@ -38006,7 +38006,7 @@ That drove the sand along he took his way.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><hw>Dox"y</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Doxies</plw> <pr>(#)</pr>.</plu> <ety>[See <er>Duck</er> a pet.]</ety> <def>A loose wench; a disreputable sweetheart.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Doy`en"</hw> <pr>(dw<aum/`y<aum/N")</pr>, <pos>n.</pos> <ety>[F. See <er>Dean</er>.]</ety> <def>Lit., a dean; the senior member of a body or group; <as>as, the <ex>doyen</ex> of French physicians</as>.</def> \'bdThis <xex>doyen</xex> of newspapers.\'b8  <rj><au>A. R. Colquhoun.</au></rj><br/
+<p><hw>Doy`en"</hw> <pr>(dw<aum/`y<aum/N")</pr>, <pos>n.</pos> <ety>[F. See <er>Dean</er>.]</ety> <def>Lit., a dean; the senior member of a body or group; <as>as, the <ex>doyen</ex> of French physicians</as>.</def> \'bdThis <xex>doyen</xex> of newspapers.\'b8  <rj><au>A. R. Colquhoun.</au></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>doy`enne"</hw> <pos>n. f.</pos> <def>a female doyen.</def><br/
@@ -38123,7 +38123,7 @@ That drove the sand along he took his way.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><hw>Drab"ble-tail`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A draggle-tail; a slattern.</def>  <rj><au>Halliwell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dra*c\'91"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ she-dragon.]</ety> <fld>(Bot.)</fld> <def>A genus of liliaceous plants with woody stems and funnel-shaped flowers.</def><br/
+<p><hw>Dra*c\'91"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ she-dragon.]</ety> <fld>(Bot.)</fld> <def>A genus of liliaceous plants with woody stems and funnel-shaped flowers.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ <xex>Drac\'91na Draco</xex>, the source of the dragon's blood of the Canaries, forms a tree, sometimes of gigantic size.</note><br/
@@ -38138,7 +38138,7 @@ That drove the sand along he took his way.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><sn>2.</sn> <def>Same as <er>Dram</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Drach"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Drachmas</plw> <pr>(#)</pr>, L. <plw>Drachm\'91</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/. See <er>Dram</er>.]</ety> <sn>1.</sn> <def>A silver coin among the ancient Greeks, having a different value in different States and at different periods. The average value of the Attic drachma is computed to have been about 19 cents (U. S. currency, ca. 1913).</def><br/
+<p><hw>Drach"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Drachmas</plw> <pr>(#)</pr>, L. <plw>Drachm\'91</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/. See <er>Dram</er>.]</ety> <sn>1.</sn> <def>A silver coin among the ancient Greeks, having a different value in different States and at different periods. The average value of the Attic drachma is computed to have been about 19 cents (U. S. currency, ca. 1913).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A gold and silver coin of modern Greece worth 19.3 cents.</def><br/
@@ -38147,13 +38147,13 @@ That drove the sand along he took his way.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><sn>3.</sn> <def>Among the ancient Greeks, a weight of about 66.5 grains; among the modern Greeks, a weight equal to a gram.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Drach"me</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>See <er>Drachma</er>.</def><br/
+<p><hw>Drach"me</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>See <er>Drachma</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dra"cin</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>dracine</ets>.]</ety> <fld>(Chem.)</fld> <def>See <er>Draconin</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dra"co</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Dragon</er>.]</ety> <sn>1.</sn> <fld>(Astron.)</fld> <def>The Dragon, a northern constellation within which is the north pole of the ecliptic.</def><br/
+<p><hw>Dra"co</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Dragon</er>.]</ety> <sn>1.</sn> <fld>(Astron.)</fld> <def>The Dragon, a northern constellation within which is the north pole of the ecliptic.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A luminous exhalation from marshy grounds.</def><br/
@@ -38184,7 +38184,7 @@ That drove the sand along he took his way.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><hw>Dra*con"tine</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>draco</ets> dragon.]</ety> <def>Belonging to a dragon.</def>  <rj><au>Southey.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dra*cun"cu*lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dracunculi</plw> <pr>(#)</pr>.</plu> <ety>[L., dim. of <ets>draco</ets> dragon.]</ety> <fld>(Zo\'94l.)</fld> <sd>(a)</sd> <def>A fish; the dragonet.</def> <sd>(b)</sd> <def>The Guinea worm (<spn>Filaria medinensis</spn>).</def><br/
+<p><hw>Dra*cun"cu*lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dracunculi</plw> <pr>(#)</pr>.</plu> <ety>[L., dim. of <ets>draco</ets> dragon.]</ety> <fld>(Zo\'94l.)</fld> <sd>(a)</sd> <def>A fish; the dragonet.</def> <sd>(b)</sd> <def>The Guinea worm (<spn>Filaria medinensis</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Drad</hw> <pr>(?)</pr>, <pos>p. p. & a.</pos> <def>Dreaded.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
@@ -38433,7 +38433,7 @@ That, like a wounded snake, <qex>drags</qex> its slow length along.</q> <rj><qau
 <p><sn>3.</sn> <def>sugar-coated nut or fruit piece.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p>\'d8<hw>Dra`g\'82es"</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[F. See 3d <er>Dredge</er>.]</ety> <fld>(Pharmacy)</fld> <def>Sugar-coated medicines.</def><br/
+<p><hw>Dra`g\'82es"</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[F. See 3d <er>Dredge</er>.]</ety> <fld>(Pharmacy)</fld> <def>Sugar-coated medicines.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>dragging</hw> <pos>adj.</pos> <def>painfully or tediously slow and boring; <as>as, the <ex>dragging</ex> minutes</as>.</def><br/
@@ -38635,7 +38635,7 @@ Filled the capacious deep and formed the main.</q> <rj><qau>Roscommon.</qau></rj
 <syn><b>Syn. --</b> draining board.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p>\'d8<hw>Draine</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Zo\'94l.)</fld> <def>The missel thrush.</def><br/
+<p><hw>Draine</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Zo\'94l.)</fld> <def>The missel thrush.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>drained</hw> <pos>adj.</pos> <def>having lost much energy or emotion from vigorous activity; -- of people; <as>as, the day's events left her completely <ex>drained</ex> of strength</as>.</def><br/
@@ -38780,7 +38780,7 @@ Time's noblest offspring is the last.</q> <rj><qau>Berkeley.</qau></rj><br/
 <syn><b>Syn. --</b> dramatization.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p>\'d8<hw>Dram"a*tis per*so"n\'91</hw> <pr>(?)</pr>. <ety>[L.]</ety> <def>The actors in a drama or play.</def><br/
+<p><hw>Dram"a*tis per*so"n\'91</hw> <pr>(?)</pr>. <ety>[L.]</ety> <def>The actors in a drama or play.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dram"a*tist</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>dramatiste</ets>.]</ety> <def>The author of a dramatic composition; a writer of plays.</def><br/
@@ -38822,7 +38822,7 @@ Time's noblest offspring is the last.</q> <rj><qau>Berkeley.</qau></rj><br/
 <p><hw>Drank</hw>, <pos>n.</pos> <ety>[Cf. 3d <er>Drake</er>.]</ety> <def>Wild oats, or darnel grass. See <er>Drake</er> a plant.</def> <mark>[Prov. Eng.]</mark>  <rj><au>Halliwell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Drap` d'\'82*t\'82"</hw> <pr>(?)</pr>. <ety>[F., clot of summer.]</ety> <def>A thin woolen fabric, twilled like merino.</def><br/
+<p><hw>Drap` d'\'82*t\'82"</hw> <pr>(?)</pr>. <ety>[F., clot of summer.]</ety> <def>A thin woolen fabric, twilled like merino.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Drape</hw> <pr>(dr<amac/p)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Draped</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Draping</conjf> <pr>(?)</pr>.]</vmorph> <ety>[F. <ets>draper</ets>, fr. <ets>drap</ets> cloth. See 3d <er>Drab</er>.]</ety> <sn>1.</sn> <def>To cover or adorn with drapery or folds of cloth, or as with drapery; <as>as, to <ex>drape</ex> a bust, a building, etc.</as></def><br/
@@ -39783,7 +39783,7 @@ And <qex>dreamt</qex> the future fight</q>. <rj><qau>Dryden.</qau></rj><br/
 <p><hw>Dreg"gy</hw> <pr>(dr<ecr/g"g<ycr/)</pr>, <pos>a.</pos> <def>Containing dregs or lees; muddy; foul; feculent.</def>  <rj><au>Boyle.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Drei"bund`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., fr. <ets>drei</ets> three + <ets>bund</ets> league.]</ety> <def>A triple alliance; specif., the alliance of Germany, Austria, and Italy, formed in 1882.</def><br/
+<p><hw>Drei"bund`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., fr. <ets>drei</ets> three + <ets>bund</ets> league.]</ety> <def>A triple alliance; specif., the alliance of Germany, Austria, and Italy, formed in 1882.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><mhw><hw>dreidel</hw>, <hw>dreidl</hw></mhw> <pr>(dr<amac/d"'l)</pr>, <pos>n.</pos> <sn>1.</sn> <def>a toy shaped somewhat like a top, but having four flat sides, each marked with one of the Hebrew letters <xex>nun</xex>, <xex>gimel</xex>, <xex>he</xex>, or <xex>shin</xex>.  It is spun like a top, and the letter showing when it stops spinning determines the outcome of a game of chance.</def><br/
@@ -39798,7 +39798,7 @@ And <qex>dreamt</qex> the future fight</q>. <rj><qau>Dryden.</qau></rj><br/
 <p><hw>Drein"te</hw> <pr>(?)</pr>, <wordforms><pos>imp.</pos>, <hw>Dreint</hw> <pr>(<?/)</pr>,</wordforms> <def><pos>p. p.</pos> of <er>Drench</er> to drown.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dreis"se*na</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL. Named after <ets>Dreyssen</ets>, a Belgian physician.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of bivalve shells of which one species (<spn>Dreissena polymorpha</spn>) is often so abundant as to be very troublesome in the fresh waters of Europe.</def><br/
+<p><hw>Dreis"se*na</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL. Named after <ets>Dreyssen</ets>, a Belgian physician.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of bivalve shells of which one species (<spn>Dreissena polymorpha</spn>) is often so abundant as to be very troublesome in the fresh waters of Europe.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Drench</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Drenched</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Drenching</conjf>.]</vmorph> <ety>[AS. <ets>drencan</ets> to give to drink, to drench, the causal of <ets>drincan</ets> to drink; akin to D. <ets>drenken</ets>, Sw. <ets>dr\'84nka</ets>, G. <ets>tr\'84nken</ets>. See <er>Drink</er>.]</ety> <sn>1.</sn> <def>To cause to drink; especially, to dose by force; to put a potion down the throat of, as of a horse; hence. to purge violently by physic.</def><br/
@@ -40384,7 +40384,7 @@ Caught and reflected the flame, as shields of armies the sunshine.</q> <rj><qau>
 <p><hw>Dri"ly</hw> <pr>(?)</pr>, <pos>adv.</pos> <def>See <er>Dryly</er>.</def>  <rj><au>Thackeray.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dri"mys</hw> <pr>(dr<imac/"m<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>drimy`s</grk> sharp, acrid.]</ety> <fld>(Bot.)</fld> <def>A genus of magnoliaceous trees. <spn>Drimys aromatica</spn> furnishes Winter's bark.</def><br/
+<p><hw>Dri"mys</hw> <pr>(dr<imac/"m<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>drimy`s</grk> sharp, acrid.]</ety> <fld>(Bot.)</fld> <def>A genus of magnoliaceous trees. <spn>Drimys aromatica</spn> furnishes Winter's bark.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Drink</hw> <pr>(dr<icr/<nsm/k)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp.</pos> <conjf>Drank</conjf> <pr>(dr<acr/<nsm/k)</pr>, formerly <conjf>Drunk</conjf> <pr>(dr<ucr/<nsm/k)</pr>; & <pos>p. p.</pos> <conjf>Drunk</conjf>, <conjf>Drunken</conjf> <pr>(-'n)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Drinking</conjf>. <xex>Drunken</xex> is now rarely used, except as a verbal adj. in sense of <xex>habitually intoxicated</xex>; the form <xex>drank</xex>, not infrequently used as a p. p., is not so analogical.]</vmorph> <ety>[AS. <ets>drincan</ets>; akin to OS. <ets>drinkan</ets>, D. <ets>drinken</ets>, G. <ets>trinken</ets>, Icel. <ets>drekka</ets>, Sw. <ets>dricka</ets>, Dan. <ets>drikke</ets>, Goth. <ets>drigkan</ets>.  Cf. <er>Drench</er>, <er>Drunken</er>, <er>Drown</er>.]</ety> <sn>1.</sn> <def>To swallow anything liquid, for quenching thirst or other purpose; to imbibe; to receive or partake of, as if in satisfaction of thirst; <as>as, to <ex>drink</ex> from a spring</as>.</def><br/
@@ -40852,7 +40852,7 @@ And in a little while our lips are dumb.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>Droi"tu*ral</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(O. Eng. Law)</fld> <def>relating to the mere right of property, as distinguished from the right of possession; <as>as, <ex>droitural</ex> actions</as>.</def> <mark>[Obs.]</mark>  <rj><au>Burrill.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Droitzsch"ka</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Drosky</er>.</def><br/
+<p><hw>Droitzsch"ka</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Drosky</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Droll</hw> <pr>(dr<omac/l)</pr>, <pos>a.</pos> <amorph>[<pos>Compar.</pos> <adjf>Droller</adjf> <pr>(?)</pr>; <pos>superl.</pos> <adjf>Drollest</adjf> <pr>(?)</pr>.]</amorph> <ety>[F. <ets>dr\'93le</ets>; cf. G. & D. <ets>drollig</ets>, LG. <ets>drullig</ets>, D. <ets>drol</ets> a thick and short person, a droll, Sw. <ets>troll</ets> a magical appearance, demon, <ets>trolla</ets> to use magic arts, enchant, Dan. <ets>trold</ets> elf, imp, Icel. <ets>tr\'94ll</ets> giant, magician, evil spirit, monster. If this is the origin, cf. <er>Trull</er>.]</ety> <def>Queer, and fitted to provoke laughter; ludicrous from oddity; amusing and strange.</def></p>
@@ -40908,7 +40908,7 @@ And in a little while our lips are dumb.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>Dro`m\'91*og"na*thous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[NL. <ets>dromaius</ets> emu + Gr. <grk>gna`qos</grk> jaw.]</ety> <fld>(Zo\'94l.)</fld> <def>Having the structure of the palate like that of the ostrich and emu.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Drom`a*the"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>droma`s</grk> running + <grk>qhri`on</grk> beast. See <er>Dromedary</er>.]</ety> <fld>(Paleon.)</fld> <def>A small extinct triassic mammal from North Carolina, the earliest yet found in America.</def><br/
+<p><hw>Drom`a*the"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>droma`s</grk> running + <grk>qhri`on</grk> beast. See <er>Dromedary</er>.]</ety> <fld>(Paleon.)</fld> <def>A small extinct triassic mammal from North Carolina, the earliest yet found in America.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Drome</hw> <pr>(dr<omac/m)</pr>, <pos>n.</pos> <ety>[F., fr. Gr. <grk>droma`s</grk> running. See <er>Dromedary</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>The crab plover (<spn>Dromas ardeola</spn>), a peculiar North African bird, allied to the oyster catcher.</def><br/
@@ -41260,7 +41260,7 @@ And wets the little plants that lowly dwell.</q> <rj><qau>Spenser.</qau></rj><br
 <p><hw>Drop"wort`</hw> <pr>(dr<ocr/p"w<ucir/rt`)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>An Old World species of <gen>Spir\'91a</gen> (<spn>Spir\'91a filipendula</spn>), with finely cut leaves.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dros"e*ra</hw> <pr>(dr<ocr/s"<esl/*r<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>drosero`s</grk> dewy.]</ety> <fld>(Bot.)</fld> <def>A genus of low perennial or biennial plants, the leaves of which are beset with gland-tipped bristles. See <er>Sundew</er>.</def>  <rj><au>Gray.</au></rj><br/
+<p><hw>Dros"e*ra</hw> <pr>(dr<ocr/s"<esl/*r<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>drosero`s</grk> dewy.]</ety> <fld>(Bot.)</fld> <def>A genus of low perennial or biennial plants, the leaves of which are beset with gland-tipped bristles. See <er>Sundew</er>.</def>  <rj><au>Gray.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Droseraceae</hw> <pos>n.</pos> <def>a natural family of carnivorous herbs and shrubs.</def><br/
@@ -41965,10 +41965,10 @@ With hatefullest disrelish writhed their jaws.</q> <rj><qau>Milton.</qau></rj><b
 <syn><b>Syn. --</b> genus <gen>Dryadella</gen>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p>\'d8<hw>Dry*an"dra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. Named after <etsep>J. Dryander</etsep>.]</ety> <fld>(Bot.)</fld> <def>A genus of shrubs growing in Australia, having beautiful, hard, dry, evergreen leaves.</def><br/
+<p><hw>Dry*an"dra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. Named after <etsep>J. Dryander</etsep>.]</ety> <fld>(Bot.)</fld> <def>A genus of shrubs growing in Australia, having beautiful, hard, dry, evergreen leaves.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dry"as</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dryades</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Dryad</er>.]</ety> <fld>(Class. Myth.)</fld> <def>A dryad.</def><br/
+<p><hw>Dry"as</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dryades</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Dryad</er>.]</ety> <fld>(Class. Myth.)</fld> <def>A dryad.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dry"-beat`</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To beat severely.</def> <rj><au>Shak.</au></rj><br/
@@ -42032,7 +42032,7 @@ With hatefullest disrelish writhed their jaws.</q> <rj><qau>Milton.</qau></rj><b
 <p><mhw><hw>Dry"nurse`</hw>, <hw>dry"-nurse`</hw></mhw>, <pos>v. t.</pos> <def>To feed, attend, and bring up without breastfeeding it.</def>  <rj><au>Hudibras.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dry`o*bal"a*nops</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>dry^s</grk> oak + <grk>ba`lanos</grk> acorn + <grk>'o`psis</grk> appearance. The fruit remotely resembles an acorn in its cup.]</ety> <fld>(Bot.)</fld> <def>The genus to which belongs the single species <spn>Dryobalanops Camphora</spn>, a lofty resinous tree of Borneo and Sumatra, yielding Borneo camphor and camphor oil.</def><br/
+<p><hw>Dry`o*bal"a*nops</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>dry^s</grk> oak + <grk>ba`lanos</grk> acorn + <grk>'o`psis</grk> appearance. The fruit remotely resembles an acorn in its cup.]</ety> <fld>(Bot.)</fld> <def>The genus to which belongs the single species <spn>Dryobalanops Camphora</spn>, a lofty resinous tree of Borneo and Sumatra, yielding Borneo camphor and camphor oil.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>drypis</hw> <pos>n.</pos> <def>a spiny-leaved perennial herb of southern Europe having terminal clusters of small flowers.</def><br/
@@ -42210,7 +42210,7 @@ With hatefullest disrelish writhed their jaws.</q> <rj><qau>Milton.</qau></rj><b
 <p><hw>Du"bi*ta*tive</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>dubitativus</ets>: cf. F. <ets>dubitatif</ets>.]</ety> <def>Tending to doubt; doubtful.</def> <mark>[R.]</mark> -- <wordforms><wf>Du"bi*ta*tive*ly</wf>, <pos>adv.</pos> <mark>[R.]</mark></wordforms>  <rj><au>. Eliot.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Du*bois"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Med.)</fld> <def>Same as <er>Duboisine</er>.</def><br/
+<p><hw>Du*bois"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Med.)</fld> <def>Same as <er>Duboisine</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Du*bois"ine</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Med.)</fld> <def>An alkaloid obtained from the leaves of an Australian tree (<spn>Duboisia myoporoides</spn>), and regarded as identical with hyoscyamine. It produces dilation of the pupil of the eye.</def><br/
@@ -42234,13 +42234,13 @@ With hatefullest disrelish writhed their jaws.</q> <rj><qau>Milton.</qau></rj><b
 <p><hw>Duc`a*toon"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. or Sp. <ets>ducaton</ets>, fr. <ets>ducat</ets>.]</ety> <def>A silver coin of several countries of Europe, and of different values.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Du"ces te"cum</hw> <pr>(?)</pr>. <ety>[L., bring with thee.]</ety> <def>A judicial process commanding a person to appear in court and bring with him some piece of evidence or other thing to be produced to the court.</def><br/
+<p><hw>Du"ces te"cum</hw> <pr>(?)</pr>. <ety>[L., bring with thee.]</ety> <def>A judicial process commanding a person to appear in court and bring with him some piece of evidence or other thing to be produced to the court.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Duch"ess</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>duchesse</ets>, fr. <ets>duc</ets> duke.]</ety> <def>The wife or widow of a duke; also, a lady who has the sovereignty of a duchy in her own right.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Du`chesse" d'An`gou`l\'88me"</hw> <pr>(?)</pr>. <ety>[F.]</ety> <fld>(Bot.)</fld> <def>A variety of pear of large size and excellent flavor.</def><br/
+<p><hw>Du`chesse" d'An`gou`l\'88me"</hw> <pr>(?)</pr>. <ety>[F.]</ety> <fld>(Bot.)</fld> <def>A variety of pear of large size and excellent flavor.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Du`chesse" lace</hw> <pr>(?)</pr>. <def>A beautiful variety of Brussels pillow lace made originally in Belgium and resembling Honiton guipure. It is worked with fine thread in large sprays, usually of the primrose pattern, with much raised work.</def><br/
@@ -42547,10 +42547,10 @@ Slow through the churchway path we saw him borne.</q> <rj><qau>Gray.</qau></rj><
 <p><q>A <qex>duelist</qex> . . . always values himself upon his courage, his sense of honor, his fidelity and friendship.</q> <rj><qau>Hume.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Du*e"lo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. See <er>Duel</er>.]</ety> <def>A duel; also, the rules of dueling.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
+<p><hw>Du*e"lo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. See <er>Duel</er>.]</ety> <def>A duel; also, the rules of dueling.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Du*e"\'a4a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>See <er>Do\'a4a</er>.</def><br/
+<p><hw>Du*e"\'a4a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>See <er>Do\'a4a</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 460 --></p>
@@ -42570,10 +42570,10 @@ Slow through the churchway path we saw him borne.</q> <rj><qau>Gray.</qau></rj><
 <p><hw>Du*et"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<er>Duetto</er>.]</ety> <fld>(Mus.)</fld> <def>A composition for two performers, whether vocal or instrumental.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Du`et*ti"no</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It ., dim. fr. <ets>duetto</ets> a duet.]</ety> <def>A duet of short extent and concise form.</def><br/
+<p><hw>Du`et*ti"no</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It ., dim. fr. <ets>duetto</ets> a duet.]</ety> <def>A duet of short extent and concise form.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Du*et"to</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It., fr. It & L. <ets>duo</ets> two. See <er>Two</er>.]</ety> <def>See <er>Duet</er>.</def><br/
+<p><hw>Du*et"to</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It., fr. It & L. <ets>duo</ets> two. See <er>Two</er>.]</ety> <def>See <er>Duet</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Duff</hw> <pr>(d<ucr/f)</pr>, <pos>n.</pos> <ety>[From OE. <ets>dagh</ets>. <root/67. See <er>Dough</er>.]</ety> <sn>1.</sn> <def>Dough or paste.</def> <mark>[Prov. Eng.]</mark>  <rj><au>Halliwell.</au></rj><br/
@@ -42729,7 +42729,7 @@ Slow through the churchway path we saw him borne.</q> <rj><qau>Gray.</qau></rj><
 <p><q>Their dainty lays and <qex>dulcet</qex> melody.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dul`ci*an"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>dulcis</ets> sweet.]</ety> <fld>(Mus.)</fld> <def>A sweet-toned stop of an organ.</def><br/
+<p><hw>Dul`ci*an"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>dulcis</ets> sweet.]</ety> <fld>(Mus.)</fld> <def>A sweet-toned stop of an organ.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dul`ci*fi*ca"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>dulcification</ets>.]</ety> <def>The act of dulcifying or sweetening.</def>  <rj><au>Boyle.</au></rj><br/
@@ -42768,7 +42768,7 @@ Slow through the churchway path we saw him borne.</q> <rj><qau>Gray.</qau></rj><
 <p><hw>Dul"ci*ness</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Dulceness</er>.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dul*ci"no</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Mus.)</fld> <def>See <er>Dolcino</er>.</def><br/
+<p><hw>Dul*ci"no</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Mus.)</fld> <def>See <er>Dolcino</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dul"cite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>dulcite</ets>, fr. L. <ets>dulcis</ets> sweet.]</ety> <fld>(Chem.)</fld> <def>A white, sugarlike substance, <chform>C6H8.(OH)2</chform>, occurring naturally in a manna from Madagascar, and in certain plants, and produced artificially by the reduction of galactose and lactose or milk sugar.</def><br/
@@ -42786,7 +42786,7 @@ Slow through the churchway path we saw him borne.</q> <rj><qau>Gray.</qau></rj><
 <p><hw>Du"ledge</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Mil.)</fld> <def>One of the dowels joining the ends of the fellies which form the circle of the wheel of a gun carriage.</def>  <rj><au>Wilhelm.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Du*li"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL., fr. Gr. <?/ servitude, fr. <?/ slave.]</ety> <fld>(R. C. Ch.)</fld> <def>An inferior kind of veneration or worship, given to the angels and saints as the servants of God.</def><br/
+<p><hw>Du*li"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL., fr. Gr. <?/ servitude, fr. <?/ slave.]</ety> <fld>(R. C. Ch.)</fld> <def>An inferior kind of veneration or worship, given to the angels and saints as the servants of God.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dull</hw> <pr>(?)</pr>, <pos>a.</pos> <amorph>[<pos>Compar.</pos> <adjf>Duller</adjf> <pr>(?)</pr>; <pos>superl.</pos> <adjf>Dullest</adjf>.]</amorph> <ety>[AS. <ets>dol</ets> foolish; akin to <ets>gedwelan</ets> to err, D. <ets>dol</ets> mad, <ets>dwalen</ets> to wander, err, G. <ets>toll</ets> mad, Goth. <ets>dwals</ets> foolish, stupid, cf. Gr. <?/ turbid, troubled, Skr. <ets>dhvr</ets> to cause to fall.  Cf. <er>Dolt</er>, <er>Dwale</er>, <er>Dwell</er>, <er>Fraud</er>.]</ety> <sn>1.</sn> <def>Slow of understanding; wanting readiness of apprehension; stupid; doltish; blockish.</def> \'bd<xex>Dull</xex> at classical learning.\'b8  <rj><au>Thackeray.</au></rj><br/
@@ -43399,7 +43399,7 @@ Falls on the moor the brief November day.</q> <rj><qau>Keble.</qau></rj><br/
 <p><hw>Du`o*den"a*ry</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>duodenarius</ets>, fr. <ets>duodeni</ets> twelve each: cf. F. <ets>duod\'82naire</ets>.]</ety> <def>Containing twelve; twelvefold; increasing by twelves; duodecimal.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Du`o*de"num</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr.  <ets>duodeni</ets> twelve each: cf. F. <ets>duodenum</ets>. So called because its length is about twelve fingers' breadth.]</ety> <fld>(Anat.)</fld> <def>The part of the small intestines between the stomach and the jejunum. See <xex>Illust.</xex> of <xex>Digestive apparatus</xex>, under <er>Digestive</er>.</def><br/
+<p><hw>Du`o*de"num</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr.  <ets>duodeni</ets> twelve each: cf. F. <ets>duodenum</ets>. So called because its length is about twelve fingers' breadth.]</ety> <fld>(Anat.)</fld> <def>The part of the small intestines between the stomach and the jejunum. See <xex>Illust.</xex> of <xex>Digestive apparatus</xex>, under <er>Digestive</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Du"o*graph</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>duo</ets> two + <ets>-graph</ets>.]</ety> <fld>(Photo-engraving)</fld> <def>A picture printed from two half-tone plates made with the screen set at different angles, and usually printed in two shades of the same color or in black and one tint.</def><br/
@@ -43408,7 +43408,7 @@ Falls on the moor the brief November day.</q> <rj><qau>Keble.</qau></rj><br/
 <p><hw>Du`o*lit"er*al</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>duo</ets> two + E.  <ets>literal</ets>.]</ety> <def>Consisting of two letters only; biliteral.</def>  <rj><au>Stuart.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Duo"mo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. See <er>Done</er>.]</ety> <def>A cathedral. See <er>Dome</er>, 2.</def><br/
+<p><hw>Duo"mo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. See <er>Done</er>.]</ety> <def>A cathedral. See <er>Dome</er>, 2.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Of tower or <qex>duomo</qex>, sunny sweet.</q> <rj><qau>Tennyson.</qau></rj><br/
@@ -43450,7 +43450,7 @@ Falls on the moor the brief November day.</q> <rj><qau>Keble.</qau></rj><br/
 <p><cs><col><b>Duple ratio</b></col> <fld>(Math.)</fld>, <cd>that in which the antecedent term is double the consequent, as of 2 to 1, 8 to 4, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Du"plex</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L., fr.  <ets>duo</ets> two + <ets>plicare</ets> to fold. See <er>Two</er>, and <er>Complex</er>.]</ety> <sn>1.</sn> <def>Double; twofold.</def><br/
+<p><hw>Du"plex</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L., fr.  <ets>duo</ets> two + <ets>plicare</ets> to fold. See <er>Two</er>, and <er>Complex</er>.]</ety> <sn>1.</sn> <def>Double; twofold.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Computers)</fld> <def>organized so that data may be transmitted in two opposite directions over the same channel; -- of communications channels, such as data transfer lines between computers.</def><br/
@@ -43546,10 +43546,10 @@ Falls on the moor the brief November day.</q> <rj><qau>Keble.</qau></rj><br/
 <p><hw>Dup"per</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See 2d <er>Dubber</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dur</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[G., fr. L. <ets>durus</ets> hard, firm, vigorous.]</ety> <fld>(Mus.)</fld> <def>Major; in the major mode; <as>as, C <ex>dur</ex>, that is, C major</as>.</def><br/
+<p><hw>Dur</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[G., fr. L. <ets>durus</ets> hard, firm, vigorous.]</ety> <fld>(Mus.)</fld> <def>Major; in the major mode; <as>as, C <ex>dur</ex>, that is, C major</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Du"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Short form for <er>Dura mater</er>.</def><br/
+<p><hw>Du"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Short form for <er>Dura mater</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Du`ra*bil"i*ty</hw>, <pos>n.</pos> <ety>[L. <ets>durabilitas</ets>.]</ety> <def>The state or quality of being durable; the power of uninterrupted or long continuance in any condition; the power of resisting agents or influences which tend to cause changes, decay, or dissolution; lastingness.</def><br/
@@ -43584,10 +43584,10 @@ Falls on the moor the brief November day.</q> <rj><qau>Keble.</qau></rj><br/
 <p><hw>Duralumin</hw> <pos>prop. n.</pos> <ety>[a trademark.]</ety> <def>an aluminum-based alloy which is both light and strong, containing 4 per cent of copper and 0.5 per cent of magnesium and smaller amounts of iron, manganese, and silicon.  It hardens with aging at room temperature.</def><br/
 [<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
-<p>\'d8<hw>Du"ra ma"ter</hw> <pr>(?)</pr>. <ety>[L., lit., hard mother. The membrane was called <ets>mater</ets>, or mother, because it was formerly thought to give rise to every membrane of the body.]</ety> <fld>(Anat.)</fld> <def>The tough, fibrous membrane, which lines the cavity of the skull and spinal column, and surrounds the brain and spinal cord; -- frequently abbreviated to <abbr>dura</abbr>.</def><br/
+<p><hw>Du"ra ma"ter</hw> <pr>(?)</pr>. <ety>[L., lit., hard mother. The membrane was called <ets>mater</ets>, or mother, because it was formerly thought to give rise to every membrane of the body.]</ety> <fld>(Anat.)</fld> <def>The tough, fibrous membrane, which lines the cavity of the skull and spinal column, and surrounds the brain and spinal cord; -- frequently abbreviated to <abbr>dura</abbr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Du*ra"men</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., hardness, a hardened, <it>i. e.</it>, ligneous, vine branch, fr. <ets>durare</ets> to harden. See <er>Dure</er>.]</ety> <fld>(Bot.)</fld> <def>The heartwood of an exogenous tree.</def><br/
+<p><hw>Du*ra"men</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., hardness, a hardened, <it>i. e.</it>, ligneous, vine branch, fr. <ets>durare</ets> to harden. See <er>Dure</er>.]</ety> <fld>(Bot.)</fld> <def>The heartwood of an exogenous tree.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dur"ance</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF. <ets>durance</ets> duration, fr. L. <ets>durans</ets>, <ets>-antis</ets>, p. pr. <ets>durare</ets> to endure, last. See <er>Dure</er>, and cf. <er>Durant</er>.]</ety> <sn>1.</sn> <def>Continuance; duration. See <er>Endurance</er>.</def> <mark>[Archaic]</mark><br/
@@ -43616,7 +43616,7 @@ Falls on the moor the brief November day.</q> <rj><qau>Keble.</qau></rj><br/
 <p><hw>Dur"ant</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>durant</ets>, p. pr. of <ets>durer</ets> to last.  Cf. <er>Durance</er>.]</ety> <def>See <er>Durance</er>, 3.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Du*ran"te</hw> <pr>(?)</pr>, <pos>prep.</pos> <ety>[L., abl. case of the p. pr. of <ets>durare</ets> to last.]</ety> <fld>(Law)</fld> <def>During; <as>as, <ex>durante vita</ex>, during life; <ex>durante bene placito</ex>, during pleasure.</as></def><br/
+<p><hw>Du*ran"te</hw> <pr>(?)</pr>, <pos>prep.</pos> <ety>[L., abl. case of the p. pr. of <ets>durare</ets> to last.]</ety> <fld>(Law)</fld> <def>During; <as>as, <ex>durante vita</ex>, during life; <ex>durante bene placito</ex>, during pleasure.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Du*ra"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF. <ets>duration</ets>. See <er>Dure</er>.]</ety> <def>The state or quality of lasting; continuance in time; the portion of time during which anything exists.</def><br/
@@ -43673,7 +43673,7 @@ Falls on the moor the brief November day.</q> <rj><qau>Keble.</qau></rj><br/
 <p><hw>Du*ress"or</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Law)</fld> <def>One who subjects another to duress</def>  <rj><au>Bacon.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dur"ga</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Myth.)</fld> <def>Same as <er>Doorga</er>.</def><br/
+<p><hw>Dur"ga</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Myth.)</fld> <def>Same as <er>Doorga</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dur"ham</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One or a breed of short-horned cattle, originating in the county of Durham, England. The Durham cattle are noted for their beef-producing quality.</def></p>
@@ -43684,7 +43684,7 @@ Falls on the moor the brief November day.</q> <rj><qau>Keble.</qau></rj><br/
 <p><hw>Dur"ing</hw> <pr>(?)</pr>, <pos>prep.</pos> <ety>[Orig., p. pr. of <ets>dure</ets>.]</ety> <def>In the time of; as long as the action or existence of; <as>as, <ex>during</ex> life; <ex>during</ex> the space of a year.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Du"ri*o</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Malay <ets>d<?/ri</ets> thorn.]</ety> <fld>(Bot.)</fld> <def>A fruit tree (<spn>Durio zibethinus</spn>, the only species known) of the Indian Archipelago.  It bears the <prod>durian</prod>.</def><br/
+<p><hw>Du"ri*o</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Malay <ets>d<?/ri</ets> thorn.]</ety> <fld>(Bot.)</fld> <def>A fruit tree (<spn>Durio zibethinus</spn>, the only species known) of the Indian Archipelago.  It bears the <prod>durian</prod>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Du"ri*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>duritas</ets>, fr. <ets>durus</ets> hard.]</ety> <mark>[Obs.]</mark> <sn>1.</sn> <def>Hardness; firmness.</def>  <rj><au>Sir T. Browne.</au></rj><br/
@@ -43705,7 +43705,7 @@ Falls on the moor the brief November day.</q> <rj><qau>Keble.</qau></rj><br/
 <p><hw>Durst</hw> <pr>(?)</pr>, <pos>imp.</pos> <def>of <er>Dare</er>. See <er>Dare</er>, <pos>v. i.</pos></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Du`ru*ku"li</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>A small, nocturnal, South American monkey of the genus <gen>Aotus</gen> (formerly <spn>Nyctipthecus trivirgatus</spn>). The <altname>owl monkey</altname>.  See <er>douroucouli</er>.</def> <altsp>[Written also <asp>douroucouli</asp>.]</altsp><br/
+<p><hw>Du`ru*ku"li</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>A small, nocturnal, South American monkey of the genus <gen>Aotus</gen> (formerly <spn>Nyctipthecus trivirgatus</spn>). The <altname>owl monkey</altname>.  See <er>douroucouli</er>.</def> <altsp>[Written also <asp>douroucouli</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Du*ryl"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Chem.)</fld> <def>Pertaining to, allied to, or derived from, durene; <as>as, <ex>durylic</ex> acid</as>.</def><br/
@@ -44015,7 +44015,7 @@ The way to <qex>dusty</qex> death.</q> <rj><qau>Shak.</qau></rj><br/
 <p><cs><col><b>Ad valorem duty</b></col>, <cd>a duty which is graded according to the cost, or market value, of the article taxed. See <er>Ad valorem</er>.</cd> -- <col><b>Specific duty</b></col>, <cd>a duty of a specific sum assessed on an article without reference to its value or market.</cd> -- <col><b>On duty</b></col>, <cd>actually engaged in the performance of one's assigned task.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Du*um"vir</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Duumvirs</plw> <pr>(#)</pr>, L. <plw>Duumviri</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. <ets>duo</ets> two + <ets>vir</ets> man.]</ety> <fld>(Rom. Antiq.)</fld> <def>One of two Roman officers or magistrates united in the same public functions.</def><br/
+<p><hw>Du*um"vir</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Duumvirs</plw> <pr>(#)</pr>, L. <plw>Duumviri</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. <ets>duo</ets> two + <ets>vir</ets> man.]</ety> <fld>(Rom. Antiq.)</fld> <def>One of two Roman officers or magistrates united in the same public functions.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Du*um"vi*ral</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>duumviralis</ets>.]</ety> <def>Of or belonging to the duumviri or the duumvirate.</def><br/
@@ -44024,10 +44024,10 @@ The way to <qex>dusty</qex> death.</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>Du*um"vi*rate</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>duumviratus</ets>, fr. <ets>duumvir</ets>.]</ety> <def>The union of two men in the same office; or the office, dignity, or government of two men thus associated, as in ancient Rome.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dux</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., leader.]</ety> <fld>(Mus.)</fld> <def>The scholastic name for the theme or subject of a fugue, the answer being called the <xex>comes</xex>, or companion.</def><br/
+<p><hw>Dux</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., leader.]</ety> <fld>(Mus.)</fld> <def>The scholastic name for the theme or subject of a fugue, the answer being called the <xex>comes</xex>, or companion.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Duy"ker*bok</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[D. <ets>duiker</ets> diver + <ets>bok</ets> a buck, lit., diver buck. So named from its habit of diving suddenly into the bush.]</ety> <fld>(Zo\'94l.)</fld> <def>A small South African antelope (<spn>Cephalous mergens</spn>); -- called also <altname>impoon</altname>, and <altname>deloo</altname>.</def><br/
+<p><hw>Duy"ker*bok</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[D. <ets>duiker</ets> diver + <ets>bok</ets> a buck, lit., diver buck. So named from its habit of diving suddenly into the bush.]</ety> <fld>(Zo\'94l.)</fld> <def>A small South African antelope (<spn>Cephalous mergens</spn>); -- called also <altname>impoon</altname>, and <altname>deloo</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Du*young"</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>See <er>Dugong</er>.</def><br/
@@ -44036,7 +44036,7 @@ The way to <qex>dusty</qex> death.</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>D" valve`</hw> <pr>(?)</pr>. <fld>(Mech.)</fld> <def>A kind of slide valve. See <cref>Slide valve</cref>, under <er>Slide</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dver"gr</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dvergar</plw> <pr>(#)</pr>.</plu> <ety>[See <er>Dwarf</er>.]</ety> <fld>(Scand. Myth.)</fld> <def>A dwarf supposed to dwell in rocks and hills and to be skillful in working metals.</def><br/
+<p><hw>Dver"gr</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dvergar</plw> <pr>(#)</pr>.</plu> <ety>[See <er>Dwarf</er>.]</ety> <fld>(Scand. Myth.)</fld> <def>A dwarf supposed to dwell in rocks and hills and to be skillful in working metals.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dwale</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>dwale</ets>, <ets>dwole</ets>, deception, deadly nightshade, AS. <ets>dwala</ets>, <ets>dwola</ets>, error, doubt; akin to E. <ets>dull</ets>. See <er>Dull</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>The deadly nightshade (<spn>Atropa Belladonna</spn>), having stupefying qualities.</def><br/
@@ -44209,7 +44209,7 @@ are said to have <qex>dwindled</qex> into factious clubs.</q> <rj><qau>Swift.</q
 <p><hw>Dy"aks</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Dyak</singw>.</sing> <fld>(Ethnol.)</fld> <def>The aboriginal and most numerous inhabitants of Borneo. They are partially civilized, but retain many barbarous practices.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dy"as</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>dyas</ets> the number two.]</ety> <fld>(Geol.)</fld> <def>A name applied in Germany to the Permian formation, there consisting of two principal groups.</def><br/
+<p><hw>Dy"as</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>dyas</ets> the number two.]</ety> <fld>(Geol.)</fld> <def>A name applied in Germany to the Permian formation, there consisting of two principal groups.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dyaus</hw> <pos>prop. n.</pos> <fld>(Hinduism)</fld> <def>the Hindu god of the sky.</def><br/
@@ -44415,7 +44415,7 @@ are said to have <qex>dwindled</qex> into factious clubs.</q> <rj><qau>Swift.</q
 <p><sn>2.</sn> <def>A dynasty; a government.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dy*nas"ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Dynast</er>.]</ety> <def>A tyrant.</def> <mark>[Obs.]</mark>  <rj><au>Milton.</au></rj><br/
+<p><hw>Dy*nas"ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Dynast</er>.]</ety> <def>A tyrant.</def> <mark>[Obs.]</mark>  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dy*nas"tic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <?/ of a dynast, fr. <?/: cf. F. <ets>dunastique</ets>.]</ety> <def>Of or relating to a dynasty or line of kings.</def>  <rj><au>Motley.</au></rj><br/
@@ -44441,10 +44441,10 @@ are said to have <qex>dwindled</qex> into factious clubs.</q> <rj><qau>Swift.</q
 <p><hw>Dys-</hw> <pr>(?)</pr>. <def>An inseparable prefix, fr. the Greek <grk>dys-</grk> hard, ill, and signifying <sig>ill</sig>, <sig>bad</sig>, <sig>hard</sig>, <sig>difficult</sig>, and the like; cf. the prefixes, Skr. <xex>dus-</xex>, Goth. <xex>tuz-</xex>, OHG. <xex>zur-</xex>, G. <xex>zer-</xex>, AS. <xex>to-</xex>, Icel. <xex>tor-</xex>, Ir. <xex>do-</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dys`\'91s*the"si*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>dys-</grk> ill, bad + <?/ to perceive, to feel.]</ety> <fld>(Med.)</fld> <def>Impairment of any of the senses, esp. of touch.</def><br/
+<p><hw>Dys`\'91s*the"si*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>dys-</grk> ill, bad + <?/ to perceive, to feel.]</ety> <fld>(Med.)</fld> <def>Impairment of any of the senses, esp. of touch.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dys*cra"si*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. <ets>dyscrasia</ets>, fr. Gr. <grk>dyskrasi`a</grk>; <grk>dys-</grk> bad + <grk>kra^sis</grk> mixture, fr. <grk>keranny`nai</grk> to mix: cf. F. <ets>dycrasie</ets>.]</ety> <fld>(Med.)</fld> <def>An ill habit or state of the constitution; -- formerly regarded as dependent on a morbid condition of the blood and humors.</def><br/
+<p><hw>Dys*cra"si*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. <ets>dyscrasia</ets>, fr. Gr. <grk>dyskrasi`a</grk>; <grk>dys-</grk> bad + <grk>kra^sis</grk> mixture, fr. <grk>keranny`nai</grk> to mix: cf. F. <ets>dycrasie</ets>.]</ety> <fld>(Med.)</fld> <def>An ill habit or state of the constitution; -- formerly regarded as dependent on a morbid condition of the blood and humors.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dys"cra*site</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ bad + <?/ compound.]</ety> <fld>(Min.)</fld> <def>A mineral consisting of antimony and silver.</def><br/
@@ -44474,7 +44474,7 @@ are said to have <qex>dwindled</qex> into factious clubs.</q> <rj><qau>Swift.</q
 <p><hw>Dys`ge*nes"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Not procreating or breeding freely; <as>as, one race may be <ex>dysgenesic</ex> with respect to another</as>.</def>  <rj><au>Darwin.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dys*gen"e*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>dys-</ets> + <ets>genesis</ets>.]</ety> <fld>(Biol.)</fld> <def>A condition of not generating or breeding freely; infertility; a form of homogenesis in which the hybrids are sterile among themselves, but are fertile with members of either parent race.</def><br/
+<p><hw>Dys*gen"e*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>dys-</ets> + <ets>genesis</ets>.]</ety> <fld>(Biol.)</fld> <def>A condition of not generating or breeding freely; infertility; a form of homogenesis in which the hybrids are sterile among themselves, but are fertile with members of either parent race.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>dysgenic</hw> <pos>adj.</pos> <def>of or pertaining to dysgenics.</def><br/
@@ -44517,7 +44517,7 @@ are said to have <qex>dwindled</qex> into factious clubs.</q> <rj><qau>Swift.</q
 <p><hw>Dys"ly*sin</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>dys-</grk> ill, hard + <?/ a loosing.]</ety> <fld>(Physiol. Chem.)</fld> <def>A resinous substance formed in the decomposition of cholic acid of bile; -- so called because it is difficult to solve.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dys*men`or*rhe"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>dys-</grk> ill, hard + <?/ month + <?/ to flow.]</ety> <fld>(Med.)</fld> <def>Difficult and painful menstruation.</def><br/
+<p><hw>Dys*men`or*rhe"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>dys-</grk> ill, hard + <?/ month + <?/ to flow.]</ety> <fld>(Med.)</fld> <def>Difficult and painful menstruation.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dys"no*my</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/; <grk>dys-</grk> ill, bad + <?/ law.]</ety> <def>Bad legislation; the enactment of bad laws.</def>  <rj><au>Cockeram.</au></rj><br/
@@ -44535,15 +44535,15 @@ are said to have <qex>dwindled</qex> into factious clubs.</q> <rj><qau>Swift.</q
 
 <p><hw>Dys*pep"tone</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>dys-</ets> + <ets>peptone</ets>.]</ety> <fld>(Physiol. Chem.)</fld> <def>An insoluble albuminous body formed from casein and other proteid substances by the action of gastric juice.</def>  <rj><au>Meissner.</au></rj></p>
 
-<p><mhw>{ \'d8<hw>Dys*pha"gi*a</hw> <pr>(?)</pr>, <hw>Dys"pha*gy</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>dysphagia</ets>, fr. Gr. <grk>dys-</grk> ill, hard + <?/ to eat.]</ety> <fld>(Med.)</fld> <def>Difficulty in swallowing.</def></p>
+<p><mhw>{ <hw>Dys*pha"gi*a</hw> <pr>(?)</pr>, <hw>Dys"pha*gy</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>dysphagia</ets>, fr. Gr. <grk>dys-</grk> ill, hard + <?/ to eat.]</ety> <fld>(Med.)</fld> <def>Difficulty in swallowing.</def></p>
 
-<p><mhw>{ \'d8<hw>Dys*pho"ni*a</hw> <pr>(?)</pr>, <hw>Dys"pho*ny</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>dysphonia</ets>, Gr. <?/; <grk>dys-</grk> ill, hard + <?/ sound, voice: cf. F. <ets>dysphonie</ets>.]</ety> <fld>(Med.)</fld> <def>A difficulty in producing vocal sounds; enfeebled or depraved voice.</def><br/
+<p><mhw>{ <hw>Dys*pho"ni*a</hw> <pr>(?)</pr>, <hw>Dys"pho*ny</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>dysphonia</ets>, Gr. <?/; <grk>dys-</grk> ill, hard + <?/ sound, voice: cf. F. <ets>dysphonie</ets>.]</ety> <fld>(Med.)</fld> <def>A difficulty in producing vocal sounds; enfeebled or depraved voice.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dys*pho"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <?/ hard to bear; <grk>dys-</grk> ill, hard + <grk>fe`rein</grk> to bear:  cf. F. <ets>dysphorie</ets>.]</ety> <fld>(Med.)</fld> <def>Impatience under affliction; morbid restlessness; dissatisfaction; the fidgets.</def><br/
+<p><hw>Dys*pho"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <?/ hard to bear; <grk>dys-</grk> ill, hard + <grk>fe`rein</grk> to bear:  cf. F. <ets>dysphorie</ets>.]</ety> <fld>(Med.)</fld> <def>Impatience under affliction; morbid restlessness; dissatisfaction; the fidgets.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dysp*n\'d2"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, fr. <?/ short of breath; pref. <grk>dys-</grk> ill, hard + <?/, <?/, breathing, <?/ to blow, breathe: cf.  F. <ets>dyspn\'82e</ets>.]</ety> <fld>(Med.)</fld> <def>Difficulty of breathing.</def><br/
+<p><hw>Dysp*n\'d2"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, fr. <?/ short of breath; pref. <grk>dys-</grk> ill, hard + <?/, <?/, breathing, <?/ to blow, breathe: cf.  F. <ets>dyspn\'82e</ets>.]</ety> <fld>(Med.)</fld> <def>Difficulty of breathing.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dysp*no"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Med.)</fld> <def>Affected with shortness of breath; relating to dyspn\'d2a.</def><br/
@@ -44558,7 +44558,7 @@ are said to have <qex>dwindled</qex> into factious clubs.</q> <rj><qau>Swift.</q
 <p><q>To the doctrine of <qex>dysteleology</qex>, or the denial of final causes, a proof of the real existence of such a thing as instinct must necessarily be fatal.</q> <rj><qau>Word (Dynamic Sociology).</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Dys*to"ci*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/; <grk>dys-</grk> ill, hard + <grk>to`kos</grk> delivery.]</ety> <fld>(Med.)</fld> <def>Difficult delivery pr parturition.</def><br/
+<p><hw>Dys*to"ci*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/; <grk>dys-</grk> ill, hard + <grk>to`kos</grk> delivery.]</ety> <fld>(Med.)</fld> <def>Difficult delivery pr parturition.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dys"tome</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>dys-</grk> ill, hard + <grk>tomo`s</grk> cutting, <grk>diate`mnein</grk> to cut.]</ety> <fld>(Min.)</fld> <def>Cleaving with difficulty.</def><br/
@@ -44566,7 +44566,7 @@ are said to have <qex>dwindled</qex> into factious clubs.</q> <rj><qau>Swift.</q
 
 <p><note><hand/ Datolite was called <xex>dystome spar</xex> by Mohs.</note></p>
 
-<p><mhw>{ \'d8<hw>Dys*u"ri*a</hw> <pr>(?)</pr>, <hw>Dys"u*ry</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>dysuria</ets>, Gr. <?/; <grk>dys-</grk> + <?/ urine: cf. F. <ets>dysurie</ets>.]</ety> <fld>(Med.)</fld> <def>Difficult or painful discharge of urine.</def><br/
+<p><mhw>{ <hw>Dys*u"ri*a</hw> <pr>(?)</pr>, <hw>Dys"u*ry</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>dysuria</ets>, Gr. <?/; <grk>dys-</grk> + <?/ urine: cf. F. <ets>dysurie</ets>.]</ety> <fld>(Med.)</fld> <def>Difficult or painful discharge of urine.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Dys*u"ric</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>dys-</grk>: cf. F. <ets>dysurique</ets>.]</ety> <def>Pertaining to, or afflicted with, dysury.</def></p>

@@ -72,7 +72,7 @@ knowledge base should contact:
 <p><hw>Xan"thate</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Xanthic</er>.]</ety> <fld>(Chem.)</fld> <def>A salt of xanthic; a xanthogenate.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xan`the*las"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.; Gr. <grk>xanqo`s</grk> yellow + <grk>'e`lasma</grk> a metal plate.]</ety> <fld>(Med.)</fld> <def>See <er>Xanthoma</er>.</def><br/
+<p><hw>Xan`the*las"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.; Gr. <grk>xanqo`s</grk> yellow + <grk>'e`lasma</grk> a metal plate.]</ety> <fld>(Med.)</fld> <def>See <er>Xanthoma</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Xan"thi*an</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pertaining to <etsep>Xanthus</etsep>, an ancient town on Asia Minor; -- applied especially to certain marbles found near that place, and now in the British Museum.</def><br/
@@ -93,7 +93,7 @@ knowledge base should contact:
 <p><hw>Xan"thide</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Xantho-</er>.]</ety> <fld>(Chem.)</fld> <def>A compound or derivative of xanthogen.</def>  <mark>[Archaic]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xan*thid"i*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Xanthidia</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>xanqo`s</grk> yellow.]</ety> <fld>(Bot.)</fld> <def>A genus of minute unicellular alg\'91 of the desmids. These alg\'91 have a rounded shape and are armed with glochidiate or branched aculei. Several species occur in ditches, and others are found fossil in flint or hornstone.</def><br/
+<p><hw>Xan*thid"i*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Xanthidia</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>xanqo`s</grk> yellow.]</ety> <fld>(Bot.)</fld> <def>A genus of minute unicellular alg\'91 of the desmids. These alg\'91 have a rounded shape and are armed with glochidiate or branched aculei. Several species occur in ditches, and others are found fossil in flint or hornstone.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Xan"thin</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>xanqo`s</grk> yellow.]</ety> <sn>1.</sn> <def>same as <er>xanthine</er>.</def><br/
@@ -111,7 +111,7 @@ knowledge base should contact:
 <p><hw>Xan"thi*nine</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>xanqo`s</grk> yellow + qu<ets>inine</ets>.]</ety> <fld>(Chem.)</fld> <def>A complex nitrogenous substance related to urea and uric acid, produced as a white powder; -- so called because it forms yellow salts, and because its solution forms a blue fluorescence like quinine.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xan"thi*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>xa`nqion</grk> a plant used for dyeing the hair yellow, said to be the <spn>Xanthium strumarium</spn>, from <grk>xanqo`s</grk> yellow.]</ety> <fld>(Bot.)</fld> <def>A genus of composite plants in which the scales of the involucre are united so as to form a kind of bur; cocklebur; clotbur.</def><br/
+<p><hw>Xan"thi*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>xa`nqion</grk> a plant used for dyeing the hair yellow, said to be the <spn>Xanthium strumarium</spn>, from <grk>xanqo`s</grk> yellow.]</ety> <fld>(Bot.)</fld> <def>A genus of composite plants in which the scales of the involucre are united so as to form a kind of bur; cocklebur; clotbur.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Xan"tho-</hw> <pr>(?)</pr>. <def>A combining form from Gr. <grk>xanqo`s</grk> yellow; as in <ex>xantho</ex>cobaltic salts. Used also adjectively in chemistry.</def><br/
@@ -120,7 +120,7 @@ knowledge base should contact:
 <p><hw>Xan`tho*car"pous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Xantho-</ets> + Gr. <grk>karpo`s</grk> fruit.]</ety> <fld>(Bot.)</fld> <def>Having yellow fruit.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xan*thoch"ro*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.  See <er>Xanthochroic</er>.]</ety> <fld>(Ethnol.)</fld> <def>A division of the Caucasian races, comprising the lighter-colored members.</def><br/
+<p><hw>Xan*thoch"ro*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.  See <er>Xanthochroic</er>.]</ety> <fld>(Ethnol.)</fld> <def>A division of the Caucasian races, comprising the lighter-colored members.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The <qex>Xanthochroi</qex>, or fair whites, . . . are the prevalent inhabitants of Northern Europe, and the type may be traced into North Africa, and eastward as far as Hindostan.</q> <rj><qau>Tylor.</qau></rj><br/
@@ -147,7 +147,7 @@ knowledge base should contact:
 <p><hw>Xan`tho*gen"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[See <er>Xantho-</er>, and <er>-gen</er>.]</ety> <fld>(Chem.)</fld> <def>Producing a yellow color or compound; xanthic.  See <cref>Xanthic acid</cref>, under <er>Xanthic</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xan*tho"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.  See <er>Xantho-</er>, and <er>-oma</er>.]</ety> <fld>(Med.)</fld> <def>A skin disease marked by the development or irregular yellowish patches upon the skin, especially upon the eyelids; -- called also <altname>xanthelasma</altname>.</def><br/
+<p><hw>Xan*tho"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.  See <er>Xantho-</er>, and <er>-oma</er>.]</ety> <fld>(Med.)</fld> <def>A skin disease marked by the development or irregular yellowish patches upon the skin, especially upon the eyelids; -- called also <altname>xanthelasma</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Xan*thom"a*tous</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Med.)</fld> <def>Of or pertaining to xanthoma.</def><br/
@@ -183,13 +183,13 @@ knowledge base should contact:
 <p><-- p. 1671 --><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xan`tho*rh\'d2"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>xanqo`s</grk> yellow + <grk>"rei^n</grk> to flow.]</ety> <fld>(Bot.)</fld> <def>A genus of endogenous plants, native to Australia, having a thick, sometimes arborescent, stem, and long grasslike leaves.  See <er>Grass tree</er>.</def><br/
+<p><hw>Xan`tho*rh\'d2"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>xanqo`s</grk> yellow + <grk>"rei^n</grk> to flow.]</ety> <fld>(Bot.)</fld> <def>A genus of endogenous plants, native to Australia, having a thick, sometimes arborescent, stem, and long grasslike leaves.  See <er>Grass tree</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Xan"those</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>An orange-yellow substance found in pigment spots of certain crabs.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xan*tho"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>xanqo`s</grk> yellow.]</ety> <fld>(Med.)</fld> <def>The yellow discoloration often observed in cancerous tumors.</def><br/
+<p><hw>Xan*tho"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>xanqo`s</grk> yellow.]</ety> <fld>(Med.)</fld> <def>The yellow discoloration often observed in cancerous tumors.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Xan`tho*sper"mous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Xantho-</ets> + Gr. <grk>spe`rma</grk> sperm.]</ety> <fld>(Bot.)</fld> <def>Having yellow seeds.</def><br/
@@ -201,7 +201,7 @@ knowledge base should contact:
 <p><hw>Xan*thox"y*lene</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Xanthoxylum</er>.]</ety> <fld>(Chem.)</fld> <def>A liquid hydrocarbon of the terpene series extracted from the seeds of a Japanese prickly ash (<spn>Xanthoxylum pipertium</spn>) as an aromatic oil.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xan*thox"y*lum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>xanqo`s</grk> yellow + <grk>xy`lon</grk> wood.]</ety> <fld>(Bot.)</fld> <def>A genus of prickly shrubs or small trees, the bark and rots of which are of a deep yellow color; prickly ash.</def><br/
+<p><hw>Xan*thox"y*lum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>xanqo`s</grk> yellow + <grk>xy`lon</grk> wood.]</ety> <fld>(Bot.)</fld> <def>A genus of prickly shrubs or small trees, the bark and rots of which are of a deep yellow color; prickly ash.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The commonest species in the Northern United States is <spn>Xanthoxylum Americanum</spn>.  See <cref>Prickly ash</cref>, under <er>Prickly</er>.</note><br/
@@ -213,13 +213,13 @@ knowledge base should contact:
 <p><hw>Xeme</hw> <pr>(z<emac/m)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>An Arctic fork-tailed gull (<spn>Xema Sabinii</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xen`e*la"si*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>xenhlasi`a</grk> expulsion of strangers.]</ety> <fld>(Gr. Antiq.)</fld> <def>A Spartan institution which prohibited strangers from residing in Sparta without permission, its object probably being to preserve the national simplicity of manners.</def><br/
+<p><hw>Xen`e*la"si*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>xenhlasi`a</grk> expulsion of strangers.]</ety> <fld>(Gr. Antiq.)</fld> <def>A Spartan institution which prohibited strangers from residing in Sparta without permission, its object probably being to preserve the national simplicity of manners.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xe"ni*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Xenia</plw> <pr>(#)</pr>.</plu> <ety>[L., from Gr. <grk>xe`nion</grk> gift to a guest, fr. <grk>xe`nos</grk> guest.]</ety> <fld>(Class. Antiq.)</fld> <def>A present given to a guest or stranger, or to a foreign ambassador.</def><br/
+<p><hw>Xe"ni*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Xenia</plw> <pr>(#)</pr>.</plu> <ety>[L., from Gr. <grk>xe`nion</grk> gift to a guest, fr. <grk>xe`nos</grk> guest.]</ety> <fld>(Class. Antiq.)</fld> <def>A present given to a guest or stranger, or to a foreign ambassador.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xen`o*do*chi"um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL., fr. L. <ets>xenodochium</ets> a building for the reception of strangers, Gr. <?/ .]</ety> <sd>(a)</sd> <fld>(Class. Antiq.)</fld> <def>A house for the reception of strangers.</def>  <sd>(b)</sd> <def>In the Middle Ages, a room in a monastery for the reception and entertainment of strangers and pilgrims, and for the relief of paupers. [Called also <altname>Xenodocheion</altname>.]</def><br/
+<p><hw>Xen`o*do*chi"um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL., fr. L. <ets>xenodochium</ets> a building for the reception of strangers, Gr. <?/ .]</ety> <sd>(a)</sd> <fld>(Class. Antiq.)</fld> <def>A house for the reception of strangers.</def>  <sd>(b)</sd> <def>In the Middle Ages, a room in a monastery for the reception and entertainment of strangers and pilgrims, and for the relief of paupers. [Called also <altname>Xenodocheion</altname>.]</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Xe*nod"o*chy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/.]</ety> <def>Reception of strangers; hospitality.</def>  <mark>[R.]</mark><br/
@@ -240,10 +240,10 @@ knowledge base should contact:
 <p><hw>Xen`o*ma"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>xe`nos</grk> strange + E. <ets>mania</ets>.]</ety> <def>A mania for, or an inordinate attachment to, foreign customs, institutions, manners, fashions, etc.</def>  <mark>[R.]</mark>  <rj><au>Saintsbury.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xen"o*mi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>xe`nos</grk> strange.]</ety> <fld>(Zo\'94l.)</fld> <def>A suborder of soft-rayed fresh-water fishes of which the blackfish of Alaska (<spn>Dallia pectoralis</spn>) is the type.</def><br/
+<p><hw>Xen"o*mi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>xe`nos</grk> strange.]</ety> <fld>(Zo\'94l.)</fld> <def>A suborder of soft-rayed fresh-water fishes of which the blackfish of Alaska (<spn>Dallia pectoralis</spn>) is the type.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xe*nop`te*ryg"i*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>xe`nos</grk> strange + <?/, dim. of <?/ a wing.]</ety> <fld>(Zo\'94l.)</fld> <def>A suborder of fishes including <gen>Gobiesox</gen> and allied genera. These fishes have soft-rayed fins, and a ventral sucker supported in front by the pectoral fins. They are destitute of scales.</def><br/
+<p><hw>Xe*nop`te*ryg"i*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>xe`nos</grk> strange + <?/, dim. of <?/ a wing.]</ety> <fld>(Zo\'94l.)</fld> <def>A suborder of fishes including <gen>Gobiesox</gen> and allied genera. These fishes have soft-rayed fins, and a ventral sucker supported in front by the pectoral fins. They are destitute of scales.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Xen"o*time</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ honoring guests or strangers; <grk>xe`nos</grk> guest, stranger + <?/ honor: cf. G. <ets>xenotim</ets>.]</ety> <fld>(Min.)</fld> <def>A native phosphate of yttrium occurring in yellowish-brown tetragonal crystals.</def><br/
@@ -270,7 +270,7 @@ knowledge base should contact:
 <p><hw>Xer"iff</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Shereef</er>.]</ety> <def>A gold coin formerly current in Egypt and Turkey, of the value of about  9s. 6d., or about $2.30; -- also, in Morocco, a ducat.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xe`ro*der"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ dry + <?/ skin.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>Ichthyosis.</def>  <sd>(b)</sd> <def>A skin disease characterized by the presence of numerous small pigmented spots resembling freckles, with which are subsequently mingled spots of atrophied skin.</def><br/
+<p><hw>Xe`ro*der"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ dry + <?/ skin.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>Ichthyosis.</def>  <sd>(b)</sd> <def>A skin disease characterized by the presence of numerous small pigmented spots resembling freckles, with which are subsequently mingled spots of atrophied skin.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Xe"ro*nate</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A salt of xeronic acid.</def><br/
@@ -288,13 +288,13 @@ knowledge base should contact:
 <p><q>Plants which are peculiarly adapted to dry climates are termed by De Candolle <qex>xerophilous</qex>.</q> <rj><qau>Goodale.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xe`roph*thal"mi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/; <?/ dry + <?/ the eye.  See <er>Ophthalmia</er>.]</ety> <fld>(Med.)</fld> <def>An abnormal dryness of the eyeball produced usually by long-continued inflammation and subsequent atrophy of the conjunctiva.</def><br/
+<p><hw>Xe`roph*thal"mi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/; <?/ dry + <?/ the eye.  See <er>Ophthalmia</er>.]</ety> <fld>(Med.)</fld> <def>An abnormal dryness of the eyeball produced usually by long-continued inflammation and subsequent atrophy of the conjunctiva.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Xe`roph*thal"my</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Med.)</fld> <def>Xerophthalmia.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xiph"i*as</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a swordfish, a sword-shaped comet, fr. Gr. <grk>xifi`as</grk>, fr. <grk>xi`fos</grk> a sword.]</ety><br/
+<p><hw>Xiph"i*as</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a swordfish, a sword-shaped comet, fr. Gr. <grk>xifi`as</grk>, fr. <grk>xi`fos</grk> a sword.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <fld>(Zo\'94l.)</fld> <def>A genus of fishes comprising the common swordfish.</def><br/
@@ -303,19 +303,19 @@ knowledge base should contact:
 <p><sn>2.</sn> <fld>(Anat.)</fld> <sd>(a)</sd> <def>The constellation Dorado.</def>  <sd>(b)</sd> <def>A comet shaped like a sword</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xi*phid"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/, dim. of <grk>xi`fos</grk> sword.]</ety> <fld>(Bot.)</fld> <def>A genus of plants of the order <spn>H\'91modrace\'91</spn>, having two-ranked, sword-shaped leaves.</def><br/
+<p><hw>Xi*phid"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/, dim. of <grk>xi`fos</grk> sword.]</ety> <fld>(Bot.)</fld> <def>A genus of plants of the order <spn>H\'91modrace\'91</spn>, having two-ranked, sword-shaped leaves.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Xiph"i*oid</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Xiphius</ets> + <ets>-oid</ets>.]</ety> <fld>(Zo\'94l.)</fld> <def>Of, pertaining to, or resembling, a cetacean of the genus <gen>Xiphius</gen> or family <fam>Xiphiid\'91</fam>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xiph"i*plas"tron</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Xiphiplastra</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>xi`fos</grk> a sword + <ets>plastron</ets>.]</ety> <fld>(Anat.)</fld> <def>The posterior, or fourth, lateral plate in the plastron of turtles; -- called also <altname>xiphisternum</altname>.</def><br/
+<p><hw>Xiph"i*plas"tron</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Xiphiplastra</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>xi`fos</grk> a sword + <ets>plastron</ets>.]</ety> <fld>(Anat.)</fld> <def>The posterior, or fourth, lateral plate in the plastron of turtles; -- called also <altname>xiphisternum</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xiph"i*ster"num</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Xiphisterna</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>xi`fos</grk> a sword + <ets>sternum</ets>.]</ety> <fld>(Anat.)</fld> <sd>(a)</sd> <def>The posterior segment, or extremity, of the sternum; -- sometimes called <altname>metasternum</altname>, <altname>ensiform cartilage</altname>, <altname>ensiform process</altname>, or <altname>xiphoid process</altname>.</def>  <sd>(b)</sd> <def>The xiphiplastron.</def>  -- <wordforms><wf>Xiph"i*ster"nal</wf> <pr>(#)</pr> <pos>a.</pos></wordforms><br/
+<p><hw>Xiph"i*ster"num</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Xiphisterna</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>xi`fos</grk> a sword + <ets>sternum</ets>.]</ety> <fld>(Anat.)</fld> <sd>(a)</sd> <def>The posterior segment, or extremity, of the sternum; -- sometimes called <altname>metasternum</altname>, <altname>ensiform cartilage</altname>, <altname>ensiform process</altname>, or <altname>xiphoid process</altname>.</def>  <sd>(b)</sd> <def>The xiphiplastron.</def>  -- <wordforms><wf>Xiph"i*ster"nal</wf> <pr>(#)</pr> <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xiph"i*us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>xi`fos</grk> a sword.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of cetaceans having a long, pointed, bony beak, usually two tusklike teeth in the lower jaw, but no teeth in the upper jaw.</def><br/
+<p><hw>Xiph"i*us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>xi`fos</grk> a sword.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of cetaceans having a long, pointed, bony beak, usually two tusklike teeth in the lower jaw, but no teeth in the upper jaw.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Xiph"o*don</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>xi`fos</grk> a sword + <grk>'odoy`s</grk>, <grk>'odo`ntos</grk>, a tooth.]</ety> <fld>(Paleon.)</fld> <def>An extinct genus of artiodactylous mammals found in the European Tertiary formations. It had slender legs, didactylous feet, and small canine teeth.</def><br/
@@ -330,10 +330,10 @@ knowledge base should contact:
 <p><hw>Xi*phoph"yl*lous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>xi`fos</grk> sword + <?/ leaf.]</ety> <fld>(Bot.)</fld> <def>Having sword-shaped leaves.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xiph`o*su"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>See <er>Xiphura</er>.</def><br/
+<p><hw>Xiph`o*su"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>See <er>Xiphura</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xi*phu"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>xi`fos</grk> sword + <?/ tail.]</ety> <fld>(Zo\'94l.)</fld> <def>Same as <er>Limuloidea</er>. Called also <altname>Xiphosura</altname>.</def><br/
+<p><hw>Xi*phu"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>xi`fos</grk> sword + <?/ tail.]</ety> <fld>(Zo\'94l.)</fld> <def>Same as <er>Limuloidea</er>. Called also <altname>Xiphosura</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>XP</hw> <pr>(?)</pr>. <ety>[Belongs here in appearance only.]</ety> <def>The first two letters of the Greek word <grk>CHRISTOS</grk>, Christ; -- an abbreviation used with the letters separate or, oftener, in a monogram, often inclosed in a circle, as a symbol or emblem of Christ. It use as an emblem was introduced by Constantine the Great, whence it is known as the <col><b>Constantinian symbol</b></col>, or <col><b>monogram</b></col>. See <er>Labarum</er>.</def><br/
@@ -405,13 +405,13 @@ knowledge base should contact:
 <p><hw>Xy"lo-</hw> <pr>(?)</pr>. <def>A combining form from Gr. <grk>xy`lon</grk> wood; as in <ex>xylo</ex>gen, <ex>xylo</ex>graph.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xy`lo*bal"sa*mum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>xy`lon</grk> wood + <?/ the balsam tree, balsam; cf. L. <ets>xylobalsamum</ets> balsam wood, Gr. <?/.]</ety> <fld>(Med.)</fld> <def>The dried twigs of a Syrian tree (<spn>Balsamodendron Gileadense</spn>).</def>  <rj><au>U. S. Disp.</au></rj><br/
+<p><hw>Xy`lo*bal"sa*mum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>xy`lon</grk> wood + <?/ the balsam tree, balsam; cf. L. <ets>xylobalsamum</ets> balsam wood, Gr. <?/.]</ety> <fld>(Med.)</fld> <def>The dried twigs of a Syrian tree (<spn>Balsamodendron Gileadense</spn>).</def>  <rj><au>U. S. Disp.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Xy`lo*car"pous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Xylo-</ets> + Gr. <grk>karpo`s</grk> fruit.]</ety> <fld>(Bot.)</fld> <def>Bearing fruit which becomes hard or woody.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xy*loc"o*pa</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ cutting wood; <grk>xy`lon</grk> wood + <?/ to cut.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of hymenopterous insects including the carpenter.  See <cref>Carpenter bee</cref>, under <er>Carpenter</er>.</def>  -- <wordforms><wf>Xy*loc"o*pine</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+<p><hw>Xy*loc"o*pa</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ cutting wood; <grk>xy`lon</grk> wood + <?/ to cut.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of hymenopterous insects including the carpenter.  See <cref>Carpenter bee</cref>, under <er>Carpenter</er>.</def>  -- <wordforms><wf>Xy*loc"o*pine</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Xy"lo*gen</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Xylo-</ets> + <ets>-gen</ets>.]</ety> <sd>(a)</sd> <fld>(Bot.)</fld> <def>Nascent wood; wood cells in a forming state.</def>  <sd>(b)</sd> <def>Lignin.</def><br/
@@ -453,13 +453,13 @@ knowledge base should contact:
 <p><hw>Xy"lon*ite</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Zylonite</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xy*loph"a*ga</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.  See <er>Xylophagous</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of marine bivalves which bore holes in wood. They are allied to Pholas.</def><br/
+<p><hw>Xy*loph"a*ga</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.  See <er>Xylophagous</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of marine bivalves which bore holes in wood. They are allied to Pholas.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Xy*loph"a*gan</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Xylophagous</er>.]</ety> <fld>(Zo\'94l.)</fld> <sd>(a)</sd> <def>One of a tribe of beetles whose larv\'91 bore or live in wood.</def>  <sd>(b)</sd> <def>Any species of Xylophaga.</def>  <sd>(c)</sd> <def>Any one of the Xylophagides.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xy`lo*phag"i*des</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[See <er>Xylophagous</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>A tribe or family of dipterous flies whose larv\'91 live in decayed wood. Some of the tropical species are very large.</def><br/
+<p><hw>Xy`lo*phag"i*des</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[See <er>Xylophagous</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>A tribe or family of dipterous flies whose larv\'91 live in decayed wood. Some of the tropical species are very large.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Xy*loph"a*gous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <?/ eating wood; <grk>xy`lon</grk> wood + <?/ to eat.]</ety> <fld>(Zo\'94l.)</fld> <sd>(a)</sd> <def>Eating, boring in, or destroying, wood; -- said especially of certain insect larv\'91, crustaceans, and mollusks.</def>  <sd>(b)</sd> <def>Of or pertaining to the genus <gen>Xylophaga</gen>.</def><br/
@@ -513,7 +513,7 @@ knowledge base should contact:
 <p><hw>Xy*lot"o*my</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>xylo-</ets> + <ets>-tomy</ets>.]</ety> <def>Art of preparing sections (transverse, tangential, or radial) of wood, esp. by means of a microtome, for microscopic examination.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><hw>\'d8Xy*lo"try*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>xy`lon</grk> wood + <?/ to rub, wear out.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of marine bivalves closely allied to Teredo, and equally destructive to timber. One species (<spn>Xylotrya fimbriata</spn>) is very common on the Atlantic coast of the United States.</def><br/
+<p><hw>Xy*lo"try*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>xy`lon</grk> wood + <?/ to rub, wear out.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of marine bivalves closely allied to Teredo, and equally destructive to timber. One species (<spn>Xylotrya fimbriata</spn>) is very common on the Atlantic coast of the United States.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Xy"lyl</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Xylo-</ets> + <ets>-yl</ets>.]</ety> <fld>(Chem.)</fld> <def>Any one of three metameric radicals which are characteristic respectively of the three xylenes.</def><br/
@@ -525,10 +525,10 @@ knowledge base should contact:
 <p><hw>Xyr`i*da"ceous</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Bot.)</fld> <def>Of or pertaining to a natural order (<spn>Xyride\'91</spn>) of endogenous plants, of which Xyris is the type.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Xy"ris</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a kind of Iris, Gr. <?/, fr. <?/ a razor.]</ety> <fld>(Bot.)</fld> <def>A genus of endogenous herbs with grassy leaves and small yellow flowers in short, scaly-bracted spikes; yellow-eyed grass. There are about seventeen species in the Atlantic United States.</def><br/
+<p><hw>Xy"ris</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a kind of Iris, Gr. <?/, fr. <?/ a razor.]</ety> <fld>(Bot.)</fld> <def>A genus of endogenous herbs with grassy leaves and small yellow flowers in short, scaly-bracted spikes; yellow-eyed grass. There are about seventeen species in the Atlantic United States.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><mhw>{ <hw>Xyst</hw> <pr>(?)</pr>, <hw>\'d8Xys"tus</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>xystus</ets>, Gr. <?/, from <?/ to scrape, polish; -- so called from its smooth and polished floor.]</ety> <fld>(Anc. Arch.)</fld> <def>A long and open portico, for athletic exercises, as wrestling, running, etc., for use in winter or in stormy weather.</def><br/
+<p><mhw>{ <hw>Xyst</hw> <pr>(?)</pr>, <hw>Xys"tus</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>xystus</ets>, Gr. <?/, from <?/ to scrape, polish; -- so called from its smooth and polished floor.]</ety> <fld>(Anc. Arch.)</fld> <def>A long and open portico, for athletic exercises, as wrestling, running, etc., for use in winter or in stormy weather.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Xyst"arch</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>xystarches</ets>, Gr. <?/, <?/ a xyst + <?/ to rule.]</ety> <fld>(Gr. Antiq.)</fld> <def>An office<?/ having the superintendence of the xyst.</def>  <rj><au>Dr. W. Smith.</au></rj><br/
