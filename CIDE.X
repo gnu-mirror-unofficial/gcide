@@ -336,7 +336,7 @@ knowledge base should contact:
 <p><hw>\'d8Xi*phu"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>xi`fos</grk> sword + <?/ tail.]</ety> <fld>(Zo\'94l.)</fld> <def>Same as <er>Limuloidea</er>. Called also <altname>Xiphosura</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>XP</hw> <pr>(?)</pr>. <ety>[Belongs here in appearance only.]</ety> <def>The first two letters of the Greek word <grk>XRISTOS</grk>, Christ; -- an abbreviation used with the letters separate or, oftener, in a monogram, often inclosed in a circle, as a symbol or emblem of Christ. It use as an emblem was introduced by Constantine the Great, whence it is known as the <col><b>Constantinian symbol</b></col>, or <col><b>monogram</b></col>. See <er>Labarum</er>.</def><br/
+<p><hw>XP</hw> <pr>(?)</pr>. <ety>[Belongs here in appearance only.]</ety> <def>The first two letters of the Greek word <grk>CHRISTOS</grk>, Christ; -- an abbreviation used with the letters separate or, oftener, in a monogram, often inclosed in a circle, as a symbol or emblem of Christ. It use as an emblem was introduced by Constantine the Great, whence it is known as the <col><b>Constantinian symbol</b></col>, or <col><b>monogram</b></col>. See <er>Labarum</er>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>x"-rat`ed</hw> <pr>(<ecr/ks"r<amac/t`<ecr/d)</pr>, <pos>a.</pos> <ety>[from a system of ratings for movies based on objectionableness of the content or suitability for children.]</ety> <def>having a rating of X; not suitable for children; broadly, obscene or sexually explicit.</def><br/

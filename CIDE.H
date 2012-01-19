@@ -627,7 +627,7 @@ Than such a Roman.</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>Hade</hw>, <pos>v. i.</pos> <fld>(Mining)</fld> <def>To deviate from the vertical; -- said of a vein, fault, or lode.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ha"des</hw> <pr>(h<amac/"d<emac/z)</pr>, <pos>n.</pos> <ety>[Gr. <grk>"a',dhs</grk>, <grk>"A'idhs</grk>; <grk>'a</grk> priv. + <grk>'idei^n</grk> to see.  Cf. <er>Un-</er>, <er>Wit</er>.]</ety> <def>The nether world (according to classical mythology, the abode of the shades, ruled over by Hades or Pluto); the invisible world; the grave.</def><br/
+<p><hw>Ha"des</hw> <pr>(h<amac/"d<emac/z)</pr>, <pos>n.</pos> <ety>[Gr. <grk>"a`,dhs</grk>, <grk>"A'idhs</grk>; <grk>'a</grk> priv. + <grk>'idei^n</grk> to see.  Cf. <er>Un-</er>, <er>Wit</er>.]</ety> <def>The nether world (according to classical mythology, the abode of the shades, ruled over by Hades or Pluto); the invisible world; the grave.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>And death and <qex>Hades</qex> gave up the dead which were in them.</q> <rj><qau>Rev. xx. 13 (Rev. Ver.).</qau></rj><br/
@@ -9527,7 +9527,7 @@ A thousand rills their mazy progress take.</q> <rj><qau>Gray.</qau></rj><br/
 <p><hw>He"li*o*ty`py</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A method of transferring pictures from photographic negatives to hardened gelatin plates from which impressions are produced on paper as by lithography.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8He`li*o*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ the sun + <grk>zo^,on</grk> an animal.]</ety> <fld>(Zo\'94l.)</fld> <def>An order of fresh-water rhizopods having a more or less globular form, with slender radiating pseudopodia; the sun animalcule.</def></p>
+<p><hw>He`li*o*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ the sun + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zo\'94l.)</fld> <def>An order of fresh-water rhizopods having a more or less globular form, with slender radiating pseudopodia; the sun animalcule.</def></p>
 
 <p><hw>heliport</hw> <pos>n.</pos> <def>an airport for helicopters.</def><br/
 [<source>WordNet 1.5</source>]</p>
@@ -10711,7 +10711,7 @@ Of woe and sorrow.</q> <rj><qau>Milton.</qau></rj><br/
 <p><mhw>{ <hw>He*nog"e* ny</hw> <pr>(?)</pr>, <hw>Hen`o*gen"e*sis</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[Gr. <grk>e"i`s</grk>, masc., <grk>"e`n</grk>, neut., one + root of <?/ to be born.]</ety> <fld>(Biol.)</fld> <def>Same as <er>Ontogeny</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Hen"o*the*ism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>e"i`s</grk>, <grk>"enos`</grk>, one + E. <ets>theism</ets>.]</ety> <def>Primitive religion in which each of several divinities is regarded as independent, and is worshiped without reference to the rest.</def> <mark>[R.]</mark><br/
+<p><hw>Hen"o*the*ism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>e"i`s</grk>, <grk>"eno`s</grk>, one + E. <ets>theism</ets>.]</ety> <def>Primitive religion in which each of several divinities is regarded as independent, and is worshiped without reference to the rest.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>He*not"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <?/, fr. <?/ to unite, fr. <grk>e"i`s</grk> one.]</ety> <def>Harmonizing; irenic.</def>  <rj><au>Gladstone.</au></rj><br/
@@ -16524,7 +16524,7 @@ Upon the barren <qex>hollows</qex>.</q> <rj><qau>Prior.</qau></rj><br/
 <p><hw>Hol`o*blas"tic</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Biol.)</fld> <def>Undergoing complete segmentation; composed entirely of germinal matter, the whole of the yolk undergoing fission; -- opposed to <xex>meroblastic</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Hol"o*caust</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>holocaustum</ets>, Gr. <?/, neut. of <?/, <?/, burnt whole; <grk>"o'los</grk> whole + <grk>kaysto`s</grk> burnt, fr. <grk>kai`ein</grk> to burn (cf. <er>Caustic</er>): cf. F. <ets>holocauste</ets>.]</ety> <sn>1.</sn> <def>A burnt sacrifice; an offering, the whole of which was consumed by fire, among the Jews and some pagan nations.</def>  <rj><au>Milton.</au></rj><br/
+<p><hw>Hol"o*caust</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>holocaustum</ets>, Gr. <?/, neut. of <?/, <?/, burnt whole; <grk>"o`los</grk> whole + <grk>kaysto`s</grk> burnt, fr. <grk>kai`ein</grk> to burn (cf. <er>Caustic</er>): cf. F. <ets>holocauste</ets>.]</ety> <sn>1.</sn> <def>A burnt sacrifice; an offering, the whole of which was consumed by fire, among the Jews and some pagan nations.</def>  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Sacrifice or loss of many lives, as by the burning of a theater or a ship.</def> <note>[An extended use not authorized by careful writers.]</note><br/
@@ -23996,7 +23996,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>hydroxyproline</hw> <pos>n.</pos> <def>A crystalline amino acid (<chform>C5H9NO3</chform>), a hydroxylated proline, obtained by hydrolysis of gelatin or collagen.  Chemically it is <chname>4-hydroxy-L-proline</chname>.  It is classified as nonessential for growth in rats.</def><br/
 [<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
-<p><hw>\'d8Hy`dro*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. E. <ets>hydra</ets> + Gr. <grk>zo^,on</grk> an animal.]</ety> <fld>(Zo\'94l.)</fld> <def>The Acaleph\'91; one of the classes of c\'d2lenterates, including the Hydroidea, Discophora, and Siphonophora.</def><br/
+<p><hw>\'d8Hy`dro*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. E. <ets>hydra</ets> + Gr. <grk>zw^,on</grk> an animal.]</ety> <fld>(Zo\'94l.)</fld> <def>The Acaleph\'91; one of the classes of c\'d2lenterates, including the Hydroidea, Discophora, and Siphonophora.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Hy`dro*zo"al</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zo\'94l.)</fld> <def>Of or pertaining to the Hydrozoa.</def><br/
@@ -24986,7 +24986,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><hw>Hyp`o*cra*ter`i*mor"phous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Pref. <ets>hypo-</ets> + Gr. <grk>krath`r</grk> bowl + <grk>morfh`</grk> form.]</ety> <fld>(Bot.)</fld> <def>Salver-shaped; having a slender tube, expanding suddenly above into a bowl-shaped or spreading border, as in the blossom of the phlox and the lilac.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Hy*poc"ri*sy</hw> <pr>(h<icr/*p<ocr/k"r<icr/*s<ycr/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hypocrisies</plw> <pr>(-s<icr/z)</pr>.</plu> <ety>[OE. <ets>hypocrisie</ets>, <ets>ypocrisie</ets>, OF. <ets>hypocrisie</ets>, <ets>ypocrisie</ets>, F. <ets>hypocrisie</ets>, L. <ets>hypocrisis</ets>, fr. Gr. <grk>"ypo`krisis</grk> the playing a part on the stage, simulation, outward show, fr. <grk>"ypokr`nesqai</grk> to answer on the stage, to play a part; <grk>"ypo`</grk> under + <grk>kri`nein</grk> to decide; in the middle voice, to dispute, contend. See <er>Hypo-</er>, and <er>Critic</er>.]</ety> <def>The act or practice of a hypocrite; a feigning to be what one is not, or to feel what one does not feel; a dissimulation, or a concealment of one's real character, disposition, or motives; especially, the assuming of false appearance of virtue or religion; a simulation of goodness.</def><br/
+<p><hw>Hy*poc"ri*sy</hw> <pr>(h<icr/*p<ocr/k"r<icr/*s<ycr/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hypocrisies</plw> <pr>(-s<icr/z)</pr>.</plu> <ety>[OE. <ets>hypocrisie</ets>, <ets>ypocrisie</ets>, OF. <ets>hypocrisie</ets>, <ets>ypocrisie</ets>, F. <ets>hypocrisie</ets>, L. <ets>hypocrisis</ets>, fr. Gr. <grk>"ypo`krisis</grk> the playing a part on the stage, simulation, outward show, fr. <grk>"ypokri`nesqai</grk> to answer on the stage, to play a part; <grk>"ypo`</grk> under + <grk>kri`nein</grk> to decide; in the middle voice, to dispute, contend. See <er>Hypo-</er>, and <er>Critic</er>.]</ety> <def>The act or practice of a hypocrite; a feigning to be what one is not, or to feel what one does not feel; a dissimulation, or a concealment of one's real character, disposition, or motives; especially, the assuming of false appearance of virtue or religion; a simulation of goodness.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q><qex>Hypocrisy</qex> is the necessary burden of villainy.</q> <rj><qau>Rambler.</qau></rj><br/
@@ -25354,7 +25354,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><hw>Hy`po*xan"thin</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>hypo-</ets> + <ets>xanthin</ets>.]</ety> <fld>(Physiol. Chem.)</fld> <def>A crystalline, nitrogenous substance, closely related to xanthin and uric acid, widely distributed through the animal body, but especially in muscle tissue; -- called also <altname>sarcin</altname>, <altname>sarkin</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Hy`po*zo"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Pref. <ets>hypo-</ets> + Gr. <grk>zo^,on</grk> an animal.]</ety> <fld>(Geol.)</fld> <def>Anterior in age to the lowest rocks which contain organic remains.</def>  <rj><au>Lyell.</au></rj><br/
+<p><hw>Hy`po*zo"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Pref. <ets>hypo-</ets> + Gr. <grk>zw^,on</grk> an animal.]</ety> <fld>(Geol.)</fld> <def>Anterior in age to the lowest rocks which contain organic remains.</def>  <rj><au>Lyell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Hyp"pish</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[From <er>Hyp</er>.]</ety> <def>Affected with hypochondria; hypped.</def> <altsp>[Written also <asp>hyppish</asp>.]</altsp><br/

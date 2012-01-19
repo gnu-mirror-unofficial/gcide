@@ -30113,7 +30113,7 @@ Or hear old <qex>Triton</qex> blow his wreathed horn.</q> <rj><qau>Wordsworth.</
 <p>\'d8<hw>Tri*to"vum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tritova</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ third + L. <ets>ovum</ets> egg.]</ety> <fld>(Zo\'94l.)</fld> <def>An embryonic insect which has twice cast its skin previous to hatching from the egg.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Tri`to*zo"oid</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ third + <grk>zo^,on</grk> an animal.]</ety> <fld>(Zo\'94l.)</fld> <def>A zooid of the third generation in asexual reproduction.</def><br/
+<p><hw>Tri`to*zo"oid</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ third + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zo\'94l.)</fld> <def>A zooid of the third generation in asexual reproduction.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Tri`tu*ber"cu*lar</hw> <pr>(?)</pr>, <pos>a.</pos> <sd>(a)</sd> <def>Having or designating teeth with three cusps or tubercles; tricuspid.</def> <sd>(b)</sd> <def>Pertaining to trituberculy.</def><br/

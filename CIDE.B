@@ -1396,7 +1396,7 @@ Works edited by Ellis, Spedding, and Heath (7 vols. 1857); Life by Spedding
 <p><hw>Bac*te"ri*ol`o*gy</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[<ets>Bacterium</ets> + <ets>-logy</ets>.]</ety> <fld>(Biol.)</fld> <def>The branch of microbiology relating to bacteria.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>\'d8<hw>Bac*te`ri*ol"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.; fr. Gr. <grk>bakth`rion</grk>, <grk>bak`tron</grk>, a staff + <?/ a loosing.]</ety> <sn>1.</sn>  <def>Chemical decomposition brought about by bacteria without the addition of oxygen.</def><br/
+<p><hw>Bac*te`ri*ol"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.; fr. Gr. <grk>bakth`rion</grk>, <grk>ba`ktron</grk>, a staff + <?/ a loosing.]</ety> <sn>1.</sn>  <def>Chemical decomposition brought about by bacteria without the addition of oxygen.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <def>The destruction or dissolution of bacterial cells.</def> -- <wordforms><wf>Bac*te`ri*o*lyt"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/

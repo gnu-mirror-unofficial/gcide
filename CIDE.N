@@ -3032,7 +3032,7 @@ By <qex>necromancy</qex> plac\'8ad there.</q> <rj><qau>Drayton.</qau></rj><br/
 
 <p><-- p. 968 --></p>
 
-<p><hw>\'d8Ne*cro"sis</hw> <pr>(n<esl/*kr<omac/"s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ne`krwsis</grk>, fr. <grk>nekruy^n</grk> to make dead, to mortify, <grk>nekro`s</grk> a dead body.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>The pathologic death of part of a tissue due to irreversible damage.    Contrast to <contr>necrobiosis</contr>, which is a normal death of cells in a tissue.  Formerly, applied primarily to death of bone tissue.</def><br/
+<p><hw>Ne*cro"sis</hw> <pr>(n<esl/*kr<omac/"s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ne`krwsis</grk>, fr. <grk>nekroy^n</grk> to make dead, to mortify, <grk>nekro`s</grk> a dead body.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>The pathologic death of part of a tissue due to irreversible damage.    Contrast to <contr>necrobiosis</contr>, which is a normal death of cells in a tissue.  Formerly, applied primarily to death of bone tissue.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Bot.)</fld> <def>A disease of trees, in which the branches gradually dry up from the bark to the center.</def><br/

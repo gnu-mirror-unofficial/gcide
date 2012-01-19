@@ -4654,7 +4654,7 @@ And thankfully rest <qex>debtor</qex> for the first.</q> <rj><qau>Shak.</qau></r
 
 <p>\'d8<hw>De*cac`e*ra"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>de`ka</grk> ten + <grk>ke`ras</grk> a horn.]</ety> <fld>(Zo\'94l.)</fld> <def>The division of Cephalopoda which includes the squids, cuttlefishes, and others having ten arms or tentacles; -- called also <altname>Decapoda</altname>. <altsp>[Written also <asp>Decacera</asp>.]</altsp> See <er>Dibranchiata</er>.</def></p>
 
-<p><mhw>{ <hw>Dec"a*chord</hw> <pr>(?)</pr>, <hw>Dec`a*chor"don</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[Gr. <grk>deka`chordos</grk> tenstringed; <grk>de`ka</grk> ten + <grk>chordj`</grk> a string.]</ety> <sn>1.</sn> <def>An ancient Greek musical instrument of ten strings, resembling the harp.</def><br/
+<p><mhw>{ <hw>Dec"a*chord</hw> <pr>(?)</pr>, <hw>Dec`a*chor"don</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[Gr. <grk>deka`chordos</grk> tenstringed; <grk>de`ka</grk> ten + <grk>chordh`</grk> a string.]</ety> <sn>1.</sn> <def>An ancient Greek musical instrument of ten strings, resembling the harp.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Something consisting of ten parts.</def>  <rj><au>W. Watson.</au></rj><br/

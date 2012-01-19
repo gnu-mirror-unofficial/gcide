@@ -3926,7 +3926,7 @@ As every plot can undermine and shake?</q> <rj><qau>Dryden.</qau></rj><br/
 <p><hw>Mal`a*co*toon"</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>See <er>Melocoton</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Mal`a*co*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>malako`s</grk> soft + <grk>zo^,on</grk> an animal.]</ety> <fld>(Zo\'94l.)</fld> <def>An extensive group of Invertebrata, including the <phylum>Mollusca</phylum>, Brachiopoda, and Bryozoa. Called also <altname>Malacozoaria</altname>.</def><br/
+<p><hw>Mal`a*co*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>malako`s</grk> soft + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zo\'94l.)</fld> <def>An extensive group of Invertebrata, including the <phylum>Mollusca</phylum>, Brachiopoda, and Bryozoa. Called also <altname>Malacozoaria</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Mal`a*co*zo"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zo\'94l.)</fld> <def>Of or pertaining to the Malacozoa.</def><br/
@@ -14263,7 +14263,7 @@ Sees fleets and armies in the sky.</q> <rj><qau>Prior.</qau></rj><br/
 <p><hw>Me*lan"ter*ite</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Min.)</fld> <def>A hydrous sulphate of iron of a green color and vitreous luster; iron vitriol.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Mel"a*nure</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. <ets>melanurus</ets>, fr. Gr. <grk>me`las</grk>, <grk>me`lanos</grk>, black + <grk>o'ura`</grk> tail.]</ety> <fld>(Zo\'94l.)</fld> <def>A small fish of the Mediterranean; a gilthead. See <er>Gilthead</er> <sd>(a)</sd>.</def><br/
+<p><hw>Mel"a*nure</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. <ets>melanurus</ets>, fr. Gr. <grk>me`las</grk>, <grk>me`lanos</grk>, black + <grk>'oura`</grk> tail.]</ety> <fld>(Zo\'94l.)</fld> <def>A small fish of the Mediterranean; a gilthead. See <er>Gilthead</er> <sd>(a)</sd>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Mel`a*nu"ric</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Melam</ets> + <ets>urea</ets>.]</ety> <fld>(Chem.)</fld> <def>Pertaining to, or designating, a complex nitrogenous acid obtained by decomposition of melam, or of urea, as a white crystalline powder; -- called also <altname>melanurenic acid</altname>.</def><br/
@@ -15356,13 +15356,13 @@ Revenge upon the cardinal.</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>Men"o*pause</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>mh`n</grk> month + <?/ to cause to cease. See <er>Menses</er>.]</ety> <fld>(Med.)</fld> <def>The period of natural cessation of menstruation. See <cref>Change of life</cref>, under <er>Change</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><mhw>{ <hw>\'d8Men`o*po"ma</hw> <pr>(?)</pr>, <hw>Men"o*pome</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>menopoma</ets>, fr. Gr. <?/ to remain + <?/ lid.]</ety> <fld>(Zo\'94l.)</fld> <def>The hellbender.</def><br/
+<p><mhw>{ <hw>Men`o*po"ma</hw> <pr>(?)</pr>, <hw>Men"o*pome</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>menopoma</ets>, fr. Gr. <?/ to remain + <?/ lid.]</ety> <fld>(Zo\'94l.)</fld> <def>The hellbender.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Men`or*rha"gi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mh`n</grk> month + <?/ to break.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>Profuse menstruation.</def> <sd>(b)</sd> <def>Any profuse bleeding from the uterus; Metrorrhagia.</def><br/
+<p><hw>Men`or*rha"gi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mh`n</grk> month + <?/ to break.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>Profuse menstruation.</def> <sd>(b)</sd> <def>Any profuse bleeding from the uterus; Metrorrhagia.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Me*nos"ta*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mh`n</grk> month + <grk>'istan`nai</grk> to stop.]</ety> <fld>(Med.)</fld> <def>Stoppage of the menses.</def><br/
+<p><hw>Me*nos"ta*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mh`n</grk> month + <grk>'ista`nai</grk> to stop.]</ety> <fld>(Med.)</fld> <def>Stoppage of the menses.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Men`os*ta"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Med.)</fld> <def>Same as <er>Menostasis</er>.</def><br/
@@ -17716,7 +17716,7 @@ Our physics.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 <p><hw>\'d8M\'82`ta`yer"</hw> <pr>(F. ?; E. ?)</pr>, <pos>n.</pos> <ety>[F., fr. LL. <ets>medietarius</ets>, fr. L. <ets>medius</ets> middle, half. See <er>Mid</er>, <pos>a.</pos>]</ety> <def>One who cultivates land for a share (usually one half) of its yield, receiving stock, tools, and seed from the landlord.</def> <mark>[France & Italy]</mark>  <rj><au>Milman.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Met`a*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ after + <grk>zo^,on</grk> an animal.]</ety> <fld>(Zo\'94l.)</fld> <def>Those animals in which the protoplasmic mass, constituting the egg, is converted into a multitude of cells, which are metamorphosed into the tissues of the body.  A central cavity is commonly developed, and the cells around it are at first arranged in two layers, -- the <xex>ectoderm</xex> and <xex>endoderm</xex>.  The group comprises nearly all animals except the Protozoa.</def><br/
+<p><hw>Met`a*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ after + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zo\'94l.)</fld> <def>Those animals in which the protoplasmic mass, constituting the egg, is converted into a multitude of cells, which are metamorphosed into the tissues of the body.  A central cavity is commonly developed, and the cells around it are at first arranged in two layers, -- the <xex>ectoderm</xex> and <xex>endoderm</xex>.  The group comprises nearly all animals except the Protozoa.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Met`a*zo"an</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Metazoans</plw> <pr>(<?/)</pr>.</plu> <fld>(Zo\'94l.)</fld> <def>One of the Metazoa.</def><br/
@@ -28341,7 +28341,7 @@ Is lucky and happy and good and gay.</q><br/
 <p><hw>Mo*nox"y*lous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[See <er>Monoxylon</er>.]</ety> <def>Made of one piece of wood.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Mon`o*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>mo`nos</grk> single + <grk>zo^,on</grk> an animal.]</ety> <fld>(Zo\'94l.)</fld> <def>A division of Radiolaria; -- called also <altname>Monocyttaria</altname>.</def> -- <wordforms><wf>Mon`o*zo"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+<p><hw>\'d8Mon`o*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>mo`nos</grk> single + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zo\'94l.)</fld> <def>A division of Radiolaria; -- called also <altname>Monocyttaria</altname>.</def> -- <wordforms><wf>Mon`o*zo"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Mon*roe" doc"trine</hw>. <def>See under <er>Doctrine</er>.</def><br/
@@ -29968,7 +29968,7 @@ Nor man nor fiend hath fallen so far.</q> <rj><qau>Byron.</qau></rj><br/
 <p><hw>Mo*ros"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>morositas</ets>: cf. F. <ets>morosit\'82</ets>.]</ety> <def>Moroseness.</def> <mark>[R.]</mark>  <rj><au>Jer. Taylor.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Mo"ro*soph</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>mo^ros</grk> foolish + <grk>sofo`s</grk> wise.  See also <er>sophomore</er>.]</ety> <def>A philosophical or learned fool.</def> <mark>[Obs.]</mark><br/
+<p><hw>Mo"ro*soph</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>mwro`s</grk> foolish + <grk>sofo`s</grk> wise.  See also <er>sophomore</er>.]</ety> <def>A philosophical or learned fool.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Mo*ro"sous</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Morose.</def> <mark>[Obs.]</mark>  <rj><au>Sheldon.</au></rj><br/
@@ -35732,7 +35732,7 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 <p><hw>Myc"e*toid</hw> <pr>(?)</pr>, <ety>[Gr. <grk>my`khs</grk>, <grk>my`khtos</grk>, a fungus + <ets>-oid</ets>.]</ety> <fld>(Bot.)</fld> <def>Resembling a fungus.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8My*ce`to*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.; Gr. <grk>my`khs</grk>, <grk>my`khtos</grk>, fungus + <?/ pl. of <grk>zo^,on</grk> an animal.]</ety> <fld>(Zo\'94l.)</fld> <def>The Myxomycetes; -- so called by those who regard them as a class of animals.</def> -- <wordforms><wf>My*ce`to*zo"an</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+<p><hw>\'d8My*ce`to*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.; Gr. <grk>my`khs</grk>, <grk>my`khtos</grk>, fungus + <?/ pl. of <grk>zw^,on</grk> an animal.]</ety> <fld>(Zo\'94l.)</fld> <def>The Myxomycetes; -- so called by those who regard them as a class of animals.</def> -- <wordforms><wf>My*ce`to*zo"an</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>mycobacteria</hw> <pos>n. pl.</pos> <def>A group of rod-shaped bacteria, some saprophytic or causing diseases.</def><br/
