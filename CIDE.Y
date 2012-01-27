@@ -162,7 +162,7 @@ knowledge base should contact:
 <p><mhw><hw>Yah"wist</hw> <pr>(?)</pr>, <pos>n.</pos> Also <hw>Jah"vist</hw> <pr>(<?/)</pr>, <hw>Jah"wist</hw>, older <hw>Je*ho"vist</hw>.</mhw> <def>The author of the passages of the Old Testament, esp. those of the Hexateuch, in which God is styled <xex>Yahweh</xex>, or <xex>Jehovah</xex>; the author of the Yahwistic, or Jehovistic, Prophetic Document (J); also, the document itself.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><hw>\'d8Yaj"ur-Ve"da</hw> <pr>(y<adot/j"<ucir/r-v<amac/`d<adot/ <it>or</it> y<adot/j"<ucir/r-v<emac/`d<adot/)</pr>, <pos>n.</pos> <ety>[Skr. <ets>yajur-v<emac/da</ets>.]</ety> <def>See <er>Veda</er>.</def><br/
+<p>\'d8<hw>Yaj"ur-Ve"da</hw> <pr>(y<adot/j"<ucir/r-v<amac/`d<adot/ <it>or</it> y<adot/j"<ucir/r-v<emac/`d<adot/)</pr>, <pos>n.</pos> <ety>[Skr. <ets>yajur-v<emac/da</ets>.]</ety> <def>See <er>Veda</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Yak</hw> <pr>(y<acr/k)</pr>, <pos>n.</pos> <ety>[Tibetan <ets>gyag</ets>.]</ety> <fld>(Zo\'94l.)</fld> <def>A bovine mammal (<spn>Po\'89phagus grunnies</spn>) native of the high plains of Central Asia. Its neck, the outer side of its legs, and its flanks, are covered with long, flowing, fine hair. Its tail is long and bushy, often white, and is valued as an ornament and for other purposes in India and China. There are several domesticated varieties, some of which lack the mane and the long hair on the flanks. Called also <altname>chauri gua</altname>, <altname>grunting cow</altname>, <altname>grunting ox</altname>, <altname>sarlac</altname>, <altname>sarlik</altname>, and <altname>sarluc</altname>.</def><br/
@@ -183,7 +183,7 @@ knowledge base should contact:
 <p><hw>Ya*koots"</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Yakoot</singw> <pr>(<?/)</pr></sing>.<def> <fld>(Ethnol.)</fld> A nomadic Mongolian tribe native of Northern Siberia, and supposed to be of Turkish stock. They are mainly pastoral in their habits.</def>  <altsp>[Written also <asp>Yakuts</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Yak"sha</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr.]</ety> <fld>(Hindoo Myth.)</fld> <def>A kind of demigod attendant on Kuvera, the god of wealth.</def><br/
+<p>\'d8<hw>Yak"sha</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr.]</ety> <fld>(Hindoo Myth.)</fld> <def>A kind of demigod attendant on Kuvera, the god of wealth.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Ya*kut"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The Turkish language of the Yakuts, a Mongolian people of northeastern Siberia, which is lingua franca over much of eastern Siberia.</def><br/
@@ -201,7 +201,7 @@ knowledge base should contact:
 <p><cs><col><b>Chinese yam</b></col>, <cd>a plant (<spn>Dioscorea Batatas</spn>) with a long and slender tuber, hardier than most of the other species.</cd> -- <col><b>Wild yam</b></col>. <sd>(a)</sd> <cd>A common plant (<spn>Dioscorea villosa</spn>) of the Eastern United States, having a hard and knotty rootstock.</cd> <sd>(b)</sd> <cd>An orchidaceous plant (<spn>Gastrodia sesamoides</spn>) of Australia and Tasmania.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Ya"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr. <ets>yama</ets> a twin.]</ety> <fld>(Hindoo Myth.)</fld> <def>The king of the infernal regions, corresponding to the Greek Pluto, and also the judge of departed souls. In later times he is more exclusively considered the dire judge of all, and the tormentor of the wicked. He is represented as of a green color, with red garments, having a crown on his head, his eyes inflamed, and sitting on a buffalo, with a club and noose in his hands.</def><br/
+<p>\'d8<hw>Ya"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr. <ets>yama</ets> a twin.]</ety> <fld>(Hindoo Myth.)</fld> <def>The king of the infernal regions, corresponding to the Greek Pluto, and also the judge of departed souls. In later times he is more exclusively considered the dire judge of all, and the tormentor of the wicked. He is represented as of a green color, with red garments, having a crown on his head, his eyes inflamed, and sitting on a buffalo, with a club and noose in his hands.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Ya"men</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Chin. <ets>ya</ets> a civil or military court + <ets>men</ets> a gate.]</ety> <def>In China, the official headquarters or residence of a mandarin, including court rooms, offices, gardens, prisons, etc.; the place where the business of any public department is transcated.</def><br/
@@ -259,7 +259,7 @@ From knocking their heads against hot <qex>Yankee-Doodles</qex>.</q> <rj><qau>Mo
 <p><hw>Yan"kee*ism</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A Yankee idiom, word, custom, or the like.</def>  <rj><au>Lowell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Yaourt</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Turk. <ets>yoghurt</ets>.]</ety> <def>A fermented drink, or milk beer, made by the Turks.</def><-- now usually yoghurt--><br/
+<p>\'d8<hw>Yaourt</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Turk. <ets>yoghurt</ets>.]</ety> <def>A fermented drink, or milk beer, made by the Turks.</def><-- now usually yoghurt--><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Yap</hw> <pr>(?)</pr>, <pos>v. i.</pos> <ety>[Icel. <ets>gj\'belpa</ets>; akin to <ets>yelp</ets>.  Cf. <er>Yaup</er>.]</ety> <def>To bark; to yelp.</def>  <rj><au>L'Estrange.</au></rj><br/
@@ -979,7 +979,7 @@ Mazed with a <qex>yelping</qex> kennel of French curs?</q> <rj><qau>Shak.</qau><
 <p><hw>Ye"man</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A yeoman.</def>  <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Yen</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The unit of value and account in Japan. The <ex>yen</ex> is equal to 100 <xex>sen</xex>. From Japan's adoption of the gold standard, in 1897, to about 1913 the value of the yen was about 50 cents. In 1997 and 1998 the value of the yen varied from 80 per U. S. dollar to 120 per dollar.</def><br/
+<p>\'d8<hw>Yen</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The unit of value and account in Japan. The <ex>yen</ex> is equal to 100 <xex>sen</xex>. From Japan's adoption of the gold standard, in 1897, to about 1913 the value of the yen was about 50 cents. In 1997 and 1998 the value of the yen varied from 80 per U. S. dollar to 120 per dollar.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><hw>Yend</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To throw; to cast.</def>  <mark>[Prov. Eng.]</mark><br/
@@ -1042,7 +1042,7 @@ Mazed with a <qex>yelping</qex> kennel of French curs?</q> <rj><qau>Shak.</qau><
 <p><hw>Yer</hw> <pr>(?)</pr>, <pos>prep.</pos> <def>Ere; before.</def>  <mark>[Obs.]</mark>  <rj><au>Sylvester.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Yer"ba</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <fld>(Bot.)</fld> <def>An herb; a plant.</def><br/
+<p>\'d8<hw>Yer"ba</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <fld>(Bot.)</fld> <def>An herb; a plant.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ This word is much used in compound names of plants in Spanish; as, <xex>yerba buena</xex> <ety>[Sp., a good herb]</ety>, a name applied in Spain to several kinds of mint (<spn>Mentha sativa</spn>, <spn>viridis</spn>, etc.), but in California universally applied to a common, sweet-scented labiate plant (<spn>Micromeria Douglasii</spn>).</note><br/
@@ -1492,7 +1492,7 @@ The thistle springs, to which the lily <qex>yields</qex>?</q> <rj><qau>Pope.</qa
 <p><hw>Yo"dler</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who yodels.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Yo"ga</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr. <ets>y\'d3ga</ets> union.]</ety> <def>A species of asceticism among the Hindoos, which consists in a complete abstraction from all worldly objects, by which the votary expects to obtain union with the universal spirit, and to acquire superhuman faculties.</def><br/
+<p>\'d8<hw>Yo"ga</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr. <ets>y\'d3ga</ets> union.]</ety> <def>A species of asceticism among the Hindoos, which consists in a complete abstraction from all worldly objects, by which the votary expects to obtain union with the universal spirit, and to acquire superhuman faculties.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Yo"gi</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr. <ets>y\'d3gin</ets>.]</ety> <def>A follower of the yoga philosophy; an ascetic.</def>  <altsp>[Spelt also <asp>yokin</asp>.]</altsp>  <rj><au>Whitworth.</au></rj><br/
@@ -1507,7 +1507,7 @@ The thistle springs, to which the lily <qex>yields</qex>?</q> <rj><qau>Pope.</qa
 <p><hw>Yoit</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>The European yellow-hammer.</def>  <mark>[Prov. Eng.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Yo"jan</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr. <ets>y<omac/jana</ets>.]</ety> <def>A measure of distance, varying from four to ten miles, but usually about five.</def>  <mark>[India]</mark> <altsp>[Written also <asp>yojana</asp>.]</altsp><br/
+<p>\'d8<hw>Yo"jan</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr. <ets>y<omac/jana</ets>.]</ety> <def>A measure of distance, varying from four to ten miles, but usually about five.</def>  <mark>[India]</mark> <altsp>[Written also <asp>yojana</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Yoke</hw> <pr>(y<omac/k)</pr>, <pos>n.</pos> <ety>[OE. <ets>yok</ets>, <ets><yogh/oc</ets>, AS. <ets>geoc</ets>; akin to D. <ets>juk</ets>, OHG. <ets>joh</ets>, G. <ets>joch</ets>, Icel. & Sw. <ets>ok</ets>, Dan. <ets>aag</ets>, Goth. <ets>juk</ets>, Lith. <ets>jungas</ets>, Russ. <ets>igo</ets>, L. <ets>jugum</ets>, Gr. <grk>zy`gon</grk>, Skr. <ets>yuga</ets>, and to L. <ets>jungere</ets> to join, Gr. <?/, Skr. <ets>yui</ets>. <root/109, 280.  Cf. <er>Join</er>, <er>Jougs</er>, <er>Joust</er>, <er>Jugular</er>, <er>Subjugate</er>, <er>Syzygy</er>, <er>Yuga</er>, <er>Zeugma</er>.]</ety><br/
@@ -1679,7 +1679,7 @@ Him that <qex>yon</qex> soars on golden wing.</q> <rj><qau>Milton.</qau></rj><br
 <p><q><qex>Yonder</qex> men are too many for an embassage.</q> <rj><qau>Bacon.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Yo"ni</hw> <pr>(y<omac/"n<emac/)</pr>, <pos>n.</pos> <ety>[Skr. <ets>y<omac/ni</ets>.]</ety> <fld>(Hindu Myth.)</fld> <def>The symbol under which Sakti, or the personification of the female power in nature, is worshiped.  Cf. <er>Lingam</er>.</def><br/
+<p>\'d8<hw>Yo"ni</hw> <pr>(y<omac/"n<emac/)</pr>, <pos>n.</pos> <ety>[Skr. <ets>y<omac/ni</ets>.]</ety> <fld>(Hindu Myth.)</fld> <def>The symbol under which Sakti, or the personification of the female power in nature, is worshiped.  Cf. <er>Lingam</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Yon"ker</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Younker</er>.]</ety> <def>A young fellow; a younker.</def>  <mark>[Obs. or Colloq.]</mark>  <rj><au>Sir W. Scott.</au></rj><br/
@@ -2021,13 +2021,13 @@ Would suffer him to spend his <qex>youth</qex> at home.</q> <rj><qau>Shak.</qau>
 <p><mhw>{ <hw>Yt`tro-co*lum"bite</hw> <pr>(?)</pr>, <hw>Yt`tro-tan"ta*lite</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <fld>(Min.)</fld> <def>A tantalate of uranium, yttrium, and calcium, of a brown or black color.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Yu</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Chin.]</ety> <fld>(Min.)</fld> <def>Jade.</def><br/
+<p>\'d8<hw>Yu</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Chin.]</ety> <fld>(Min.)</fld> <def>Jade.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Yuc"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>See <er>Flicker</er>, <pos>n.</pos>, 2.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>\'d8Yuc"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from <ets>Yuca</ets>, its name in St. Domingo.]</ety> <fld>(Bot.)</fld> <def>A genus of American liliaceous, sometimes arborescent, plants having long, pointed, and often rigid, leaves at the top of a more or less woody stem, and bearing a large panicle of showy white blossoms.</def><br/
+<p>\'d8<hw>Yuc"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from <ets>Yuca</ets>, its name in St. Domingo.]</ety> <fld>(Bot.)</fld> <def>A genus of American liliaceous, sometimes arborescent, plants having long, pointed, and often rigid, leaves at the top of a more or less woody stem, and bearing a large panicle of showy white blossoms.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The species with more rigid leaves (as <spn>Yucca aloifolia</spn>, <spn>Yucca Treculiana</spn>, and <spn>Yucca baccata</spn>) are called <stype>Spanish bayonet</stype>, and one with softer leaves  (<spn>Yucca filamentosa</spn>) is called <stype>bear grass</stype>, and <stype>Adam's needle</stype>.</note><br/
@@ -2104,7 +2104,7 @@ In any place but here, at bonfire, or at <qex>Yule</qex>.</q> <rj><qau>Drayton.<
 
 <p><hw>Yun"ca</hw> <pr>(y<oomac/<nsm/"k<adot/)</pr>, <pos>n.</pos> <def>An Indian of a linguistic stock of tribes of the Peruvian coast who had a developed agricultural civilization at the advent of the Spaniards, before which they had been conquered by the Incas. They constructed irrigation canals which are still in use, adorned their buildings with bas-reliefs and frescoes, and were skilled goldsmiths and silversmiths.</def> -- <wordforms><wf>Yun"can</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms></p>
 
-<p><hw>\'d8Yunx</hw> <pr>(y<ucr/<nsm/ks)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'i`ygx</grk> the wryneck.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of birds comprising the wrynecks.</def><br/
+<p>\'d8<hw>Yunx</hw> <pr>(y<ucr/<nsm/ks)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'i`ygx</grk> the wryneck.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of birds comprising the wrynecks.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Yu"pon</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>Same as <er>Yaupon</er>.</def><br/
