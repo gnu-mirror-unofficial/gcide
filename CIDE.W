@@ -380,7 +380,7 @@ Thou <qex>wafter</qex> of the soul to bliss or bane.</q> <rj><qau>Beau. & FL.</q
 <p><q>A counselor never pleaded without a piece of pack thread in his hand, which he used to twist about a finger all the while he was speaking; the <qex>wags</qex> used to call it the thread of his discourse.</q> <rj><qau>Addison.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Wa*ga"ti</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>A small East Indian wild cat (<spn>Felis wagati</spn>), regarded by some as a variety of the leopard cat.</def><br/
+<p>\'d8<hw>Wa*ga"ti</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>A small East Indian wild cat (<spn>Felis wagati</spn>), regarded by some as a variety of the leopard cat.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Wage</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Waged</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Waging</conjf> <pr>(?)</pr>.]</vmorph> <ety>[OE. <ets>wagen</ets>, OF. <ets>wagier</ets>, <ets>gagier</ets>, to pledge, promise, F. <ets>gager</ets> to wager, lay, bet, fr. LL. <ets>wadium</ets> a pledge; of Teutonic origin; cf. Goth. <ets>wadi</ets> a pledge, ga<ets>wadj\'d3n</ets> to pledge, akin to E. <ets>wed</ets>, G. <ets>wette</ets> a wager.  See <er>Wed</er>, and cf. <er>Gage</er>.]</ety><br/
@@ -1000,7 +1000,7 @@ And everlasting anguish be thy portion.</q> <rj><qau>Rowe.</qau></rj><br/
 <p><hw>Wai"wode</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Waywode</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Wai Wu Pu</hw> <pr>(?)</pr>. <ety>[Chinese <ets>wai</ets> foreign + <ets>wu</ets> affairs + <ets>pu</ets> office.]</ety> <def>The Department of Foreign Affairs in the Chinese government.</def></p>
+<p>\'d8<hw>Wai Wu Pu</hw> <pr>(?)</pr>. <ety>[Chinese <ets>wai</ets> foreign + <ets>wu</ets> affairs + <ets>pu</ets> office.]</ety> <def>The Department of Foreign Affairs in the Chinese government.</def></p>
 
 <p><q>The Tsung-li Yamen, or Foreign Office, created by a decree of January 19, 1861, was in July, 1902, superseded by the formation of a new Foreign Office called the <qex>Wai Wu Pu</qex>, . . . with precedence before all other boards.</q>  <rj><qau>J. Scott Keltie.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -1198,7 +1198,7 @@ Their sacred song, and <qex>waken</qex> raptures high.</q> <rj><qau>Milton.</qau
 <p><hw>Wald"grave</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Wald</er>, and <er>Margrave</er>.]</ety> <def>In the old German empire, the head forest keeper.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Wald*hei"mi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of brachiopods of which many species are found in the fossil state. A few still exist in the deep sea.</def><br/
+<p>\'d8<hw>Wald*hei"mi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of brachiopods of which many species are found in the fossil state. A few still exist in the deep sea.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Wale</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[AS. <ets>walu</ets> a mark of stripes or blows, probably originally, a rod; akin to Icel. <ets>v\'94lr</ets>, Goth. <ets>walus</ets> a rod, staff. <root/146.   Cf. <er>Goal</er>, <er>Weal</er> a wale.]</ety><br/
@@ -5577,7 +5577,7 @@ To <qex>waver</qex>, or fall <qex>off and join with idols</qex>.</q> <rj><qau>Mi
 <p><sn>3.</sn> <fld>(Bot.)</fld> <def>Undulating on the border or surface; waved.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Wa*was"keesh</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From an Indian name.]</ety> <fld>(Zo\'94l.)</fld> <def>The wapiti, or wapiti, or American elk.</def><br/
+<p>\'d8<hw>Wa*was"keesh</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From an Indian name.]</ety> <fld>(Zo\'94l.)</fld> <def>The wapiti, or wapiti, or American elk.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Wawe</hw> <pr>(w<add/)</pr>, <pos>n.</pos> <ety>[See <er>Woe</er>.]</ety> <def>Woe.</def>  <mark>[Obs.]</mark><br/
@@ -8448,7 +8448,7 @@ In measure what the mind may <qex>well</qex> contain.</q> <rj><qau>Milton.</qau>
 <p><hw>Welt</hw>, <pos>v. t.</pos> <def>To wilt.</def>  <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Welt"an"schau`ung</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Weltanschauungen</plw> <pr>(#)</pr></plu>. <ety>[G.]</ety> <def>Lit., world view; a conception of the course of events in, and of the purpose of, the world as a whole, forming a philosophical view or apprehension of the universe; the general idea embodied in a cosmology.</def><br/
+<p>\'d8<hw>Welt"an"schau`ung</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Weltanschauungen</plw> <pr>(#)</pr></plu>. <ety>[G.]</ety> <def>Lit., world view; a conception of the course of events in, and of the purpose of, the world as a whole, forming a philosophical view or apprehension of the universe; the general idea embodied in a cosmology.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Welte</hw> <pr>(?)</pr>, <mark>obs.</mark> <def><pos>imp.</pos> of <er>Weld</er>, to wield.</def>  <rj><au>Chaucer.</au></rj><br/
@@ -8510,10 +8510,10 @@ Without the meed of some melodious tear.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn>  <def>A boxer or wrestler whose weight is intermediate between that of a lightweight and that of a middleweight.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><hw>Welt"schmertz`</hw> <pr>(v<ecr/lt"shm<ecr/rts`)</pr>, <pos>n.</pos> <ety>[G., fr. <ets>welt</ets> world + <ets>schmertz</ets> pain. See <er>World</er>; <er>Smart</er>, <pos>v. i.</pos>]</ety> <def>Sorrow or sadness over the present or future evils or woes of the world in general; sentimental pessimism.</def><br/
+<p>\'d8<hw>Welt"schmertz`</hw> <pr>(v<ecr/lt"shm<ecr/rts`)</pr>, <pos>n.</pos> <ety>[G., fr. <ets>welt</ets> world + <ets>schmertz</ets> pain. See <er>World</er>; <er>Smart</er>, <pos>v. i.</pos>]</ety> <def>Sorrow or sadness over the present or future evils or woes of the world in general; sentimental pessimism.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><hw>Wel*witsch"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. So named after the discoverer, Dr. <person>Friedrich <etsep>Welwitsch</etsep></person>.]</ety> <fld>(Bot.)</fld> <def>An African plant (<spn>Welwitschia mirabilis</spn>) belonging to the order <ord>Gnetace\'91</ord>. It consists of a short, woody, topshaped stem, and never more than two leaves, which are the cotyledons enormously developed, and at length split into diverging segments.</def><-- sic --><br/
+<p>\'d8<hw>Wel*witsch"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. So named after the discoverer, Dr. <person>Friedrich <etsep>Welwitsch</etsep></person>.]</ety> <fld>(Bot.)</fld> <def>An African plant (<spn>Welwitschia mirabilis</spn>) belonging to the order <ord>Gnetace\'91</ord>. It consists of a short, woody, topshaped stem, and never more than two leaves, which are the cotyledons enormously developed, and at length split into diverging segments.</def><-- sic --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Wem</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <er>Womb</er>.]</ety> <def>The abdomen; the uterus; the womb.</def>  <mark>[Obs.]</mark><br/
@@ -8607,7 +8607,7 @@ My most sweet <qex>wench</qex>, and gifts to boot.</q> <rj><qau>Chapman.</qau></
 <p><hw>Wene</hw> <pr>(?)</pr>, <pos>v. i.</pos> <def>To ween.</def>  <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>W\'88n"-li`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Chin. <ets>w\'88n li</ets>.]</ety> <def>The higher literary idiom of Chinese, that of the canonical books and of all composition pretending to literary standing. It employs a classical or academic diction, and a more condensed and sententious style than Mandarin, and differs also in the doubling and arrangement of words.</def><br/
+<p>\'d8<hw>W\'88n"-li`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Chin. <ets>w\'88n li</ets>.]</ety> <def>The higher literary idiom of Chinese, that of the canonical books and of all composition pretending to literary standing. It employs a classical or academic diction, and a more condensed and sententious style than Mandarin, and differs also in the doubling and arrangement of words.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Wen"lock group`</hw> <pr>(?)</pr>, <fld>(Geol.)</fld> <def>The middle subdivision of the Upper Silurian in Great Britain; -- so named from the typical locality in Shropshire.</def><br/
@@ -13218,7 +13218,7 @@ Are <qex>widowed</qex>, dreary storms o'er all prevail.</q> <rj><qau>J. Philips.
 <p><hw>Wield"y</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Capable of being wielded; manageable; wieldable; -- opposed to <xex>unwieldy</xex>.</def>  <mark>[R.]</mark>  <rj><au>Johnson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Wie"ner Schnit"zel</hw> <pr>(?)</pr>. <ety>[G., Vienna cutlet.]</ety> <def>A veal cutlet variously seasoned garnished, often with lemon, sardines, and capers.</def><br/
+<p>\'d8<hw>Wie"ner Schnit"zel</hw> <pr>(?)</pr>. <ety>[G., Vienna cutlet.]</ety> <def>A veal cutlet variously seasoned garnished, often with lemon, sardines, and capers.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Wier</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Weir</er>.</def><br/

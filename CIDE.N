@@ -90,7 +90,7 @@ knowledge base should contact:
 <p><hw>Na"bit</hw> <pr>(n<amac/"b<icr/t)</pr>, <pos>n.</pos> <def>Pulverized sugar candy.</def>  <rj><au>Crabb.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nabk</hw> <pr>(n<acr/bk)</pr>, <pos>n.</pos> <ety>[Ar. <ets>nabiqa</ets>, <ets>nibqa</ets>.]</ety> <fld>(Bot.)</fld> <def>The edible berries of the <spn>Zizyphys Lotus</spn>, a tree of Northern Africa, and Southwestern Europe.</def> <altsp>[Written also <asp>nubk</asp>.]</altsp> See <er>Lotus</er> <sd>(b)</sd>, and <er>Sadr</er>.<br/
+<p><hw>\'d8Nabk</hw> <pr>(n<acr/bk)</pr>, <pos>n.</pos> <ety>[Ar. <ets>nabiqa</ets>, <ets>nibqa</ets>.]</ety> <fld>(Bot.)</fld> <def>The edible berries of the <spn>Zizyphys Lotus</spn>, a tree of Northern Africa, and Southwestern Europe.</def> <altsp>[Written also <asp>nubk</asp>.]</altsp> See <er>Lotus</er> <sd>(b)</sd>, and <er>Sadr</er>.<br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Na"bob</hw> <pr>(n<amac/"b<ocr/b)</pr>, <pos>n.</pos> <ety>[Hind. <ets>naw\'beb</ets>, from Ar. <ets>naw\'beb</ets>, pl. of <ets>n\'be\'8bb</ets> a vicegerent, governor. Cf <er>Nawab</er>.]</ety> <sn>1.</sn> <def>A deputy or viceroy in India; a governor of a province of the ancient Mogul empire.</def><br/
@@ -123,7 +123,7 @@ knowledge base should contact:
 <p><hw>Na"cre</hw> <pr>(n<amac/"k<etil/r)</pr>, <pos>n.</pos> <ety>[F., cf. Sp. <ets>n\'a0cara</ets>, <ets>n\'a0car</ets>, It. <ets>nacchera</ets>, <ets>naccaro</ets>, LL. <ets>nacara</ets>, <ets>nacrum</ets>; of Oriental origin, cf. Ar. <ets>nak\'c6r</ets> hollowed.]</ety> <fld>(Zo\'94l.)</fld> <def>A pearly substance which lines the interior of many shells, and is most perfect in the mother-of-pearl.</def> <altsp>[Written also <asp>nacker</asp> and <asp>naker</asp>.]</altsp> <see>See <er>Pearl</er>, and <er>Mother-of-pearl</er>.</see><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Na`cr\'82"</hw> <pr>(n<adot/*kr<amac/")</pr>, <pos>a.</pos> <ety>[F. See <er>Nacre</er>.]</ety> <fld>(Art)</fld> <def>Having the peculiar iridescence of nacre, or mother-of-pearl, or an iridescence resembling it; <as>as, <ex>nacr\'82</ex> ware</as>.</def><br/
+<p><hw>\'d8Na`cr\'82"</hw> <pr>(n<adot/*kr<amac/")</pr>, <pos>a.</pos> <ety>[F. See <er>Nacre</er>.]</ety> <fld>(Art)</fld> <def>Having the peculiar iridescence of nacre, or mother-of-pearl, or an iridescence resembling it; <as>as, <ex>nacr\'82</ex> ware</as>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Na"cre*ous</hw> <pr>(n<amac/"kr<esl/*<ucr/s)</pr>, <pos>a.</pos> <ety>[See <er>Nacre</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>Consisting of, or resembling, nacre; pearly.</def><br/
@@ -132,7 +132,7 @@ knowledge base should contact:
 <p><mhw>{ <hw>Nad</hw> <pr>(n<acr/d)</pr>, <hw>Nad"de</hw> <pr>(n<acr/d"d<eit/)</pr> }</mhw>. <ety>[Contr. fr. <ets>ne hadde</ets>.]</ety> <def>Had not.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>nada</hw> <pos>n.</pos> <sn>1.</sn>  <ety>[Spanish]</ety> <def>Nothing.</def> <mark>[informal or jocose]</mark> <note>[used mostly jocosely or for emphasis in phrases such as \'bdNothing, <xex>nada</xex>, zip!\'b8]</note><br/
+<p><hw>\'d8nada</hw> <pos>n.</pos> <sn>1.</sn>  <ety>[Spanish]</ety> <def>Nothing.</def> <mark>[informal or jocose]</mark> <note>[used mostly jocosely or for emphasis in phrases such as \'bdNothing, <xex>nada</xex>, zip!\'b8]</note><br/
 [<source>PJC</source>]</p>
 
 <p><hw>Nad"der</hw> <pr>(n<acr/d"d<etil/r)</pr>, <pos>n.</pos> <ety>[AS. <ets>n\'91dre</ets>. See <er>Adder</er>.]</ety> <def>An adder.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
@@ -153,7 +153,7 @@ knowledge base should contact:
 <p><cs><col><b>Nadir of the sun</b></col> <fld>(Astron.)</fld>, <cd>the axis of the conical shadow projected by the earth.</cd>  <rj><au>Crabb.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>N\'91"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Nenia</er>.</def><br/
+<p><hw>\'d8N\'91"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Nenia</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>N\'91ve</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>naevus</ets>.]</ety> <def>A n\'91vus.</def> <mark>[Obs.]</mark>  <rj><au>Dryden.</au></rj><br/
@@ -165,7 +165,7 @@ knowledge base should contact:
 <p><hw>N\'91"vose`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Spotted; freckled.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>N\'91"vus</hw> <pr>(n<emac/"v<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>N\'91vi</plw> <pr>(-v\'c6)</pr>.</plu> <ety>[L.]</ety> <fld>(Med.)</fld> <def>A spot or mark on the skin of children when born; a birthmark; -- the term includes moles as wells a other types of birthmark, and is most commonly applied to reddish or brownish raised vascular areas of the skin, i. e., those consisting mainly of blood vessels, as dilated arteries, veins, or capillaries.</def> <altsp>[Usually spelled <asp>nevus</asp>.]</altsp><br/
+<p><hw>\'d8N\'91"vus</hw> <pr>(n<emac/"v<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>N\'91vi</plw> <pr>(-v\'c6)</pr>.</plu> <ety>[L.]</ety> <fld>(Med.)</fld> <def>A spot or mark on the skin of children when born; a birthmark; -- the term includes moles as wells a other types of birthmark, and is most commonly applied to reddish or brownish raised vascular areas of the skin, i. e., those consisting mainly of blood vessels, as dilated arteries, veins, or capillaries.</def> <altsp>[Usually spelled <asp>nevus</asp>.]</altsp><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><hw>Nag</hw> <pr>(n<acr/g)</pr>, <pos>n.</pos> <ety>[OE. <ets>nagge</ets>, D. <ets>negge</ets>; akin to E. <ets>neigh</ets>.]</ety> <sn>1.</sn> <def>A small horse; a pony; hence, any horse, especially one that is of inferior breeding or useless.</def><br/
@@ -201,7 +201,7 @@ knowledge base should contact:
 <p><hw>Nag"gy</hw> <pr>(n<acr/g"g<ycr/)</pr>, <pos>a.</pos> <def>Irritable; touchy.</def> <mark>[Colloq.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Na"gor</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>A West African gazelle (<spn>Gazella redunca</spn>).</def><br/
+<p><hw>\'d8Na"gor</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>A West African gazelle (<spn>Gazella redunca</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nag"yag*ite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[So called from <etsep>Nagyag</etsep>, in Transylvania.]</ety> <fld>(Min.)</fld> <def>A mineral of blackish lead-gray color and metallic luster, generally of a foliated massive structure; foliated tellurium.  It is a telluride of lead and gold.</def><br/
@@ -235,7 +235,7 @@ knowledge base should contact:
 <p><sn>2.</sn> <def>Na\'8bve; <as>as, a <ex>na\'8bf</ex> remark</as>.</def>  <rj><au>London Spectator.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Na"ik</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets>n\'beyak</ets>.]</ety> <def>A chief; a leader; a Sepoy corporal.</def>  <rj><au>Balfour (Cyc. of India).</au></rj><br/
+<p><hw>\'d8Na"ik</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets>n\'beyak</ets>.]</ety> <def>A chief; a leader; a Sepoy corporal.</def>  <rj><au>Balfour (Cyc. of India).</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nail</hw> <pr>(n<amac/l)</pr>, <pos>n.</pos> <ety>[AS. <ets>n\'91gel</ets>, akin to D. <ets>nagel</ets>, OS. & OHG. <ets>nagal</ets>, G. <ets>nagel</ets>, Icel. <ets>nagl</ets>, nail (in sense 1), <ets>nagli</ets> nail (in sense 3), Sw. <ets>nagel</ets> nail (in senses 1 and 3), Dan. <ets>nagle</ets>, Goth. <ets>ganagljan</ets> to nail, Lith. <ets>nagas</ets> nail (in sense 1), Russ. <ets>nogote</ets>, L. <ets>unguis</ets>, Gr. <grk>"o`nyx</grk>, Skr. <ets>nakha</ets>. <root/259.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>the horny scale of plate of epidermis at the end of the fingers and toes of man and many apes.</def><br/
@@ -313,10 +313,10 @@ knowledge base should contact:
 <p><hw>Nain`sook"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Nainsukh</ets>, a valley in Kaghan.]</ety> <def>A thick sort of jaconet muslin, plain or striped, formerly made in India.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Na"is</hw> <pr>(n<amac/"<icr/s)</pr>, <pos>n.</pos> <ety>[L., a naiad.]</ety> <fld>(Zo\'94l.)</fld> <def>See <er>Naiad</er>.</def><br/
+<p><hw>\'d8Na"is</hw> <pr>(n<amac/"<icr/s)</pr>, <pos>n.</pos> <ety>[L., a naiad.]</ety> <fld>(Zo\'94l.)</fld> <def>See <er>Naiad</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nais`sant"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., p. pr. of <ets>na\'8ctre</ets> to be born, L. <ets>nasci</ets>.]</ety> <fld>(Her.)</fld> <def>Same as <er>Jessant</er>.</def><br/
+<p><hw>\'d8Nais`sant"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., p. pr. of <ets>na\'8ctre</ets> to be born, L. <ets>nasci</ets>.]</ety> <fld>(Her.)</fld> <def>Same as <er>Jessant</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><mhw><hw>na*ive"</hw>, <hw>na*\'8bve"</hw></mhw> <pr>(n<aum/*<emac/v")</pr>, <pos>a.</pos> <ety>[F. <ets>na\'8bf</ets>, fem. <ets>na\'8bve</ets>, fr. L. <ets>nativus</ets> innate, natural, native. See <er>Native</er>, and cf. <er>Na\'8bf</er>.]</ety> <sn>1.</sn> <def>Having native or unaffected simplicity; ingenuous; artless; frank; <as>as, <ex>na\'8bve</ex> manners; a <ex>na\'8bve</ex> person; <ex>na\'8bve</ex> and unsophisticated remarks.</as></def><br/
@@ -328,7 +328,7 @@ knowledge base should contact:
 <p><hw>na"\'8bve`ly</hw> <pr>(?)</pr>, <pos>adv.</pos> <def>In a na\'8bve manner.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Na`\'8bve`t\'82"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Na\'8bve</er>, and cf. <er>Nativity</er>.]</ety> <def>The state or quality of being naive.</def><br/
+<p><hw>\'d8Na`\'8bve`t\'82"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Na\'8bve</er>, and cf. <er>Nativity</er>.]</ety> <def>The state or quality of being naive.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><q>A story which pleases me by its <qex>na\'8bvet\'82</qex> -- that is, by its unconscious ingenuousness.</q> <rj><qau>De Quincey.</qau></rj><br/
@@ -430,7 +430,7 @@ Have left me <xex>naked</xex> to mine enemies.</q> <rj><qau>King Henry VIII., Ac
 <p><hw>Na"ker</hw>, <pos>n.</pos> <ety>[OE. <ets>nakere</ets>, F. <ets>nakaire</ets>, LL. <ets>nacara</ets>, Per. <ets>naq\'beret</ets>.]</ety> <def>A kind of kettledrum.</def> <mark>[Obs.]</mark>  <rj><au> Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Na"koo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From the native name.]</ety> <fld>(Zo\'94l.)</fld> <def>The gavial.</def> <altsp>[Written also <asp>nako</asp>.]</altsp><br/
+<p><hw>\'d8Na"koo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From the native name.]</ety> <fld>(Zo\'94l.)</fld> <def>The gavial.</def> <altsp>[Written also <asp>nako</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nale</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[A corrupt form arising from the older \'bdat <thorn/e<ets>n ale</ets>\'b8 at the nale.]</ety> <def>Ale; also, an alehouse.</def> <mark>[Obs.]</mark><br/
@@ -696,7 +696,7 @@ I can not name; 't is <qex>nameless</qex> woe,I wot.</q> <rj><qau>Shak.</qau></r
 <syn><b>Syn. --</b> shrimp sauce.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><hw>Na"os</hw> <pr>(n<amac/"<ocr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>nao`s</grk> a temple, the cella.]</ety> <fld>(Arch.)</fld> <def>A term used by modern arch\'91ologists instead of <xex>cella</xex>. See <er>Cella</er>.</def><br/
+<p><hw>\'d8Na"os</hw> <pr>(n<amac/"<ocr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>nao`s</grk> a temple, the cella.]</ety> <fld>(Arch.)</fld> <def>A term used by modern arch\'91ologists instead of <xex>cella</xex>. See <er>Cella</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nap</hw> <pr>(n<acr/p)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Napped</conjf> <pr>(n<acr/pt)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Napping</conjf> <pr>(n<acr/p"p<icr/ng)</pr>.]</vmorph> <ety>[OE. <ets>nappen</ets>, AS. <ets>hn<ae/ppian</ets> to take a nap, to slumber; cf. AS. <ets>hnipian</ets> to bend one's self, Icel. <ets>hnipna</ets>, <ets>hn\'c6pa</ets>, to droop.]</ety> <sn>1.</sn> <def>To have a short sleep; to be drowsy; to doze.</def>  <rj><au>Chaucer.</au></rj><br/
@@ -915,10 +915,10 @@ I can not name; 't is <qex>nameless</qex> woe,I wot.</q> <rj><qau>Shak.</qau></r
 <p><hw>Nap"-tak`ing</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A taking by surprise; an unexpected onset or attack.</def>  <rj><au>Carew.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Na*pu"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zo\'94l.)</fld> <def>A very small chevrotain (<spn>Tragulus Javanicus</spn>), native of Java. It is about the size of a hare, and is noted for its agility in leaping. Called also <altname>Java musk deer</altname>, <altname>pygmy musk deer</altname>, and <altname>deerlet</altname>.</def><br/
+<p><hw>\'d8Na*pu"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zo\'94l.)</fld> <def>A very small chevrotain (<spn>Tragulus Javanicus</spn>), native of Java. It is about the size of a hare, and is noted for its agility in leaping. Called also <altname>Java musk deer</altname>, <altname>pygmy musk deer</altname>, and <altname>deerlet</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Na"pus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Bot.)</fld> <def>A kind of turnip. See <er>Navew</er>.</def><br/
+<p><hw>\'d8Na"pus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Bot.)</fld> <def>A kind of turnip. See <er>Navew</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nar"ce*ine</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>narce</ets> numbness, torpor, Gr. <?/<?/<?/<?/<?/: cf. F. <ets>narc\'82\'8bne</ets>.]</ety> <fld>(Chem.)</fld> <def>An alkaloid found in small quantities in opium, and extracted as a white crystalline substance of a bitter astringent taste.  It is a narcotic.  Called also <altname>narceia</altname>.</def><br/
@@ -952,7 +952,7 @@ I can not name; 't is <qex>nameless</qex> woe,I wot.</q> <rj><qau>Shak.</qau></r
 <syn><b>Syn. --</b> narcissist.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><hw>Nar*co"sis</hw> <pr>(n<aum/r*k<omac/"s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>na`rkwsis</grk>. See <er>Narcotic</er>.]</ety> <fld>(Med.)</fld> <def>Privation of sense or consciousness, due to a narcotic.</def><br/
+<p><hw>\'d8Nar*co"sis</hw> <pr>(n<aum/r*k<omac/"s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>na`rkwsis</grk>. See <er>Narcotic</er>.]</ety> <fld>(Med.)</fld> <def>Privation of sense or consciousness, due to a narcotic.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nar*cot"ic</hw> <pr>(n<aum/r*k<ocr/t"<icr/k)</pr>, <pos>a.</pos> <ety>[F. <ets>narcotique</ets>, Gr. <grk>narkwtiko`s</grk>, fr. <grk>narkoy^n</grk> to benumb, <grk>na`rkh</grk> numbness, torpor.]</ety> <fld>(Med.)</fld> <def>Having the properties of a narcotic; operating as a narcotic.</def><br/
@@ -1007,19 +1007,19 @@ I can not name; 't is <qex>nameless</qex> woe,I wot.</q> <rj><qau>Shak.</qau></r
 <p><hw>Nard"ine</hw> <pr>(n<aum/rd"<icr/n)</pr>, <pos>a.</pos> <ety>[L. <ets>nardinus</ets>, Gr. <grk>na`rdinos</grk>.]</ety> <def>Of or pertaining to nard; having the qualities of nard.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nar*doo"</hw> <pr>(n<aum/r*d<oomac/")</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>An Australian name for <spn>Marsilea Drummondii</spn>, a four-leaved cryptogamous plant, sometimes used for food.</def><br/
+<p><hw>\'d8Nar*doo"</hw> <pr>(n<aum/r*d<oomac/")</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>An Australian name for <spn>Marsilea Drummondii</spn>, a four-leaved cryptogamous plant, sometimes used for food.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nare</hw> <pr>(n<acir/r)</pr>, <pos>n.</pos> <ety>[L. <ets>naris</ets>.]</ety> <def>A nostril.</def> <mark>[R.]</mark>  <rj><au>B. Jonson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Na"res</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., pl. of <ets>naris</ets> nostril.]</ety> <fld>(Anat.)</fld> <def>The nostrils or nasal openings, -- the <xex>anterior nares</xex> being the external or proper nostrils, and the <xex>posterior nares</xex>, the openings of the nasal cavities into the mouth or pharynx.</def><br/
+<p><hw>\'d8Na"res</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., pl. of <ets>naris</ets> nostril.]</ety> <fld>(Anat.)</fld> <def>The nostrils or nasal openings, -- the <xex>anterior nares</xex> being the external or proper nostrils, and the <xex>posterior nares</xex>, the openings of the nasal cavities into the mouth or pharynx.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><mhw>{ <hw>Nar"gile</hw> <pr>(?)</pr>, <hw>Nar"gi*leh</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[Per. <ets>n\'bergh\'c6l</ets>, prop., a cocoanut; prob. so called because first made of a cocoanut.]</ety> <def>An apparatus for smoking tobacco.  It has a long flexible tube, and the smoke is drawn through water.  Also called <er>hoookah</er> and <altname>water pipe</altname>.  Functionally similar to the <er>hubble-bubble</er>, a simplified form.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
-<p><hw>Nar"i*ca</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>The brown coati. See <er>Coati</er>.</def><br/
+<p><hw>\'d8Nar"i*ca</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>The brown coati. See <er>Coati</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nar"i*form</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>naris</ets> nostril + <ets>-form</ets>. See <er>Nose</er>.]</ety> <def>Formed like the nose.</def><br/
@@ -1204,7 +1204,7 @@ This garden, and no corner leave unspied.</q> <rj><qau>Milton.</qau></rj><br/
 <p><hw>Nart</hw> <pr>(?)</pr>. <ety>[For <ets>ne art</ets>.]</ety> <def>Art not.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nar"thex</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., giant fennel, Gr. <grk>na`rqhx</grk>.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A tall umbelliferous plant (<spn>Ferula communis</spn>). See <cref>Giant fennel</cref>, under <er>Fennel</er>.</def><br/
+<p><hw>\'d8Nar"thex</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., giant fennel, Gr. <grk>na`rqhx</grk>.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A tall umbelliferous plant (<spn>Ferula communis</spn>). See <cref>Giant fennel</cref>, under <er>Fennel</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Arch.)</fld> <def>The portico in front of ancient churches; sometimes, the atrium or outer court surrounded by ambulatories; -- used, generally, for any vestibule, lobby, or outer porch, leading to the nave of a church.</def><br/
@@ -1301,7 +1301,7 @@ This garden, and no corner leave unspied.</q> <rj><qau>Milton.</qau></rj><br/
 <p><hw>Nas"i*form</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>nasus</ets> nose + <ets>-form</ets>. See <er>Nose</er>, and cf. <er>Nariform</er>.]</ety> <def>Having the shape of a nose.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Na*si*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>nasus</ets> nose.]</ety> <fld>(Anat.)</fld> <def>The middle point of the nasofrontal suture.</def><br/
+<p><hw>\'d8Na*si*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>nasus</ets> nose.]</ety> <fld>(Anat.)</fld> <def>The middle point of the nasofrontal suture.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Na"so-</hw> <pr>(<?/)</pr>. <ety>[L. <ets>nasus</ets> nose.]</ety> <fld>(Anat.)</fld> <def>A combining form denoting <sig>pertaining to the nose</sig>, or <sig>connected with the nose</sig>; <as>as, <ex>naso</ex>frontal</as>.</def><br/
@@ -1433,7 +1433,7 @@ Presided o'er the monarch's <qex>natal</qex> hour.</q> <rj><qau>Prior.</qau></rj
 <p><hw>Na*ta"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>natatio</ets>, fr. <ets>natare</ets> to swim: cf. F. <ets>natation</ets>. See <er>Natant</er>.]</ety> <def>The act of floating on the water; swimming.</def>  <rj><au>Sir T. Browne.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Na`ta*to"res</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L. <ets>natator</ets> a swimmer.]</ety> <fld>(Zo\'94l.)</fld> <def>The swimming birds.</def><br/
+<p><hw>\'d8Na`ta*to"res</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L. <ets>natator</ets> a swimmer.]</ety> <fld>(Zo\'94l.)</fld> <def>The swimming birds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ They were formerly united into one order, which is now considered an artificial group.</note><br/
@@ -1445,7 +1445,7 @@ Presided o'er the monarch's <qex>natal</qex> hour.</q> <rj><qau>Prior.</qau></rj
 <p><hw>Na`ta*to"ri*ous</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zo\'94l.)</fld> <def>Adapted for swimming; -- said of the legs of certain insects.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Na`ta*to"rium</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>A swimming bath.</def><br/
+<p><hw>\'d8Na`ta*to"rium</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>A swimming bath.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Na"ta*to*ry</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>natatorius</ets>.]</ety> <def>Adapted for swimming or floating; <as>as, <ex>natatory</ex> organs</as>.</def><br/
@@ -1463,7 +1463,7 @@ Presided o'er the monarch's <qex>natal</qex> hour.</q> <rj><qau>Prior.</qau></rj
 <p><hw>Natch"nee</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>An annual grass (<spn>Eleusine coracona</spn>), cultivated in India as a food plant.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Na"tes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., the buttocks.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <sd>(a)</sd> <def>The buttocks.</def> <sd>(b)</sd> <def>The two anterior of the four lobes on the dorsal side of the midbrain of most mammals; the anterior optic lobes.</def><br/
+<p><hw>\'d8Na"tes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., the buttocks.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <sd>(a)</sd> <def>The buttocks.</def> <sd>(b)</sd> <def>The two anterior of the four lobes on the dorsal side of the midbrain of most mammals; the anterior optic lobes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zo\'94l.)</fld> <def>The umbones of a bivalve shell.</def><br/
@@ -1600,7 +1600,7 @@ Presided o'er the monarch's <qex>natal</qex> hour.</q> <rj><qau>Prior.</qau></rj
 <p><hw>Na"tion*al*ness</hw>, <pos>n.</pos> <def>The quality or state of being national; nationality.</def>  <rj><au>Johnson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Na`ti*o*nal"rath`</hw> <pr>(n<aum/"ts<esl/*<osl/*n<aum/l"r<aum/t`)</pr>, <pos>n.</pos> <ety>[G.]</ety> <fld>(Switzerland)</fld> <def>See <er>Legislature</er>.</def><br/
+<p><hw>\'d8Na`ti*o*nal"rath`</hw> <pr>(n<aum/"ts<esl/*<osl/*n<aum/l"r<aum/t`)</pr>, <pos>n.</pos> <ety>[G.]</ety> <fld>(Switzerland)</fld> <def>See <er>Legislature</er>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Na"tive</hw> <pr>(n<amac/"t<icr/v)</pr>, <pos>a.</pos> <ety>[F. <ets>natif</ets>, L. <ets>nativus</ets>, fr. <ets>nasci</ets>, p. p. <ets>natus</ets>. See <er>Nation</er>, and cf. <er>Na\'8bve</er>, <er>Neif</er> a serf.]</ety> <sn>1.</sn> <def>Arising by birth; having an origin; born.</def> <mark>[Obs.]</mark><br/
@@ -2076,7 +2076,7 @@ All will be <qex>naught</qex> else.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Rom. Antiq.)</fld> <def>A show or spectacle representing a sea fight; also, a place for such exhibitions.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nau"pli*us</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nauplii</plw> <pr>(#)</pr>.</plu> <ety>[L., a kind of shellfish, fr. Gr. <grk>nay^s</grk> ship + <?/ to sail.]</ety> <fld>(Zo\'94l.)</fld> <def>A crustacean larva having three pairs of locomotive organs (corresponding to the antennules, antenn\'91, and mandibles), a median eye, and little or no segmentation of the body.</def><br/
+<p><hw>\'d8Nau"pli*us</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nauplii</plw> <pr>(#)</pr>.</plu> <ety>[L., a kind of shellfish, fr. Gr. <grk>nay^s</grk> ship + <?/ to sail.]</ety> <fld>(Zo\'94l.)</fld> <def>A crustacean larva having three pairs of locomotive organs (corresponding to the antennules, antenn\'91, and mandibles), a median eye, and little or no segmentation of the body.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nau`ro*pom"e*ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>nay^s</grk> ship + <?/ inclination + <ets>-meter</ets>.]</ety> <fld>(Naut.)</fld> <def>An instrument for measuring the amount which a ship heels at sea.</def><br/
@@ -2128,7 +2128,7 @@ All will be <qex>naught</qex> else.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>The <qex>nauseousness</qex> of such company disgusts a reasonable man.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nautch</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets>n\'bech</ets>, fr. Skr. <ets>n<rsdot/tya</ets> dance.]</ety> <def>An entertainment consisting chiefly of dancing by professional dancing (or Nautch) girls.</def> <mark>[India]</mark><br/
+<p><hw>\'d8Nautch</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets>n\'bech</ets>, fr. Skr. <ets>n<rsdot/tya</ets> dance.]</ety> <def>An entertainment consisting chiefly of dancing by professional dancing (or Nautch) girls.</def> <mark>[India]</mark><br/
 <syn><b>Syn. --</b> nauch.</syn><br/
 [<source>1913 Webster</source>]</p>
 
@@ -2332,7 +2332,7 @@ Immured in cypress shades, a sorcerer dwells.</q> <rj><qau>Milton.</qau></rj><br
 <p><sn>2.</sn> <def>Prussian blue.</def> <mark>[archaic]</mark> <br/
 [<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
 
-<p><hw>Na*wab"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Nabob</er>.]</ety> <sn>1.</sn> <def>A deputy ruler or viceroy in India; also, a title given by courtesy to other persons of high rank in the East.</def><br/
+<p><hw>\'d8Na*wab"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Nabob</er>.]</ety> <sn>1.</sn> <def>A deputy ruler or viceroy in India; also, a title given by courtesy to other persons of high rank in the East.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A rich, retired Anglo-Indian; a nabob.</def><br/
@@ -2378,7 +2378,7 @@ When he would he shall have <qex>nay</qex>.</q> <rj><qau>Old Prov.</qau></rj><br
 <p><hw>Nay</hw>, <pos>v. t. & i.</pos> <def>To refuse.</def> <mark>[Obs.]</mark>  <rj><au>Holinshed.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Na*yaur"</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>A specied of wild sheep (<spn>Ovis Hodgsonii</spn>), native of Nepal and Tibet.  It has a dorsal mane and a white ruff beneath the neck.</def><br/
+<p><hw>\'d8Na*yaur"</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>A specied of wild sheep (<spn>Ovis Hodgsonii</spn>), native of Nepal and Tibet.  It has a dorsal mane and a white ruff beneath the neck.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nayt</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[Icel. <ets>neita</ets>.]</ety> <def>To refuse; to deny.</def> <mark>[Obs.]</mark> \'bdHe shall not <xex>nayt</xex> ne deny his sin.\'b8  <rj><au>Chaucer.</au></rj><br/
@@ -2666,7 +2666,7 @@ Are all called <qex>neat</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><-- p. 967 --></p>
 
-<p><hw>Ne*ba"li*a</hw> <pr>(n<esl/*b<amac/"l<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., of uncertain origin.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of small marine Crustacea, considered the type of a distinct order (<ord>Nebaloidea</ord>, or <ord>Phyllocarida</ord>.)</def><br/
+<p><hw>\'d8Ne*ba"li*a</hw> <pr>(n<esl/*b<amac/"l<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., of uncertain origin.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of small marine Crustacea, considered the type of a distinct order (<ord>Nebaloidea</ord>, or <ord>Phyllocarida</ord>.)</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Neb"bish</hw> <pr>(m<ecr/b"<icr/sh)</pr> <pos>n.</pos> <ety>[Yiddish, <ets>nebekh</ets> poor, unfortunate.]</ety> <def>A person who is ineffectual, timid, and often luckless; a person of no significance.</def><br/
@@ -2707,7 +2707,7 @@ Are all called <qex>neat</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>O light without <qex>nebule</qex>.</q> <rj><qau>Old Ballad.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><mhw>{ <hw>N\'82`bu`l\'82"</hw> <pr>(?)</pr>, <hw>Neb"u*ly</hw> <pr>(?)</pr> }</mhw>, <pos>a.</pos> <ety>[F. <ets>n\'82bul\'82</ets>.]</ety> <fld>(Her.)</fld> <def>Composed of successive short curves supposed to resemble a cloud; -- said of a heraldic line by which an ordinary or subordinary may be bounded.</def><br/
+<p><mhw>{ <hw>\'d8N\'82`bu`l\'82"</hw> <pr>(?)</pr>, <hw>Neb"u*ly</hw> <pr>(?)</pr> }</mhw>, <pos>a.</pos> <ety>[F. <ets>n\'82bul\'82</ets>.]</ety> <fld>(Her.)</fld> <def>Composed of successive short curves supposed to resemble a cloud; -- said of a heraldic line by which an ordinary or subordinary may be bounded.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Neb`u*li*za"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Med.)</fld> <def>The act or process of nebulizing; atomization.</def><br/
@@ -2956,7 +2956,7 @@ The tyrant's plea, excused his devilish deeds.</q> <rj><qau>Milton.</qau></rj><b
 <p><hw>Neck"weed`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <sd>(a)</sd> <def>An American annual weed (<spn>veronica peregrina</spn>), with small white flowers and a roundish pod.</def> <sd>(b)</sd> <def>The hemp; -- so called as furnishing ropes for hanging criminals.</def>  <rj><au>Dr. Prior.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nec`ro*bi*o"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>nekro`s</grk> dead + <?/ way of life, fr. <?/ life.]</ety> <fld>(Biol. & Med.)</fld> <def>The death of a part of an organism by molecular disintegration and without loss of continuity, as in the processes of degeneration and atrophy; a normal dying out of cells in a tissue, in contrast to <contr>necrosis</contr>.</def>  <rj><au>Virchow.</au></rj><br/
+<p><hw>\'d8Nec`ro*bi*o"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>nekro`s</grk> dead + <?/ way of life, fr. <?/ life.]</ety> <fld>(Biol. & Med.)</fld> <def>The death of a part of an organism by molecular disintegration and without loss of continuity, as in the processes of degeneration and atrophy; a normal dying out of cells in a tissue, in contrast to <contr>necrosis</contr>.</def>  <rj><au>Virchow.</au></rj><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><hw>Nec`ro*bi*ot"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Biol. & Med.)</fld> <def>Of or pertaining to necrobiosis; <as>as, a <ex>necrobiotic</ex> metamorphosis</as>.</def><br/
@@ -3095,7 +3095,7 @@ By <qex>necromancy</qex> plac\'8ad there.</q> <rj><qau>Drayton.</qau></rj><br/
 <p><hw>Nec"ta*ry</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nectaries</plw> <pr>(#)</pr>.</plu> <ety>[From <er>Nectar</er>: cf. F. <ets>nectaire</ets>.]</ety> <fld>(Bot.)</fld> <def>That part of a blossom which secretes nectar, usually the base of the corolla or petals; also, the spur of such flowers as the larkspur and columbine, whether nectariferous or not. See the <xex>Illustration</xex> of <er>Nasturtium</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nec`to*ca"lyx</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nectocalyces</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>nhkto`s</grk> swimming + <?/ a calyx.]</ety> <fld>(Zo\'94l.)</fld> <sd>(a)</sd> <def>The swimming bell or umbrella of a jellyfish of medusa.</def> <sd>(b)</sd> <def>One of the zooids of certain <ord>Siphonophora</ord>, having somewhat the form, and the essential structure, of the bell of a jellyfish, and acting as a swimming organ.</def><br/
+<p><hw>\'d8Nec`to*ca"lyx</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nectocalyces</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>nhkto`s</grk> swimming + <?/ a calyx.]</ety> <fld>(Zo\'94l.)</fld> <sd>(a)</sd> <def>The swimming bell or umbrella of a jellyfish of medusa.</def> <sd>(b)</sd> <def>One of the zooids of certain <ord>Siphonophora</ord>, having somewhat the form, and the essential structure, of the bell of a jellyfish, and acting as a swimming organ.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><mhw>{ <hw>Nec"to*sac</hw>, <hw>Nec"to*sack</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>nhkto`s</grk> swimming + E. <ets>sac</ets>, <ets>sack</ets>.]</ety> <fld>(Zo\'94l.)</fld> <def>The cavity of a nectocalyx.</def><br/
@@ -3110,7 +3110,7 @@ By <qex>necromancy</qex> plac\'8ad there.</q> <rj><qau>Drayton.</qau></rj><br/
 <p><hw>Ned"dy</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Neddies</plw> <pr>(<?/)</pr>.</plu> <fld>(Zo\'94l.)</fld> <def>A pet name for a donkey.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nee</hw> <pr>(n<asl/)</pr>, <pos>p. p., fem.</pos> <ety>[F., fr. L. <ets>nata</ets>, fem. of <ets>natus</ets>, p. p. of <ets>nasci</ets> to be born. See <er>Nation</er>.]</ety> <def>Born; -- a term sometimes used in introducing the name of the family to which a married woman belongs by birth (i.e. her maiden name); <as>as, Madame de Sta\'89l, <ex>n\'82e</ex> Necker</as>.</def><br/
+<p><hw>\'d8Nee</hw> <pr>(n<asl/)</pr>, <pos>p. p., fem.</pos> <ety>[F., fr. L. <ets>nata</ets>, fem. of <ets>natus</ets>, p. p. of <ets>nasci</ets> to be born. See <er>Nation</er>.]</ety> <def>Born; -- a term sometimes used in introducing the name of the family to which a married woman belongs by birth (i.e. her maiden name); <as>as, Madame de Sta\'89l, <ex>n\'82e</ex> Necker</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Need</hw> <pr>(n<emac/d)</pr>, <pos>n.</pos> <ety>[OE. <ets>need</ets>, <ets>neod</ets>, <ets>nede</ets>, AS. <ets>ne\'a0d</ets>, <ets>n<ymac/d</ets>; akin to D. <ets>nood</ets>, G. <ets>not</ets>, <ets>noth</ets>, Icel. <ets>nau<edh/r</ets>, Sw. & Dan. <ets>n\'94d</ets>, Goth. <ets>nau<thorn/s</ets>.]</ety> <sn>1.</sn> <def>A state that requires supply or relief; pressing occasion for something; necessity; urgent want.</def><br/
@@ -3363,7 +3363,7 @@ Rove idle, unemployed, and less <qex>need</qex> rest.</q> <rj><qau>Milton.</qau>
 <p><hw>Nees"ing</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Sneezing.</def> <mark>[Obs.]</mark> \'bdBy his <xex>neesings</xex> a light doth shine.\'b8  <rj><au>Job xli. 18.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ne` ex"e*at</hw> <pr>(?)</pr>. <ety>[L. <ets>ne exeat regno</ets> let him not go out of the kingdom.]</ety> <fld>(Law)</fld> <def>A writ to restrain a person from leaving the country, or the jurisdiction of the court.  The writ was originally applicable to purposes of state, but is now an ordinary process of courts of equity, resorted to for the purpose of obtaining bail, or security to abide a decree.</def>  <rj><au>Kent.</au></rj><br/
+<p><hw>\'d8Ne` ex"e*at</hw> <pr>(?)</pr>. <ety>[L. <ets>ne exeat regno</ets> let him not go out of the kingdom.]</ety> <fld>(Law)</fld> <def>A writ to restrain a person from leaving the country, or the jurisdiction of the court.  The writ was originally applicable to purposes of state, but is now an ordinary process of courts of equity, resorted to for the purpose of obtaining bail, or security to abide a decree.</def>  <rj><au>Kent.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nef</hw> <pr>(?; F. <?/)</pr>, <pos>n.</pos> <ety>[F. See <er>Nave</er>.]</ety> <def>The nave of a church.</def>  <rj><au>Addison.</au></rj><br/
@@ -3381,7 +3381,7 @@ Rove idle, unemployed, and less <qex>need</qex> rest.</q> <rj><qau>Milton.</qau>
 <p>-- <wordforms><wf>Ne*fa"ri*ous*ly</wf>, <pos>adv.</pos> -- <wf>Ne*fa"ri*ous*ness</wf>, <pos>n.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ne"fasch</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>Any fish of the genus <gen>Distichodus</gen>.  Several large species inhabit the Nile.</def><br/
+<p><hw>\'d8Ne"fasch</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>Any fish of the genus <gen>Distichodus</gen>.  Several large species inhabit the Nile.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Ne"fast</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>nefastus</ets>.]</ety> <def>Wicked.</def> <mark>[R.]</mark><br/
@@ -3510,7 +3510,7 @@ So much as frown on you.</q> <rj><qau>Shak.</qau></rj><br/
 <syn><b>Syn. --</b> Negev Desert.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><hw>neg"i*noth</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Heb. <ets>n<ecr/g\'c6n<omac/th</ets>.]</ety> <fld>(Script.)</fld> <def>Stringed instruments.</def>  <rj><au>Dr. W. Smith.</au></rj><br/
+<p><hw>\'d8neg"i*noth</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Heb. <ets>n<ecr/g\'c6n<omac/th</ets>.]</ety> <fld>(Script.)</fld> <def>Stringed instruments.</def>  <rj><au>Dr. W. Smith.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>To the chief musician on <qex>Neginoth</qex>.</q> <rj><qau>Ps. iv. 9heading).</qau></rj><br/
@@ -3710,7 +3710,7 @@ Is God's ambassador.</q> <rj><qau>Cowper.</qau></rj><br/
 <p><hw>Ne"gress</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Negresses</plw> <pr>(<?/)</pr>.</plu> <ety>[Cf. F. <ets>n\'82grese</ets>, fem. of <ets>n\'82gre</ets> a negro. See <er>Negro</er>.]</ety> <def>A black woman; a female negro.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ne*gri"ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., blackish, fem. of <ets>negrito</ets>, dim. of <ets>negro</ets> black.]</ety> <fld>(Zo\'94l.)</fld> <def>A blackish fish (<spn>Hypoplectrus nigricans</spn>), of the Sea-bass family.  It is a native of the West Indies and Florida.</def><br/
+<p><hw>\'d8Ne*gri"ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., blackish, fem. of <ets>negrito</ets>, dim. of <ets>negro</ets> black.]</ety> <fld>(Zo\'94l.)</fld> <def>A blackish fish (<spn>Hypoplectrus nigricans</spn>), of the Sea-bass family.  It is a native of the West Indies and Florida.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Ne*grit"ic</hw> <pr>(n<esl/*gr<icr/t"<icr/k)</pr>, <pos>a.</pos> <def>Of or pertaining to negroes; composed of negroes.</def>  <rj><au>Keary.</au></rj><br/
@@ -3749,7 +3749,7 @@ Is God's ambassador.</q> <rj><qau>Cowper.</qau></rj><br/
 <p><hw>Ne"gus</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A beverage made of wine, water, sugar, nutmeg, and lemon juice; -- so called, it is said, from its first maker, <person>Colonel <etsep>Negus</etsep></person>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ne"hi*loth</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Heb.]</ety> <fld>(Script.)</fld> <def>A term supposed to mean, perforated wind instruments of music, as pipes or flutes.</def>  <rj><au>Ps. v. (heading).</au></rj><br/
+<p><hw>\'d8Ne"hi*loth</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Heb.]</ety> <fld>(Script.)</fld> <def>A term supposed to mean, perforated wind instruments of music, as pipes or flutes.</def>  <rj><au>Ps. v. (heading).</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Ne*hush"tan</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Heb.]</ety> <def>A thing of brass; -- the name under which the Israelites worshiped the brazen serpent made by Moses.</def>  <rj><au>2 Kings xviii. 4.</au></rj><br/
@@ -3849,7 +3849,7 @@ No more shall be the <qex>neighbor</qex> to my counsel.</q> <rj><qau>Shak.</qau>
 <p><mhw><hw>neighbour</hw>, <hw>neighbouring</hw>, <hw>neighbourhood</hw>, <hw>neighbourly</hw></mhw> <def>Same as <er>neighbor</er>, <er>neighboring</er>, <er>neighborhood</er>, <er>neighborly</er>.</def> <mark>[Chiefly Brit.]</mark> <br/
 [<source>PJC</source>]</p>
 
-<p><hw>Neis"hout</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From D. <ets>niezen</ets> to sneeze + <ets>hout</ets> wood.]</ety> <fld>(Bot.)</fld> <def>The mahogany-like wood of the South African tree <spn>Pteroxylon utile</spn>, the sawdust of which causes violent sneezing (whence the name).  Also called <altname>sneezewood</altname>.</def><br/
+<p><hw>\'d8Neis"hout</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From D. <ets>niezen</ets> to sneeze + <ets>hout</ets> wood.]</ety> <fld>(Bot.)</fld> <def>The mahogany-like wood of the South African tree <spn>Pteroxylon utile</spn>, the sawdust of which causes violent sneezing (whence the name).  Also called <altname>sneezewood</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nei"ther</hw> <pr>(n<emac/"<th/<etil/r <it>or</it> n<imac/"<th/<etil/r; 277)</pr>, <pos>a.</pos> <ety>[OE. <ets>neither</ets>, <ets>nother</ets>, <ets>nouther</ets>, AS. <ets>n\'bew<edh/er</ets>, <ets>n\'behw\'91<edh/er</ets>; <ets>n\'be</ets> never, not + <ets>hw\'91<edh/er</ets> whether.  The word has followed the form of <ets>either</ets>.  See <er>No</er>, and <er>Whether</er>, and cf. <er>Neuter</er>, <er>Nor</er>.]</ety> <def>Not either; not the one or the other.</def><br/
@@ -3887,7 +3887,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 <p><hw>nekton</hw> <pos>n.</pos> <def>The aggregate of actively swimming animals in a body of water ranging from microscopic organisms to whales.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><hw>Ne*lum"bo</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[Ceylonese word.]</ety> <fld>(Bot.)</fld> <def>A genus of great water lilies.  The North American species is <spn>Nelumbo lutea</spn>, the Asiatic is the sacred lotus, <spn>Nelumbo speciosa</spn>.</def> <altsp>[Written also <asp>Nelumbium</asp>.]</altsp><br/
+<p><hw>\'d8Ne*lum"bo</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[Ceylonese word.]</ety> <fld>(Bot.)</fld> <def>A genus of great water lilies.  The North American species is <spn>Nelumbo lutea</spn>, the Asiatic is the sacred lotus, <spn>Nelumbo speciosa</spn>.</def> <altsp>[Written also <asp>Nelumbium</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 970 --></p>
@@ -3898,13 +3898,13 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 <p><hw>Nem"a*lite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>nh^ma</grk> thread + <ets>-lite</ets>: cf. F. <ets>n\'82malite</ets>.]</ety> <fld>(Min.)</fld> <def>A fibrous variety of brucite.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nem`a*tel"mi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zo\'94l.)</fld> <def>Same as <er>Nemathelminthes</er>.</def><br/
+<p><hw>\'d8Nem`a*tel"mi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zo\'94l.)</fld> <def>Same as <er>Nemathelminthes</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nem`a*the"ci*um</hw> <pr>(? <or/ <?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nemathecia</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>nh^ma</grk> a thread + <?/ a box.]</ety> <fld>(Bot.)</fld> <def>A peculiar kind of fructification on certain red alg\'91, consisting of an external mass of filaments at length separating into tetraspores.</def><br/
+<p><hw>\'d8Nem`a*the"ci*um</hw> <pr>(? <or/ <?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nemathecia</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>nh^ma</grk> a thread + <?/ a box.]</ety> <fld>(Bot.)</fld> <def>A peculiar kind of fructification on certain red alg\'91, consisting of an external mass of filaments at length separating into tetraspores.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><mhw>{ <hw>Nem`a*thel*min"thes</hw> <pr>(?)</pr>, <hw>Nem`a*tel*min"thes</hw> <pr>(?)</pr> }</mhw>, <pos>prop. n. pl.</pos> <ety>[NL. See <er>Nemato-</er>, and <er>Helminthes</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>An order of helminths, including the <ord>Nematoidea</ord> and Gordiacea; the roundworms.</def> <altsp>[Written also <asp>Nematelminthea</asp>.]</altsp><br/
+<p><mhw>{ <hw>\'d8Nem`a*thel*min"thes</hw> <pr>(?)</pr>, <hw>\'d8Nem`a*tel*min"thes</hw> <pr>(?)</pr> }</mhw>, <pos>prop. n. pl.</pos> <ety>[NL. See <er>Nemato-</er>, and <er>Helminthes</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>An order of helminths, including the <ord>Nematoidea</ord> and Gordiacea; the roundworms.</def> <altsp>[Written also <asp>Nematelminthea</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>nem"a*to-</hw> <pr>(?)</pr>. <def>A combining form from Gr. <grk>nh^ma</grk>, <grk>nh`matos</grk>, a <sig>thread</sig>.</def><br/
@@ -3913,10 +3913,10 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 <p><hw>nem"a*to*blast</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Nemato-</ets> + <ets>-blast</ets>.]</ety> <fld>(Biol.)</fld> <def>A spermatocyte or spermoblast.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nem`a*to*ca"lyx</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nematocalyces</plw> <pr>(#)</pr>, E. <plw>Nematocalyxes</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Nemato-</er>, and <er>Calyx</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>One of a peculiar kind of cups, or calicles, found upon hydroids of the family <fam>Plumularid\'91</fam>.  They contain nematocysts. See <er>Plumularia</er>.</def><br/
+<p><hw>\'d8Nem`a*to*ca"lyx</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nematocalyces</plw> <pr>(#)</pr>, E. <plw>Nematocalyxes</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Nemato-</er>, and <er>Calyx</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>One of a peculiar kind of cups, or calicles, found upon hydroids of the family <fam>Plumularid\'91</fam>.  They contain nematocysts. See <er>Plumularia</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nem`a*toc"e*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>nh^ma</grk>, <grk>nh`matos</grk>, a thread + <grk>ke`ras</grk> horn.]</ety> <fld>(Zo\'94l.)</fld> <def>A suborder of dipterous insects, having long antenn\'91, as the mosquito, gnat, and crane fly; -- called also <altname>Nemocera</altname>.</def><br/
+<p><hw>\'d8Nem`a*toc"e*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>nh^ma</grk>, <grk>nh`matos</grk>, a thread + <grk>ke`ras</grk> horn.]</ety> <fld>(Zo\'94l.)</fld> <def>A suborder of dipterous insects, having long antenn\'91, as the mosquito, gnat, and crane fly; -- called also <altname>Nemocera</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>nem`a*to*cid"al</hw> <pr>(n<ecr/m`<acr/*t<osl/*s<imac/d"<ait/l)</pr>, <pos>a.</pos> <def>Having the property of killing nematodes; lethal to nematodes.</def> <altsp>[Also spelled <asp>nematicidal</asp>.]</altsp><br/
@@ -3943,13 +3943,13 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 <p><hw>Nem`a*tog"nath</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>One of the <ord>Nematognathi</ord>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nem`a*tog"na*thi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>nemato-</er>, and <er>Gnathic</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>An order of fishes having barbels on the jaws.  It includes the catfishes, or siluroids. See <er>Siluroid</er>.</def><br/
+<p><hw>\'d8Nem`a*tog"na*thi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>nemato-</er>, and <er>Gnathic</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>An order of fishes having barbels on the jaws.  It includes the catfishes, or siluroids. See <er>Siluroid</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nem"a*toid</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Nemato-</ets> + <ets>-oid</ets>.]</ety> <fld>(Zo\'94l.)</fld> <def>Of or pertaining to the <ord>Nematoda</ord>.</def> -- <def2><pos>n.</pos> <def>One of the <phylum>Nematoda</phylum>.  See <xex>Illustration</xex> in Appendix.</def></def2><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nem`a*toi"de*a</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>nh^ma</grk>, <grk>nh`matos</grk>, thread + <ets>-oid</ets>.]</ety> <fld>(Zo\'94l.)</fld> <def>A phylum of worms, having a long, round, and generally smooth body; the roundworms.  Called also <altname>Nematodea</altname>, and more commonly <altname>Nematoda</altname>.  Formerly, it was classed as a taxonomic order.</def><br/
+<p><hw>\'d8Nem`a*toi"de*a</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>nh^ma</grk>, <grk>nh`matos</grk>, thread + <ets>-oid</ets>.]</ety> <fld>(Zo\'94l.)</fld> <def>A phylum of worms, having a long, round, and generally smooth body; the roundworms.  Called also <altname>Nematodea</altname>, and more commonly <altname>Nematoda</altname>.  Formerly, it was classed as a taxonomic order.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><note><hand/ The trichina, stomach worm, and pinworm of man belong to this group.  See also <cref>Vinegar eel</cref>, under <er>Vinegar</er>, and <er>Gapeworm</er>.</note><br/
@@ -3958,7 +3958,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 <p><hw>Nem`a*toid"e*an</hw> <pr>(?)</pr>, <pos>a. & n.</pos> <fld>(Zo\'94l.)</fld> <def>Nematoid.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nem`a*toph"o*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>nh^ma</grk>, <grk>nh`matos</grk>, a thread + <grk>fe`rein</grk> to bear.]</ety> <fld>(Zo\'94l.)</fld> <def>Same as <er>C\'d2lenterata</er>.</def><br/
+<p><hw>\'d8Nem`a*toph"o*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>nh^ma</grk>, <grk>nh`matos</grk>, a thread + <grk>fe`rein</grk> to bear.]</ety> <fld>(Zo\'94l.)</fld> <def>Same as <er>C\'d2lenterata</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Ne"me*an</hw> <pr>(n<emac/"m<esl/*<ait/n; 277)</pr>, <pos>a.</pos> <ety>[L. <ets>Nemeus</ets>, fr. <ets>Nemea</ets>, Gr. <grk>Neme`h</grk>.]</ety> <def>Of or pertaining to Nemea, in Argolis, where the ancient Greeks celebrated games, and Hercules killed a lion.</def><br/
@@ -3967,7 +3967,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 <p><hw>Ne*mer"te*an</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zo\'94l.)</fld> <def>Of or pertaining to the <ord>Nemertina</ord>.</def> -- <def2><pos>n.</pos> <def>One of the <ord>Nemertina</ord>.</def></def2><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ne*mer"tes</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>nhmerth`s</grk> unerring.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of <ord>Nemertina</ord>.</def><br/
+<p><hw>\'d8Ne*mer"tes</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>nhmerth`s</grk> unerring.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of <ord>Nemertina</ord>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Ne*mer"ti*an</hw> <pr>(?)</pr>, <pos>a. & n.</pos> <fld>(Zo\'94l.)</fld> <def>Nemertean.</def><br/
@@ -3976,10 +3976,10 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 <p><hw>Ne*mer"tid</hw> <pr>(?)</pr>, <pos>a. & n.</pos> <fld>(Zo\'94l.)</fld> <def>Nemertean.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ne*mer"ti*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zo\'94l.)</fld> <def>Nemertina.</def><br/
+<p><hw>\'d8Ne*mer"ti*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zo\'94l.)</fld> <def>Nemertina.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nem`er*ti"na</hw> <pr>(n<ecr/m`<etil/r*t<imac/"n<adot/)</pr>, <pos>prop. n. pl.</pos> <ety>[NL. See <er>Nemrtes</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>An order of helminths usually having a long, slender, smooth, often bright-colored body, covered with minute vibrating cilia; -- called also <altname>Nemertea</altname>, <altname>Nemertida</altname>, and <altname>Rhynchoc\'d2la</altname>.</def><br/
+<p><hw>\'d8Nem`er*ti"na</hw> <pr>(n<ecr/m`<etil/r*t<imac/"n<adot/)</pr>, <pos>prop. n. pl.</pos> <ety>[NL. See <er>Nemrtes</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>An order of helminths usually having a long, slender, smooth, often bright-colored body, covered with minute vibrating cilia; -- called also <altname>Nemertea</altname>, <altname>Nemertida</altname>, and <altname>Rhynchoc\'d2la</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The mouth is beneath the head, and the straight intestine at the posterior end.  They have a very singular long tubular proboscis, which can be everted from a pore in the front of the head.  Their nervous system and blood vessels are well developed.  Some of the species become over one hundred feet long.  They are mostly marine and seldom parasitic; a few inhabit fresh water.  The two principal divisions are Anopla and Enopla.</note><br/
@@ -4019,7 +4019,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 <p><hw>Nems</hw> <pr>(n<ecr/mz)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>The ichneumon.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ne"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>nenia</ets>, <ets>naenia</ets>.]</ety> <def>A funeral song; an elegy.</def><br/
+<p><hw>\'d8Ne"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>nenia</ets>, <ets>naenia</ets>.]</ety> <def>A funeral song; an elegy.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nen"u*phar</hw> <pr>(n<ecr/n"<usl/*f<aum/r)</pr>, <pos>n.</pos> <ety>[F. <ets>n\'82nufar</ets>: cf. Sp. <ets>nen\'a3far</ets>, It. <ets>nenuf\'a0r</ets>; all fr. Per. <ets>n\'c6l<umac/far</ets>.]</ety> <fld>(Bot.)</fld> <def>The great white water lily of Europe; the <spn>Nymph\'91a alba</spn>.</def><br/
@@ -4028,7 +4028,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 <p><hw>Ne"o-</hw> <pr>(<?/)</pr>. <ety>[Gr. <grk>ne`os</grk> youthful, new. See <er>New</er>.]</ety> <def>A prefix meaning <sig>new</sig>, <sig>recent</sig>, <sig>late</sig>; and in chemistry designating specifically that variety of metameric hydrocarbons which, when the name was applied, had been <xex>recently</xex> classified, and in which at least one carbon atom is connected directly with four other carbon atoms; -- contrasted with <xex>normal</xex> and <xex>iso-</xex>; <as>as, <ex>neo</ex>pentane; the <ex>neo</ex>paraffins. Also used adjectively.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ne`o*car"i*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>ne`os</grk> new + <?/, <?/, a kind of crustacean.]</ety> <fld>(Zo\'94l.)</fld> <def>The modern, or true, Crustacea, as distinguished from the Merostomata.</def><br/
+<p><hw>\'d8Ne`o*car"i*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>ne`os</grk> new + <?/, <?/, a kind of crustacean.]</ety> <fld>(Zo\'94l.)</fld> <def>The modern, or true, Crustacea, as distinguished from the Merostomata.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Ne"o*cene</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Neo-</ets> + Gr. <grk>ne`os</grk> new.]</ety> <fld>(Geol.)</fld> <def>More recent than the Eocene, that is, including both the Miocene and Pliocene divisions of the Tertiary.</def><br/
@@ -4204,10 +4204,10 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 <p><hw>Ne`o-Mal*thu"sian</hw>, <pos>a.</pos> <def>Designating, or pertaining to, a group of modern economists who hold to the Malthusianism doctrine that permanent betterment of the general standard of living is impossible without decrease of competition by limitation of the number of births.</def> -- <wordforms><wf>Ne`o-Mal*thu"sian</wf>, <wf>Ne`o-Mal*thu"sian*ism</wf>, <pos>n.</pos></wordforms><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><hw>Ne`o*me"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/; <grk>ne`os</grk> new + <grk>mh`n</grk> month.]</ety> <def>The time of the new moon; the beginning of the month in the lunar calendar.</def><br/
+<p><hw>\'d8Ne`o*me"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/; <grk>ne`os</grk> new + <grk>mh`n</grk> month.]</ety> <def>The time of the new moon; the beginning of the month in the lunar calendar.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ne`o*me*noi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. <ets>Neomenia</ets>, a representative genus (See <er>Neomenia</er>) + <ets>-oid</ets>.]</ety> <fld>(Zo\'94l.)</fld> <def>A division of vermiform gastropod mollusks, without a shell, belonging to the Isopleura.</def><br/
+<p><hw>\'d8Ne`o*me*noi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. <ets>Neomenia</ets>, a representative genus (See <er>Neomenia</er>) + <ets>-oid</ets>.]</ety> <fld>(Zo\'94l.)</fld> <def>A division of vermiform gastropod mollusks, without a shell, belonging to the Isopleura.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Ne"o*morph</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Neo-</ets> + Gr. <?/ form.]</ety> <fld>(Biol.)</fld> <def>A structure, part, or organ developed independently, that is, not derived from a similar structure, part, or organ, in a preexisting form.</def><br/
@@ -4248,7 +4248,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 <p><sn>2.</sn> <specif>Hence:</specif> <def>A novice; a tyro; a beginner in anything.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ne`o*pla"si*a</hw> <pr>(n<emac/`<osl/*pl<amac/"zh<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ne`os</grk> new + <grk>pla`ssein</grk> to form, mold.]</ety> <fld>(Physiol. & Med.)</fld> <def>Growth or development of new material; neoplasty.</def><br/
+<p><hw>\'d8Ne`o*pla"si*a</hw> <pr>(n<emac/`<osl/*pl<amac/"zh<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ne`os</grk> new + <grk>pla`ssein</grk> to form, mold.]</ety> <fld>(Physiol. & Med.)</fld> <def>Growth or development of new material; neoplasty.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Ne"o*plasm</hw> <pr>(n<emac/"<osl/*pl<acr/z'm)</pr>, <pos>n.</pos> <ety>[See <er>Neoplasia</er>.]</ety> <fld>(Physiol. & Med.)</fld> <def>A new formation or tissue, the product of morbid action.</def><br/
@@ -4320,7 +4320,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 <p><hw>Nep</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Abbrev. fr. <ets>Nepeta</ets>.]</ety> <fld>(Bot.)</fld> <def>Catnip.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ne"pa</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>nepa</ets> scorpion.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of aquatic hemipterous insects.  The species feed upon other insects and are noted for their voracity; -- called also <altname>scorpion bug</altname> and <altname>water scorpion</altname>.</def><br/
+<p><hw>\'d8Ne"pa</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>nepa</ets> scorpion.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of aquatic hemipterous insects.  The species feed upon other insects and are noted for their voracity; -- called also <altname>scorpion bug</altname> and <altname>water scorpion</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nep`a*lese"</hw> <pr>(? <or/ ?)</pr>, <pos>prop. a.</pos> <def>Of or pertaining to Nepal, a kingdom North of India; <as>as, <ex>Nepalese</ex> troops massed at the border</as>.</def> <altsp>[Formerly written <asp>Nepaulese</asp>.]</altsp><br/
@@ -4356,7 +4356,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 <p><sn>2.</sn> <fld>(Bot.)</fld> <def>A genus of climbing plants found in tropical areas of India, Malaya, Australia, etc., which have the leaves prolonged into a kind of stout tendril terminating in a pitcherlike appendage, whence the plants are often called <altname>pitcher plants</altname> and <altname>monkey-cups</altname>.  There are about thirty species, of which the best known is <spn>Nepenthes distillatoria</spn>. See <er>Pitcher plant</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nep"e*ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Bot.)</fld> <def>A genus of labiate plants, including the catnip and ground ivy.</def><br/
+<p><hw>\'d8Nep"e*ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Bot.)</fld> <def>A genus of labiate plants, including the catnip and ground ivy.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Neph"a*lism</hw> <pr>(n<ecr/f"<adot/*l<icr/z'm)</pr>, <pos>n.</pos> <ety>[Gr. <?/ soberness, fr. <?/ sober, <?/ to drink no wine: cf. F. <ets>n\'82phalisme</ets>.]</ety> <def>Total abstinence from spirituous liquor.</def><br/
@@ -4394,19 +4394,19 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 <p><sn>3.</sn> <def>The son of a brother or a sister, or of a brother-in-law or sister-in-law.</def>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Neph"i*lim</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Heb. <ets>n<ecr/ph\'c6l\'c6m</ets>.]</ety> <def>Giants.</def>  <rj><au>Gen. vi. 4.  Num. xiii. 33.</au></rj><br/
+<p><hw>\'d8Neph"i*lim</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Heb. <ets>n<ecr/ph\'c6l\'c6m</ets>.]</ety> <def>Giants.</def>  <rj><au>Gen. vi. 4.  Num. xiii. 33.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Neph"o*scope</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ne`fos</grk> a cloud + <ets>-scope</ets>.]</ety> <fld>(Meteorol.)</fld> <def>An instrument for observing the clouds and their velocity.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><mhw>{ <hw>Ne*phral"gi*a</hw> <pr>(?)</pr>, <hw>Ne*phral"gy</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[NL. <ets>nephralgia</ets>, fr. Gr. <grk>nefro`s</grk> a kidney + <?/ pain: cf. F. <ets>n\'82phralgie</ets>.]</ety> <fld>(Med.)</fld> <def>Neuralgia of the kidneys; a disease characterized by pain in the region of the kidneys without any structural lesion of the latter.</def>  <rj><au>Quain.</au></rj><br/
+<p><mhw>{ <hw>\'d8Ne*phral"gi*a</hw> <pr>(?)</pr>, <hw>Ne*phral"gy</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[NL. <ets>nephralgia</ets>, fr. Gr. <grk>nefro`s</grk> a kidney + <?/ pain: cf. F. <ets>n\'82phralgie</ets>.]</ety> <fld>(Med.)</fld> <def>Neuralgia of the kidneys; a disease characterized by pain in the region of the kidneys without any structural lesion of the latter.</def>  <rj><au>Quain.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Ne*phrid"i*al</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zo\'94l. & Anat.)</fld> <def>Of or pertaining to a nephridium.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ne*phrid"i*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nephridia</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ of the <ets>kidneys</ets>.]</ety> <fld>(Zo\'94l. & Anat.)</fld> <def>A segmental tubule; one of the tubules of the primitive urinogenital organs; a segmental organ. See <xex>Illust.</xex> under <er>Loeven's larva</er>.</def><br/
+<p><hw>\'d8Ne*phrid"i*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nephridia</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ of the <ets>kidneys</ets>.]</ety> <fld>(Zo\'94l. & Anat.)</fld> <def>A segmental tubule; one of the tubules of the primitive urinogenital organs; a segmental organ. See <xex>Illust.</xex> under <er>Loeven's larva</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>neph"rite</hw> <pr>(?; 277)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>n\'82phrite</ets>. See <er>nephritis</er>.]</ety> <fld>(Min.)</fld> <def>A hard compact mineral, of a dark green color, formerly worn as a remedy for diseases of the kidneys, whence its name; kidney stone; a kind of <isa>jade</isa>.  It varies in color from white to dark green.  It is the more common and less valuable variety of jade, the other being jadeite.  Large deposits are found in Australia.  Called also <altname>nephritic stone</altname>.  See also <er>Jade</er>.</def> <au>[MW10]</au><br/
@@ -4456,7 +4456,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 <syn><b>Syn. --</b> family <fam>Nepidae</fam>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><hw>Ne plus ul"tra</hw> <pr>(?)</pr>. <ety>[L., no further; <ets>ne</ets> no, not + <ets>plus</ets> more + <ets>ultra</ets> beyond.]</ety> <sn>1.</sn> <def>The uttermost point to which one can go or attain; hence, the summit of achievement; the highest point or degree; the acme.</def><br/
+<p><hw>\'d8Ne plus ul"tra</hw> <pr>(?)</pr>. <ety>[L., no further; <ets>ne</ets> no, not + <ets>plus</ets> more + <ets>ultra</ets> beyond.]</ety> <sn>1.</sn> <def>The uttermost point to which one can go or attain; hence, the summit of achievement; the highest point or degree; the acme.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <def>A prohibition against proceeding further; an insuperable obstacle or limiting condition.</def> <mark>[Obs. or R.]</mark><br/
@@ -4522,7 +4522,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 <p><hw>Ne`re*id"i*an</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>Any annelid resembling <gen>Nereis</gen>, or of the family <fam>Lycorid\'91</fam> or allied families.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ne"re*is</hw> <pr>(? <or/ ?)</pr>, <pos>prop. n.</pos>; <plu><it>pl.</it> <plw>Nereides</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <sn>1.</sn> <fld>(Class. Myth.)</fld> <def>A Nereid. See <er>Nereid</er>.</def><br/
+<p><hw>\'d8Ne"re*is</hw> <pr>(? <or/ ?)</pr>, <pos>prop. n.</pos>; <plu><it>pl.</it> <plw>Nereides</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <sn>1.</sn> <fld>(Class. Myth.)</fld> <def>A Nereid. See <er>Nereid</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zo\'94l.)</fld> <def>A genus, including numerous species, of marine ch\'91topod annelids, having a well-formed head, with two pairs of eyes, antenn\'91, four pairs of tentacles, and a protrusile pharynx, armed with a pair of hooked jaws.</def>
@@ -4532,7 +4532,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 <p><hw>Ne"re*ites</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <fld>(Paleon.)</fld> <def>Fossil tracks of annelids.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ne`re*o*cys"tis</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL. See <er>Nereid</er>, and <er>Cyst</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of gigantic seaweeds.</def><br/
+<p><hw>\'d8Ne`re*o*cys"tis</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL. See <er>Nereid</er>, and <er>Cyst</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of gigantic seaweeds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ <spn>Nereocystis Lutkeana</spn>, of the North Pacific, has a stem many fathoms long, terminating in a great vesicle, which is crowned with a tuft of long leaves.  The stem is used by the Alaskans for fishing lines.</note><br/
@@ -4541,7 +4541,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 <p><hw>Nerf"ling</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>The id.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ne*ri"ta</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L., a sort of sea mussel, Gr. <grk>nhri`ths</grk>, <grk>nhrei`ths</grk>.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of marine gastropods, mostly natives of warm climates.</def><br/
+<p><hw>\'d8Ne*ri"ta</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L., a sort of sea mussel, Gr. <grk>nhri`ths</grk>, <grk>nhrei`ths</grk>.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of marine gastropods, mostly natives of warm climates.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Ner"ite</hw> <pr>(? <or/ ?; 277)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>Any mollusk of the genus <gen>Nerita</gen>.</def><br/
@@ -4558,7 +4558,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 <syn><b>Syn. --</b> family <fam>Neritidae</fam>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><hw>Ner`i*ti"na</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <fld>(Zo\'94l.)</fld> <def>A genus including numerous species of shells resembling <gen>Nerita</gen> in form.  They mostly inhabit brackish water, and are often delicately tinted.</def><br/
+<p><hw>\'d8Ner`i*ti"na</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <fld>(Zo\'94l.)</fld> <def>A genus including numerous species of shells resembling <gen>Nerita</gen> in form.  They mostly inhabit brackish water, and are often delicately tinted.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Ner"ka</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Russ. <ets>niarka</ets>, prob. fr. native name.]</ety> <fld>(Zo\'94l.)</fld> <def>The most important salmon of Alaska (<spn>Oncorhinchus nerka</spn>), ascending in spring most rivers and lakes from Alaska to Oregon, Washington, and Idaho; -- called also <altname>red salmon</altname>, <altname>redfish</altname>, <altname>blueback</altname>, and <altname>sawqui</altname>.</def><br/
@@ -4575,7 +4575,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 <rj><au>Hodgkin, Italy and her Invaders, I. 6.</au></rj><br/
 [<source>Century Dict. 1906</source>]</p>
 
-<p><hw>Ne`ro-an*ti"co</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.; <ets>nero</ets> black + <ets>antico</ets> ancient.]</ety> <fld>(Art)</fld> <def>A beautiful black marble found in fragments among Roman ruins, and usually thought to have come from ancient Laconia.</def><br/
+<p><hw>\'d8Ne`ro-an*ti"co</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.; <ets>nero</ets> black + <ets>antico</ets> ancient.]</ety> <fld>(Art)</fld> <def>A beautiful black marble found in fragments among Roman ruins, and usually thought to have come from ancient Laconia.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Ner"o*li</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>n\'82roli</ets>, said to be from the name of an Italian princess.]</ety> <fld>(Chem.)</fld> <def>An essential oil obtained by distillation from the flowers of the orange.  It has a strong odor, and is used in perfumery, etc.</def><br/
@@ -4922,7 +4922,7 @@ While visions of sugarplums danced in their heads.</q> <rj><qau>Clement Clarke M
 <p><hw>Netball</hw> <pos>n.</pos> <def>A team game that resembles basketball; a soccer ball is to be thrown so that it passes through a ring on the top of a post.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><hw>Ne Te"me*re</hw> <pr>(?)</pr>. <ety>[So named from L. <ets>ne</ets> not + <ets>temere</ets> rashly, the first two words in the decree.]</ety> <fld>(R. C. Ch.)</fld> <def>A decree of the Congregation of the Council declaring invalid [so far as the laws of the Roman Catholic Church are concerned] any marriage of a Roman Catholic, or of a person who has ever been a Roman Catholic, if not contracted before a duty qualified priest (or the bishop of the diocese) and at least two witnesses.  The decree was issued <date>Aug. 2, 1907</date>, and took effect on Easter <date>Apr. 19, 1908</date>. The decree by its terms does not affect mixed marriages (those between Roman Catholics and persons of another faith) in Germany.</def><br/
+<p><hw>\'d8Ne Te"me*re</hw> <pr>(?)</pr>. <ety>[So named from L. <ets>ne</ets> not + <ets>temere</ets> rashly, the first two words in the decree.]</ety> <fld>(R. C. Ch.)</fld> <def>A decree of the Congregation of the Council declaring invalid [so far as the laws of the Roman Catholic Church are concerned] any marriage of a Roman Catholic, or of a person who has ever been a Roman Catholic, if not contracted before a duty qualified priest (or the bishop of the diocese) and at least two witnesses.  The decree was issued <date>Aug. 2, 1907</date>, and took effect on Easter <date>Apr. 19, 1908</date>. The decree by its terms does not affect mixed marriages (those between Roman Catholics and persons of another faith) in Germany.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Net"fish`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>An astrophyton.</def><br/
@@ -4947,13 +4947,13 @@ Doth dim with horror and deformity.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><hw>Neth"er*most`</hw> <pr>(n<ecr/<th/"<etil/r*m<omac/st`)</pr>, <pos>a.</pos> <ety>[AS. <ets>ni<edh/emest</ets>. See <er>Nether</er>, and cf. <er>Aftermost</er>.]</ety> <def>Lowest; <as>as, the <ex>nethermost</ex> abyss</as>.</def>  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Neth"i*nim</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Heb., pl. of <ets>n\'beth\'c6n</ets> given, granted, a slave of the temple, fr. <ets>n\'bethan</ets> to give.]</ety> <fld>(jewish Antiq.)</fld> <def>Servants of the priests and Levites in the menial services about the tabernacle and temple.</def><br/
+<p><hw>\'d8Neth"i*nim</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Heb., pl. of <ets>n\'beth\'c6n</ets> given, granted, a slave of the temple, fr. <ets>n\'bethan</ets> to give.]</ety> <fld>(jewish Antiq.)</fld> <def>Servants of the priests and Levites in the menial services about the tabernacle and temple.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Net"i*fy</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[<ets>Net</ets>, a. + <ets>-fy</ets>.]</ety> <def>To render neat; to clean; to put in order.</def> <mark>[R.]</mark>  <rj><au>Chapman.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Net"su*ke</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Jap.]</ety> <def>In Japanese costume and decorative art, a small object carved in wood, ivory, bone, or horn, or wrought in metal, and pierced with holes for cords by which it is connected, for convenience, with the inro, the smoking pouch (tabako-ire), and similar objects carried in the girdle. It is now much used on purses sold in Europe and America.</def><br/
+<p><hw>\'d8Net"su*ke</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Jap.]</ety> <def>In Japanese costume and decorative art, a small object carved in wood, ivory, bone, or horn, or wrought in metal, and pierced with holes for cords by which it is connected, for convenience, with the inro, the smoking pouch (tabako-ire), and similar objects carried in the girdle. It is now much used on purses sold in Europe and America.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>nett</hw> <pos>adj.</pos>  <def>remaining after all deductions; same as <er>net</er> <pos>a.</pos>, 3.  Contrasted to <ant>gross</ant>.</def> <mark>[Brit.]</mark> [Narrower terms: <stype>take-home</stype>]<br/
@@ -5053,7 +5053,7 @@ Doth dim with horror and deformity.</q> <rj><qau>Spenser.</qau></rj><br/
 <syn><b>Syn. --</b> reticular, reticulated.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><hw>Neuf`ch\'83`tel"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A kind of soft sweet-milk cheese; -- so called from <etsep>Neufch\'83tel</etsep>-en-Bray in France.</def><br/
+<p><hw>\'d8Neuf`ch\'83`tel"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A kind of soft sweet-milk cheese; -- so called from <etsep>Neufch\'83tel</etsep>-en-Bray in France.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Neu"rad</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[Gr. <grk>ney^ron</grk> nerve + L. <ets>ad</ets> to.]</ety> <fld>(Anat.)</fld> <def>Toward the neural side; -- opposed to <contr>h\'91mad</contr>.</def><br/
@@ -5077,10 +5077,10 @@ Doth dim with horror and deformity.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><hw>Neu*rap`o*phys"i*al</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Anat.)</fld> <def>Of or pertaining to a neurapophysis.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Neu`ra*poph"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Neurapophyses</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Neuro-</er>, and <er>Apophysis</er>.]</ety> <fld>(Anat.)</fld> <sd>(a)</sd> <def>One of the two lateral processes or elements which form the neural arch.</def> <sd>(b)</sd> <def>The dorsal process of the neural arch; neural spine; spinous process.</def><br/
+<p><hw>\'d8Neu`ra*poph"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Neurapophyses</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Neuro-</er>, and <er>Apophysis</er>.]</ety> <fld>(Anat.)</fld> <sd>(a)</sd> <def>One of the two lateral processes or elements which form the neural arch.</def> <sd>(b)</sd> <def>The dorsal process of the neural arch; neural spine; spinous process.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Neu*ras`the*ni"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ney^ron</grk> nerve + <?/ weakness.]</ety> <fld>(Med.)</fld> <def>A condition of nervous debility supposed to be dependent upon impairment in the functions of the spinal cord.</def><br/
+<p><hw>\'d8Neu*ras`the*ni"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ney^ron</grk> nerve + <?/ weakness.]</ety> <fld>(Med.)</fld> <def>A condition of nervous debility supposed to be dependent upon impairment in the functions of the spinal cord.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Neu*ra"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Biol.)</fld> <def>The arrangement or distribution of nerves, as in the leaves of a plant or the wings of an insect; nervation; venation.</def><br/
@@ -5099,7 +5099,7 @@ Doth dim with horror and deformity.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><hw>Neu"ri*din</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <er>Neurine</er>.]</ety> <fld>(Physiol. Chem.)</fld> <def>A nontoxic base, <chform>C5H14N2</chform>, found in the putrescent matters of flesh, fish, decaying cheese, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Neu`ri*lem"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>ney^ron</grk> nerve + <?/ peel, skin.]</ety> <fld>(Anat.)</fld> <sd>(a)</sd> <def>The delicate outer sheath of a nerve fiber; the primitive sheath.</def> <sd>(b)</sd> <def>The perineurium.</def><br/
+<p><hw>\'d8Neu`ri*lem"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>ney^ron</grk> nerve + <?/ peel, skin.]</ety> <fld>(Anat.)</fld> <sd>(a)</sd> <def>The delicate outer sheath of a nerve fiber; the primitive sheath.</def> <sd>(b)</sd> <def>The perineurium.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Neu*ril"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ney^ron</grk> nerve.]</ety> <fld>(Physiol.)</fld> <def>The special properties and functions of the nerves; that capacity for transmitting a stimulus which belongs to nerves.</def> <mark>[archaic]</mark>  <rj><au>G. H. Lewes.</au></rj><br/
@@ -5111,7 +5111,7 @@ Doth dim with horror and deformity.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><hw>Neu"rism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ney^ron</grk> nerve.]</ety> <fld>(Biol.)</fld> <def>Nerve force. See <cref>Vital force</cref>, under <er>Vital</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Neu*ri"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ney^ron</grk> nerve + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of a nerve.</def><br/
+<p><hw>\'d8Neu*ri"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ney^ron</grk> nerve + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of a nerve.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Neu"ro-</hw> <pr>(<?/)</pr>. <ety>[Gr. <grk>ney^ron</grk> nerve.]</ety> <fld>(Anat.)</fld> <def>A combining denoting <sig>a nerve</sig>, <sig>of <or/ pertaining to a nerve</sig> <or/ <sig>the nervous system</sig>.</def><br/
@@ -5135,7 +5135,7 @@ Doth dim with horror and deformity.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><hw>Neu`ro-ep`i*der"mal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Neuro-</ets> + <ets>epidermal</ets>.]</ety> <fld>(Anat.)</fld> <def>Pertaining to, or giving rise to, the central nervous system and epidermis; <as>as, the <ex>neuroepidermal</ex>, or epiblastic, layer of the blastoderm</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Neu*rog"li*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ney^ron</grk> ligament + <grk>gli`a</grk> glue.]</ety> <fld>(Anat.)</fld> <def>The delicate connective tissue framework which supports the nervous matter and blood vessels of the brain and spinal cord; called also <altname>K<oum/lliker's reticulum</altname>.  It is composed of cells which are not neurons.   Once thought to serve merely a supporting funciton, they are now believed to have important metablolic functions.  Among them are the <parts>astrocytes</parts>, <parts>ependymal cells</parts>, <parts>oligodendroglia cells</parts>, and <parts>microglia cells</parts>.</def> <au>Stedman.</au><br/
+<p><hw>\'d8Neu*rog"li*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ney^ron</grk> ligament + <grk>gli`a</grk> glue.]</ety> <fld>(Anat.)</fld> <def>The delicate connective tissue framework which supports the nervous matter and blood vessels of the brain and spinal cord; called also <altname>K<oum/lliker's reticulum</altname>.  It is composed of cells which are not neurons.   Once thought to serve merely a supporting funciton, they are now believed to have important metablolic functions.  Among them are the <parts>astrocytes</parts>, <parts>ependymal cells</parts>, <parts>oligodendroglia cells</parts>, and <parts>microglia cells</parts>.</def> <au>Stedman.</au><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><hw>Neu*rog"ra*phy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Neuro-</ets> + <ets>-graphy</ets>.]</ety> <fld>(Anat.)</fld> <def>A description of the nerves.</def>  <rj><au>Dunglison.</au></rj><br/
@@ -5153,7 +5153,7 @@ Doth dim with horror and deformity.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><hw>Neu*rol"o*gy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Neuro-</ets> + <ets>-logy</ets>.]</ety> <def>The branch of science which treats of the nervous system.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Neu*ro"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Neuro-</er>, and <er>-oma</er>.]</ety> <fld>(Med.)</fld> <def>A tumor developed on, or connected with, a nerve, esp. one consisting of new-formed nerve fibers.</def><br/
+<p><hw>\'d8Neu*ro"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Neuro-</er>, and <er>-oma</er>.]</ety> <fld>(Med.)</fld> <def>A tumor developed on, or connected with, a nerve, esp. one consisting of new-formed nerve fibers.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Neu"ro*mere</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Neuro-</ets> + <ets>-mere</ets>.]</ety> <fld>(Anat.)</fld> <def>A metameric segment of the cerebro-spinal nervous system.</def><br/
@@ -5162,7 +5162,7 @@ Doth dim with horror and deformity.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><hw>Neu`ro*mus"cu*lar</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Neuro-</ets> + <ets>muscular</ets>.]</ety> <fld>(Physiol.)</fld> <def>Nervomuscular.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Neu"ron</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Neura</plw> <pr>(#)</pr>.</plu> <ety>[NL., from Gr. <grk>ney^ron</grk> nerve.]</ety> <fld>(Anat.)</fld> <sn>1.</sn> <def>The brain and spinal cord; the cerebro-spinal axis; myelencephalon.</def> <mark>[obsolete]</mark> <rj><au>B. G. Wilder.</au></rj><br/
+<p><hw>\'d8Neu"ron</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Neura</plw> <pr>(#)</pr>.</plu> <ety>[NL., from Gr. <grk>ney^ron</grk> nerve.]</ety> <fld>(Anat.)</fld> <sn>1.</sn> <def>The brain and spinal cord; the cerebro-spinal axis; myelencephalon.</def> <mark>[obsolete]</mark> <rj><au>B. G. Wilder.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Cell Biology)</fld> <def>The characteristic specialized cell that is part of the nervous system, serving to conduct electrical impulses to and from the brain, and also between other parts of the body, and composed of a main cell body, the <part>axon</part>, with a varying number of processes of varying length, the <parts>dendrites</parts>; a nerve cell.  The movement and behavior of higher animals depends on the signals tranmsitted by such nerve cells.</def><br/
@@ -5181,7 +5181,7 @@ Doth dim with horror and deformity.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><hw>Neu"ro*pod</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Neuro-</ets> + <ets>-pod</ets>.]</ety> <fld>(Zo\'94l.)</fld> <def>A neuropodous animal.</def>  <rj><au>G. Rolleston.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Neu`ro*po"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>ney^ron</grk> a nerve + <?/, dim. of <?/, <?/, the foot.]</ety> <fld>(Zo\'94l.)</fld> <def>The ventral lobe or branch of a parapodium.</def><br/
+<p><hw>\'d8Neu`ro*po"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>ney^ron</grk> a nerve + <?/, dim. of <?/, <?/, the foot.]</ety> <fld>(Zo\'94l.)</fld> <def>The ventral lobe or branch of a parapodium.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Neu*rop"o*dous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Neuro-</ets> + <ets>-pod</ets> + <ets>-ous</ets>.]</ety> <fld>(Zo\'94l.)</fld> <def>Having the limbs on, or directed toward, the neural side, as in most invertebrates; -- opposed to <ant>h\'91mapodous</ant>.</def>  <rj><au>G. Rolleston.</au></rj><br/
@@ -5197,7 +5197,7 @@ Doth dim with horror and deformity.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><hw>Neu*rop"ter</hw> <pr>(n<usl/*r<ocr/p"t<etil/r)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>One of the <ord>Neuroptera</ord>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Neu*rop"te*ra</hw> <pr>(n<usl/*r<ocr/p"t<esl/*r<adot/)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>ney^ron</grk> nerve + <grk>ptero`n</grk> a wing, fr. <grk>pte`sqai</grk> to fly.]</ety> <fld>(Zo\'94l.)</fld> <def>An order of hexapod insects having two pairs of large, membranous, net-veined wings.  The mouth organs are adapted for chewing.  They feed upon other insects, and undergo a complete metamorphosis.  The ant-lion, hellgamite, and lacewing fly are examples. Formerly, the name was given to a much more extensive group, including the true <ord>Neuroptera</ord> and the Pseudoneuroptera.</def><br/
+<p><hw>\'d8Neu*rop"te*ra</hw> <pr>(n<usl/*r<ocr/p"t<esl/*r<adot/)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>ney^ron</grk> nerve + <grk>ptero`n</grk> a wing, fr. <grk>pte`sqai</grk> to fly.]</ety> <fld>(Zo\'94l.)</fld> <def>An order of hexapod insects having two pairs of large, membranous, net-veined wings.  The mouth organs are adapted for chewing.  They feed upon other insects, and undergo a complete metamorphosis.  The ant-lion, hellgamite, and lacewing fly are examples. Formerly, the name was given to a much more extensive group, including the true <ord>Neuroptera</ord> and the Pseudoneuroptera.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 973 --></p>
@@ -5208,7 +5208,7 @@ Doth dim with horror and deformity.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><hw>Neu*rop"ter*an</hw> <pr>(n<usl/*r<ocr/p"t<etil/r*<ait/n)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>A neuropter.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Neu*rop"te*ris</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <grk>ney^ron</grk> a nerve + <?/ a kind of fern.]</ety> <fld>(Paleon.)</fld> <def>An extensive genus of fossil ferns, of which species have been found from the Devonian to the Triassic formation.</def><br/
+<p><hw>\'d8Neu*rop"te*ris</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <grk>ney^ron</grk> a nerve + <?/ a kind of fern.]</ety> <fld>(Paleon.)</fld> <def>An extensive genus of fossil ferns, of which species have been found from the Devonian to the Triassic formation.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Neu*rop"ter*ous</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zo\'94l.)</fld> <def>Neuropteral.</def><br/
@@ -5217,7 +5217,7 @@ Doth dim with horror and deformity.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><hw>Neu`ro*sen*sif"er*ous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>neuro-</ets> + <ets>sensiferous</ets>.]</ety> <fld>(Zo\'94l.)</fld> <def>Pertaining to, or forming, both nerves and sense organs.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Neu*ro"sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <xex>Neuroses</xex> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>ney^ron</grk> nerve.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>A functional nervous affection or disease, that is, a disease of the nerves without any appreciable change of nerve structure.</def><br/
+<p><hw>\'d8Neu*ro"sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <xex>Neuroses</xex> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>ney^ron</grk> nerve.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>A functional nervous affection or disease, that is, a disease of the nerves without any appreciable change of nerve structure.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Psychiatry)</fld> <def>a mental or emotional disorder that affects only part of the personality, and involves less distorted perceptions of reality than a <contr>psychosis</contr>.  As used in medicine, anxiety is a prominent characteristic, and the condition may be accompanied by psychosomatic symptoms.  Phobias and compulsive behavior are common varieties.</def> <au>[MW10]</au><br/
@@ -5274,7 +5274,7 @@ Doth dim with horror and deformity.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><hw>neurotropism</hw> <pos>n.</pos> <def>An affinity for neural tissues.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><hw>Neu"ru*la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., dim. of Gr. <grk>ney^ron</grk> a nerve.]</ety> <fld>(Zo\'94l.)</fld> <def>An embryo of certain invertebrates in the stage when the primitive band is first developed.</def><br/
+<p><hw>\'d8Neu"ru*la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., dim. of Gr. <grk>ney^ron</grk> a nerve.]</ety> <fld>(Zo\'94l.)</fld> <def>An embryo of certain invertebrates in the stage when the primitive band is first developed.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Neu"ter</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L., fr. <ets>ne</ets> not + <ets>uter</ets> whether; akin to E. <ets>whether</ets>. See <er>No</er>, and <er>Whether</er>, and cf. <er>Neither</er>.]</ety> <sn>1.</sn> <def>Neither the one thing nor the other; on neither side; impartial; neutral.</def> <mark>[Archaic]</mark><br/
@@ -5404,7 +5404,7 @@ And <qex>neutral</qex> some, in her fantastic eye.</q> <rj><qau>Sir J. Davies.</
 <p><hw>neutrosophy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>neuter</ets> neutral, Greek <grk>sofia</grk>  skill, wisdom.]</ety> <fld>(Philosophy)</fld> <def>A branch of philosophy, introduced by <person>Florentin Smarandache</person> in 1980, which studies the origin, nature, and scope of neutralities, as well as their interactions with different ideational spectra.  Neutrosophy considers a proposition, theory, event, concept, or entity, \'bdA\'b8 in relation to its opposite, \'bdAnti-A\'b8 and that which is not A, \'bdNon-A\'b8, and that which is neither \'bdA\'b8 nor \'bdAnti-A\'b8, denoted by \'bdNeut-A\'b8.  Neutrosophy is the basis of neutrosophic logic, neutrosophic probability, neutrosophic set, and neutrosophic statistics.</def> <au>Neutrosophy / Neutrosophic Probability, Set, and Logic, Florentin Smarandache, American Research Press, 1998].</au><br/
 [<source>PJC</source>]</p>
 
-<p><hw>Neu`vaines"</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[F. <ets>neuvaine</ets>, fr. LL. <ets>novena</ets>, fr. L. <ets>novem</ets>. See <er>Noon</er>.]</ety> <fld>(R. C. Ch.)</fld> <def>Prayers offered up for nine successive days.</def><br/
+<p><hw>\'d8Neu`vaines"</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[F. <ets>neuvaine</ets>, fr. LL. <ets>novena</ets>, fr. L. <ets>novem</ets>. See <er>Noon</er>.]</ety> <fld>(R. C. Ch.)</fld> <def>Prayers offered up for nine successive days.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nevadan</hw> <pos>prop. n.</pos> <def>A resident of Nevada.</def><br/
@@ -5413,7 +5413,7 @@ And <qex>neutral</qex> some, in her fantastic eye.</q> <rj><qau>Sir J. Davies.</
 <p><hw>Ne*va"dite</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Min.)</fld> <def>A granitoid variety of rhyolite, common in Nevada.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>N\'82`v\'82"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <?/ <ets>nix</ets>, <ets>nivis</ets>, snow.]</ety> <fld>(Geol.)</fld> <def>The upper part of a glacier, above the limit of perpetual snow. See <er>Glacier</er>.</def><br/
+<p><hw>\'d8N\'82`v\'82"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <?/ <ets>nix</ets>, <ets>nivis</ets>, snow.]</ety> <fld>(Geol.)</fld> <def>The upper part of a glacier, above the limit of perpetual snow. See <er>Glacier</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nev"en</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[Icel. <ets>nefna</ets>. <root/ 267.]</ety> <def>To name; to mention; to utter.</def> <mark>[Obs.]</mark><br/
@@ -5773,7 +5773,7 @@ Was <qex>next</qex> her side; in order sat the rest.</q> <rj><qau>Dryden.</qau><
 <p><hw>Next</hw>, <pos>adv.</pos> <def>In the time, place, or order nearest or immediately succeeding; <as>as, this man follows <ex>next</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nex"us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Connection; tie.</def><br/
+<p><hw>\'d8Nex"us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Connection; tie.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Man is doubtless one by some subtile <qex>nexus</qex> . . . extending from the new-born infant to the superannuated dotard.</q> <rj><qau>De Quincey.</qau></rj><br/
@@ -5783,10 +5783,10 @@ Was <qex>next</qex> her side; in order sat the rest.</q> <rj><qau>Dryden.</qau><
 <syn><b>Syn. --</b> penultimate.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><hw>Nez" Per`c\'82s"</hw> <pr>(?)</pr>, <pluf>pl.</pluf>; <sing>sing. <singw>Nez Perc\'90</singw> <pr>(<?/)</pr></sing>. <ety>[F., pierced noses.]</ety> <fld>(Ethnol.)</fld> <def>A tribe of Indians, in the late 1800's mostly inhabiting Idaho.  They were involved under <person>Chief Joseph</person>, in the last major battle of the Indian wars, attempting to resist being moved to a reservation.</def><br/
+<p><hw>\'d8Nez" Per`c\'82s"</hw> <pr>(?)</pr>, <pluf>pl.</pluf>; <sing>sing. <singw>Nez Perc\'90</singw> <pr>(<?/)</pr></sing>. <ety>[F., pierced noses.]</ety> <fld>(Ethnol.)</fld> <def>A tribe of Indians, in the late 1800's mostly inhabiting Idaho.  They were involved under <person>Chief Joseph</person>, in the last major battle of the Indian wars, attempting to resist being moved to a reservation.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
-<p><hw>Ngi"na</hw> <pr>(n'g<emac/"n<adot/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <def>The gorilla.</def><br/
+<p><hw>\'d8Ngi"na</hw> <pr>(n'g<emac/"n<adot/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <def>The gorilla.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>niacin</hw> <pos>n.</pos> <def>A <isa>B vitamin</isa> (vitamin B<sub>5</sub>) essential for the normal function of the nervous system and the gastrointestinal tract.  Called also <altname>nicotinic acid</altname> and <altname>antipellagra vitamin</altname>.  Chemical formula <chform>C6H5NO2</chform>, chemically it is <chname>3-pyridinecarboxylic acid</chname>.</def><br/
@@ -5876,7 +5876,7 @@ Was <qex>next</qex> her side; in order sat the rest.</q> <rj><qau>Dryden.</qau><
 <p><hw>nibs</hw> <pr>(n<icr/bz)</pr>, <pos>n. pl.</pos> <def>See <cref>his nibs</cref> under <er>nib</er>, <pos>n.</pos></def><br/
 [<source>PJC</source>]</p>
 
-<p><hw>Ni*ca"gua</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>The laughing falcon. See under <er>laughing</er>.</def><br/
+<p><hw>\'d8Ni*ca"gua</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>The laughing falcon. See under <er>laughing</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nicaraguan</hw> <pos>prop. adj.</pos> <sn>1.</sn> <def>of or pertaining to Nicaragua; <as>as, <ex>Nicaraguan</ex> earthquakes</as>.</def><br/
@@ -6157,7 +6157,7 @@ Have <qex>nicked</qex> his captainship.</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>Ni*co"tian</hw>, <pos>a.</pos> <def>Pertaining to, or derived from, tobacco.</def> <mark>[R.]</mark>  <rj><au>Bp. Hall.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ni*co`ti*a"na</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL. See <er>Nicotian</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of American and Asiatic solanaceous herbs, with viscid foliage and funnel-shaped blossoms.  Several species yield tobacco. See <er>Tobacco</er>.</def><br/
+<p><hw>\'d8Ni*co`ti*a"na</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL. See <er>Nicotian</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of American and Asiatic solanaceous herbs, with viscid foliage and funnel-shaped blossoms.  Several species yield tobacco. See <er>Tobacco</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Ni*co"ti*a*nine</hw> <pr>(? <or/ ?)</pr>, <pos>n.</pos> <ety>[F. <ets>nicotianine</ets>. See <er>Nicotian</er>.]</ety> <fld>(Chem.)</fld> <def>A white waxy substance having a hot, bitter taste, extracted from tobacco leaves and called also <altname>tobacco camphor</altname>.</def><br/
@@ -6254,7 +6254,7 @@ Have <qex>nicked</qex> his captainship.</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>Nid"u*lite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>nidulus</ets> a little nest.]</ety> <fld>(Paleon.)</fld> <def>A Silurian fossil, formerly supposed to consist of eggs.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ni"dus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>nidi</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Nidi</er>, <er>Nest</er>.]</ety> <def>A nest: a repository for the eggs of birds, insects, etc.; a breeding place; esp., the place or substance where parasites or the germs of a disease effect lodgment or are developed.</def><br/
+<p><hw>\'d8Ni"dus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>nidi</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Nidi</er>, <er>Nest</er>.]</ety> <def>A nest: a repository for the eggs of birds, insects, etc.; a breeding place; esp., the place or substance where parasites or the germs of a disease effect lodgment or are developed.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Niece</hw> <pr>(n<emac/s)</pr>, <pos>n.</pos> <ety>[OE. <ets>nece</ets>, F. <ets>ni\'8ace</ets>, LL. <ets>neptia</ets>, for L. <ets>neptis</ets> a granddaughter, niece, akin to <ets>nepos</ets>. See <er>Nephew</er>.]</ety> <sn>1.</sn> <def>A relative, in general; especially, a descendant, whether male or female; a granddaughter or a grandson.</def> <mark>[Obs.]</mark>  <rj><au>B. Jonson. Wyclif. Shak.</au></rj><br/
@@ -6776,13 +6776,13 @@ Ay, <qex>night by night</qex>, in studying good for England.</q> <rj><qau>Shak.<
 <p><hw>Ni"gro*sine</hw> <pr>(? <or/ ?)</pr>, <pos>n.</pos> <ety>[From L. <ets>niger</ets> black.]</ety> <fld>(Chem.)</fld> <def>A dark blue dyestuff, of the induline group; -- called also <altname>azodiphenyl blue</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ni"gua</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <fld>(Zo\'94l.)</fld> <def>The chigoe.</def><br/
+<p><hw>\'d8Ni"gua</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <fld>(Zo\'94l.)</fld> <def>The chigoe.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><mhw><hw>Ni-hard</hw>, <hw>Ni-hard iron</hw></mhw> <pos>n.</pos> <def>Cast iron to which nickel has been added to make it resist abrasion.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><hw>Ni"hil</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Nothing.</def><br/
+<p><hw>\'d8Ni"hil</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Nothing.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>\'d8Nihil album</b></col> <ety>[L., white nothing]</ety> <fld>(Chem.)</fld>, <cd>oxide of zinc.</cd> See under <er>Zinc</er>. --  <col><b>\'d8Nihil debet</b></col> <ety>[L., he owes nothing]</ety> <fld>(Law)</fld>, <cd>the general issue in certain actions of debt.</cd> -- <col><b>\'d8Nihil dicit</b></col> <ety>[L., he says nothing]</ety> <fld>(Law)</fld>, <cd>a declinature by the defendant to plead or answer.</cd>  <rj><au>Tomlins.</au></rj></cs><br/
@@ -7254,19 +7254,19 @@ If I be such a traitress.</q> <rj><qau>Tennyson.</qau></rj><br/
 <syn><b>Syn. --</b> Ni-resist iron.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><hw>Nir*va"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr. <ets>nirv\'be<nsdot/a</ets>.]</ety> <def>In the Buddhist system of religion, the final emancipation of the soul from transmigration, and consequently a beatific enfrachisement from the evils of worldly existence, as by annihilation or absorption into the divine. See <er>Buddhism</er>.</def><br/
+<p><hw>\'d8Nir*va"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr. <ets>nirv\'be<nsdot/a</ets>.]</ety> <def>In the Buddhist system of religion, the final emancipation of the soul from transmigration, and consequently a beatific enfrachisement from the evils of worldly existence, as by annihilation or absorption into the divine. See <er>Buddhism</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nis</hw> <pr>(?)</pr>. <ety>[From <ets>ne is</ets>.]</ety> <def>Is not.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ni"san</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Heb. <ets>n\'c6s\'ben</ets>.]</ety> <def>The first month of the Jewish ecclesiastical year, formerly answering nearly to the month of April, now to March, of the Christian calendar. See <er>Abib</er>.</def><br/
+<p><hw>\'d8Ni"san</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Heb. <ets>n\'c6s\'ben</ets>.]</ety> <def>The first month of the Jewish ecclesiastical year, formerly answering nearly to the month of April, now to March, of the Christian calendar. See <er>Abib</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Ni"sey</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nyseys</plw>.</plu> <def>A simpleton.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ni"si</hw> <pr>(?)</pr>, <pos>conj.</pos> <ety>[L.]</ety> <def>Unless; if not; -- used mostly in law.</def><br/
+<p><hw>\'d8Ni"si</hw> <pr>(?)</pr>, <pos>conj.</pos> <ety>[L.]</ety> <def>Unless; if not; -- used mostly in law.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ In legal proceedings, this word is used to indicate that any order, etc., shall take effect at a given time, <xex>unless</xex> before that time the order, etc., in modified, or something else is done to prevent its taking effect.  Continuance <ex>nisi</ex> is a conditional continuance of the case till the next term of the court, <sig>unless</sig> otherwise disposed of in the mean time.</note><br/
@@ -7278,7 +7278,7 @@ If I be such a traitress.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>Nis"te</hw> <pr>(?)</pr>. <ety>[Contr. from <ets>ne wiste</ets>.]</ety> <def>Wist not; knew not.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ni"sus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>niti</ets>, p. p. <ets>nisus</ets>, to strive.]</ety> <sn>1.</sn> <def>A striving; an effort; a conatus.</def><br/
+<p><hw>\'d8Ni"sus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>niti</ets>, p. p. <ets>nisus</ets>, to strive.]</ety> <sn>1.</sn> <def>A striving; an effort; a conatus.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>A <qex>nisus</qex> or energizing towards a presented object.</q> <rj><qau>Hickok.</qau></rj><br/
@@ -7521,7 +7521,7 @@ If I be such a traitress.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>Ni*trox"yl</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Nitro-</ets> + <ets>ox</ets>ygen + <ets>-yl</ets>.]</ety> <fld>(Chem.)</fld> <def>The group <chform>-NO2</chform>, usually called the <altname>nitro group</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ni"trum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., natron. See <er>Niter</er>.]</ety> <fld>(Old Chem.)</fld> <def>Niter.</def><br/
+<p><hw>\'d8Ni"trum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., natron. See <er>Niter</er>.]</ety> <fld>(Old Chem.)</fld> <def>Niter.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>\'d8Nitrum flammans</b></col> <ety>[L., flaming niter]</ety> <fld>(Old Chem.)</fld>, <cd>ammonium nitrate; -- probably so called because it deflagerates when suddenly heated.</cd></cs><br/
@@ -7554,7 +7554,7 @@ If I be such a traitress.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>Niv"e*ous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>niveus</ets>, fr. <ets>nix</ets>, <ets>nivis</ets>, snow.]</ety> <def>Snowy; resembling snow; partaking of the qualities of snow.</def>  <rj><au>Sir T. Browne.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ni`vose"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. L. <ets>nix</ets>. <ets>nivis</ets>, snow.]</ety> <def>The fourth month of the French republican calendar [1792-1806].  It commenced December 21, and ended January 19.  See <er>Vend\'82miaire</er>.</def><br/
+<p><hw>\'d8Ni`vose"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. L. <ets>nix</ets>. <ets>nivis</ets>, snow.]</ety> <def>The fourth month of the French republican calendar [1792-1806].  It commenced December 21, and ended January 19.  See <er>Vend\'82miaire</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nix</hw> <pr>(?)</pr>, <pos>n.</pos>; <pos>fem.</pos> <er>Nixe</er> <pr>(<?/)</pr>. <ety>[G.  Cf. 1st <er>Nick</er>.]</ety> <fld>(Teut. Myth.)</fld> <def>One of a class of water spirits, commonly described as of a mischievous disposition.</def><br/
@@ -7575,10 +7575,10 @@ If I be such a traitress.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>Nixie clerk</hw>. <def>A post-office clerk in charge of the nixies.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><hw>Ni*zam"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. & Ar. <ets>niz\'bem</ets> order, a ruler, fr. Ar. <ets>nazama</ets> arrange, govern.]</ety> <def>The title of the native sovereigns of Hyderabad, in India, since 1719.</def><br/
+<p><hw>\'d8Ni*zam"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. & Ar. <ets>niz\'bem</ets> order, a ruler, fr. Ar. <ets>nazama</ets> arrange, govern.]</ety> <def>The title of the native sovereigns of Hyderabad, in India, since 1719.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ni*zam"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Nizam</plw></plu>. <ety>[Turk. <ets>niz\'bem</ets>.]</ety> <def>A regular soldier of the Turkish army. See <er>Army organization</er>, above.</def><br/
+<p><hw>\'d8Ni*zam"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Nizam</plw></plu>. <ety>[Turk. <ets>niz\'bem</ets>.]</ety> <def>A regular soldier of the Turkish army. See <er>Army organization</er>, above.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><mhw><hw>Njord</hw>, <hw>Njorth</hw></mhw> <pos>n.</pos> <fld>(Teutonic mythology)</fld> <def>Chief of the Vanir; god of the sea and winds and prosperity; father of <persfn>Frey</persfn> and <persfn>Freya</persfn>; sometimes subsumes Teutonic Nerthus.</def><br/
@@ -7846,7 +7846,7 @@ To <qex>nobler</qex> poets for a <qex>nobler</qex> song.</q> <rj><qau>Dryden.</q
 <p><hw>Noc*til"i*o*nid</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Etymol. uncertain.]</ety> <fld>(Zo\'94l.)</fld> <def>A South American bat of the genus <gen>Noctilio</gen>, having cheek pouches and large incisor teeth.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Noc`ti*lu"ca</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Noctiluc\'92</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>noctiluca</ets> something that shines by night, fr. <ets>nox</ets>, <ets>noctis</ets>, night + <ets>lucere</ets> to shine, <ets>lux</ets> light.]</ety> <sn>1.</sn> <fld>(Old Chem.)</fld> <def>That which shines at night; -- a fanciful name for phosphorus.</def><br/
+<p><hw>\'d8Noc`ti*lu"ca</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Noctiluc\'92</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>noctiluca</ets> something that shines by night, fr. <ets>nox</ets>, <ets>noctis</ets>, night + <ets>lucere</ets> to shine, <ets>lux</ets> light.]</ety> <sn>1.</sn> <fld>(Old Chem.)</fld> <def>That which shines at night; -- a fanciful name for phosphorus.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zo\'94l.)</fld> <def>A genus of marine flagellate Infusoria, remarkable for their unusually large size and complex structure, as well as for their phosphorescence.  The brilliant diffuse phosphorescence of the sea is often due to myriads of Noctiluc\'91.</def><br/
@@ -8272,7 +8272,7 @@ to us perceived.</q> <rj><qau>Bacon.</qau></rj><br/
 <p><hw>Nole</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Noll</er>.]</ety> <def>The head.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>No"li-me-tan"ge*re</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., touch me not.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <sd>(a)</sd> <def>Any plant of a genus of herbs (<gen>Impatiens</gen>) having capsules which, if touched when ripe, discharge their seeds. -- See <er>Impatiens</er>.</def> <sd>(b)</sd> <def>The squirting cucumber. See under <er>Cucumber</er>.</def><br/
+<p><hw>\'d8No"li-me-tan"ge*re</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., touch me not.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <sd>(a)</sd> <def>Any plant of a genus of herbs (<gen>Impatiens</gen>) having capsules which, if touched when ripe, discharge their seeds. -- See <er>Impatiens</er>.</def> <sd>(b)</sd> <def>The squirting cucumber. See under <er>Cucumber</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Med.)</fld> <def>A name formerly applied to several varieties of ulcerous cutaneous diseases, but now restricted to <altname>Lupus exedens</altname>, an ulcerative affection of the nose.</def><br/
@@ -8291,10 +8291,10 @@ to us perceived.</q> <rj><qau>Bacon.</qau></rj><br/
 <p><hw>Nol*le"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>nolle</ets> to be unwilling.]</ety> <def>The state of being unwilling; nolition.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nol"le pros"e*qui</hw> <pr>(?)</pr>. <ety>[L., to be unwilling to prosecute.]</ety> <fld>(Law)</fld> <def>Will not prosecute; -- an entry on the record, denoting that a plaintiff discontinues his suit, or the attorney for the public a prosecution; either wholly, or as to some count, or as to some of several defendants.</def><br/
+<p><hw>\'d8Nol"le pros"e*qui</hw> <pr>(?)</pr>. <ety>[L., to be unwilling to prosecute.]</ety> <fld>(Law)</fld> <def>Will not prosecute; -- an entry on the record, denoting that a plaintiff discontinues his suit, or the attorney for the public a prosecution; either wholly, or as to some count, or as to some of several defendants.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>No"lo con*ten"de*re</hw> <pr>(?)</pr>. <ety>[L., I do not wish to contend.]</ety> <fld>(Law)</fld> <def>A plea, by the defendant, in a criminal prosecution, which, without admitting guilt, subjects him to all the consequences of a plea of guilty.</def><br/
+<p><hw>\'d8No"lo con*ten"de*re</hw> <pr>(?)</pr>. <ety>[L., I do not wish to contend.]</ety> <fld>(Law)</fld> <def>A plea, by the defendant, in a criminal prosecution, which, without admitting guilt, subjects him to all the consequences of a plea of guilty.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nol. pros.</hw> <def>An abbrev. of <er>Nolle prosequi</er>.</def><br/
@@ -8306,13 +8306,13 @@ to us perceived.</q> <rj><qau>Bacon.</qau></rj><br/
 <p><hw>Nolt</hw> <pr>(?)</pr>, <pos>n. sing. & pl.</pos> <def>Neat cattle.</def> <mark>[Prov. Eng.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nom</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Noun</er>.]</ety> <def>Name.</def><br/
+<p><hw>\'d8Nom</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Noun</er>.]</ety> <def>Name.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>\'d8Nom de guerre</b></col> <pr>(<?/)</pr>, <cd>literally, war name; hence, a fictitious name, or one assumed for a time.</cd> -- <col><b>\'d8Nom de plume</b></col> <pr>(<?/)</pr>, <cd>literally, pen name; hence, a name assumed by an author as his or her signature.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>No"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, lit., a feeding. See <er>Name</er>.]</ety> <fld>(Med.)</fld> <def>See <er>Canker</er>, <pos>n.</pos>, 1.</def><br/
+<p><hw>\'d8No"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, lit., a feeding. See <er>Name</er>.]</ety> <fld>(Med.)</fld> <def>See <er>Canker</er>, <pos>n.</pos>, 1.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nom"ad</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>nomas</ets>, <ets>-adis</ets>, Gr. <?/, <?/, pasturing, roaming without fixed home, fr. <?/ a pasture, allotted abode, fr. <?/ to distribute, allot, drive to pasture; prob. akin to AS. <ets>niman</ets> to take, and E. <ets>nimble</ets>: cf. F. <ets>nomade</ets>.  Cf. <er>Astronomy</er>, <er>Economy</er>, <er>Nimble</er>, <er>Nemesis</er>, <er>Numb</er>, <er>Number</er>.]</ety> <def>One of a race or tribe that has no fixed location, but wanders from place to place in search of pasture or game.</def><br/
@@ -8625,7 +8625,7 @@ to us perceived.</q> <rj><qau>Bacon.</qau></rj><br/
 <p><hw>nonassociative</hw> <pos>adj.</pos> <def>not associative.  Opposite of <ant>associative</ant>.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><hw>Non` as*sump"sit</hw> <pr>(?)</pr>. <ety>[L., he did not undertake.]</ety> <fld>(Law)</fld> <def>The general plea or denial in an action of assumpsit.</def><br/
+<p><hw>\'d8Non` as*sump"sit</hw> <pr>(?)</pr>. <ety>[L., he did not undertake.]</ety> <fld>(Law)</fld> <def>The general plea or denial in an action of assumpsit.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>nonastringent</hw> <pos>adj.</pos> <sn>1.</sn> <def>noncontractive.  Opposite of <ant>astringent</ant>.</def><br/
@@ -8687,10 +8687,10 @@ A chalice for the <qex>nonce</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <syn><b>Syn. --</b> acellular.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><hw>Non`cha`lance"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Nonchalant</er>.]</ety> <def>Indifference; carelessness; coolness.</def><br/
+<p><hw>\'d8Non`cha`lance"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Nonchalant</er>.]</ety> <def>Indifference; carelessness; coolness.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Non`cha`lant"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., fr. <ets>non</ets> not (L. <ets>non</ets>) + <ets>chaloir</ets> to concern one's self for, fr. L. <ets>calere</ets> to be warm, to be inflamed with desire, to be troubled. See <er>Non-</er>, and <er>Caldron</er>.]</ety> <def>Indifferent; careless; cool.</def><br/
+<p><hw>\'d8Non`cha`lant"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., fr. <ets>non</ets> not (L. <ets>non</ets>) + <ets>chaloir</ets> to concern one's self for, fr. L. <ets>calere</ets> to be warm, to be inflamed with desire, to be troubled. See <er>Non-</er>, and <er>Caldron</er>.]</ety> <def>Indifferent; careless; cool.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Non"cha*lant`ly</hw> <pr>(?)</pr>, <pos>adv.</pos> <def>In a nonchalant, indifferent, or careless manner; coolly.</def><br/
@@ -8762,7 +8762,7 @@ A chalice for the <qex>nonce</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>Non`com*ply"ing</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Neglecting or refusing to comply.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><mhw>{ <hw>Non com"pos</hw> <pr>(?)</pr>.  <hw>Non com"pos men"tis</hw> <pr>(?)</pr>. }</mhw> <ety>[L.]</ety> <def>Not of sound mind; not having the regular use of reason; hence, also, as a noun, an idiot; a lunatic; one devoid of reason, either by nature or from accident.</def><br/
+<p><mhw>{ <hw>\'d8Non com"pos</hw> <pr>(?)</pr>.  <hw>\'d8Non com"pos men"tis</hw> <pr>(?)</pr>. }</mhw> <ety>[L.]</ety> <def>Not of sound mind; not having the regular use of reason; hence, also, as a noun, an idiot; a lunatic; one devoid of reason, either by nature or from accident.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Non"con.</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>See <er>Noncontent</er>.</def><br/
@@ -8801,7 +8801,7 @@ A chalice for the <qex>nonce</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>Non*con*form"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Neglect or failure of conformity; especially, in England, the neglect or refusal to unite with the established church in its rites and modes of worship.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Non`con"stat</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Law L.]</ety> <def>It does not appear; it is not plain or clear; it does not follow.</def><br/
+<p><hw>\'d8Non`con"stat</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Law L.]</ety> <def>It does not appear; it is not plain or clear; it does not follow.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Non`con*ta"gious</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Not contagious; not catching; not communicable by contact.</def> -- <wordforms><wf>Non`con*ta"gious*ness</wf>, <pos>n.</pos></wordforms><br/
@@ -8906,7 +8906,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Mil.)</fld> <def>Not fit or available for duty.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Non-e"go</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., not I.]</ety> <fld>(Metaph.)</fld> <def>The union of being and relation as distinguished from, and contrasted with, the <xex>ego</xex>. See <er>Ego</er>.</def><br/
+<p><hw>\'d8Non-e"go</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., not I.]</ety> <fld>(Metaph.)</fld> <def>The union of being and relation as distinguished from, and contrasted with, the <xex>ego</xex>. See <er>Ego</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Non`e*las"tic</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Not having elasticity; not able to be stretched reversibly.</def><br/
@@ -8970,16 +8970,16 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 <p><hw>Non`es*sen"tial</hw>, <pos>n.</pos> <def>A thing not essential.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Non` est` fac"tum</hw> <pr>(?)</pr>. <ety>[Law L. it is not (his) deed.]</ety> <fld>(Law)</fld> <def>The plea of the general issue in an action of debt on bond.</def><br/
+<p><hw>\'d8Non` est` fac"tum</hw> <pr>(?)</pr>. <ety>[Law L. it is not (his) deed.]</ety> <fld>(Law)</fld> <def>The plea of the general issue in an action of debt on bond.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Non` est` in*ven"tus</hw> <pr>(?)</pr>. <ety>[L., he is not found.]</ety> <fld>(Law)</fld> <def>The return of a sheriff on a writ, when the defendant is not found in his county.</def>  <rj><au>Bouvier.</au></rj><br/
+<p><hw>\'d8Non` est` in*ven"tus</hw> <pr>(?)</pr>. <ety>[L., he is not found.]</ety> <fld>(Law)</fld> <def>The return of a sheriff on a writ, when the defendant is not found in his county.</def>  <rj><au>Bouvier.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>None"such`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A person or thing of a sort that there is no other such; something extraordinary; a thing that has not its equal.  It is given as a name to various objects, as to a choice variety of apple, a species of medic (<spn>Medicago lupulina</spn>), a variety of pottery clay, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><mhw>{ <hw>No*net"</hw> <pr>(?)</pr>, <hw>No*net"to</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[From L. <ets>nonus</ets> ninth, like E. <ets>duet</ets>, fr. L. <ets>duo</ets>.]</ety> <fld>(Mus.)</fld> <def>A composition for nine instruments, rarely for nine voices.</def><br/
+<p><mhw>{ <hw>No*net"</hw> <pr>(?)</pr>, <hw>\'d8No*net"to</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[From L. <ets>nonus</ets> ninth, like E. <ets>duet</ets>, fr. L. <ets>duo</ets>.]</ety> <fld>(Mus.)</fld> <def>A composition for nine instruments, rarely for nine voices.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Non"ett</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>The titmouse.</def> <mark>[Obs.]</mark><br/
@@ -9183,7 +9183,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Physics)</fld> <def>Represented by equations containing variables of greater than the first degree; -- of physical processes or relationships.  Opposite of <ant>linear</ant>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><hw>Non` li"quet</hw> <pr>(?)</pr>. <ety>[L.]</ety> <def>It is not clear; -- a verdict given by a jury when a matter is to be deferred to another day of trial.</def><br/
+<p><hw>\'d8Non` li"quet</hw> <pr>(?)</pr>. <ety>[L.]</ety> <def>It is not clear; -- a verdict given by a jury when a matter is to be deferred to another day of trial.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>nonliterary</hw> <pos>adj.</pos>  <def>Characteristic of or appropriate to everyday language.</def><br/
@@ -9297,7 +9297,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><-- p. 981 --></p>
 
-<p><hw>Non` ob*stan"te</hw> <pr>(n<ocr/n` <ocr/b*st<acr/n"t<esl/)</pr>. <ety>[L.]</ety> <sn>1.</sn> <def>Notwithstanding; in opposition to, or in spite of, what has been stated, or is to be stated or admitted.</def><br/
+<p><hw>\'d8Non` ob*stan"te</hw> <pr>(n<ocr/n` <ocr/b*st<acr/n"t<esl/)</pr>. <ety>[L.]</ety> <sn>1.</sn> <def>Notwithstanding; in opposition to, or in spite of, what has been stated, or is to be stated or admitted.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Law)</fld> <def>A clause in old English statutes and letters patent, importing a license from the crown to do a thing notwithstanding any statute to the contrary. This dispensing power was abolished by the Bill of Rights.</def><br/
@@ -9465,7 +9465,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 <p><hw>Non`-pros"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Nonprossed</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Non-prossing</conjf> <pr>(?)</pr>.]</vmorph> <def>To decline or fail to prosecute; to allow to be dropped (said of a suit); to enter judgment against (a plaintiff who fails to prosecute); <as>as, the plaintiff was <ex>non-prossed</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Non" pro*seq"ui*tur</hw> <pr>(?)</pr>. <ety>[L. he does not prosecute.]</ety> <fld>(Law)</fld> <def>A judgment entered against the plaintiff in a suit where he does not appear to prosecute. See <er>Nolle prosequi</er>.</def><br/
+<p><hw>\'d8Non" pro*seq"ui*tur</hw> <pr>(?)</pr>. <ety>[L. he does not prosecute.]</ety> <fld>(Law)</fld> <def>A judgment entered against the plaintiff in a suit where he does not appear to prosecute. See <er>Nolle prosequi</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>nonreciprocating</hw> <pos>adj.</pos> <def>not reciprocating.</def> [Narrower terms: <stype>nonreciprocal (vs. reciprocal)</stype>] <source>WordNet 1.5</source>]</p>
@@ -9606,7 +9606,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 <p><hw>Non*sen"si*tive</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Not sensitive; wanting sense or perception; not easily affected.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Non seq"ui*tur</hw> <pr>(?)</pr>. <ety>[L., it does not follow.]</ety> <fld>(Logic)</fld> <def>An inference which does not follow from the premises.</def><br/
+<p><hw>\'d8Non seq"ui*tur</hw> <pr>(?)</pr>. <ety>[L., it does not follow.]</ety> <fld>(Logic)</fld> <def>An inference which does not follow from the premises.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Non*sex"u*al</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Having no distinction of sex; sexless; neuter.</def><br/
@@ -10485,7 +10485,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 <p><hw>Nos"o*phen</hw> <pr>(?)</pr>, <pos>n.</pos>  <ety>[<ets>Nose</ets> + <ets>phenol</ets>; orig. used for affections of the nose.]</ety> <fld>(Pharm.)</fld> <def>An iodine compound obtained as a yellowish gray, odorless, tasteless powder by the action of iodine on phenolphthalein.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><hw>Nos`o*pho"bi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.; <grk>no`sos</grk> disease + <grk>fo`bos</grk> fear.]</ety> <fld>(Med.)</fld> <def>Morbid dread of disease.</def><br/
+<p><hw>\'d8Nos`o*pho"bi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.; <grk>no`sos</grk> disease + <grk>fo`bos</grk> fear.]</ety> <fld>(Med.)</fld> <def>Morbid dread of disease.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Nos`o*po*et"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>no`sos</grk> disease + <?/ productive, fr. <grk>poiei^n</grk> to make.]</ety> <def>Producing diseases.</def> <mark>[R.]</mark>  <rj><au>Arbuthnot.</au></rj><br/
@@ -10576,7 +10576,7 @@ Have made another choice.</q> <rj><qau>B. Jonson.</qau></rj><br/
 <p><cs><mcol><col><b>Not . . . but</b></col>, <it>or</it> <col><b>Not but</b></col></mcol>, <cd>only.</cd> <mark>[Obs. or Colloq.]</mark>  <rj><au>Chaucer.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>No`ta*bil"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Neut. pl. of L. <ets>notabilis</ets> notable.]</ety> <def>Things worthy of notice.</def><br/
+<p><hw>\'d8No`ta*bil"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Neut. pl. of L. <ets>notabilis</ets> notable.]</ety> <def>Things worthy of notice.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Not`a*bil"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Notabilities</plw> <pr>(#)</pr>.</plu> <ety>[Cf. F. <ets>notabilit\'82</ets> .]</ety> <sn>1.</sn> <def>Quality of being notable.</def><br/
@@ -10617,13 +10617,13 @@ Have made another choice.</q> <rj><qau>B. Jonson.</qau></rj><br/
 <p><hw>Not"a*bly</hw>, <pos>adv.</pos> <def>In a notable manner.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>No*t\'91"um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ pertaining to the notum or back.]</ety> <fld>(Zo\'94l.)</fld> <def>The back or upper surface, as of a bird.</def><br/
+<p><hw>\'d8No*t\'91"um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ pertaining to the notum or back.]</ety> <fld>(Zo\'94l.)</fld> <def>The back or upper surface, as of a bird.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>No"tal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>nw^ton</grk> the back.]</ety> <def>Of or pertaining to the back; dorsal.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>No*tan"dum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Notanda</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. <ets>notare</ets> to observe.]</ety> <def>A thing to be noted or observed; a notable fact; -- chiefly used in the plural.</def><br/
+<p><hw>\'d8No*tan"dum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Notanda</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. <ets>notare</ets> to observe.]</ety> <def>A thing to be noted or observed; a notable fact; -- chiefly used in the plural.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>No*ta"ri*al</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>notarial</ets>.]</ety> <def>Of or pertaining to a notary; done or taken by a notary; <as>as, a <ex>notarial</ex> seal; <ex>notarial</ex> evidence or attestation.</as></def><br/
@@ -11092,7 +11092,7 @@ This <qex>nothing</qex>, sir, will bring you to your end.</q> <rj><qau>Dryden.</
 <p><hw>No"tist</hw> <pr>(?)</pr>, <pos>n.</pos> <def>An annotator.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>No`to*bran`chi*a*ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Notum</er>, and <er>Branchia</er>.]</ety> <fld>(Zo\'94l.)</fld> <sd>(a)</sd> <def>A division of nudibranchiate mollusks having gills upon the back.</def> <sd>(b)</sd> <def>The Dorsibranchiata.</def><br/
+<p><hw>\'d8No`to*bran`chi*a*ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Notum</er>, and <er>Branchia</er>.]</ety> <fld>(Zo\'94l.)</fld> <sd>(a)</sd> <def>A division of nudibranchiate mollusks having gills upon the back.</def> <sd>(b)</sd> <def>The Dorsibranchiata.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>No`to*bran"chi*ate</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zo\'94l.)</fld> <def>Of or pertaining to the Notobranchiata.</def><br/
@@ -11111,7 +11111,7 @@ This <qex>nothing</qex>, sir, will bring you to your end.</q> <rj><qau>Dryden.</
 <syn><b>Syn. --</b> genus <gen>Notophthalmus</gen>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><hw>No`to*po"di*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Notopodia</plw> <pr>(#)</pr>, <plw>E</plw>. <plw>Notopodiums</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>nw^ton</grk> the back + <grk>poy`s</grk>, <grk>podo`s</grk>, the foot.]</ety> <fld>(Zo\'94l.)</fld> <def>The dorsal lobe or branch of a parapodium. See <er>Parapodium</er>.</def><br/
+<p><hw>\'d8No`to*po"di*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Notopodia</plw> <pr>(#)</pr>, <plw>E</plw>. <plw>Notopodiums</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>nw^ton</grk> the back + <grk>poy`s</grk>, <grk>podo`s</grk>, the foot.]</ety> <fld>(Zo\'94l.)</fld> <def>The dorsal lobe or branch of a parapodium. See <er>Parapodium</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>No`to*rhi"zal</hw> <pr>(n<omac/`t<osl/*r<imac/"z<ait/l)</pr>, <pos>a.</pos> <ety>[Gr. <grk>nw^ton</grk> the back + <grk>"ri`za</grk> a root.]</ety> <fld>(Bot.)</fld> <def>Having the radicle of the embryo lying against the back of one of the cotyledons; incumbent.</def><br/
@@ -11138,13 +11138,13 @@ Since you provoke me, shall be most <qex>notorious</qex>.</q> <rj><qau>Shak.</qa
 <p>-- <wordforms><wf>No*to"ri*ous*ly</wf>, <pos>adv.</pos> -- <wf>No*to"ri*ous*ness</wf>, <pos>n.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>No*tor"nis</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <grk>no`tos</grk> the south, or southwest + <?/ bird.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of birds allied to the gallinules, but having rudimentary wings and incapable of flight.  <spn>Notornis Mantelli</spn> was first known as a fossil bird of New Zealand, but subsequently a few individuals were found living on the southern island.  It is supposed to be now nearly or quite extinct.</def><br/
+<p><hw>\'d8No*tor"nis</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <grk>no`tos</grk> the south, or southwest + <?/ bird.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of birds allied to the gallinules, but having rudimentary wings and incapable of flight.  <spn>Notornis Mantelli</spn> was first known as a fossil bird of New Zealand, but subsequently a few individuals were found living on the southern island.  It is supposed to be now nearly or quite extinct.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>No`to*the"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>no`tos</grk> the south + <grk>qhri`on</grk> a wild animal.]</ety> <fld>(Zo\'94l.)</fld> <def>An extinct genus of gigantic herbivorous marsupials, found in the Pliocene formation of Australia.</def><br/
+<p><hw>\'d8No`to*the"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>no`tos</grk> the south + <grk>qhri`on</grk> a wild animal.]</ety> <fld>(Zo\'94l.)</fld> <def>An extinct genus of gigantic herbivorous marsupials, found in the Pliocene formation of Australia.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>No`to*tre"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>nw^ton</grk> back + <?/ a hole.]</ety> <fld>(Zo\'94l.)</fld> <def>The pouched, or marsupial, frog of South America.</def><br/
+<p><hw>\'d8No`to*tre"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>nw^ton</grk> back + <?/ a hole.]</ety> <fld>(Zo\'94l.)</fld> <def>The pouched, or marsupial, frog of South America.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><mhw>{ <hw>Not"-pat`ed</hw> <pr>(?)</pr>, <hw>Nott"-pat`ed</hw>  }</mhw>, <pos>a.</pos> <def>Same as <er>Nott-headed</er>.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
@@ -11162,13 +11162,13 @@ Since you provoke me, shall be most <qex>notorious</qex>.</q> <rj><qau>Shak.</qa
 <p><hw>Nott"-head`ed</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Having the hair cut close.</def> <mark>[Obs.]</mark>  <rj><au>Chapman.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Not*tur"no</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Same as <er>Nocturne</er>.</def><br/
+<p><hw>\'d8Not*tur"no</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Same as <er>Nocturne</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>No"tum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nota</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>nw^ton</grk>.]</ety> <fld>(Zo\'94l.)</fld> <def>The back.</def><br/
+<p><hw>\'d8No"tum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nota</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>nw^ton</grk>.]</ety> <fld>(Zo\'94l.)</fld> <def>The back.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>No"tus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>No`tos</grk>.]</ety> <def>The south wind.</def><br/
+<p><hw>\'d8No"tus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>No`tos</grk>.]</ety> <def>The south wind.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Not"wheat`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Nott</ets> + <ets>wheat</ets>.]</ety> <def>Wheat not bearded.</def>  <rj><au>Carew.</au></rj><br/
@@ -11213,7 +11213,7 @@ She is the greatest beauty in the parish.</q> <rj><qau>Fielding.</qau></rj><br/
 <p><hw>Nouch</hw> <pr>(nouch)</pr>, <pos>n.</pos> <ety>[See <er>Ouch</er>.]</ety> <def>An ouch; a jewel.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nou`gat"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A cake, sweetmeat, or confection made with almonds or other nuts.</def><br/
+<p><hw>\'d8Nou`gat"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A cake, sweetmeat, or confection made with almonds or other nuts.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nought</hw> <pr>(?)</pr>, <pos>n. & adv.</pos> <def>See <er>Naught</er>.</def>  <rj><au>Chaucer.</au></rj><br/
@@ -11228,7 +11228,7 @@ She is the greatest beauty in the parish.</q> <rj><qau>Fielding.</qau></rj><br/
 <p><hw>Nou"me*nal</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Metaph.)</fld> <def>Of or pertaining to the noumenon; real; -- opposed to <contr>phenomenal</contr>.</def>  <rj><au>G. H. Lewes.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nou"me*non</hw> <pr>(nou"m<esl/*n<ocr/n)</pr>, <pos>n.</pos> <ety>[NL. fr. Gr. <?/ the thing perceived, p. pr. pass. of <?/ to perceive, <?/ the mind.]</ety> <fld>(Metaph.)</fld> <def>The of itself unknown and unknowable rational object, or <sig>thing in itself</sig>, which is distinguished from the <contr>phenomenon</contr> through which it is apprehended by the senses, and by which it is interpreted and understood; -- so used in the philosophy of Kant and his followers.</def><br/
+<p><hw>\'d8Nou"me*non</hw> <pr>(nou"m<esl/*n<ocr/n)</pr>, <pos>n.</pos> <ety>[NL. fr. Gr. <?/ the thing perceived, p. pr. pass. of <?/ to perceive, <?/ the mind.]</ety> <fld>(Metaph.)</fld> <def>The of itself unknown and unknowable rational object, or <sig>thing in itself</sig>, which is distinguished from the <contr>phenomenon</contr> through which it is apprehended by the senses, and by which it is interpreted and understood; -- so used in the philosophy of Kant and his followers.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Noun</hw> <pr>(noun)</pr>, <pos>n.</pos> <ety>[OF. <ets>noun</ets>, <ets>nun</ets>, <ets>num</ets>, <ets>non</ets>, <ets>nom</ets>, F. <ets>nom</ets>, fr. L. <ets>nomen</ets> name. See <er>Name</er>.]</ety> <fld>(Gram.)</fld> <def>A word used as the designation or appellation of a creature or thing, existing in fact or in thought; a substantive.</def><br/
@@ -11333,7 +11333,7 @@ She is the greatest beauty in the parish.</q> <rj><qau>Fielding.</qau></rj><br/
 <p><q>She <qex>noursled</qex> him till years he raught.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nous</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>noy^s</grk> mind.]</ety> <sn>1.</sn> <def>Intellect; understanding; talent; -- used humorously.</def><br/
+<p><hw>\'d8Nous</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>noy^s</grk> mind.]</ety> <sn>1.</sn> <def>Intellect; understanding; talent; -- used humorously.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Philos.)</fld> <def>The reason; the highest intellect; God regarded as the World Reason.</def><br/
@@ -11348,10 +11348,10 @@ She is the greatest beauty in the parish.</q> <rj><qau>Fielding.</qau></rj><br/
 <p><q>But thereof needeth not to speak as <qex>nouthe</qex>.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><mhw>{ <hw>Nou`veau" riche"</hw> <pr>(?)</pr>, <pos>m.</pos>, <hw>Nou`velle" riche"</hw> <pr>(?)</pr>, <pos>f.</pos> }</mhw>; <plu>pl. <pos>m.</pos> <plw>Noveaux riches</plw> <pr>(#)</pr>, <pos>f.</pos> <plw>Nouvelles riches</plw> <pr>(#)</pr></plu>. <ety>[F.]</ety> <def>A person newly rich.  Contrasted with <contr>old money</contr>.</def><br/
+<p><mhw>{ <hw>\'d8Nou`veau" riche"</hw> <pr>(?)</pr>, <pos>m.</pos>, <hw>\'d8Nou`velle" riche"</hw> <pr>(?)</pr>, <pos>f.</pos> }</mhw>; <plu>pl. <pos>m.</pos> <plw>Noveaux riches</plw> <pr>(#)</pr>, <pos>f.</pos> <plw>Nouvelles riches</plw> <pr>(#)</pr></plu>. <ety>[F.]</ety> <def>A person newly rich.  Contrasted with <contr>old money</contr>.</def><br/
 [<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
 
-<p><hw>No"va</hw> <pr>(n<omac/"v<adot/)</pr>, <pos>n.</pos>; <plu>pl. L. <plw>Novae</plw> <pr>(n<omac/"v<emac/)</pr>, E. <plw>Novas</plw> <pr>(n<omac/"v<adot/z)</pr></plu>. <ety>[L., fem. sing. of <ets>novus</ets> new.]</ety> <fld>(Astron.)</fld> <def>A star which suddenly increases in brightness thousands of times, then fades back to near its original intensity.  It may appear as a \'bdnew\'b8 star if its original brightness was too low for routine observation.  A star which suddenly increases in brightness to many millions of times its original intensity is a <er>supernova</er>, and the postulated mechanisms for the increases of brightness of novae and supernovae are different.</def> <note>The most important modern nov\'91 are: -- <col><b>\'d8No"va Co*ro"n\'91 Bo`re*a"lis</b></col> <pr>(<?/)</pr> [1866]; <col><b>\'d8No"va Cyg"ni</b></col> <pr>(<?/)</pr> [1876]; <col><b>\'d8No"va An*dro"me*d\'91</b></col> <pr>(<?/)</pr> [1885]; <col><b>\'d8No"va Au*ri"g\'91</b></col> <pr>(<?/)</pr> [1891-92]; <col><b>\'d8No"va Per"se*i</b></col> <pr>(<?/)</pr> [1901]. There are two nov\'91 called <cref>Nova Persei</cref>. They are: <sd>(a)</sd> A small nova which appeared in 1881. <sd>(b)</sd> An extraordinary nova which appeared in Perseus in 1901.  It was first sighted on February 22, and for one night (February 23) was the brightest star in the sky.  By July it had almost disappeared, after which faint surrounding nebulous masses were discovered, apparently moving radially outward from the star at incredible velocity.</note><br/
+<p><hw>\'d8No"va</hw> <pr>(n<omac/"v<adot/)</pr>, <pos>n.</pos>; <plu>pl. L. <plw>Novae</plw> <pr>(n<omac/"v<emac/)</pr>, E. <plw>Novas</plw> <pr>(n<omac/"v<adot/z)</pr></plu>. <ety>[L., fem. sing. of <ets>novus</ets> new.]</ety> <fld>(Astron.)</fld> <def>A star which suddenly increases in brightness thousands of times, then fades back to near its original intensity.  It may appear as a \'bdnew\'b8 star if its original brightness was too low for routine observation.  A star which suddenly increases in brightness to many millions of times its original intensity is a <er>supernova</er>, and the postulated mechanisms for the increases of brightness of novae and supernovae are different.</def> <note>The most important modern nov\'91 are: -- <col><b>\'d8No"va Co*ro"n\'91 Bo`re*a"lis</b></col> <pr>(<?/)</pr> [1866]; <col><b>\'d8No"va Cyg"ni</b></col> <pr>(<?/)</pr> [1876]; <col><b>\'d8No"va An*dro"me*d\'91</b></col> <pr>(<?/)</pr> [1885]; <col><b>\'d8No"va Au*ri"g\'91</b></col> <pr>(<?/)</pr> [1891-92]; <col><b>\'d8No"va Per"se*i</b></col> <pr>(<?/)</pr> [1901]. There are two nov\'91 called <cref>Nova Persei</cref>. They are: <sd>(a)</sd> A small nova which appeared in 1881. <sd>(b)</sd> An extraordinary nova which appeared in Perseus in 1901.  It was first sighted on February 22, and for one night (February 23) was the brightest star in the sky.  By July it had almost disappeared, after which faint surrounding nebulous masses were discovered, apparently moving radially outward from the star at incredible velocity.</note><br/
 [<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
 
 <p><hw>No*vac"u*lite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>novacula</ets> a sharp knife, razor: cf. F. <ets>novaculite</ets>.]</ety> <fld>(Min.)</fld> <def>A variety of siliceous slate, of which hones are made; razor stone; Turkey stone; hone stone; whet slate.</def><br/
@@ -11654,13 +11654,13 @@ Come to give sober judgment of new plays?</q> <rj><qau>Garrick.</qau></rj><br/
 <p><hw>Noy</hw>, <pos>n.</pos> <def>That which annoys.</def> <mark>[Obs.]</mark>  <rj><au>Piers Plowman.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>No`yade"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>noyer</ets> to drown, L. <ets>necare</ets> to kill.]</ety> <def>A drowning of many persons at once, -- a method of execution practiced at <city>Nantes</city> in France during the Reign of Terror, by <person>Jean Baptiste Carrier</person>.</def><br/
+<p><hw>\'d8No`yade"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>noyer</ets> to drown, L. <ets>necare</ets> to kill.]</ety> <def>A drowning of many persons at once, -- a method of execution practiced at <city>Nantes</city> in France during the Reign of Terror, by <person>Jean Baptiste Carrier</person>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Noy"ance</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Annoyance.</def> <mark>[Obs.]</mark>  <rj><au>Spenser.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Noy`au"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., prop., the stone or nut of a fruit, fr. L. <ets>nucalis</ets> like a nut. See <er>Newel</er> a post.]</ety> <def>A cordial of brandy, etc., flavored with the kernel of the bitter almond, or of the peach stone, etc.</def><br/
+<p><hw>\'d8Noy`au"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., prop., the stone or nut of a fruit, fr. L. <ets>nucalis</ets> like a nut. See <er>Newel</er> a post.]</ety> <def>A cordial of brandy, etc., flavored with the kernel of the bitter almond, or of the peach stone, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Noy"er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>An annoyer.</def> <mark>[Obs.]</mark>  <rj><au>Tusser.</au></rj><br/
@@ -11697,7 +11697,7 @@ Come to give sober judgment of new plays?</q> <rj><qau>Garrick.</qau></rj><br/
 <p><hw>nu</hw> <pos>n.</pos> <def>The 13th letter of the Greek alphabet (<nu/).</def><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><hw>Nu`ance"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>A shade of difference; a delicate gradation.</def><br/
+<p><hw>\'d8Nu`ance"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>A shade of difference; a delicate gradation.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A small difference in meaning, significance, or expression.</def><br/
@@ -11715,7 +11715,7 @@ Come to give sober judgment of new plays?</q> <rj><qau>Garrick.</qau></rj><br/
 <p><hw>Nub"ble</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[Cf. LG. <ets>nubben</ets> to knock, cuff.]</ety> <def>To beat or bruise with the fist.</def> <mark>[Obs.]</mark>  <rj><au>Ainsworth.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nu*bec"u*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nubecul\'91</plw> <pr>(-l<emac/)</pr>.</plu> <ety>[L., dim. of <ets>nubes</ets> cloud.]</ety> <sn>1.</sn> <fld>(Astron.)</fld> <sd>(a)</sd> <def>A nebula.</def> <sd>(b)</sd> <pluf>pl.</pluf> <def>Specifically, the Magellanic clouds.</def><br/
+<p><hw>\'d8Nu*bec"u*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nubecul\'91</plw> <pr>(-l<emac/)</pr>.</plu> <ety>[L., dim. of <ets>nubes</ets> cloud.]</ety> <sn>1.</sn> <fld>(Astron.)</fld> <sd>(a)</sd> <def>A nebula.</def> <sd>(b)</sd> <pluf>pl.</pluf> <def>Specifically, the Magellanic clouds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Med.)</fld> <sd>(a)</sd> <def>A slight spot on the cornea.</def> <sd>(b)</sd> <def>A cloudy object or appearance in urine.</def>  <rj><au>Dunglison.</au></rj><br/
@@ -11754,10 +11754,10 @@ Come to give sober judgment of new plays?</q> <rj><qau>Garrick.</qau></rj><br/
 <p><hw>Nu`ca*men*ta"ceous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[See <er>Nucament</er>.]</ety> <fld>(Bot.)</fld> <def>Like a nut either in structure or in being indehiscent; bearing one-seeded nutlike fruits.</def> <altsp>[Written also <asp>nucumentaceous</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nu*cel"lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nucelli</plw> <pr>(#)</pr>.</plu> <ety>[NL., dim. of <ets>nux</ets>, <ets>nucis</ets>, a nut.]</ety> <fld>(Bot.)</fld> <def>See <er>Nucleus</er>, 3 <sd>(a)</sd>.</def><br/
+<p><hw>\'d8Nu*cel"lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nucelli</plw> <pr>(#)</pr>.</plu> <ety>[NL., dim. of <ets>nux</ets>, <ets>nucis</ets>, a nut.]</ety> <fld>(Bot.)</fld> <def>See <er>Nucleus</er>, 3 <sd>(a)</sd>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nu"cha</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nuch<ae/</plw> <pr>(#)</pr>.</plu> <ety>[LL.]</ety> <fld>(Zo\'94l.)</fld> <def>The back or upper part of the neck; the nape.</def><br/
+<p><hw>\'d8Nu"cha</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nuch<ae/</plw> <pr>(#)</pr>.</plu> <ety>[LL.]</ety> <fld>(Zo\'94l.)</fld> <def>The back or upper part of the neck; the nape.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nu"chal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>nucal</ets>.]</ety> <fld>(Anat.)</fld> <def>Of, pertaining to, or in the region of, the back, or nape, of the neck; -- applied especially to the anterior median plate in the carapace of turtles.</def><br/
@@ -11882,10 +11882,10 @@ Come to give sober judgment of new plays?</q> <rj><qau>Garrick.</qau></rj><br/
 <p><hw>Nu"cle*o*branch</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zo\'94l.)</fld> <def>Belonging to the Nucleobranchiata.</def> -- <def2><pos>n.</pos> <def>One of the <ord>Nucleobranchiata</ord>.</def></def2><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nu`cle*o*bran`chi*a"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Nucleus</er>, and <er>Branchia</er>]</ety> <fld>(Zo\'94l.)</fld> <def>See <er>Heteropoda</er>.</def><br/
+<p><hw>\'d8Nu`cle*o*bran`chi*a"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Nucleus</er>, and <er>Branchia</er>]</ety> <fld>(Zo\'94l.)</fld> <def>See <er>Heteropoda</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nu`cle*o*id`i*o*plas"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Nucleus</er>, and <er>Idioplasma</er>.]</ety> <fld>(Biol.)</fld> <def>Hyaline plasma contained in the nucleus of vegetable cells.</def><br/
+<p><hw>\'d8Nu`cle*o*id`i*o*plas"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Nucleus</er>, and <er>Idioplasma</er>.]</ety> <fld>(Biol.)</fld> <def>Hyaline plasma contained in the nucleus of vegetable cells.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nu*cle"o*lar</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Biol.)</fld> <def>Of or pertaining to the nucleolus of a cell.</def><br/
@@ -11949,7 +11949,7 @@ Come to give sober judgment of new plays?</q> <rj><qau>Garrick.</qau></rj><br/
 <p><sn>5.</sn> <fld>(Zo\'94l.)</fld> <sd>(a)</sd> <def>The tip, or earliest part, of a univalve or bivalve shell.</def> <sd>(b)</sd> <def>The central part around which additional growths are added, as of an operculum.</def> <sd>(c)</sd> <def>A visceral mass, containing the stomach and other organs, in Tunicata and some mollusks.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nu"cu*la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., little nut, dim. of <ets>nux</ets>, <ets>nucis</ets>, a nut.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of small marine bivalve shells, having a pearly interior.</def><br/
+<p><hw>\'d8Nu"cu*la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., little nut, dim. of <ets>nux</ets>, <ets>nucis</ets>, a nut.]</ety> <fld>(Zo\'94l.)</fld> <def>A genus of small marine bivalve shells, having a pearly interior.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nu"cule</hw> <pr>(n<umac/"k<usl/l)</pr>, <pos>n.</pos> <ety>[L. <ets>nucula</ets> a small nut.]</ety> <fld>(Bot.)</fld> <def>Same as <er>Nutlet</er>.</def><br/
@@ -11988,7 +11988,7 @@ Come to give sober judgment of new plays?</q> <rj><qau>Garrick.</qau></rj><br/
 <p><hw>Nu"di*branch</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zo\'94l.)</fld> <def>Of or pertaining to the Nudibranchiata.</def> -- <def2><pos>n.</pos> <def>One of the Nudibranchiata.</def></def2><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nu`di*bran`chi*a"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Nude</er>, and <er>Branchia</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>A division of opisthobranchiate mollusks, having no shell except while very young.  The gills are naked and situated upon the back or sides. See <er>Ceratobranchia</er>.</def><br/
+<p><hw>\'d8Nu`di*bran`chi*a"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Nude</er>, and <er>Branchia</er>.]</ety> <fld>(Zo\'94l.)</fld> <def>A division of opisthobranchiate mollusks, having no shell except while very young.  The gills are naked and situated upon the back or sides. See <er>Ceratobranchia</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nu`di*bran"chi*ate</hw> <pr>(?)</pr>, <pos>a. & n.</pos> <fld>(Zo\'94l.)</fld> <def>Same as <er>Nudibranch</er>.</def><br/
@@ -12012,13 +12012,13 @@ Come to give sober judgment of new plays?</q> <rj><qau>Garrick.</qau></rj><br/
 <p><hw>nud"nik</hw> <pr>(n<oocr/d"n<icr/k)</pr> <pos>n.</pos> <ety>[Yiddish, fr. Russ. <ets>nudnyi</ets> tiresome.]</ety> <def>a pestiferous boring and dull person.</def><br/
 [<source>PJC</source>]</p>
 
-<p><hw>Nu"dum pac"tum</hw> <pr>(?)</pr>. <ety>[L., a nude pact.]</ety> <fld>(Law)</fld> <def>A bare, naked contract, without any consideration and therefore unenforceable in a court of law.</def>  <rj><au>Tomlins.</au></rj><br/
+<p><hw>\'d8Nu"dum pac"tum</hw> <pr>(?)</pr>. <ety>[L., a nude pact.]</ety> <fld>(Law)</fld> <def>A bare, naked contract, without any consideration and therefore unenforceable in a court of law.</def>  <rj><au>Tomlins.</au></rj><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><hw>Nu*gac"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>nugacitas</ets>, fr. <ets>nugax</ets>, <ets>-acis</ets>, trifling.]</ety> <def>Futility; trifling talk or behavior; drollery.</def> <mark>[R.]</mark>  <rj><au>Dr. H. More.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nu"g\'91</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L.]</ety> <def>Trifles; jests.</def><br/
+<p><hw>\'d8Nu"g\'91</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L.]</ety> <def>Trifles; jests.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nu*ga"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. OF. <ets>nugation</ets>.]</ety> <def>The act or practice of trifling.</def> <mark>[R.]</mark>  <rj><au>Bacon.</au></rj><br/
@@ -12085,7 +12085,7 @@ Dead perfection; no more.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><hw>Null</hw>, <pos>n.</pos> <ety>[Etymol. uncertain.]</ety> <def>One of the beads in <cref>nulled work</cref>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nul"lah</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets>n\'bel\'be</ets>, fr. Skr. <ets>n\'bela</ets> tube.]</ety> <def>A water course, esp. a dry one; a gully; a gorge; -- orig. an East Indian term.</def>  <rj><au>E. Arnold.</au></rj><br/
+<p><hw>\'d8Nul"lah</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets>n\'bel\'be</ets>, fr. Skr. <ets>n\'bela</ets> tube.]</ety> <def>A water course, esp. a dry one; a gully; a gorge; -- orig. an East Indian term.</def>  <rj><au>E. Arnold.</au></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Nulled</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Turned so as to resemble nulls.</def><br/
@@ -12437,7 +12437,7 @@ Flowed from their lips, in prose or <qex>numerous</qex> verse.</q> <rj><qau>Milt
 <p><hw>Num"mu*lite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>nummus</ets> a coin + <ets>-lite</ets>: cf. F. <ets>nummulite</ets>.]</ety> <fld>(Paleon.)</fld> <def>A fossil of the genus <gen>Nummulites</gen> and allied genera.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Num`mu*li"tes</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Nummulite</er>.]</ety> <fld>(Paleon.)</fld> <def>A genus of extinct Tertiary Foraminifera, having a thin, flat, round shell, containing a large number of small chambers arranged spirally.</def><br/
+<p><hw>\'d8Num`mu*li"tes</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Nummulite</er>.]</ety> <fld>(Paleon.)</fld> <def>A genus of extinct Tertiary Foraminifera, having a thin, flat, round shell, containing a large number of small chambers arranged spirally.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Num`mu*lit"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of, like, composed of, containing, nummulites; <as>as, <ex>nummulitic</ex> beds</as>.</def><br/
@@ -12480,7 +12480,7 @@ Breathless with adoration.</q> <rj><qau>Wordsworth.</qau></rj><br/
 <p><hw>Nu"na*tak</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>-taks</plw> <pr>(#)</pr> (the <pluf>pl.</pluf> form <plw>Nunatakker</plw> is Swedish).</plu> <ety>[Eskimo <ets>nun\'91ttak</ets>.]</ety> <def>In Greenland, an insular hill or mountain surrounded by an ice sheet.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><hw>Nunc" di*mit"tis</hw> <pr>(?)</pr>. <ety>[L. <ets>nunc</ets> now + <ets>dimittis</ets> thou lettest depart.]</ety> <fld>(Eccl.)</fld> <def>The <altname>song of Simeon</altname> (<au>Luke ii. 29-32</au>), used in the ritual of many churches.  It begins with these words in the Vulgate.</def><br/
+<p><hw>\'d8Nunc" di*mit"tis</hw> <pr>(?)</pr>. <ety>[L. <ets>nunc</ets> now + <ets>dimittis</ets> thou lettest depart.]</ety> <fld>(Eccl.)</fld> <def>The <altname>song of Simeon</altname> (<au>Luke ii. 29-32</au>), used in the ritual of many churches.  It begins with these words in the Vulgate.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><hw>Nun"chion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>nonechenche</ets>, for <ets>noneschenche</ets>, prop., a noon drink; <ets>none</ets> noon + <ets>schenchen</ets>, <ets>schenken</ets>, <ets>skinken</ets>, to pour, AS. <ets>scencan</ets>. See <er>Noon</er>, and <er>Skink</er>, <pos>v. i.</pos>]</ety> <def>A portion of food taken at or after noon, usually between full meals; a luncheon.</def> <altsp>[Written also <asp>noonshun</asp>.]</altsp>  <rj><au>Hudibras.</au></rj><br/
@@ -12501,7 +12501,7 @@ Breathless with adoration.</q> <rj><qau>Wordsworth.</qau></rj><br/
 <p><sn>2.</sn> <def>The permanent official representative of the pope at a foreign court or seat of government.  Distinguished from a <xex>legate a latere</xex>, whose mission is temporary in its nature, or for some special purpose.  Nuncios are of higher rank than internuncios.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nun"ci*us</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nuncii</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Roman & Old Eng. Law)</fld> <sd>(a)</sd> <def>A messenger.</def> <sd>(b)</sd> <def>The information communicated.</def><br/
+<p><hw>\'d8Nun"ci*us</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nuncii</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Roman & Old Eng. Law)</fld> <sd>(a)</sd> <def>A messenger.</def> <sd>(b)</sd> <def>The information communicated.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nun"cu*pate</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[L. <ets>nuncupatus</ets>, p. p. of <ets>nuncupare</ets> to nuncupate, prob. fr. <ets>nomen</ets> name + <ets>capere</ets> to take.]</ety> <sn>1.</sn> <def>To declare publicly or solemnly; to proclaim formally.</def> <mark>[Obs.]</mark><br/
@@ -12562,7 +12562,7 @@ Breathless with adoration.</q> <rj><qau>Wordsworth.</qau></rj><br/
 <p><hw>Nup</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Nupson</er>.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nu"phar</hw> <pr>(n<umac/"f<aum/r)</pr>, <pos>prop. n.</pos> <ety>[Per. <ets>n<umac/far</ets>.]</ety> <fld>(Bot.)</fld> <def>A genus of plants found in the fresh-water ponds or lakes of Europe, Asia, and North America; the yellow water lily.  Cf. <er>Nymphaea</er>.</def><br/
+<p><hw>\'d8Nu"phar</hw> <pr>(n<umac/"f<aum/r)</pr>, <pos>prop. n.</pos> <ety>[Per. <ets>n<umac/far</ets>.]</ety> <fld>(Bot.)</fld> <def>A genus of plants found in the fresh-water ponds or lakes of Europe, Asia, and North America; the yellow water lily.  Cf. <er>Nymphaea</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>Nuprin</hw> <pos>n.</pos> <ety>[A trade name.]</ety> <def>A nonsteroidal anti-inflammatory medicine used to relieve the pain of arthritis and as an analgesic and antipyretic; Advil and Motrin and Nuprin are trademarks of brands of <altname>ibuprofen</altname> tablets.</def> <mark>[Trademark.]</mark> <br/
@@ -12597,7 +12597,7 @@ We two have sworn shall come.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>I think I'm as hard as a <qex>nur</qex>, and as tough as whitleather.</q> <rj><qau>W. Howitt.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><mhw>{<hw>Nu*ra"ghe</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>It. pl. <plw>-ghi</plw> <pr>(<?/)</pr></plu>. Also <hw>Nu"ragh</hw> <pr>(?)</pr>, etc.}</mhw> <ety>[It. dial. (Sardinia) <ets>nuraghe</ets>).]</ety> <def>One of the prehistoric towerlike structures found in Sardinia.</def></p>
+<p><mhw>{<hw>\'d8Nu*ra"ghe</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>It. pl. <plw>-ghi</plw> <pr>(<?/)</pr></plu>. Also <hw>Nu"ragh</hw> <pr>(?)</pr>, etc.}</mhw> <ety>[It. dial. (Sardinia) <ets>nuraghe</ets>).]</ety> <def>One of the prehistoric towerlike structures found in Sardinia.</def></p>
 
 <p><q>The so-called <qex>nuraghi</qex>, conical monuments with truncated summits, 30-60 ft. in height, 35-100 ft. in diameter at the base, constructed sometimes of hewn, and sometimes of unhewn blocks of stone without mortar.  They are situated either on isolated eminences or on the slopes of the mountains, seldom on the plains, and usually occur in groups.  They generally contain two (in some rare instances three) conically vaulted chambers, one above the other, and a spiral staircase constructed in the thick walls ascends to the upper stories.</q>  <rj><qau>Baedeker.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -12993,7 +12993,7 @@ Sheathed, unaware, the tusk in his soft groin.</q> <rj><qau>Shak.</qau></rj><br/
 <syn><b>Syn. --</b> genus <gen>Nyctaginia</gen>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><hw>Nyc`ta*lo"pi*a</hw> <pr>(n<icr/k`t<adot/*l<omac/"p<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[L. <ets>nyctalopia</ets>, fr. <ets>nyctalops</ets> a nyctalops, Gr. <grk>nykta`lwps</grk>.  Gr. <grk>nykta`lwps</grk> meant, a person affected either with day blindness or with night blindness, and in the former case was derived fr. <grk>ny`x</grk>, <grk>nykto`s</grk>, night + <grk>'w`ps</grk>, <grk>'wpo`s</grk>, the eye; in the latter, fr. <grk>ny`x</grk> + <grk>'alao`s</grk> blind + <grk>'w`ps</grk>.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>A disease of the eye, in consequence of which the patient can see well in a faint light or at twilight, but is unable to see during the day or in a strong light; day blindness.</def> <sd>(b)</sd> <def>See <er>Moonblink</er>.</def><br/
+<p><hw>\'d8Nyc`ta*lo"pi*a</hw> <pr>(n<icr/k`t<adot/*l<omac/"p<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[L. <ets>nyctalopia</ets>, fr. <ets>nyctalops</ets> a nyctalops, Gr. <grk>nykta`lwps</grk>.  Gr. <grk>nykta`lwps</grk> meant, a person affected either with day blindness or with night blindness, and in the former case was derived fr. <grk>ny`x</grk>, <grk>nykto`s</grk>, night + <grk>'w`ps</grk>, <grk>'wpo`s</grk>, the eye; in the latter, fr. <grk>ny`x</grk> + <grk>'alao`s</grk> blind + <grk>'w`ps</grk>.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>A disease of the eye, in consequence of which the patient can see well in a faint light or at twilight, but is unable to see during the day or in a strong light; day blindness.</def> <sd>(b)</sd> <def>See <er>Moonblink</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Some writers (as Quain) use the word in the opposite sense, night blindness. See <er>Hemeralopia</er>.</note><br/
@@ -13029,7 +13029,7 @@ Sheathed, unaware, the tusk in his soft groin.</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>Nye</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Prob. fr. F. <ets>nid</ets> nest, brood, L. <ets>nidus</ets> nest. See <er>Nest</er>, and cf. <er>Eye</er> brood, <er>Nide</er>.]</ety> <def>A brood or flock of pheasants.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Ny*en"tek</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>A carnivorous mammal (<spn>Helictis moscatus</spn>, or <spn>Helictis orientalis</spn>), native of Eastern Asia and the Indies.  It has a dorsal white stripe, and another one across the shoulders.  It has a strong musky odor.</def><br/
+<p><hw>\'d8Ny*en"tek</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo\'94l.)</fld> <def>A carnivorous mammal (<spn>Helictis moscatus</spn>, or <spn>Helictis orientalis</spn>), native of Eastern Asia and the Indies.  It has a dorsal white stripe, and another one across the shoulders.  It has a strong musky odor.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>nylghai</hw> <pos>n.</pos> <def>Same as <er>nylghau</er>.</def><br/
@@ -13072,13 +13072,13 @@ Be all my sins remembered.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Zo\'94l.)</fld> <def>Any one of a subfamily (<subfam>Najades</subfam>) of butterflies including the purples, the fritillaries, the peacock butterfly, etc.; -- called also <altname>naiad</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>nym"pha</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nymph<ae/</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Nymph</er> a goddess.]</ety> <sn>1.</sn> <fld>(Zo\'94l.)</fld> <def>Same as <er>Nymph</er>, 3.</def><br/
+<p><hw>\'d8nym"pha</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nymph<ae/</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Nymph</er> a goddess.]</ety> <sn>1.</sn> <fld>(Zo\'94l.)</fld> <def>Same as <er>Nymph</er>, 3.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <pluf>pl.</pluf> <fld>(Anat.)</fld> <def>Two folds of mucous membrane, within the labia, at the opening of the vulva.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nym*ph\'91"a</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L., the water lily, Gr. <?/.]</ety> <fld>(Bot.)</fld> <def>A genus of aquatic plants having showy flowers (white, blue, pink, or yellow, often fragrant), including the white water lily and the Egyptia lotus.</def><br/
+<p><hw>\'d8Nym*ph\'91"a</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L., the water lily, Gr. <?/.]</ety> <fld>(Bot.)</fld> <def>A genus of aquatic plants having showy flowers (white, blue, pink, or yellow, often fragrant), including the white water lily and the Egyptia lotus.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Recent critics have endeavored to show that this genus should be called <gen>Castalia</gen>, and the name <gen>Nymph\'91a</gen> transferred to what is now known as <gen>Nuphar</gen>.</note><br/
@@ -13151,7 +13151,7 @@ Be all my sins remembered.</q> <rj><qau>Shak.</qau></rj><br/
 <p><hw>Nys</hw> <pr>(?)</pr>. <def>Is not. See <er>Nis</er>.</def>  <rj><au>Chaucer.</au>  <au>Spenser.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><hw>Nys*tag"mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ drowsiness, fr. <?/ to nod in sleep, to slumber.]</ety> <fld>(Med.)</fld> <def>A rapid involuntary oscillation of the eyeballs.</def><br/
+<p><hw>\'d8Nys*tag"mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ drowsiness, fr. <?/ to nod in sleep, to slumber.]</ety> <fld>(Med.)</fld> <def>A rapid involuntary oscillation of the eyeballs.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><hw>nystatin</hw> <pos>n.</pos> <ety>[From <ets>NY stat</ets>e + <ets>-in</ets>, due to its discovery in New York State.]</ety> <def>An antifungal antibiotic, extracted from fermentation broths of the soil actinomycete <prodby><spn>Streptomyces noursei</spn></prodby> and other actinomycetes; called also <altname>fungicidin</altname>.  It is a polyene macrolide antibiotic, and consists of several related components.  Component nystatin A<subs>1</subs> has formula <chform>C47H75NO17</chform>.</def><br/
