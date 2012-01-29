@@ -18560,7 +18560,7 @@ Revenge upon the cardinal.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Menostasis</ent><br/
-||<hw>Me*nos"ta*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mh`n</grk> month + <grk>'istan`nai</grk> to stop.]</ety> <fld>(Med.)</fld> <def>Stoppage of the menses.</def><br/
+||<hw>Me*nos"ta*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mh`n</grk> month + <grk>'ista`nai</grk> to stop.]</ety> <fld>(Med.)</fld> <def>Stoppage of the menses.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Menostation</ent><br/

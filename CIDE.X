@@ -459,7 +459,7 @@ knowledge base should contact:
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Xiphoid</ent><br/
-<hw>Xiph"oid</hw> <pr>(?; 277)</pr>, <pos>a.</pos> <ety>[Gr. <grk>xifoeidh`s</grk> sword-shaped; <grk>xi`fos</grk> a sword + <grk>ei`^dos</grk> form, shape: cf. F. <ets>xiphoide</ets>.]</ety> <fld>(Anat.)</fld> <sd>(a)</sd> <def>Like a sword; ensiform.</def>  <sd>(b)</sd> <def>Of or pertaining to the xiphoid process; xiphoidian.</def><br/
+<hw>Xiph"oid</hw> <pr>(?; 277)</pr>, <pos>a.</pos> <ety>[Gr. <grk>xifoeidh`s</grk> sword-shaped; <grk>xi`fos</grk> a sword + <grk>e`i^dos</grk> form, shape: cf. F. <ets>xiphoide</ets>.]</ety> <fld>(Anat.)</fld> <sd>(a)</sd> <def>Like a sword; ensiform.</def>  <sd>(b)</sd> <def>Of or pertaining to the xiphoid process; xiphoidian.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Xiphoidian</ent><br/
