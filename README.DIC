@@ -3,7 +3,7 @@ File  README.DIC
                 the electronic version of the
        Collaborative International Dictionary of English.
                    (called also GCIDE)
-       These files contain Version 0.46 (January 2002)
+       These files contain Version 0.51 (January 2012)
     * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 The dictionary was derived from the
@@ -67,9 +67,9 @@ Boston, MA 02111-1307, USA.
 STRUCTURE OF THE DICTIONARY
 ---------------------------
    When the archives are unpacked, the main dictionary text of 
-the GCIDE will be found in 26 files named "cide.*", where the
+the GCIDE will be found in 26 files named "CIDE.*", where the
 asterisk indicates which letter of the alphabet begins the
-words in each file.  For example, file "cide.b" contains words 
+words in each file.  For example, file "CIDE.B" contains words 
 beginning with the letter "B".  Additional information about the 
 tagging conventions and special character symbols are contained in 
 ancillary files in this directory more information below).  The main 
@@ -103,7 +103,7 @@ also noted, as in:
 [<source>Webster 1913 Suppl.</source> + <source>WordNet 1.5</source>]
 
     A list of the ancillary files related to the GCIDE is appended at 
-the bottom of this "readme.dic" file.
+the bottom of this "README.DIC" file.
     This version is tagged with SGML-like tags of the form <pos>...</pos>
 so that the original typography (italics, bold, block quotes) can be
 reproduced.  A list of the most important tags for fields in the 
@@ -119,11 +119,11 @@ tags or convert them to non-tag symbols, or, if possible, set the
 parser to ignore the <p>...</p> tags.
     The unusual characters (such as Greek or the European accented
 characters, as well as special characters used in the pronunciations)
-are described in the accompanying file "webfont.asc".  Some information
+are described in the accompanying file "WEBFONT.ASC".  Some information
 on the pronunciation system used may be found by viewing the files
-"wxxvii.jpg" and "pronunc.jpg" with a GIF viewer (or any web browser),
+"WXXVII.JPG" and "PRONUNC.JPG" with a GIF viewer (or any web browser),
 and additional explanations of pronunciation are in the file 
-"pronunc.web".
+"PRONUNC.WEB".
      Each paragraph of the original text is enclosed within tags of 
 the form <p> . . . </p>.  Within these paragraphs are no line
 breaks, and some of the paragraphs are over 12,000 characters long.
@@ -154,7 +154,7 @@ was usually moved to the next paragraph break).  Pages which have
 been proofread by volunteers (e.g., with initials VOL) will have a 
 note within that page comment: <-- p. 345 pr=VOL -->.  Pages which have 
 not been proofread yet (most of them) will have varying numbers of 
-typographical errors in them.   We still (January 2002) need 
+typographical errors in them.   We still (January 2012) need 
 proofreaders to get the errors out of these dictionary files.
 
 ***********************************************************************
@@ -191,15 +191,15 @@ explanatory material about this version of the dictionary is available
 in the ancillary files:
 
 =====================================================================
-COPYING             18,321  11-03-99  1:13a COPYING
-README   DIC        13,775  01-17-02 11:48p readme.dic
-WEBFONT  ASC        35,234  12-12-01  3:27p WEBFONT.ASC
-TAGSET   WEB        55,843  08-16-01  1:16p TAGSET.WEB
-PRONUNC  WEB        14,312  06-18-00  3:02p PRONUNC.WEB
-PRONUNC  JPG     2,569,796  06-18-00  3:11p PRONUNC.JPG
-SYMBOLS  JPG       144,716  06-18-00  3:13p SYMBOLS.JPG
-WXXVII   JPG     1,188,380  06-18-00  3:19p WXXVII.JPG
-==================================================================
+-rw-r--r-- 1    18021 2012-01-30 00:24 COPYING
+-rw-r--r-- 1  2569796 2000-06-18 15:11 PRONUNC.JPG
+-rw-r--r-- 1    13994 2012-01-30 00:24 PRONUNC.WEB
+-rw-r--r-- 1    13507 2012-01-30 00:27 README.DIC
+-rw-r--r-- 1   144716 2000-06-18 15:13 SYMBOLS.JPG
+-rw-r--r-- 1    54783 2012-01-30 00:24 TAGSET.WEB
+-rw-r--r-- 1    34631 2012-01-30 00:24 WEBFONT.ASC
+-rw-r--r-- 1  1188380 2000-06-18 15:19 WXXVII.JPG
+=====================================================================
 
 
 Most important tags used in the GCIDE:
