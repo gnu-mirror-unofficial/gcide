@@ -108,7 +108,7 @@ knowledge base should contact:
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tabanus</ent><br/
-||<hw>Ta*ba"nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., horsefly.]</ety> <fld>(Zool.)</fld> <def>A genus of blood sucking flies, including the horseflies.</def><br/
+\'d8<hw>Ta*ba"nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., horsefly.]</ety> <fld>(Zool.)</fld> <def>A genus of blood sucking flies, including the horseflies.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tabard</ent><br/
@@ -252,10 +252,10 @@ knowledge base should contact:
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tabes</ent><br/
-||<hw>Ta"bes</hw> <pr>(t<amac/"b<emac/z)</pr>, <pos>n.</pos> <ety>[L., a wasting disease.]</ety> <fld>(Med.)</fld> <def>Progressive emaciation of the body, accompanied with hectic fever, with no well-marked local symptoms.</def><br/
+\'d8<hw>Ta"bes</hw> <pr>(t<amac/"b<emac/z)</pr>, <pos>n.</pos> <ety>[L., a wasting disease.]</ety> <fld>(Med.)</fld> <def>Progressive emaciation of the body, accompanied with hectic fever, with no well-marked local symptoms.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs>||<col><b>Tabes dorsalis</b></col> <pr>(t<amac/"b<emac/z d<ocir/r*s<amac/"l<icr/s)</pr> <ety>[NL., tabes of the back]</ety>, <cd>locomotor ataxia; -- sometimes called simply <xex>tabes</xex>.</cd> -- ||<col><b>Tabes mesenterica</b></col> <pr>(<?/)</pr> <ety>[NL., mesenteric tabes]</ety>, <cd>a wasting disease of childhood characterized by chronic inflammation of the lymphatic glands of the mesentery, attended with caseous degeneration.</cd></cs><br/
+<p><cs>\'d8<col><b>Tabes dorsalis</b></col> <pr>(t<amac/"b<emac/z d<ocir/r*s<amac/"l<icr/s)</pr> <ety>[NL., tabes of the back]</ety>, <cd>locomotor ataxia; -- sometimes called simply <xex>tabes</xex>.</cd> -- \'d8<col><b>Tabes mesenterica</b></col> <pr>(<?/)</pr> <ety>[NL., mesenteric tabes]</ety>, <cd>a wasting disease of childhood characterized by chronic inflammation of the lymphatic glands of the mesentery, attended with caseous degeneration.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tabescent</ent><br/
@@ -429,7 +429,7 @@ That, when he plays at <qex>tables</qex>, chides the dice.</q> <rj><qau>Shak.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tableau</ent><br/
-||<hw>Ta`bleau"</hw> <pr>(t<adot/`bl<omac/" E. t<acr/b"l<omac/`; 277)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tableaux</plw> <pr>(t<adot/`bl<omac/" E. t<acr/b"l<omac/z`)</pr>.</plu> <ety>[F., dim. fr. L. <ets>tabula</ets> a painting. See <er>Table</er>.]</ety> <sn>1.</sn> <def>A striking and vivid representation; a picture.</def><br/
+\'d8<hw>Ta`bleau"</hw> <pr>(t<adot/`bl<omac/" E. t<acr/b"l<omac/`; 277)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tableaux</plw> <pr>(t<adot/`bl<omac/" E. t<acr/b"l<omac/z`)</pr>.</plu> <ety>[F., dim. fr. L. <ets>tabula</ets> a painting. See <er>Table</er>.]</ety> <sn>1.</sn> <def>A striking and vivid representation; a picture.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A representation of some scene by means of persons grouped in the proper manner, placed in appropriate postures, and remaining silent and motionless.</def><br/
@@ -439,7 +439,7 @@ That, when he plays at <qex>tables</qex>, chides the dice.</q> <rj><qau>Shak.</q
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tableau vivant</ent><br/
-||<hw>Ta`bleau" vi`vant"</hw> <pr>(t<adot/`bl<omac/" v<esl/`v<aum/N")</pr>; <plu><it>pl.</it> <plw>Tableaux vivants</plw> <pr>(t<adot/`bl<omac/" v<esl/`v<aum/N")</pr>.</plu> <ety>[F.]</ety> <def>Same as <er>Tableau</er>, <pos>n.</pos>, 2.</def><br/
+\'d8<hw>Ta`bleau" vi`vant"</hw> <pr>(t<adot/`bl<omac/" v<esl/`v<aum/N")</pr>; <plu><it>pl.</it> <plw>Tableaux vivants</plw> <pr>(t<adot/`bl<omac/" v<esl/`v<aum/N")</pr>.</plu> <ety>[F.]</ety> <def>Same as <er>Tableau</er>, <pos>n.</pos>, 2.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tablebook</ent><br/
@@ -454,7 +454,7 @@ That, when he plays at <qex>tables</qex>, chides the dice.</q> <rj><qau>Shak.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Table d'hote</ent><br/
-||<hw>Ta"ble d'h<ocir/te"</hw> <pr>(t<adot/"bl' d<omac/t`)</pr>; <plu><it>pl.</it> <plw>Tables d'h<ocir/te</plw> <pr>(#)</pr>.</plu> <ety>[F., literally, table of the landlord.]</ety> <sn>1.</sn> <def>A common table for guests at a hotel; an ordinary.</def><br/
+\'d8<hw>Ta"ble d'h<ocir/te"</hw> <pr>(t<adot/"bl' d<omac/t`)</pr>; <plu><it>pl.</it> <plw>Tables d'h<ocir/te</plw> <pr>(#)</pr>.</plu> <ety>[F., literally, table of the landlord.]</ety> <sn>1.</sn> <def>A common table for guests at a hotel; an ordinary.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Now, commonly, a meal, usually of several preselected and fixed courses, in a restaurant, hotel, or the like, for which one pays a fixed price.  Sometimes, a meal with optional courses for which one pays a fixed price irrespective of what one orders; but the latter is usuallyt referred to as a <contr>pris fixe</contr> meal or a <contr>a la carte</contr> meal. Often used adjectively; <as>as, a <ex>table-d'h<ocir/te</ex> meal</as>.</def><br/
@@ -628,7 +628,7 @@ To which our God himself is moon and sun.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tabula</ent><br/
-||<hw>Tab"u*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tabulae</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <sn>1.</sn> <def>A table; a tablet.</def><br/
+\'d8<hw>Tab"u*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tabulae</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <sn>1.</sn> <def>A table; a tablet.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>One of the transverse plants found in the calicles of certain corals and hydroids.</def><br/
@@ -671,7 +671,7 @@ To which our God himself is moon and sun.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tabulata</ent><br/
-||<hw>Tab`u*la"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>tabulatus</ets> floored.]</ety> <fld>(Zool.)</fld> <def>An artificial group of stony corals including those which have transverse septa in the calicles. The genera <gen>Pocillopora</gen> and Favosites are examples.</def>
+\'d8<hw>Tab`u*la"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>tabulatus</ets> floored.]</ety> <fld>(Zool.)</fld> <def>An artificial group of stony corals including those which have transverse septa in the calicles. The genera <gen>Pocillopora</gen> and Favosites are examples.</def>
 <-- ## note that Pocillopora is italicised but not listed separately in this dictionary.  Favosites is not italicised, and has an entry as a headword.  Is that the difference between italicisation  or not for genus names? --><br/
 [<source>1913 Webster</source>]</p>
 
@@ -706,7 +706,7 @@ To which our God himself is moon and sun.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tac-au-tac</ent><br/
-||<hw>Tac`-au-tac"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>riposter du tac au tac</ets> to parry (where <ets>tac</ets> imitates the sound made by the steel).]</ety> <fld>(Fencing)</fld> <def>The parry which is connected with a riposte; also, a series of quick attacks and parries in which neither fencer gains a point.</def><br/
+\'d8<hw>Tac`-au-tac"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>riposter du tac au tac</ets> to parry (where <ets>tac</ets> imitates the sound made by the steel).]</ety> <fld>(Fencing)</fld> <def>The parry which is connected with a riposte; also, a series of quick attacks and parries in which neither fencer gains a point.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tace</ent><br/
@@ -718,7 +718,7 @@ To which our God himself is moon and sun.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tacet</ent><br/
-||<hw>Ta"cet</hw> <pr>(?)</pr>, <pos>v. impers.</pos> <ety>[L., it is silent, 3d pers.pr. of <ets>tacere</ets> to be silent.]</ety> <fld>(Mus.)</fld> <def>It is silent; -- a direction for a vocal or instrumental part to be silent during a whole movement.</def><br/
+\'d8<hw>Ta"cet</hw> <pr>(?)</pr>, <pos>v. impers.</pos> <ety>[L., it is silent, 3d pers.pr. of <ets>tacere</ets> to be silent.]</ety> <fld>(Mus.)</fld> <def>It is silent; -- a direction for a vocal or instrumental part to be silent during a whole movement.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tache</ent><br/
@@ -734,7 +734,7 @@ To which our God himself is moon and sun.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tachina</ent><br/
-||<hw>Tach"i*na</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tachinae</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>tachino`s</grk>, for <grk>tachy`s</grk> swift.]</ety> <fld>(Zool.)</fld> <def>Any one of numerous species of Diptera belonging to <gen>Tachina</gen> and allied genera.  Their larvae are external parasites of other insects.</def><br/
+\'d8<hw>Tach"i*na</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tachinae</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>tachino`s</grk>, for <grk>tachy`s</grk> swift.]</ety> <fld>(Zool.)</fld> <def>Any one of numerous species of Diptera belonging to <gen>Tachina</gen> and allied genera.  Their larvae are external parasites of other insects.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tachistoscope</ent><br/
@@ -767,7 +767,7 @@ To which our God himself is moon and sun.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tachyglossa</ent><br/
-||<hw>Tach`y*glos"sa</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>tachy`s</grk> quick + <grk>glw^ssa</grk> tongue.]</ety> <fld>(Zool.)</fld> <def>A division of monotremes which comprises the spiny ant-eaters of Australia and New Guinea. See <xex>Illust.</xex> under <er>Echidna</er>.</def><br/
+\'d8<hw>Tach`y*glos"sa</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>tachy`s</grk> quick + <grk>glw^ssa</grk> tongue.]</ety> <fld>(Zool.)</fld> <def>A division of monotremes which comprises the spiny ant-eaters of Australia and New Guinea. See <xex>Illust.</xex> under <er>Echidna</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tachygraph</ent><br/
@@ -1087,7 +1087,7 @@ And bring thee cords made like a <qex>tackled</qex> stair.</q> <rj><qau>Shak.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Taedium</ent><br/
-||<hw>Tae"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>See <er>Tedium</er>.</def><br/
+\'d8<hw>Tae"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>See <er>Tedium</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tael</ent><br/
@@ -1100,7 +1100,7 @@ And bring thee cords made like a <qex>tackled</qex> stair.</q> <rj><qau>Shak.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Taenia</ent><br/
-||<hw>Tae"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Taeniae</plw> <pr>(#)</pr>.</plu> <ety>[L., a ribbon, a tapeworm.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A genus of intestinal worms which includes the common tapeworms of man. See <er>Tapeworm</er>.</def><br/
+\'d8<hw>Tae"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Taeniae</plw> <pr>(#)</pr>.</plu> <ety>[L., a ribbon, a tapeworm.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A genus of intestinal worms which includes the common tapeworms of man. See <er>Tapeworm</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Anat.)</fld> <def>A band; a structural line; -- applied to several bands and lines of nervous matter in the brain.</def><br/
@@ -1115,7 +1115,7 @@ And bring thee cords made like a <qex>tackled</qex> stair.</q> <rj><qau>Shak.</q
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Taeniada</ent><br/
-||<hw>Tae*ni"a*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Taenioidea</er>.</def><br/
+\'d8<hw>Tae*ni"a*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Taenioidea</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Teniafuge</ent><br/
@@ -1125,19 +1125,19 @@ And bring thee cords made like a <qex>tackled</qex> stair.</q> <rj><qau>Shak.</q
 
 <p><ent>Teniasis</ent><br/
 <ent>Taeniasis</ent><br/
-<mhw>{ ||<hw>Tae*ni"a*sis</hw> <pr>(?)</pr>, <pos>n.</pos> Also ||<hw>Te*ni"a*sis</hw> }</mhw>. <ety>[NL. See <er>Taenia</er>.]</ety> <fld>(Med.)</fld> <def>Ill health due to taenia, or tapeworms.</def><br/
+<mhw>{ \'d8<hw>Tae*ni"a*sis</hw> <pr>(?)</pr>, <pos>n.</pos> Also \'d8<hw>Te*ni"a*sis</hw> }</mhw>. <ety>[NL. See <er>Taenia</er>.]</ety> <fld>(Med.)</fld> <def>Ill health due to taenia, or tapeworms.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Taeniata</ent><br/
-||<hw>Tae`ni*a"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>taenia</ets> a ribbon.]</ety> <fld>(Zool.)</fld> <def>A division of Ctenophora including those which have a long, ribbonlike body. The Venus's girdle is the most familiar example.</def><br/
+\'d8<hw>Tae`ni*a"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>taenia</ets> a ribbon.]</ety> <fld>(Zool.)</fld> <def>A division of Ctenophora including those which have a long, ribbonlike body. The Venus's girdle is the most familiar example.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Taenidium</ent><br/
-||<hw>Tae*nid"i*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Taenidia</plw> <pr>(#)</pr>.</plu> <ety>[NL., dim. fr. L. <ets>taenia</ets> a ribbon.]</ety> <fld>(Zool.)</fld> <def>The chitinous fiber forming the spiral thread of the tracheae of insects. See <xex>Illust.</xex> of <er>Trachea</er>.</def><br/
+\'d8<hw>Tae*nid"i*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Taenidia</plw> <pr>(#)</pr>.</plu> <ety>[NL., dim. fr. L. <ets>taenia</ets> a ribbon.]</ety> <fld>(Zool.)</fld> <def>The chitinous fiber forming the spiral thread of the tracheae of insects. See <xex>Illust.</xex> of <er>Trachea</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Taenioglossa</ent><br/
-||<hw>Tae`ni*o*glos"sa</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>taini`a</grk> a ribbon + <grk>glw^ssa</grk> a tongue.]</ety> <fld>(Zool.)</fld> <def>An extensive division of gastropod mollusks in which the odontophore is long and narrow, and usually bears seven rows of teeth.  It includes a large number of families both marine and fresh-water.</def><br/
+\'d8<hw>Tae`ni*o*glos"sa</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>taini`a</grk> a ribbon + <grk>glw^ssa</grk> a tongue.]</ety> <fld>(Zool.)</fld> <def>An extensive division of gastropod mollusks in which the odontophore is long and narrow, and usually bears seven rows of teeth.  It includes a large number of families both marine and fresh-water.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Taenioglossate</ent><br/
@@ -1152,15 +1152,15 @@ And bring thee cords made like a <qex>tackled</qex> stair.</q> <rj><qau>Shak.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Taenioidea</ent><br/
-||<hw>Tae`ni*oi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <fld>(Zool.)</fld> <def>The division of cestode worms which comprises the tapeworms. See <er>Tapeworm</er>.</def><br/
+\'d8<hw>Tae`ni*oi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <fld>(Zool.)</fld> <def>The division of cestode worms which comprises the tapeworms. See <er>Tapeworm</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Taeniola</ent><br/
-||<hw>Tae*ni"o*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Taeniolae</plw> <pr>(#)</pr>.</plu> <ety>[L., dim. of <ets>taenia</ets> a ribbon.]</ety> <fld>(Zool.)</fld> <def>One of the radial partitions which separate the internal cavities of certain medusae.</def><br/
+\'d8<hw>Tae*ni"o*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Taeniolae</plw> <pr>(#)</pr>.</plu> <ety>[L., dim. of <ets>taenia</ets> a ribbon.]</ety> <fld>(Zool.)</fld> <def>One of the radial partitions which separate the internal cavities of certain medusae.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Taeniosomi</ent><br/
-||<hw>Tae`ni*o*so"mi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>taini`a</grk> ribbon + <grk>sw^ma</grk> body.]</ety> <fld>(Zool.)</fld> <def>An order of fishes remarkable for their long and compressed form. The ribbon fishes are examples. See <cref>Ribbon fish</cref>, under <er>Ribbon</er>.</def><br/
+\'d8<hw>Tae`ni*o*so"mi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>taini`a</grk> ribbon + <grk>sw^ma</grk> body.]</ety> <fld>(Zool.)</fld> <def>An order of fishes remarkable for their long and compressed form. The ribbon fishes are examples. See <cref>Ribbon fish</cref>, under <er>Ribbon</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tafferer</ent><br/
@@ -1280,7 +1280,7 @@ And bring thee cords made like a <qex>tackled</qex> stair.</q> <rj><qau>Shak.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Taglia</ent><br/
-||<hw>Tagl"ia</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It., a cutting, a pulley, from <ets>tagliare</ets> to cut. See <er>Tailor</er>.]</ety> <fld>(Mech.)</fld> <def>A peculiar combination of pulleys.</def>  <rj><au>Brande & C.</au></rj><br/
+\'d8<hw>Tagl"ia</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It., a cutting, a pulley, from <ets>tagliare</ets> to cut. See <er>Tailor</er>.]</ety> <fld>(Mech.)</fld> <def>A peculiar combination of pulleys.</def>  <rj><au>Brande & C.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tagliacotain</ent><br/
@@ -2089,11 +2089,11 @@ And hint he writ it, if the thing should <qex>take</qex>.</q> <rj><qau>Addison.<
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Talapoin</ent><br/
-||<hw>Tal"a*poin</hw> <pr>(t<acr/l"<adot/*poin)</pr>, <pos>n.</pos> <ety>[Pg. <ets>talapoi</ets>, <ets>talapoin</ets>, name for Buddhist priest, fr. Siamese <ets>t<lsquo/ama p<lsquo/r<acr/</ets>; <ets>t<lsquo/ama</ets>, honorific title + <ets>p<lsquo/r<acr/</ets> priest.]</ety> <def>A Buddhist monk or priest.</def> <mark>[Ceylon & Indo-China]</mark><br/
+\'d8<hw>Tal"a*poin</hw> <pr>(t<acr/l"<adot/*poin)</pr>, <pos>n.</pos> <ety>[Pg. <ets>talapoi</ets>, <ets>talapoin</ets>, name for Buddhist priest, fr. Siamese <ets>t<lsquo/ama p<lsquo/r<acr/</ets>; <ets>t<lsquo/ama</ets>, honorific title + <ets>p<lsquo/r<acr/</ets> priest.]</ety> <def>A Buddhist monk or priest.</def> <mark>[Ceylon & Indo-China]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Talaria</ent><br/
-||<hw>Ta*la"ri*a</hw> <pr>(t<adot/*l<amac/"r<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[L., from <ets>talaris</ets> pertaining to the ankles, fr. <ets>talus</ets> ankle.]</ety> <fld>(Class. Myth.)</fld> <def>Small wings or winged shoes represented as fastened to the ankles, -- chiefly used as an attribute of Mercury.</def><br/
+\'d8<hw>Ta*la"ri*a</hw> <pr>(t<adot/*l<amac/"r<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[L., from <ets>talaris</ets> pertaining to the ankles, fr. <ets>talus</ets> ankle.]</ety> <fld>(Class. Myth.)</fld> <def>Small wings or winged shoes represented as fastened to the ankles, -- chiefly used as an attribute of Mercury.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Talbot</ent><br/
@@ -2120,7 +2120,7 @@ And hint he writ it, if the thing should <qex>take</qex>.</q> <rj><qau>Addison.<
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Talcum</ent><br/
-||<hw>Tal"cum</hw> <pr>(t<acr/l"k<ucr/m)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Min.)</fld> <def>Same as <er>Talc</er>.</def><br/
+\'d8<hw>Tal"cum</hw> <pr>(t<acr/l"k<ucr/m)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Min.)</fld> <def>Same as <er>Talc</er>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tale</ent><br/
@@ -2188,7 +2188,7 @@ Under the hawthorn in the dale.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Talegalla</ent><br/
-||<hw>Tal`e*gal"la</hw> <pr>(t<amac/l`<esl/*g<acr/l"l<adot/)</pr>, <pos>prop. n.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A genus of Australian birds which includes the brush turkey. See <er>Brush turkey</er>.</def><br/
+\'d8<hw>Tal`e*gal"la</hw> <pr>(t<amac/l`<esl/*g<acr/l"l<adot/)</pr>, <pos>prop. n.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A genus of Australian birds which includes the brush turkey. See <er>Brush turkey</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Talent</ent><br/
@@ -2227,10 +2227,10 @@ Under the hawthorn in the dale.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tales</ent><br/
-||<hw>Ta"les</hw> <pr>(t<amac/"l<emac/z)</pr>, <pos>n.</pos> <ety>[L., pl. of <ets>talis</ets> such (persons).]</ety> <fld>(Law)</fld> <sd>(a)</sd> <pluf>pl.</pluf> <def>Persons added to a jury, commonly from those in or about the courthouse, to make up any deficiency in the number of jurors regularly summoned, being like, or <xex>such</xex> as, the latter.</def> <au>Blount.</au>  <au>Blackstone.</au> <sd>(b)</sd> <pos>syntactically sing.</pos> <def>The writ by which such persons are summoned.</def><br/
+\'d8<hw>Ta"les</hw> <pr>(t<amac/"l<emac/z)</pr>, <pos>n.</pos> <ety>[L., pl. of <ets>talis</ets> such (persons).]</ety> <fld>(Law)</fld> <sd>(a)</sd> <pluf>pl.</pluf> <def>Persons added to a jury, commonly from those in or about the courthouse, to make up any deficiency in the number of jurors regularly summoned, being like, or <xex>such</xex> as, the latter.</def> <au>Blount.</au>  <au>Blackstone.</au> <sd>(b)</sd> <pos>syntactically sing.</pos> <def>The writ by which such persons are summoned.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Tales book</b></col>, <cd>a book containing the names of such as are admitted of the tales.</cd> <au>Blount.</au> <au>Craig.</au> -- ||<col><b>Tales de circumstantibus</b></col> <ety>[L.]</ety>, <cd>such, or the like, from those standing about.</cd></cs><br/
+<p><cs><col><b>Tales book</b></col>, <cd>a book containing the names of such as are admitted of the tales.</cd> <au>Blount.</au> <au>Craig.</au> -- \'d8<col><b>Tales de circumstantibus</b></col> <ety>[L.]</ety>, <cd>such, or the like, from those standing about.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Talesman</ent><br/
@@ -2261,7 +2261,7 @@ Under the hawthorn in the dale.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Talipes</ent><br/
-||<hw>Tal"i*pes</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>talus</ets> an ankle + <ets>pes</ets>, <ets>pedis</ets>, a foot; cf. L. <ets>talipedare</ets> to be weak in the feet, properly, to walk on the ankles.]</ety> <fld>(Surg.)</fld> <def>The deformity called <altname>clubfoot</altname>. See <er>Clubfoot</er>.</def><br/
+\'d8<hw>Tal"i*pes</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>talus</ets> an ankle + <ets>pes</ets>, <ets>pedis</ets>, a foot; cf. L. <ets>talipedare</ets> to be weak in the feet, properly, to walk on the ankles.]</ety> <fld>(Surg.)</fld> <def>The deformity called <altname>clubfoot</altname>. See <er>Clubfoot</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Several varieties are distinguished; as, <stype>Talipes varus</stype>, in which the foot is drawn up and bent inward; <stype>T. valgus</stype>, in which the foot is bent outward; <stype>T. equinus</stype>, in which the sole faces backward and the patient walks upon the balls of the toes; and <stype>T. calcaneus</stype> (called also <stype>talus</stype>), in which the sole faces forward and the patient walks upon the heel.</note><br/
@@ -2424,11 +2424,11 @@ As e'er demolished a pye fortification.</q> <rj><qau>Massinger.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tallis</ent><br/
-||<hw>Tal"lis</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Tallith</er>.</def><br/
+\'d8<hw>Tal"lis</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Tallith</er>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tallith</ent><br/
-||<hw>Tal"lith</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NHeb. <ets>tall<imac/th</ets>.]</ety> <fld>(Jewish Costume)</fld> <sd>(a)</sd> <def>An undergarment worn by orthodox Jews, covering the chest and the upper part of the back. It has an opening for the head, and has tassels, called <part>zizith</part>, on its four corners.</def> <sd>(b)</sd> <def>A tasseled shawl or scarf worn over the head or thrown round the shoulders while at prayer.</def><br/
+\'d8<hw>Tal"lith</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NHeb. <ets>tall<imac/th</ets>.]</ety> <fld>(Jewish Costume)</fld> <sd>(a)</sd> <def>An undergarment worn by orthodox Jews, covering the chest and the upper part of the back. It has an opening for the head, and has tassels, called <part>zizith</part>, on its four corners.</def> <sd>(b)</sd> <def>A tasseled shawl or scarf worn over the head or thrown round the shoulders while at prayer.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tallness</ent><br/
@@ -2613,11 +2613,11 @@ As e'er demolished a pye fortification.</q> <rj><qau>Massinger.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Talpa</ent><br/
-||<hw>Tal"pa</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., mole.]</ety> <fld>(Zool.)</fld> <def>A genus of small insectivores including the common European mole.</def><br/
+\'d8<hw>Tal"pa</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., mole.]</ety> <fld>(Zool.)</fld> <def>A genus of small insectivores including the common European mole.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Talus</ent><br/
-||<hw>Ta"lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tali</plw> <pr>(#)</pr>.</plu> <ety>[L., the ankle, the ankle bone.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>The astragalus.</def><br/
+\'d8<hw>Ta"lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tali</plw> <pr>(#)</pr>.</plu> <ety>[L., the ankle, the ankle bone.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>The astragalus.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Surg.)</fld> <def>A variety of clubfoot (<spn>Talipes calcaneus</spn>). See the Note under <er>Talipes</er>.</def><br/
@@ -2842,7 +2842,7 @@ Coincidence, no doubt, but on the night of June 22, 1941, the Russian Scientist 
 [<source>PJC</source>]</p>
 
 <p><ent>Tamias</ent><br/
-||<hw>Ta"mi*as</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a distributer.]</ety> <fld>(Zool.)</fld> <def>A genus of ground squirrels, including the chipmunk.</def><br/
+\'d8<hw>Ta"mi*as</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a distributer.]</ety> <fld>(Zool.)</fld> <def>A genus of ground squirrels, including the chipmunk.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tamil</ent><br/
@@ -3054,7 +3054,7 @@ For Fleetwood, Desborough, and Lambert.</q> <rj><qau>Hudibras.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tanate</ent><br/
-||<hw>Ta*na"te</hw> <pr>(t<adot/*n<aum/"t<asl/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>An Asiatic wild dog (<spn>Canis procyonoides</spn>), native of Japan and adjacent countries. It has a short, bushy tail. Called also <altname>raccoon dog</altname>.</def><br/
+\'d8<hw>Ta*na"te</hw> <pr>(t<adot/*n<aum/"t<asl/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>An Asiatic wild dog (<spn>Canis procyonoides</spn>), native of Japan and adjacent countries. It has a short, bushy tail. Called also <altname>raccoon dog</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tandem</ent><br/
@@ -3209,7 +3209,7 @@ For Fleetwood, Desborough, and Lambert.</q> <rj><qau>Hudibras.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tanghinia</ent><br/
-||<hw>Tan*ghin"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Bot.)</fld> <def>The ordeal tree. See under <er>Ordeal</er>.</def><br/
+\'d8<hw>Tan*ghin"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Bot.)</fld> <def>The ordeal tree. See under <er>Ordeal</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tangibility</ent><br/
@@ -3574,7 +3574,7 @@ Within themselves, have <qex>tantalized</qex> thy life.</q> <rj><qau>Dryden.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tanystomata</ent><br/
-||<hw>Tan`y*stom"a*ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ to stretch + <?/, <?/, mouth.]</ety> <fld>(Zool.)</fld> <def>A division of dipterous insects in which the proboscis is large and contains lancelike mandibles and maxillae. The horseflies and robber flies are examples.</def><br/
+\'d8<hw>Tan`y*stom"a*ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ to stretch + <?/, <?/, mouth.]</ety> <fld>(Zool.)</fld> <def>A division of dipterous insects in which the proboscis is large and contains lancelike mandibles and maxillae. The horseflies and robber flies are examples.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Taoism</ent><br/
@@ -3582,7 +3582,7 @@ Within themselves, have <qex>tantalized</qex> thy life.</q> <rj><qau>Dryden.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Taotai</ent><br/
-||<hw>Tao`tai"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Chin. <ets>tao</ets> circuit + <ets>t'ai</ets>, a title of respect.]</ety> <def>In China, an official at the head of the civil and military affairs of a circuit, which consists of two or more <xex>fu</xex>, or territorial departments; -- called also, by foreigners, <altname>intendant of circuit</altname>. Foreign consuls and commissioners associated with taotais as superintendants of trade at the treaty ports are ranked with the taotai.</def><br/
+\'d8<hw>Tao`tai"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Chin. <ets>tao</ets> circuit + <ets>t'ai</ets>, a title of respect.]</ety> <def>In China, an official at the head of the civil and military affairs of a circuit, which consists of two or more <xex>fu</xex>, or territorial departments; -- called also, by foreigners, <altname>intendant of circuit</altname>. Foreign consuls and commissioners associated with taotais as superintendants of trade at the treaty ports are ranked with the taotai.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tap</ent><br/
@@ -3646,16 +3646,16 @@ Within themselves, have <qex>tantalized</qex> thy life.</q> <rj><qau>Dryden.</qa
 [<source>PJC</source>]</p>
 
 <p><ent>Tapa</ent><br/
-||<hw>Ta"pa</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A kind of cloth prepared by the Polynesians from the inner bark of the paper mulberry; -- sometimes called also <altname>kapa</altname>.</def><br/
+\'d8<hw>Ta"pa</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A kind of cloth prepared by the Polynesians from the inner bark of the paper mulberry; -- sometimes called also <altname>kapa</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tapadero</ent><br/
 <ent>Tapadera</ent><br/
-<mhw>{ ||<hw>Tap`a*de"ra</hw> <pr>(?)</pr>, ||<hw>Tap`a*de"ro</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos>} <altsp>[Also <asp>tapidero</asp>.]</altsp> <ety>[Sp. <ets>tapadera</ets> lid, cover.]</ety> <def>One of the leather hoods which cover the stirrups of a Mexican saddle.</def><br/
+<mhw>{ \'d8<hw>Tap`a*de"ra</hw> <pr>(?)</pr>, \'d8<hw>Tap`a*de"ro</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos>} <altsp>[Also <asp>tapidero</asp>.]</altsp> <ety>[Sp. <ets>tapadera</ets> lid, cover.]</ety> <def>One of the leather hoods which cover the stirrups of a Mexican saddle.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tapayaxin</ent><br/
-||<hw>Ta`pa*yax"in</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A Mexican spinous lizard (<spn>Phrynosoma orbiculare</spn>) having a head somewhat like that of a toad; -- called also <altname>horned toad</altname>.</def><br/
+\'d8<hw>Ta`pa*yax"in</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A Mexican spinous lizard (<spn>Phrynosoma orbiculare</spn>) having a head somewhat like that of a toad; -- called also <altname>horned toad</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tape</ent><br/
@@ -3757,7 +3757,7 @@ Within themselves, have <qex>tantalized</qex> thy life.</q> <rj><qau>Dryden.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tapetum</ent><br/
-||<hw>Ta*pe"tum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from L. <ets>tapete</ets> a carpet, a tapestry.]</ety> <fld>(Anat.)</fld> <def>An area in the pigmented layer of the choroid coat of the eye in many animals, which has an iridescent or metallic luster and helps to make the eye visible in the dark. Sometimes applied to the whole layer of pigmented epithelium of the choroid.</def><br/
+\'d8<hw>Ta*pe"tum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from L. <ets>tapete</ets> a carpet, a tapestry.]</ety> <fld>(Anat.)</fld> <def>An area in the pigmented layer of the choroid coat of the eye in many animals, which has an iridescent or metallic luster and helps to make the eye visible in the dark. Sometimes applied to the whole layer of pigmented epithelium of the choroid.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tapeworm</ent><br/
@@ -3772,7 +3772,7 @@ Within themselves, have <qex>tantalized</qex> thy life.</q> <rj><qau>Dryden.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Taphrenchyma</ent><br/
-||<hw>Taph*ren"chy*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ a trench + <ets>enchyma</ets>, as in <ets>parenchyma</ets>.]</ety> <fld>(Bot.)</fld> <def>Same as <er>Bothrenchyma</er>.</def><br/
+\'d8<hw>Taph*ren"chy*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ a trench + <ets>enchyma</ets>, as in <ets>parenchyma</ets>.]</ety> <fld>(Bot.)</fld> <def>Same as <er>Bothrenchyma</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tapinage</ent><br/
@@ -3832,7 +3832,7 @@ Although he <qex>tappish</qex> ne'er so soft.</q> <rj><qau>Chapman.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tapoa tafa</ent><br/
-||<hw>Ta*po"a ta"fa</hw> <pr>(?)</pr>. <fld>(Zool.)</fld> <def>A small carnivorous marsupial (<spn>Phascogale penicillata</spn>) having long, soft fur, and a very long tail with a tuft of long hairs at the end; -- called also <altname>brush-tailed phascogale</altname>.</def><br/
+\'d8<hw>Ta*po"a ta"fa</hw> <pr>(?)</pr>. <fld>(Zool.)</fld> <def>A small carnivorous marsupial (<spn>Phascogale penicillata</spn>) having long, soft fur, and a very long tail with a tuft of long hairs at the end; -- called also <altname>brush-tailed phascogale</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tappen</ent><br/
@@ -3951,7 +3951,7 @@ Although he <qex>tappish</qex> ne'er so soft.</q> <rj><qau>Chapman.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tardigrada</ent><br/
-||<hw>Tar`di*gra"da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Tardigrade</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A tribe of edentates comprising the sloths. They are noted for the slowness of their movements when on the ground. See <er>Sloth</er>, 3.</def><br/
+\'d8<hw>Tar`di*gra"da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Tardigrade</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A tribe of edentates comprising the sloths. They are noted for the slowness of their movements when on the ground. See <er>Sloth</er>, 3.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>An order of minute aquatic arachnids; -- called also <altname>bear animalcules</altname>, <altname>sloth animalcules</altname>, and <altname>water bears</altname>.</def><br/
@@ -3992,11 +3992,11 @@ Although he <qex>tappish</qex> ne'er so soft.</q> <rj><qau>Chapman.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tardo</ent><br/
-||<hw>Tar"do</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Slow; -- a direction to perform a passage slowly.</def><br/
+\'d8<hw>Tar"do</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Slow; -- a direction to perform a passage slowly.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tardo</ent><br/
-||<hw>Tar"do</hw>, <pos>n.</pos> <ety>[Sp., slow, L. <ets>tardus</ets>.]</ety> <fld>(Zool.)</fld> <def>A sloth.</def><br/
+\'d8<hw>Tar"do</hw>, <pos>n.</pos> <ety>[Sp., slow, L. <ets>tardus</ets>.]</ety> <fld>(Zool.)</fld> <def>A sloth.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tardy</ent><br/
@@ -4345,7 +4345,7 @@ Grow stale and <qex>tarnish</qex> with our daily sight.</q> <rj><qau>Dryden.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tarsale</ent><br/
-||<hw>Tar*sa"le</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tarsalia</plw> <pr>(#)</pr>.</plu> <ety>[NL.]</ety> <fld>(Anat.)</fld> <def>One of the bones or cartilages of the tarsus; esp., one of the series articulating with the metatarsals.</def><br/
+\'d8<hw>Tar*sa"le</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tarsalia</plw> <pr>(#)</pr>.</plu> <ety>[NL.]</ety> <fld>(Anat.)</fld> <def>One of the bones or cartilages of the tarsus; esp., one of the series articulating with the metatarsals.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tarse</ent><br/
@@ -4365,12 +4365,12 @@ Grow stale and <qex>tarnish</qex> with our daily sight.</q> <rj><qau>Dryden.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tarsi</ent><br/
-||<hw>Tar"si</hw> <pr>(?)</pr>, <pos>n.</pos>, <def><pos>pl.</pos> of <er>Tarsus</er>.</def><br/
+\'d8<hw>Tar"si</hw> <pr>(?)</pr>, <pos>n.</pos>, <def><pos>pl.</pos> of <er>Tarsus</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tarsiatura</ent><br/
 <ent>Tarsia</ent><br/
-<mhw>{ ||<hw>Tar"si*a</hw> <pr>(?)</pr>, ||<hw>Tar`si*a*tu"ra</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[It.]</ety> <def>A kind of mosaic in woodwork, much employed in Italy in the fifteenth century and later, in which scrolls and arabesques, and sometimes architectural scenes, landscapes, fruits, flowers, and the like, were produced by inlaying pieces of wood of different colors and shades into panels usually of walnut wood.</def><br/
+<mhw>{ \'d8<hw>Tar"si*a</hw> <pr>(?)</pr>, \'d8<hw>Tar`si*a*tu"ra</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[It.]</ety> <def>A kind of mosaic in woodwork, much employed in Italy in the fifteenth century and later, in which scrolls and arabesques, and sometimes architectural scenes, landscapes, fruits, flowers, and the like, were produced by inlaying pieces of wood of different colors and shades into panels usually of walnut wood.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tarsier</ent><br/
@@ -4378,7 +4378,7 @@ Grow stale and <qex>tarnish</qex> with our daily sight.</q> <rj><qau>Dryden.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tarsius</ent><br/
-||<hw>Tar"si*us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Tarsus</er>.]</ety> <fld>(Zool.)</fld> <def>A genus of nocturnal lemurine mammals having very large eyes and ears, a long tail, and very long proximal tarsal bones; -- called also <altname>malmag</altname>, <altname>spectral lemur</altname>, <altname>podji</altname>, and <altname>tarsier</altname>.</def><br/
+\'d8<hw>Tar"si*us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Tarsus</er>.]</ety> <fld>(Zool.)</fld> <def>A genus of nocturnal lemurine mammals having very large eyes and ears, a long tail, and very long proximal tarsal bones; -- called also <altname>malmag</altname>, <altname>spectral lemur</altname>, <altname>podji</altname>, and <altname>tarsier</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tarso-</ent><br/
@@ -4390,7 +4390,7 @@ Grow stale and <qex>tarnish</qex> with our daily sight.</q> <rj><qau>Dryden.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tarsometatarsus</ent><br/
-||<hw>Tar`so*met`a*tar"sus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tarsometatarsi</plw> <pr>(#)</pr>.</plu> <ety>[NL.]</ety> <fld>(Anat.)</fld> <def>The large bone next the foot in the leg of a bird. It is formed by the union of the distal part of the tarsus with the metatarsus.</def><br/
+\'d8<hw>Tar`so*met`a*tar"sus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tarsometatarsi</plw> <pr>(#)</pr>.</plu> <ety>[NL.]</ety> <fld>(Anat.)</fld> <def>The large bone next the foot in the leg of a bird. It is formed by the union of the distal part of the tarsus with the metatarsus.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tarsorrhaphy</ent><br/
@@ -4928,10 +4928,10 @@ Imprints the secret bias of the soul.</q> <rj><qau>Akenside.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tasto</ent><br/
-||<hw>Tas"to</hw> <pr>(t<aum/s"t<osl/)</pr>, <pos>n.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>A key or thing touched to produce a tone.</def><br/
+\'d8<hw>Tas"to</hw> <pr>(t<aum/s"t<osl/)</pr>, <pos>n.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>A key or thing touched to produce a tone.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs>||<col><b>Tasto solo</b></col>, <cd>single touch; -- in old music, a direction denoting that the notes in the bass over or under which it is written should be performed alone, or with no other chords than unisons and octaves.</cd></cs><br/
+<p><cs>\'d8<col><b>Tasto solo</b></col>, <cd>single touch; -- in old music, a direction denoting that the notes in the bass over or under which it is written should be performed alone, or with no other chords than unisons and octaves.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tasty</ent><br/
@@ -4993,7 +4993,7 @@ Imprints the secret bias of the soul.</q> <rj><qau>Akenside.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tatta</ent><br/
-||<hw>Tat"ta</hw> <pr>(t<acr/t"t<adot/)</pr>, <pos>n.</pos> <ety>[Hind. <ets><tsdot/a<tsdot/<tsdot/<imac/</ets>, <ets>t<amac/t<imac/</ets>.]</ety> <def>A bamboo frame or trellis hung at a door or window of a house, over which water is suffered to trickle, in order to moisten and cool the air as it enters.</def> <mark>[India]</mark><br/
+\'d8<hw>Tat"ta</hw> <pr>(t<acr/t"t<adot/)</pr>, <pos>n.</pos> <ety>[Hind. <ets><tsdot/a<tsdot/<tsdot/<imac/</ets>, <ets>t<amac/t<imac/</ets>.]</ety> <def>A bamboo frame or trellis hung at a door or window of a house, over which water is suffered to trickle, in order to moisten and cool the air as it enters.</def> <mark>[India]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tatter</ent><br/
@@ -5208,7 +5208,7 @@ Imprints the secret bias of the soul.</q> <rj><qau>Akenside.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Taurus</ent><br/
-||<hw>Tau"rus</hw> <pr>(t<add/"r<ucr/s)</pr>, <pos>n.</pos> <ety>[L., akin to Gr. <grk>tay^ros</grk>, and E. <ets>steer</ets>. See <er>Steer</er> a young ox.]</ety> <sn>1.</sn> <fld>(Astron.)</fld> <sd>(a)</sd> <def>The Bull; the second in order of the twelve signs of the zodiac, which the sun enters about the 20th of April; -- marked thus [<taurus/] in almanacs.</def> <sd>(b)</sd> <def>A zodiacal constellation, containing the well-known clusters called the Pleiades and the Hyades, in the latter of which is situated the remarkably bright Aldebaran.</def><br/
+\'d8<hw>Tau"rus</hw> <pr>(t<add/"r<ucr/s)</pr>, <pos>n.</pos> <ety>[L., akin to Gr. <grk>tay^ros</grk>, and E. <ets>steer</ets>. See <er>Steer</er> a young ox.]</ety> <sn>1.</sn> <fld>(Astron.)</fld> <sd>(a)</sd> <def>The Bull; the second in order of the twelve signs of the zodiac, which the sun enters about the 20th of April; -- marked thus [<taurus/] in almanacs.</def> <sd>(b)</sd> <def>A zodiacal constellation, containing the well-known clusters called the Pleiades and the Hyades, in the latter of which is situated the remarkably bright Aldebaran.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>A genus of ruminants comprising the common domestic cattle.</def><br/
@@ -5499,7 +5499,7 @@ Them <qex>tawdries</qex> for their necks.</q> <rj><qau>Drayton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Taxeopoda</ent><br/
-||<hw>Tax`e*op"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ (?) + <ets>-poda</ets>.]</ety> <fld>(Paleon.)</fld> <def>An order of extinct Mammalia found in the Tertiary formations.</def><br/
+\'d8<hw>Tax`e*op"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ (?) + <ets>-poda</ets>.]</ety> <fld>(Paleon.)</fld> <def>An order of extinct Mammalia found in the Tertiary formations.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Taxer</ent><br/
@@ -5542,7 +5542,7 @@ Them <qex>tawdries</qex> for their necks.</q> <rj><qau>Drayton.</qau></rj><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Taxis</ent><br/
-||<hw>Tax"is</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ta`xis</grk> a division or arrangement, fr. <grk>ta`ssein</grk> to arrange.]</ety> <sn>1.</sn> <fld>(Surg.)</fld> <def>Manipulation applied to a hernial tumor, or to an intestinal obstruction, for the purpose of reducing it.</def>  <rj><au>Dunglison.</au></rj><br/
+\'d8<hw>Tax"is</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ta`xis</grk> a division or arrangement, fr. <grk>ta`ssein</grk> to arrange.]</ety> <sn>1.</sn> <fld>(Surg.)</fld> <def>Manipulation applied to a hernial tumor, or to an intestinal obstruction, for the purpose of reducing it.</def>  <rj><au>Dunglison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>In technical uses, as in architecture, biology, grammar, etc., arrangement; order; ordonnance.</def><br/
@@ -5618,7 +5618,7 @@ Them <qex>tawdries</qex> for their necks.</q> <rj><qau>Drayton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tazza</ent><br/
-||<hw>Taz"za</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <def>An ornamental cup or vase with a large, flat, shallow bowl, resting on a pedestal and often having handles.</def><br/
+\'d8<hw>Taz"za</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <def>An ornamental cup or vase with a large, flat, shallow bowl, resting on a pedestal and often having handles.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>T cart</ent><br/
@@ -5630,7 +5630,7 @@ Them <qex>tawdries</qex> for their necks.</q> <rj><qau>Drayton.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Tchawytcha</ent><br/
-||<hw>Tcha*wy"tcha</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The quinnat salmon.</def> <mark>[Local, U. S.]</mark><br/
+\'d8<hw>Tcha*wy"tcha</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The quinnat salmon.</def> <mark>[Local, U. S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tchick</ent><br/
@@ -6248,11 +6248,11 @@ But indefatigable <qex>teasing</qex>.</q> <rj><qau>Hudibras.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tectibranchia</ent><br/
-||<hw>Tec`ti*bran"chi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <def>Same as <er>Tectibranchiata</er>.</def><br/
+\'d8<hw>Tec`ti*bran"chi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <def>Same as <er>Tectibranchiata</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tectibranchiata</ent><br/
-||<hw>Tec`ti*bran`chi*a"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>tectus</ets> (p. p. of <ets>tegere</ets> to cover) + Gr. <?/ a gill.]</ety> <fld>(Zool.)</fld> <def>An order, or suborder, of gastropod Mollusca in which the gills are usually situated on one side of the back, and protected by a fold of the mantle.  When there is a shell, it is usually thin and delicate and often rudimentary. The aplysias and the bubble shells are examples.</def><br/
+\'d8<hw>Tec`ti*bran`chi*a"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>tectus</ets> (p. p. of <ets>tegere</ets> to cover) + Gr. <?/ a gill.]</ety> <fld>(Zool.)</fld> <def>An order, or suborder, of gastropod Mollusca in which the gills are usually situated on one side of the back, and protected by a fold of the mantle.  When there is a shell, it is usually thin and delicate and often rudimentary. The aplysias and the bubble shells are examples.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tectibranchiate</ent><br/
@@ -6292,7 +6292,7 @@ But indefatigable <qex>teasing</qex>.</q> <rj><qau>Hudibras.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tectrices</ent><br/
-||<hw>Tec"tri*ces</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>tegere</ets>, <ets>tectum</ets>, to cover.]</ety> <fld>(Zool.)</fld> <def>The wing coverts of a bird. See <er>Covert</er>, and <xex>Illust.</xex> of <er>Bird</er>.</def><br/
+\'d8<hw>Tec"tri*ces</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>tegere</ets>, <ets>tectum</ets>, to cover.]</ety> <fld>(Zool.)</fld> <def>The wing coverts of a bird. See <er>Covert</er>, and <xex>Illust.</xex> of <er>Bird</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tecum</ent><br/
@@ -6322,11 +6322,11 @@ But indefatigable <qex>teasing</qex>.</q> <rj><qau>Hudibras.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tedesco</ent><br/
-||<hw>Te*des"co</hw> <pr>(?)</pr>, <pos>a.</pos>; <plu>pl. <plw>Tedeschi</plw> <pr>(#)</pr></plu>. <ety>[It., of Germanic origin. See <er>Dutch</er>.]</ety> <def>German; -- used chiefly of art, literature, etc.</def><br/
+\'d8<hw>Te*des"co</hw> <pr>(?)</pr>, <pos>a.</pos>; <plu>pl. <plw>Tedeschi</plw> <pr>(#)</pr></plu>. <ety>[It., of Germanic origin. See <er>Dutch</er>.]</ety> <def>German; -- used chiefly of art, literature, etc.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Te Deum</ent><br/
-||<hw>Te` De"um</hw> <pr>(?)</pr>. <ety>[L., from <ets>te</ets> (accus. of <ets>tu</ets> thou) + <ets>Deum</ets>, accus. of <ets>Deus</ets> God. See <er>Thou</er>, and <er>Deity</er>.]</ety> <sn>1.</sn> <def>An ancient and celebrated Christian hymn, of uncertain authorship, but often ascribed to St. Ambrose; -- so called from the first words <ldquo/<xex>Te Deum laudamus</xex>.<rdquo/ It forms part of the daily matins of the Roman Catholic breviary, and is sung on all occasions of thanksgiving. In its English form, commencing with words, <ldquo/We praise thee, O God,<rdquo/ it forms a part of the regular morning service of the Church of England and the Protestant Episcopal Church in America.</def><br/
+\'d8<hw>Te` De"um</hw> <pr>(?)</pr>. <ety>[L., from <ets>te</ets> (accus. of <ets>tu</ets> thou) + <ets>Deum</ets>, accus. of <ets>Deus</ets> God. See <er>Thou</er>, and <er>Deity</er>.]</ety> <sn>1.</sn> <def>An ancient and celebrated Christian hymn, of uncertain authorship, but often ascribed to St. Ambrose; -- so called from the first words <ldquo/<xex>Te Deum laudamus</xex>.<rdquo/ It forms part of the daily matins of the Roman Catholic breviary, and is sung on all occasions of thanksgiving. In its English form, commencing with words, <ldquo/We praise thee, O God,<rdquo/ it forms a part of the regular morning service of the Church of England and the Protestant Episcopal Church in America.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A religious service in which the singing of the hymn forms a principal part.</def><br/
@@ -6610,7 +6610,7 @@ Thou sank'st alone.</q> <rj><qau>M. Arnold.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tegmen</ent><br/
-||<hw>Teg"men</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tegmina</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. <ets>tegere</ets>, <ets>tectum</ets>, to cover.]</ety> <sn>1.</sn> <def>A tegument or covering.</def><br/
+\'d8<hw>Teg"men</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tegmina</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. <ets>tegere</ets>, <ets>tectum</ets>, to cover.]</ety> <sn>1.</sn> <def>A tegument or covering.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Bot.)</fld> <def>The inner layer of the coating of a seed, usually thin and delicate; the endopleura.</def><br/
@@ -6627,7 +6627,7 @@ Thou sank'st alone.</q> <rj><qau>M. Arnold.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tegmentum</ent><br/
-||<hw>Teg*men"tum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tegmenta</plw> <pr>(#)</pr>.</plu> <ety>[L., a covering.]</ety> <fld>(Anat.)</fld> <def>A covering; -- applied especially to the bundles of longitudinal fibers in the upper part of the crura of the cerebrum.</def><br/
+\'d8<hw>Teg*men"tum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tegmenta</plw> <pr>(#)</pr>.</plu> <ety>[L., a covering.]</ety> <fld>(Anat.)</fld> <def>A covering; -- applied especially to the bundles of longitudinal fibers in the upper part of the crura of the cerebrum.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Teguexin</ent><br/
@@ -6635,7 +6635,7 @@ Thou sank'st alone.</q> <rj><qau>M. Arnold.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tegula</ent><br/
-||<hw>Teg"u*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tegulae</plw> <pr>(#)</pr>.</plu> <ety>[L., a tile, dim. fr. <ets>tegere</ets> to cover.]</ety> <fld>(Zool.)</fld> <def>A small appendage situated above the base of the wings of Hymenoptera and attached to the mesonotum.</def><br/
+\'d8<hw>Teg"u*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tegulae</plw> <pr>(#)</pr>.</plu> <ety>[L., a tile, dim. fr. <ets>tegere</ets> to cover.]</ety> <fld>(Zool.)</fld> <def>A small appendage situated above the base of the wings of Hymenoptera and attached to the mesonotum.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tegular</ent><br/
@@ -6704,11 +6704,11 @@ Thou sank'st alone.</q> <rj><qau>M. Arnold.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Telamones</ent><br/
-||<hw>Tel`a*mo"nes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., pl. of <ets>telamo</ets> or <ets>telamon</ets>, Gr. <?/ a bearer, fr. <?/ to bear.]</ety> <fld>(Arch.)</fld> <def>Same as <er>Atlantes</er>.</def><br/
+\'d8<hw>Tel`a*mo"nes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., pl. of <ets>telamo</ets> or <ets>telamon</ets>, Gr. <?/ a bearer, fr. <?/ to bear.]</ety> <fld>(Arch.)</fld> <def>Same as <er>Atlantes</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Telangiectasis</ent><br/
-||<hw>Tel*an`gi*ec"ta*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ end + <?/ vessel + <?/ extension.]</ety> <fld>(Med.)</fld> <def>Dilatation of the capillary vessels.</def><br/
+\'d8<hw>Tel*an`gi*ec"ta*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ end + <?/ vessel + <?/ extension.]</ety> <fld>(Med.)</fld> <def>Dilatation of the capillary vessels.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Telangiectasy</ent><br/
@@ -6897,7 +6897,7 @@ Thou sank'st alone.</q> <rj><qau>M. Arnold.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Teleocephali</ent><br/
-||<hw>Te`le*o*ceph"a*li</hw> <pr>(t<emac/`l<esl/*<osl/*s<ecr/f"<adot/*l<imac/ <it>or</it> t<ecr/`l<esl/*<osl/*s<ecr/f"<adot/*l<imac/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>te`leos</grk> complete + <grk>kefalh`</grk> head.]</ety> <fld>(Zool.)</fld> <def>An extensive order of bony fishes including most of the common market species, as bass, salmon, cod, perch, etc.</def><br/
+\'d8<hw>Te`le*o*ceph"a*li</hw> <pr>(t<emac/`l<esl/*<osl/*s<ecr/f"<adot/*l<imac/ <it>or</it> t<ecr/`l<esl/*<osl/*s<ecr/f"<adot/*l<imac/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>te`leos</grk> complete + <grk>kefalh`</grk> head.]</ety> <fld>(Zool.)</fld> <def>An extensive order of bony fishes including most of the common market species, as bass, salmon, cod, perch, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Teleological</ent><br/
@@ -6931,7 +6931,7 @@ Thou sank'st alone.</q> <rj><qau>M. Arnold.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Teleosaurus</ent><br/
-||<hw>Te`le*o*sau"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ complete, perfect + <?/ a lizard.]</ety> <fld>(Paleon.)</fld> <def>A genus of extinct crocodilian reptiles of the Jurassic period, having a long and slender snout.</def><br/
+\'d8<hw>Te`le*o*sau"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ complete, perfect + <?/ a lizard.]</ety> <fld>(Paleon.)</fld> <def>A genus of extinct crocodilian reptiles of the Jurassic period, having a long and slender snout.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Teleost</ent><br/
@@ -6943,14 +6943,14 @@ Thou sank'st alone.</q> <rj><qau>M. Arnold.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Teleostei</ent><br/
-||<hw>Te`le*os"te*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ complete + <?/ bone.]</ety> <fld>(Zool.)</fld> <def>A subclass of fishes including all the ordinary bony fishes as distinguished from the ganoids.</def><br/
+\'d8<hw>Te`le*os"te*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ complete + <?/ bone.]</ety> <fld>(Zool.)</fld> <def>A subclass of fishes including all the ordinary bony fishes as distinguished from the ganoids.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 1481 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Teleostomi</ent><br/
-||<hw>Te"le*os`to*mi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ complete + <?/ mouth.]</ety> <fld>(Zool.)</fld> <def>An extensive division of fishes including the ordinary fishes (Teleostei) and the ganoids.</def><br/
+\'d8<hw>Te"le*os`to*mi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ complete + <?/ mouth.]</ety> <fld>(Zool.)</fld> <def>An extensive division of fishes including the ordinary fishes (Teleostei) and the ganoids.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Teleozoic</ent><br/
@@ -7293,7 +7293,7 @@ That you to-day promised to <qex>tell</qex> me of?</q> <rj><qau>Shak.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tellina</ent><br/
-||<hw>Tel*li"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a kind of shellfish.]</ety> <fld>(Zool.)</fld> <def>A genus of marine bivalve mollusks having thin, delicate, and often handsomely colored shells.</def><br/
+\'d8<hw>Tel*li"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a kind of shellfish.]</ety> <fld>(Zool.)</fld> <def>A genus of marine bivalve mollusks having thin, delicate, and often handsomely colored shells.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Telling</ent><br/
@@ -7417,7 +7417,7 @@ That you to-day promised to <qex>tell</qex> me of?</q> <rj><qau>Shak.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Telotrocha</ent><br/
-||<hw>Te*lot"ro*cha</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Telotrochae</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Telotrochal</er>.]</ety> <fld>(Zool.)</fld> <def>An annelid larva having telotrochal bands of cilia.</def><br/
+\'d8<hw>Te*lot"ro*cha</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Telotrochae</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Telotrochal</er>.]</ety> <fld>(Zool.)</fld> <def>An annelid larva having telotrochal bands of cilia.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Telotrochous</ent><br/
@@ -7462,7 +7462,7 @@ That you to-day promised to <qex>tell</qex> me of?</q> <rj><qau>Shak.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Temblor</ent><br/
-||<hw>Tem*blor"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>An earthquake.</def> <mark>[Western U. S.]</mark><br/
+\'d8<hw>Tem*blor"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>An earthquake.</def> <mark>[Western U. S.]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Temerarious</ent><br/
@@ -7605,7 +7605,7 @@ And gracious <qex>temper</qex> he both heared and judged.</q> <rj><qau>Milton.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tempera</ent><br/
-||<hw>Tem"pe*ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <fld>(Paint.)</fld> <def>A mode or process of painting; distemper.</def><br/
+\'d8<hw>Tem"pe*ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <fld>(Paint.)</fld> <def>A mode or process of painting; distemper.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The term is applied especially to early Italian painting, common vehicles of which were yolk of egg, yolk and white of egg mixed together, the white juice of the fig tree, and the like.</note><br/
@@ -7922,10 +7922,10 @@ Thy woods and <qex>templed</qex> hills.</q> <rj><qau>S. F. Smith.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tempo</ent><br/
-||<hw>Tem"po</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It., fr. L. <ets>tempus</ets>. See <er>Tense</er>, <pos>n.</pos>]</ety> <fld>(Mus.)</fld> <def>The rate or degree of movement in time.</def><br/
+\'d8<hw>Tem"po</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It., fr. L. <ets>tempus</ets>. See <er>Tense</er>, <pos>n.</pos>]</ety> <fld>(Mus.)</fld> <def>The rate or degree of movement in time.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs>||<col><b>A tempo giusto</b></col> <pr>(j<oomac/s"t<osl/)</pr> <ety>[It.]</ety>, <cd>in exact time; -- sometimes, directing a return to strict time after a tempo rubato.</cd> -- <col><b>Tempo rubato</b></col>. <cd>See under <er>Rubato</er>.</cd></cs><br/
+<p><cs>\'d8<col><b>A tempo giusto</b></col> <pr>(j<oomac/s"t<osl/)</pr> <ety>[It.]</ety>, <cd>in exact time; -- sometimes, directing a return to strict time after a tempo rubato.</cd> -- <col><b>Tempo rubato</b></col>. <cd>See under <er>Rubato</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Temporal</ent><br/
@@ -8270,7 +8270,7 @@ Let it be <qex>tenable</qex> in your silence still.</q> <rj><qau>Shak.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tenaculum</ent><br/
-||<hw>Te*nac"u*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Tenacula</plw> <pr>(#)</pr>; E. <plw>Tenaculums</plw> <pr>(#)</pr>.</plu> <ety>[L., a holder, fr. <ets>tenere</ets> to hold.  Cf. <er>Tenaille</er>.]</ety> <fld>(Surg.)</fld> <def>An instrument consisting of a fine, sharp hook attached to a handle, and used mainly for taking up arteries, and the like.</def><br/
+\'d8<hw>Te*nac"u*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Tenacula</plw> <pr>(#)</pr>; E. <plw>Tenaculums</plw> <pr>(#)</pr>.</plu> <ety>[L., a holder, fr. <ets>tenere</ets> to hold.  Cf. <er>Tenaille</er>.]</ety> <fld>(Surg.)</fld> <def>An instrument consisting of a fine, sharp hook attached to a handle, and used mainly for taking up arteries, and the like.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tenacy</ent><br/
@@ -8618,7 +8618,7 @@ Will never do him good.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tendosynovitis</ent><br/
-||<hw>Ten`do*syn`o*vi"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Tendon</er>, and <er>Synovitis</er>.]</ety> <def>See <er>Tenosynovitis</er>.</def><br/
+\'d8<hw>Ten`do*syn`o*vi"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Tendon</er>, and <er>Synovitis</er>.]</ety> <def>See <er>Tenosynovitis</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tendrac</ent><br/
@@ -8626,7 +8626,7 @@ Will never do him good.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tendre</ent><br/
-||<hw>Ten"dre</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Tender feeling or fondness; affection.</def></p>
+\'d8<hw>Ten"dre</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Tender feeling or fondness; affection.</def></p>
 
 <p><q>You poor friendless creatures are always having some foolish <qex>tendre</qex>.</q>  <rj><qau>Thackeray.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -8667,7 +8667,7 @@ Will never do him good.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tenebrae</ent><br/
-||<hw>Ten"e*brae</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., pl., darkness.]</ety> <fld>(R. C. Ch.)</fld> <def>The matins and lauds for the last three days of Holy Week, commemorating the sufferings and death of Christ, -- usually sung on the afternoon or evening of Wednesday, Thursday, and Friday, instead of on the following days.</def><br/
+\'d8<hw>Ten"e*brae</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., pl., darkness.]</ety> <fld>(R. C. Ch.)</fld> <def>The matins and lauds for the last three days of Holy Week, commemorating the sufferings and death of Christ, -- usually sung on the afternoon or evening of Wednesday, Thursday, and Friday, instead of on the following days.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tenebricose</ent><br/
@@ -8772,7 +8772,7 @@ Lay fitful in a <qex>tenebrific</qex> time.</q> <rj><qau>R. Browning.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tenesmus</ent><br/
-||<hw>Te*nes"mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <?/ to stretch: cf. L. <ets>tenesmos</ets>.]</ety> <fld>(Med.)</fld> <def>An urgent and distressing sensation, as if a discharge from the intestines must take place, although none can be effected; -- always referred to the lower extremity of the rectum.</def><br/
+\'d8<hw>Te*nes"mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <?/ to stretch: cf. L. <ets>tenesmos</ets>.]</ety> <fld>(Med.)</fld> <def>An urgent and distressing sensation, as if a discharge from the intestines must take place, although none can be effected; -- always referred to the lower extremity of the rectum.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Vesical tenesmus</b></col>, <cd>a similar sensation as to the evacuation of urine, referred to the region of the bladder.</cd></cs><br/
@@ -8800,7 +8800,7 @@ More dreadful and deform.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tenia</ent><br/
-||<hw>Te"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>See <er>Taenia</er>.</def><br/
+\'d8<hw>Te"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>See <er>Taenia</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tenioid</ent><br/
@@ -8812,7 +8812,7 @@ More dreadful and deform.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tenne</ent><br/
-||<hw>Ten`n<eacute/"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <er>Tawny</er>.]</ety> <fld>(Her.)</fld> <def>A tincture, rarely employed, which is considered as an orange color or bright brown. It is represented by diagonal lines from sinister to dexter, crossed by vertical lines.</def><br/
+\'d8<hw>Ten`n<eacute/"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <er>Tawny</er>.]</ety> <fld>(Her.)</fld> <def>A tincture, rarely employed, which is considered as an orange color or bright brown. It is represented by diagonal lines from sinister to dexter, crossed by vertical lines.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tennis</ent><br/
@@ -8830,7 +8830,7 @@ More dreadful and deform.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tenno</ent><br/
-||<hw>Ten*no"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Jap. <ets>tenn<omac/</ets>, fr. Chin. <ets>t'ien</ets> heaven + <ets>wang</ets> king.]</ety> <def>Lit., King of Heaven; -- a title of the emperor of Japan as the head of the Shinto religion.</def><br/
+\'d8<hw>Ten*no"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Jap. <ets>tenn<omac/</ets>, fr. Chin. <ets>t'ien</ets> heaven + <ets>wang</ets> king.]</ety> <def>Lit., King of Heaven; -- a title of the emperor of Japan as the head of the Shinto religion.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tennu</ent><br/
@@ -8864,11 +8864,11 @@ More dreadful and deform.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tenonitis</ent><br/
-||<hw>Ten`o*ni"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., Gr. <grk>te`nwn</grk> tendon + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of a tendon.</def><br/
+\'d8<hw>Ten`o*ni"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., Gr. <grk>te`nwn</grk> tendon + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of a tendon.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tenonitis</ent><br/
-||<hw>Ten`o*ni"tis</hw>, <pos>n.</pos> <ety>[NL. See <er>Tenonian</er>, <er>-itis</er>.]</ety> <def>Inflammation of the Tenonian capsule.</def><br/
+\'d8<hw>Ten`o*ni"tis</hw>, <pos>n.</pos> <ety>[NL. See <er>Tenonian</er>, <er>-itis</er>.]</ety> <def>Inflammation of the Tenonian capsule.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tenor</ent><br/
@@ -8908,11 +8908,11 @@ They kept the noiseless <qex>tenor</qex> of their away.</q> <rj><qau>Gray.</qau>
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tenositis</ent><br/
-||<hw>Ten`o*si"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>te`nwn</grk> tendon + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of a tendon.</def><br/
+\'d8<hw>Ten`o*si"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>te`nwn</grk> tendon + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of a tendon.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tenosynovitis</ent><br/
-||<hw>Ten`o*syn`o*vi"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>te`nwn</grk> a tendon + E. <ets>synovitis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the synovial sheath of a tendon.</def><br/
+\'d8<hw>Ten`o*syn`o*vi"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>te`nwn</grk> a tendon + E. <ets>synovitis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the synovial sheath of a tendon.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tenotome</ent><br/
@@ -9113,7 +9113,7 @@ To the bottom of the worst.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tentaculata</ent><br/
-||<hw>Ten*tac`u*la"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A division of Ctenophora including those which have two long tentacles.</def><br/
+\'d8<hw>Ten*tac`u*la"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A division of Ctenophora including those which have two long tentacles.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tentaculated</ent><br/
@@ -9122,7 +9122,7 @@ To the bottom of the worst.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tentaculifera</ent><br/
-||<hw>Ten`ta*cu*lif"e*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Suctoria</er>, 1.</def><br/
+\'d8<hw>Ten`ta*cu*lif"e*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Suctoria</er>, 1.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tentaculiferous</ent><br/
@@ -9142,7 +9142,7 @@ To the bottom of the worst.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tentaculum</ent><br/
-||<hw>Ten*tac"u*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tentacula</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Tentacle</er>.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A tentacle.</def><br/
+\'d8<hw>Ten*tac"u*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tentacula</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Tentacle</er>.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A tentacle.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Anat.)</fld> <def>One of the stiff hairs situated about the mouth, or on the face, of many animals, and supposed to be tactile organs; a tactile hair.</def><br/
@@ -9234,7 +9234,7 @@ To the bottom of the worst.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tenthredinides</ent><br/
-||<hw>Ten`thre*din"i*des</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ a kind of wasp.]</ety> <fld>(Zool.)</fld> <def>A group of Hymneoptera comprising the sawflies.</def><br/
+\'d8<hw>Ten`thre*din"i*des</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ a kind of wasp.]</ety> <fld>(Zool.)</fld> <def>A group of Hymneoptera comprising the sawflies.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tentif</ent><br/
@@ -9257,7 +9257,7 @@ To the bottom of the worst.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tentorium</ent><br/
-||<hw>Ten*to"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a tent.]</ety> <fld>(Anat.)</fld> <def>A fold of the dura mater which separates the cerebellum from the cerebrum and often incloses a process or plate of the skull called the <xex>bony tentorium</xex>.</def><br/
+\'d8<hw>Ten*to"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a tent.]</ety> <fld>(Anat.)</fld> <def>A fold of the dura mater which separates the cerebellum from the cerebrum and often incloses a process or plate of the skull called the <xex>bony tentorium</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tentory</ent><br/
@@ -9289,11 +9289,11 @@ To the bottom of the worst.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tenuirostres</ent><br/
-||<hw>Ten`u*i*ros"tres</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>An artificial group of passerine birds having slender bills, as the humming birds.</def><br/
+\'d8<hw>Ten`u*i*ros"tres</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>An artificial group of passerine birds having slender bills, as the humming birds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tenuis</ent><br/
-||<hw>Ten"u*is</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tenues</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. L. <ets>tenuis</ets> fine, thin. See <er>Tenuous</er>.]</ety> <fld>(Gr. Gram.)</fld> <def>One of the three surd mutes <kappa/, <pi/, <tau/; -- so called in relation to their respective middle letters, or medials, <gamma/, <beta/, <delta/, and their aspirates, <chi/, <phi/, <theta/. The term is also applied to the corresponding letters and articulate elements in other languages.</def><br/
+\'d8<hw>Ten"u*is</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tenues</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. L. <ets>tenuis</ets> fine, thin. See <er>Tenuous</er>.]</ety> <fld>(Gr. Gram.)</fld> <def>One of the three surd mutes <kappa/, <pi/, <tau/; -- so called in relation to their respective middle letters, or medials, <gamma/, <beta/, <delta/, and their aspirates, <chi/, <phi/, <theta/. The term is also applied to the corresponding letters and articulate elements in other languages.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tenuity</ent><br/
@@ -9386,7 +9386,7 @@ Beat the wild war-drums made of serpent's skin.</q> <rj><qau>Longfellow.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tephrosia</ent><br/
-||<hw>Te*phro"si*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ ash-colored, from <?/ ashes.]</ety> <fld>(Bot.)</fld> <def>A genus of leguminous shrubby plants and herbs, mostly found in tropical countries, a few herbaceous species being North American. The foliage is often ashy-pubescent, whence the name.</def><br/
+\'d8<hw>Te*phro"si*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ ash-colored, from <?/ ashes.]</ety> <fld>(Bot.)</fld> <def>A genus of leguminous shrubby plants and herbs, mostly found in tropical countries, a few herbaceous species being North American. The foliage is often ashy-pubescent, whence the name.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The <xex>Tephrosia toxicaria</xex> is used in the West Indies and in Polynesia for stupefying fish. <xex>T</xex>. <xex>purpurea</xex> is used medicinally in the East Indies. <xex>T</xex>. <xex>Virginia</xex> is the goat's rue of the United States.</note><br/
@@ -9538,7 +9538,7 @@ Beat the wild war-drums made of serpent's skin.</q> <rj><qau>Longfellow.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terebra</ent><br/
-||<hw>Ter"e*bra</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Terebras</plw> <pr>(#)</pr>, L. <plw>Terebrae</plw> <pr>(#)</pr>.</plu> <ety>[L., a borer.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A genus of marine gastropods having a long, tapering spire. They belong to the Toxoglossa. Called also <altname>auger shell</altname>.</def><br/
+\'d8<hw>Ter"e*bra</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Terebras</plw> <pr>(#)</pr>, L. <plw>Terebrae</plw> <pr>(#)</pr>.</plu> <ety>[L., a borer.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A genus of marine gastropods having a long, tapering spire. They belong to the Toxoglossa. Called also <altname>auger shell</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>The boring ovipositor of a hymenopterous insect.</def><br/
@@ -9549,7 +9549,7 @@ Beat the wild war-drums made of serpent's skin.</q> <rj><qau>Longfellow.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terebrantia</ent><br/
-||<hw>Ter`e*bran"ti*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A division of Hymenoptera including those which have an ovipositor adapted for perforating plants. It includes the sawflies.</def><br/
+\'d8<hw>Ter`e*bran"ti*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A division of Hymenoptera including those which have an ovipositor adapted for perforating plants. It includes the sawflies.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terebrate</ent><br/
@@ -9568,7 +9568,7 @@ Beat the wild war-drums made of serpent's skin.</q> <rj><qau>Longfellow.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terebratula</ent><br/
-||<hw>Ter`e*brat"u*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Terebratulae</plw> <pr>(#)</pr>.</plu> <ety>[Nl., dim. fr. <ets>terebratus</ets>, p. p., perforated.]</ety> <fld>(Zool.)</fld> <def>A genus of brachiopods which includes many living and some fossil species. The larger valve has a perforated beak, through which projects a short peduncle for attachment. Called also <altname>lamp shell</altname>.</def><br/
+\'d8<hw>Ter`e*brat"u*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Terebratulae</plw> <pr>(#)</pr>.</plu> <ety>[Nl., dim. fr. <ets>terebratus</ets>, p. p., perforated.]</ety> <fld>(Zool.)</fld> <def>A genus of brachiopods which includes many living and some fossil species. The larger valve has a perforated beak, through which projects a short peduncle for attachment. Called also <altname>lamp shell</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terebratulid</ent><br/
@@ -9665,7 +9665,7 @@ Beat the wild war-drums made of serpent's skin.</q> <rj><qau>Longfellow.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tergum</ent><br/
-||<hw>Ter"gum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Terga</plw> <pr>(#)</pr>.</plu> <ety>[L., the back.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>The back of an animal.</def> <sd>(b)</sd> <def>The dorsal piece of a somite of an articulate animal.</def> <sd>(c)</sd> <def>One of the dorsal plates of the operculum of a cirriped.</def><br/
+\'d8<hw>Ter"gum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Terga</plw> <pr>(#)</pr>.</plu> <ety>[L., the back.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>The back of an animal.</def> <sd>(b)</sd> <def>The dorsal piece of a somite of an articulate animal.</def> <sd>(c)</sd> <def>One of the dorsal plates of the operculum of a cirriped.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terin</ent><br/
@@ -9762,7 +9762,7 @@ Therefore every tree is combustible, -<br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terma</ent><br/
-||<hw>Ter"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Term</er>, <pos>n.</pos>]</ety> <fld>(Anat.)</fld> <def>The terminal lamina, or thin ventral part, of the anterior wall of the third ventricle of the brain.</def>  <rj><au>B. G. Wilder.</au></rj><br/
+\'d8<hw>Ter"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Term</er>, <pos>n.</pos>]</ety> <fld>(Anat.)</fld> <def>The terminal lamina, or thin ventral part, of the anterior wall of the third ventricle of the brain.</def>  <rj><au>B. G. Wilder.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Termagancy</ent><br/
@@ -9794,7 +9794,7 @@ On <qex>Termagant</qex> the more, and on Mahound.</q> <rj><qau>Fairfax.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Termatarium</ent><br/
-||<hw>Ter`ma*ta"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Termes</er>.]</ety> <fld>(Zool.)</fld> <def>Any nest or dwelling of termes, or white ants.</def><br/
+\'d8<hw>Ter`ma*ta"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Termes</er>.]</ety> <fld>(Zool.)</fld> <def>Any nest or dwelling of termes, or white ants.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Termatary</ent><br/
@@ -9813,7 +9813,7 @@ On <qex>Termagant</qex> the more, and on Mahound.</q> <rj><qau>Fairfax.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Termes</ent><br/
-||<hw>Ter"mes</hw> <pr>(t<etil/r"m<emac/z)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Termites</plw> <pr>(-m<icr/*t<emac/z)</pr>.</plu> <ety>[L. <ets>termes</ets>, <ets>tarmes</ets>, <ets>-itis</ets>, a woodworm.  Cf. <er>Termite</er>.]</ety> <fld>(Zool.)</fld> <def>A genus of Pseudoneuroptera including the white ants, or termites. See <er>Termite</er>.</def><br/
+\'d8<hw>Ter"mes</hw> <pr>(t<etil/r"m<emac/z)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Termites</plw> <pr>(-m<icr/*t<emac/z)</pr>.</plu> <ety>[L. <ets>termes</ets>, <ets>tarmes</ets>, <ets>-itis</ets>, a woodworm.  Cf. <er>Termite</er>.]</ety> <fld>(Zool.)</fld> <def>A genus of Pseudoneuroptera including the white ants, or termites. See <er>Termite</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terminable</ent><br/
@@ -9862,7 +9862,7 @@ On <qex>Termagant</qex> the more, and on Mahound.</q> <rj><qau>Fairfax.</qau></r
 [<source>PJC</source>]</p>
 
 <p><ent>Terminalia</ent><br/
-||<hw>Ter`mi*na"li*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L.]</ety> <fld>(Rom. Antiq.)</fld> <def>A festival celebrated annually by the Romans on February 23 in honor of <etsep>Terminus</etsep>, the god of boundaries.</def><br/
+\'d8<hw>Ter`mi*na"li*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L.]</ety> <fld>(Rom. Antiq.)</fld> <def>A festival celebrated annually by the Romans on February 23 in honor of <etsep>Terminus</etsep>, the god of boundaries.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terminant</ent><br/
@@ -10103,7 +10103,7 @@ On <qex>Termagant</qex> the more, and on Mahound.</q> <rj><qau>Fairfax.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terra</ent><br/
-||<hw>Ter"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. & L. See <er>Terrace</er>.]</ety> <def>The earth; earth.</def><br/
+\'d8<hw>Ter"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. & L. See <er>Terrace</er>.]</ety> <def>The earth; earth.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Terra alba</b></col> <ety>[L., white earth]</ety> <fld>(Com.)</fld>, <cd>a white amorphous earthy substance consisting of burnt gypsum, aluminium silicate (kaolin), or some similar ingredient, as magnesia. It is sometimes used to adulterate certain foods, spices, candies, paints, etc.</cd> -- <col><b>Terra cotta</b></col>. <ety>[It., fr. <ets>terra</ets> earth + <ets>cotta</ets>, fem. of <ets>cotto</ets> cooked, L. <ets>coctus</ets>, p. p. of <ets>coquere</ets> to cook. See <er>Cook</er>, <pos>n.</pos>]</ety> <cd>Baked clay; a kind of hard pottery used for statues, architectural decorations, figures, vases, and the like.</cd> -- <col><b>Terrae filius</b></col> <ety>[L., son of the earth]</ety>, <cd>formerly, one appointed to write a satirical Latin poem at the public acts in the University of Oxford; -- not unlike the <it>prevaricator</it> at Cambridge, England.</cd> -- <col><b>Terra firma</b></col> <ety>[L.]</ety>, <cd>firm or solid earth, as opposed to <contr>water</contr>.</cd> -- <col><b>Terra Japonica</b></col>. <ety>[NL.]</ety> <cd>Same as <er>Gambier</er>. It was formerly supposed to be a kind of earth from Japan.</cd> -- <col><b>Terra Lemnia</b></col> <ety>[L., Lemnian earth]</ety>, <cd>Lemnian earth. See under <er>Lemnian</er>.</cd> -- <col><b>Terra ponderosa</b></col> <ety>[L., ponderous earth]</ety> <fld>(Min.)</fld>, <cd>barite, or heavy spar.</cd> -- <col><b>Terra di Sienna</b></col>. <cd>See <er>Sienna</er>.</cd></cs><br/
@@ -10143,7 +10143,7 @@ On <qex>Termagant</qex> the more, and on Mahound.</q> <rj><qau>Fairfax.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terra incognita</ent><br/
-||<hw>Ter"ra in*cog"ni*ta</hw> <pr>(?)</pr>. <ety>[L.]</ety> <def>An unknown land; unexplored country.</def></p>
+\'d8<hw>Ter"ra in*cog"ni*ta</hw> <pr>(?)</pr>. <ety>[L.]</ety> <def>An unknown land; unexplored country.</def></p>
 
 <p><q>The enormous tracts lying outside China proper, still almost <qex>terrae incognitae</qex>.</q>  <rj><qau>A. R. Colquhoun.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -10326,7 +10326,7 @@ Of towering talents, and <qex>terrestrial</qex> aims.</q> <rj><qau>Young.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terricolae</ent><br/
-||<hw>Ter*ric"o*lae</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>terra + colere</ets> to inhabit.]</ety> <fld>(Zool.)</fld> <def>A division of annelids including the common earthworms and allied species.</def><br/
+\'d8<hw>Ter*ric"o*lae</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>terra + colere</ets> to inhabit.]</ety> <fld>(Zool.)</fld> <def>A division of annelids including the common earthworms and allied species.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terrienniak</ent><br/
@@ -10496,7 +10496,7 @@ Before him -- towns, and rural works between.</q> <rj><qau>Milton.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tersanctus</ent><br/
-||<hw>Ter*sanc"tus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>ter</ets> thrice + <ets>sanctus</ets> holy.]</ety> <fld>(Eccl.)</fld> <def>An ancient ascription of praise (containing the word <ldquo/Holy<rdquo/ -- in its Latin form, <ldquo/<xex>Sanctus</xex><rdquo/ -- thrice repeated), used in the Mass of the Roman Catholic Church and before the prayer of consecration in the communion service of the Church of England and the Protestant Episcopal Church.  Cf. <er>Trisagion</er>.</def><br/
+\'d8<hw>Ter*sanc"tus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>ter</ets> thrice + <ets>sanctus</ets> holy.]</ety> <fld>(Eccl.)</fld> <def>An ancient ascription of praise (containing the word <ldquo/Holy<rdquo/ -- in its Latin form, <ldquo/<xex>Sanctus</xex><rdquo/ -- thrice repeated), used in the Mass of the Roman Catholic Church and before the prayer of consecration in the communion service of the Church of England and the Protestant Episcopal Church.  Cf. <er>Trisagion</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terse</ent><br/
@@ -10596,19 +10596,19 @@ Plan, moral, all, in that short space.<rdquo/</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tertium quid</ent><br/
-||<hw>Ter"ti*um quid</hw> <pr>(?)</pr>. <ety>[L.]</ety> <def>A third somewhat; something mediating, or regarded as being, between two diverse or incompatible substances, natures, or positions.</def><br/
+\'d8<hw>Ter"ti*um quid</hw> <pr>(?)</pr>. <ety>[L.]</ety> <def>A third somewhat; something mediating, or regarded as being, between two diverse or incompatible substances, natures, or positions.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Terutero</ent><br/
-||<hw>Ter`u*ter"o</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Probably so named from its city.]</ety> <fld>(Zool.)</fld> <def>The South American lapwing (<spn>Vanellus Cayennensis</spn>). Its wings are furnished with short spurs. Called also <altname>Cayenne lapwing</altname>.</def><br/
+\'d8<hw>Ter`u*ter"o</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Probably so named from its city.]</ety> <fld>(Zool.)</fld> <def>The South American lapwing (<spn>Vanellus Cayennensis</spn>). Its wings are furnished with short spurs. Called also <altname>Cayenne lapwing</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terza rima</ent><br/
-||<hw>Ter"za ri"ma</hw> <pr>(?)</pr>. <ety>[It., a third or triple rhyme.]</ety> <def>A peculiar and complicated system of versification, borrowed by the early Italian poets from the Troubadours.</def><br/
+\'d8<hw>Ter"za ri"ma</hw> <pr>(?)</pr>. <ety>[It., a third or triple rhyme.]</ety> <def>A peculiar and complicated system of versification, borrowed by the early Italian poets from the Troubadours.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terzetto</ent><br/
-||<hw>Ter*zet"to</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It., dim. of <ets>terzo</ets> the third, L. <ets>tertius</ets>. See <er>Tierce</er>.]</ety> <fld>(Mus.)</fld> <def>A composition in three voice parts; a vocal (rarely an instrumental) trio.</def><br/
+\'d8<hw>Ter*zet"to</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It., dim. of <ets>terzo</ets> the third, L. <ets>tertius</ets>. See <er>Tierce</er>.]</ety> <fld>(Mus.)</fld> <def>A composition in three voice parts; a vocal (rarely an instrumental) trio.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tesla transformer</ent><br/
@@ -10621,7 +10621,7 @@ Plan, moral, all, in that short space.<rdquo/</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tessellata</ent><br/
-||<hw>Tes`sel*la"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Tessellate</er>.]</ety> <fld>(Zool.)</fld> <def>A division of Crinoidea including numerous fossil species in which the body is covered with tessellated plates.</def><br/
+\'d8<hw>Tes`sel*la"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Tessellate</er>.]</ety> <fld>(Zool.)</fld> <def>A division of Crinoidea including numerous fossil species in which the body is covered with tessellated plates.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tessellate</ent><br/
@@ -10647,7 +10647,7 @@ Plan, moral, all, in that short space.<rdquo/</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tessera</ent><br/
-||<hw>Tes"se*ra</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tesserae</plw> <pr>(#)</pr>.</plu> <ety>[L., a square piece, a die. See <er>Tessellar</er>.]</ety> <def>A small piece of marble, glass, earthenware, or the like, having a square, or nearly square, face, used by the ancients for mosaic, as for making pavements, for ornamenting walls, and like purposes; also, a similar piece of ivory, bone, wood, etc., used as a ticket of admission to theaters, or as a certificate for successful gladiators, and as a token for various other purposes.</def>  <rj><au>Fairholt.</au></rj><br/
+\'d8<hw>Tes"se*ra</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tesserae</plw> <pr>(#)</pr>.</plu> <ety>[L., a square piece, a die. See <er>Tessellar</er>.]</ety> <def>A small piece of marble, glass, earthenware, or the like, having a square, or nearly square, face, used by the ancients for mosaic, as for making pavements, for ornamenting walls, and like purposes; also, a similar piece of ivory, bone, wood, etc., used as a ticket of admission to theaters, or as a certificate for successful gladiators, and as a token for various other purposes.</def>  <rj><au>Fairholt.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tesseraic</ent><br/
@@ -10753,7 +10753,7 @@ Comes out more bright, and brings forth all its weight.</q> <rj><qau>Addison.</q
 
 <p><ent>Testa</ent><br/
 <ent>Test</ent><br/
-<mhw>{ <hw>Test</hw> <pr>(?)</pr>, ||<hw>Tes"ta</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Tests</plw> <pr>(#)</pr>, L. <plw>Testae</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>testa</ets> a piece of burned clay, a broken piece of earthenware, a shell. See <er>Test</er> a cupel.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>The external hard or firm covering of many invertebrate animals.</def><br/
+<mhw>{ <hw>Test</hw> <pr>(?)</pr>, \'d8<hw>Tes"ta</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Tests</plw> <pr>(#)</pr>, L. <plw>Testae</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>testa</ets> a piece of burned clay, a broken piece of earthenware, a shell. See <er>Test</er> a cupel.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>The external hard or firm covering of many invertebrate animals.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The <xex>test</xex> of crustaceans and insects is composed largely of chitin; in mollusks it is composed chiefly of calcium carbonate, and is called the <xex>shell</xex>.</note><br/
@@ -10770,7 +10770,7 @@ Comes out more bright, and brings forth all its weight.</q> <rj><qau>Addison.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Testacea</ent><br/
-||<hw>Tes*ta"ce*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>testaceum</ets> a shelled anumal. See <er>Testaceous</er>.]</ety> <fld>(Zool.)</fld> <def>Invertebrate animals covered with shells, especially mollusks; shellfish.</def><br/
+\'d8<hw>Tes*ta"ce*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>testaceum</ets> a shelled anumal. See <er>Testaceous</er>.]</ety> <fld>(Zool.)</fld> <def>Invertebrate animals covered with shells, especially mollusks; shellfish.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Testacean</ent><br/
@@ -10846,7 +10846,7 @@ And thus remember thee.</q> <rj><qau>J. Montgomery.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Testamur</ent><br/
-||<hw>Tes*ta"mur</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., we testify, fr. <ets>testari</ets> to testify.]</ety> <fld>(Eng. Universities)</fld> <def>A certificate of merit or proficiency; -- so called from the Latin words, <xex>Ita testamur</xex>, with which it commences.</def><br/
+\'d8<hw>Tes*ta"mur</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., we testify, fr. <ets>testari</ets> to testify.]</ety> <fld>(Eng. Universities)</fld> <def>A certificate of merit or proficiency; -- so called from the Latin words, <xex>Ita testamur</xex>, with which it commences.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Testate</ent><br/
@@ -10902,11 +10902,11 @@ And thus remember thee.</q> <rj><qau>J. Montgomery.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Testes</ent><br/
-||<hw>Tes"tes</hw> <pr>(?)</pr>, <pos>n.</pos>, <def><pos>pl.</pos> of <er>Teste</er>, or of <er>Testis</er>.</def><br/
+\'d8<hw>Tes"tes</hw> <pr>(?)</pr>, <pos>n.</pos>, <def><pos>pl.</pos> of <er>Teste</er>, or of <er>Testis</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Testicardines</ent><br/
-||<hw>Tes`ti*car"di*nes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Test</er> a shell, and <er>Cardo</er>.]</ety> <fld>(Zool.)</fld> <def>A division of brachiopods including those which have a calcareous shell furnished with a hinge and hinge teeth. Terebratula and Spirifer are examples.</def><br/
+\'d8<hw>Tes`ti*car"di*nes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Test</er> a shell, and <er>Cardo</er>.]</ety> <fld>(Zool.)</fld> <def>A division of brachiopods including those which have a calcareous shell furnished with a hinge and hinge teeth. Terebratula and Spirifer are examples.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Testicle</ent><br/
@@ -10926,7 +10926,7 @@ And thus remember thee.</q> <rj><qau>J. Montgomery.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Testiere</ent><br/
-||<hw>Tes`ti*<egrave/re"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF. <ets>testiere</ets>. See <er>Tester</er> a headpiece.]</ety> <def>A piece of plate armor for the head of a war horse; a tester.</def><br/
+\'d8<hw>Tes`ti*<egrave/re"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF. <ets>testiere</ets>. See <er>Tester</er> a headpiece.]</ety> <def>A piece of plate armor for the head of a war horse; a tester.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Testif</ent><br/
@@ -11055,7 +11055,7 @@ Universal reproach.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Testis</ent><br/
-||<hw>Tes"tis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Testes</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Anat.)</fld> <def>A testicle.</def><br/
+\'d8<hw>Tes"tis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Testes</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Anat.)</fld> <def>A testicle.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Test-market</ent><br/
@@ -11087,7 +11087,7 @@ Universal reproach.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Testudinata</ent><br/
-||<hw>Tes*tu`di*na"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Nl. See <er>Testudo</er>.]</ety> <fld>(Zool.)</fld> <def>An order of reptiles which includes the turtles and tortoises. The body is covered by a shell consisting of an upper or dorsal shell, called the <part>carapace</part>, and a lower or ventral shell, called the <part>plastron</part>, each of which consists of several plates.</def><br/
+\'d8<hw>Tes*tu`di*na"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Nl. See <er>Testudo</er>.]</ety> <fld>(Zool.)</fld> <def>An order of reptiles which includes the turtles and tortoises. The body is covered by a shell consisting of an upper or dorsal shell, called the <part>carapace</part>, and a lower or ventral shell, called the <part>plastron</part>, each of which consists of several plates.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Testudinated</ent><br/
@@ -11100,7 +11100,7 @@ Universal reproach.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Testudo</ent><br/
-||<hw>Tes*tu"do</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Testudines</plw> <pr>(#)</pr>.</plu> <ety>[L., from <ets>testa</ets> the shell of shellfish, or of testaceous animals.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A genus of tortoises which formerly included a large number of diverse forms, but is now restricted to certain terrestrial species, such as the European land tortoise (<spn>Testudo Graeca</spn>) and the gopher of the Southern United States.</def><br/
+\'d8<hw>Tes*tu"do</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Testudines</plw> <pr>(#)</pr>.</plu> <ety>[L., from <ets>testa</ets> the shell of shellfish, or of testaceous animals.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A genus of tortoises which formerly included a large number of diverse forms, but is now restricted to certain terrestrial species, such as the European land tortoise (<spn>Testudo Graeca</spn>) and the gopher of the Southern United States.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Rom. Antiq.)</fld> <def>A cover or screen which a body of troops formed with their shields or targets, by holding them over their heads when standing close to each other. This cover resembled the back of a tortoise, and served to shelter the men from darts, stones, and other missiles. A similar defense was sometimes formed of boards, and moved on wheels.</def><br/
@@ -11159,7 +11159,7 @@ Under your <qex>testy</qex> humor?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tetanus</ent><br/
-||<hw>Tet"a*nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, fr. <?/ stretched, <?/ to stretch.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>A painful and usually fatal disease, resulting generally from a wound, and having as its principal symptom persistent spasm of the voluntary muscles. When the muscles of the lower jaw are affected, it is called <altname>locked-jaw</altname>, or <altname>lickjaw</altname>, and it takes various names from the various incurvations of the body resulting from the spasm.</def><-- caused by the anaerobic bacterium Clostridium tetani. --><br/
+\'d8<hw>Tet"a*nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, fr. <?/ stretched, <?/ to stretch.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>A painful and usually fatal disease, resulting generally from a wound, and having as its principal symptom persistent spasm of the voluntary muscles. When the muscles of the lower jaw are affected, it is called <altname>locked-jaw</altname>, or <altname>lickjaw</altname>, and it takes various names from the various incurvations of the body resulting from the spasm.</def><-- caused by the anaerobic bacterium Clostridium tetani. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Physiol.)</fld> <def>That condition of a muscle in which it is in a state of continued vibratory contraction, as when stimulated by a series of induction shocks.</def><br/
@@ -11194,29 +11194,29 @@ Under your <qex>testy</qex> humor?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tete</ent><br/
-||<hw>T<ecir/te</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., the head. See <er>Tester</er> a covering.]</ety> <def>A kind of wig; false hair.</def><br/
+\'d8<hw>T<ecir/te</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., the head. See <er>Tester</er> a covering.]</ety> <def>A kind of wig; false hair.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tete-a-tete</ent><br/
-||<hw>T<ecir/te`-<agrave/-t<ecir/te"</hw> <pr>(t<amac/t`<adot/*t<amac/t")</pr>, <pos>n.</pos> <ety>[F., head to head. See <er>Tester</er> a covering, <er>Test</er> a cupel.]</ety> <sn>1.</sn> <def>Private conversation; familiar interview or conference of two persons.</def><br/
+\'d8<hw>T<ecir/te`-<agrave/-t<ecir/te"</hw> <pr>(t<amac/t`<adot/*t<amac/t")</pr>, <pos>n.</pos> <ety>[F., head to head. See <er>Tester</er> a covering, <er>Test</er> a cupel.]</ety> <sn>1.</sn> <def>Private conversation; familiar interview or conference of two persons.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A short sofa intended to accomodate two persons.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tete-a-tete</ent><br/
-||<hw>T<ecir/te`-<agrave/-t<ecir/te"</hw>, <pos>a.</pos> <def>Private; confidential; familiar.</def><br/
+\'d8<hw>T<ecir/te`-<agrave/-t<ecir/te"</hw>, <pos>a.</pos> <def>Private; confidential; familiar.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>She avoided <qex>t<ecir/te-<agrave/-t<ecir/te</qex> walks with him.</q> <rj><qau>C. Kingsley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tete-a-tete</ent><br/
-||<hw>T<ecir/te`-<agrave/-t<ecir/te"</hw>, <pos>adv.</pos> <def>Face to face; privately or confidentially; familiarly.</def>  <rj><au>Prior.</au></rj><br/
+\'d8<hw>T<ecir/te`-<agrave/-t<ecir/te"</hw>, <pos>adv.</pos> <def>Face to face; privately or confidentially; familiarly.</def>  <rj><au>Prior.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tete-de-pont</ent><br/
-||<hw>T<ecir/te`-de-pont"</hw> <pr>(t<amac/t`d<eit/*p<ocir/N")</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>T<ecir/tes-de-pont</plw> <pr>(#)</pr>.</plu> <ety>[F., head of a bridge.]</ety> <fld>(Mil.)</fld> <def>A work thrown up at the end of a bridge nearest the enemy, for covering the communications across a river; a bridgehead.</def><br/
+\'d8<hw>T<ecir/te`-de-pont"</hw> <pr>(t<amac/t`d<eit/*p<ocir/N")</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>T<ecir/tes-de-pont</plw> <pr>(#)</pr>.</plu> <ety>[F., head of a bridge.]</ety> <fld>(Mil.)</fld> <def>A work thrown up at the end of a bridge nearest the enemy, for covering the communications across a river; a bridgehead.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tetel</ent><br/
@@ -11243,7 +11243,7 @@ Under your <qex>testy</qex> humor?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tethyodea</ent><br/
-||<hw>Te`thy*o"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. <ets>Tethys</ets> + Gr. <grk>e'i^dos</grk> form.]</ety> <fld>(Zool.)</fld> <def>A division of Tunicata including the common attached ascidians, both simple and compound. Called also <altname>Tethioidea</altname>.</def><br/
+\'d8<hw>Te`thy*o"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. <ets>Tethys</ets> + Gr. <grk>e'i^dos</grk> form.]</ety> <fld>(Zool.)</fld> <def>A division of Tunicata including the common attached ascidians, both simple and compound. Called also <altname>Tethioidea</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tethys</ent><br/
@@ -11266,7 +11266,7 @@ Under your <qex>testy</qex> humor?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tetrabranchiata</ent><br/
-||<hw>Tet`ra*bran`chi*a"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Tetra-</er>, and <er>Branchia</er>.]</ety> <fld>(Zool.)</fld> <def>An order of Cephalopoda having four gills. Among living species it includes only the pearly nautilus. Numerous genera and species are found in the fossil state, such as Ammonites, Baculites, Orthoceras, etc.</def><br/
+\'d8<hw>Tet`ra*bran`chi*a"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Tetra-</er>, and <er>Branchia</er>.]</ety> <fld>(Zool.)</fld> <def>An order of Cephalopoda having four gills. Among living species it includes only the pearly nautilus. Numerous genera and species are found in the fossil state, such as Ammonites, Baculites, Orthoceras, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tetrabranchiate</ent><br/
@@ -11298,7 +11298,7 @@ Under your <qex>testy</qex> humor?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tetracoralla</ent><br/
-||<hw>Te`tra*co*ral"la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Tetra-</er>, and <er>Corallum</er>.]</ety> <fld>(Paleon.)</fld> <def>Same as <er>Rugosa</er>.</def><br/
+\'d8<hw>Te`tra*co*ral"la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Tetra-</er>, and <er>Corallum</er>.]</ety> <fld>(Paleon.)</fld> <def>Same as <er>Rugosa</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tetractinellid</ent><br/
@@ -11306,7 +11306,7 @@ Under your <qex>testy</qex> humor?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tetractinellida</ent><br/
-||<hw>Te*trac`ti*nel"li*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>te`tra-</grk> tetra- + <?/, <?/, ray, spoke.]</ety> <fld>(Zool.)</fld> <def>A division of Spongiae in which the spicules are siliceous and have four branches diverging at right angles. Called also <altname>Tetractinellinae</altname>.</def><br/
+\'d8<hw>Te*trac`ti*nel"li*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>te`tra-</grk> tetra- + <?/, <?/, ray, spoke.]</ety> <fld>(Zool.)</fld> <def>A division of Spongiae in which the spicules are siliceous and have four branches diverging at right angles. Called also <altname>Tetractinellinae</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tetrad</ent><br/
@@ -11330,7 +11330,7 @@ Under your <qex>testy</qex> humor?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tetradecapoda</ent><br/
-||<hw>Tet`ra*de*cap"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Tetra-</er>, and <er>Decapoda</er>.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Arthrostraca</er>.</def><br/
+\'d8<hw>Tet`ra*de*cap"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Tetra-</er>, and <er>Decapoda</er>.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Arthrostraca</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tetradic</ent><br/
@@ -11351,7 +11351,7 @@ Under your <qex>testy</qex> humor?</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Tetradrachma</ent><br/
 <ent>Tetradrachm</ent><br/
-<mhw>{ <hw>Tet"ra*drachm</hw> <pr>(?)</pr>, ||<hw>Tet`ra*drach"ma</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>tetradrachma</ets>, fr. Gr. <grk>tetra`drachmon</grk>; <grk>te`tra-</grk> (see <er>Tetra-</er>) + <grk>drachmh`</grk> drachm, drachma.]</ety> <def>A silver coin among the ancient Greeks, of the value of four drachms.</def> <note>The Attic <ex>tetradrachm</ex> was equal to 3s. 3d. sterling, or about 76 cents.</note><br/
+<mhw>{ <hw>Tet"ra*drachm</hw> <pr>(?)</pr>, \'d8<hw>Tet`ra*drach"ma</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>tetradrachma</ets>, fr. Gr. <grk>tetra`drachmon</grk>; <grk>te`tra-</grk> (see <er>Tetra-</er>) + <grk>drachmh`</grk> drachm, drachma.]</ety> <def>A silver coin among the ancient Greeks, of the value of four drachms.</def> <note>The Attic <ex>tetradrachm</ex> was equal to 3s. 3d. sterling, or about 76 cents.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tetradymite</ent><br/
@@ -11359,7 +11359,7 @@ Under your <qex>testy</qex> humor?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tetradynamia</ent><br/
-||<hw>Tet`ra*dy*na"mi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>te`tra-</grk> (see <er>Tetra-</er>) + <?/ power.]</ety> <fld>(Bot.)</fld> <def>A Linnaean class of plants having six stamens, four of which are longer than the others.</def><br/
+\'d8<hw>Tet`ra*dy*na"mi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>te`tra-</grk> (see <er>Tetra-</er>) + <?/ power.]</ety> <fld>(Bot.)</fld> <def>A Linnaean class of plants having six stamens, four of which are longer than the others.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tetradynamian</ent><br/
@@ -11389,11 +11389,11 @@ Under your <qex>testy</qex> humor?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tetragrammaton</ent><br/
-||<hw>Tet`ra*gram"ma*ton</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/; <grk>te`tra-</grk> (see <er>Tetra-</er>) + <?/ a letter.]</ety> <def>The mystic number four, which was often symbolized to represent the Deity, whose name was expressed by four letters among some ancient nations; <as>as, the Hebrew <ex>JeHoVaH</ex>, Greek <grk>qeo`s</grk>, Latin <ex>deus</ex>, etc.</as></def><br/
+\'d8<hw>Tet`ra*gram"ma*ton</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/; <grk>te`tra-</grk> (see <er>Tetra-</er>) + <?/ a letter.]</ety> <def>The mystic number four, which was often symbolized to represent the Deity, whose name was expressed by four letters among some ancient nations; <as>as, the Hebrew <ex>JeHoVaH</ex>, Greek <grk>qeo`s</grk>, Latin <ex>deus</ex>, etc.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tetragynia</ent><br/
-||<hw>Tet`ra*gyn"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>te`tra-</grk> (see <er>Tetra-</er>) + <grk>gynh`</grk> a woman, female.]</ety> <fld>(Bot.)</fld> <def>A Linnaean order of plants having four styles.</def><br/
+\'d8<hw>Tet`ra*gyn"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>te`tra-</grk> (see <er>Tetra-</er>) + <grk>gynh`</grk> a woman, female.]</ety> <fld>(Bot.)</fld> <def>A Linnaean order of plants having four styles.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tetragynous</ent><br/
@@ -11457,7 +11457,7 @@ Under your <qex>testy</qex> humor?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tetramera</ent><br/
-||<hw>Te*tram"e*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Tetramerous</er>.]</ety> <fld>(Zool.)</fld> <def>A division of Coleoptera having, apparently, only four tarsal joints, one joint being rudimentary.</def><br/
+\'d8<hw>Te*tram"e*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Tetramerous</er>.]</ety> <fld>(Zool.)</fld> <def>A division of Coleoptera having, apparently, only four tarsal joints, one joint being rudimentary.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tetramerous</ent><br/
@@ -11480,7 +11480,7 @@ Under your <qex>testy</qex> humor?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tetrandria</ent><br/
-||<hw>Te*tran"dri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>te`tra-</grk> (see <er>Tetra-</er>) + <?/, <?/, a man, male.]</ety> <fld>(Bot.)</fld> <def>A Linnaean class of plants having four stamens.</def><br/
+\'d8<hw>Te*tran"dri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>te`tra-</grk> (see <er>Tetra-</er>) + <?/, <?/, a man, male.]</ety> <fld>(Bot.)</fld> <def>A Linnaean class of plants having four stamens.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tetrandrous</ent><br/
@@ -11513,11 +11513,11 @@ Under your <qex>testy</qex> humor?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tetrapla</ent><br/
-||<hw>Tet"ra*pla</hw> <pr>(?)</pr>, <pos>n.</pos>; <note>etymologically <pos>pl.</pos>, but syntactically <pos>sing.</pos></note> <ety>[NL., fr. Gr. <grk>tetraplo`os</grk>, <grk>tetraploy^s</grk>, fourfold.]</ety> <def>A Bible consisting of four different Greek versions arranged in four columns by <persfn>Origen</persfn>; hence, any version in four languages or four columns.</def><br/
+\'d8<hw>Tet"ra*pla</hw> <pr>(?)</pr>, <pos>n.</pos>; <note>etymologically <pos>pl.</pos>, but syntactically <pos>sing.</pos></note> <ety>[NL., fr. Gr. <grk>tetraplo`os</grk>, <grk>tetraploy^s</grk>, fourfold.]</ety> <def>A Bible consisting of four different Greek versions arranged in four columns by <persfn>Origen</persfn>; hence, any version in four languages or four columns.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tetrapneumona</ent><br/
-||<hw>Tet`rap*neu"mo*na</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Tetra-</er>, and <er>Pneumo-</er>.]</ety> <fld>(Zool.)</fld> <def>A division of Arachnida including those spiders which have four lungs, or pulmonary sacs. It includes the bird spiders (<gen>Mygale</gen>) and the trapdoor spiders. See <er>Mygale</er>.</def><br/
+\'d8<hw>Tet`rap*neu"mo*na</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Tetra-</er>, and <er>Pneumo-</er>.]</ety> <fld>(Zool.)</fld> <def>A division of Arachnida including those spiders which have four lungs, or pulmonary sacs. It includes the bird spiders (<gen>Mygale</gen>) and the trapdoor spiders. See <er>Mygale</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tetrapnuemonian</ent><br/
@@ -11736,7 +11736,7 @@ Under your <qex>testy</qex> humor?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tettix</ent><br/
-||<hw>Tet"tix</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a kind of grasshopper.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>The cicada.</def> <mark>[Obs. or R.]</mark><br/
+\'d8<hw>Tet"tix</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a kind of grasshopper.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>The cicada.</def> <mark>[Obs. or R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>A genus of small grasshoppers.</def><br/
@@ -12011,7 +12011,7 @@ Or roughening waste, their humble <qex>texture</qex> weave.</q> <rj><qau>Thomson
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thalamencephalon</ent><br/
-||<hw>Thal`a*men*ceph"a*lon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Thalamus</er>, and <er>Encephalon</er>.]</ety> <fld>(Anat.)</fld> <def>The segment of the brain next in front of the midbrain, including the thalami, pineal gland, and pituitary body; the diencephalon; the interbrain.</def><br/
+\'d8<hw>Thal`a*men*ceph"a*lon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Thalamus</er>, and <er>Encephalon</er>.]</ety> <fld>(Anat.)</fld> <def>The segment of the brain next in front of the midbrain, including the thalami, pineal gland, and pituitary body; the diencephalon; the interbrain.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thalamic</ent><br/
@@ -12028,11 +12028,11 @@ Or roughening waste, their humble <qex>texture</qex> weave.</q> <rj><qau>Thomson
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thalamophora</ent><br/
-||<hw>Thal`a*moph"o*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>qa`lamos</grk> chamber + <grk>fe`rein</grk> to bear.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Foraminifera</er>.</def><br/
+\'d8<hw>Thal`a*moph"o*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>qa`lamos</grk> chamber + <grk>fe`rein</grk> to bear.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Foraminifera</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thalamus</ent><br/
-||<hw>Thal"a*mus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Thalami</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>thalamus</ets> chamber, Gr. <grk>qa`lamos</grk>.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>A mass of nervous matter on either side of the third ventricle of the brain; -- called also <altname>optic thalamus</altname>.</def><br/
+\'d8<hw>Thal"a*mus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Thalami</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>thalamus</ets> chamber, Gr. <grk>qa`lamos</grk>.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>A mass of nervous matter on either side of the third ventricle of the brain; -- called also <altname>optic thalamus</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Bot.)</fld> <sd>(a)</sd> <def>Same as <er>Thallus</er>.</def> <sd>(b)</sd> <def>The receptacle of a flower; a torus.</def><br/
@@ -12055,7 +12055,7 @@ Or roughening waste, their humble <qex>texture</qex> weave.</q> <rj><qau>Thomson
 [<source>1913 Webster</source>]</p>
 
 <p><ent>thaler</ent><br/
-||<hw>tha"ler</hw> <pr>(t<aum/"l<etil/r)</pr>, <pos>n.</pos> <ety>[G. See <er>Dollar</er>.]</ety> <def>A former German silver coin worth about three shillings sterling, or about 73 cents, around 1900.</def><br/
+\'d8<hw>tha"ler</hw> <pr>(t<aum/"l<etil/r)</pr>, <pos>n.</pos> <ety>[G. See <er>Dollar</er>.]</ety> <def>A former German silver coin worth about three shillings sterling, or about 73 cents, around 1900.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Thalia</ent><br/
@@ -12063,7 +12063,7 @@ Or roughening waste, their humble <qex>texture</qex> weave.</q> <rj><qau>Thomson
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thaliacea</ent><br/
-||<hw>Tha`li*a"ce*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Thalia</er>.]</ety> <fld>(Zool.)</fld> <def>A division of Tunicata comprising the free-swimming species, such as Salpa and Doliolum.</def><br/
+\'d8<hw>Tha`li*a"ce*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Thalia</er>.]</ety> <fld>(Zool.)</fld> <def>A division of Tunicata comprising the free-swimming species, such as Salpa and Doliolum.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thalian</ent><br/
@@ -12107,7 +12107,7 @@ Or roughening waste, their humble <qex>texture</qex> weave.</q> <rj><qau>Thomson
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thallophyta</ent><br/
-||<hw>Thal*loph"y*ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Thallophyte</er>.]</ety> <fld>(Bot.)</fld> <def>A phylum of plants of very diverse habit and structure, including the algae, fungi, and lichens. The simpler forms, as many blue-green algae, yeasts, etc., are unicellular and reproduce vegetatively or  by means of asexual spores; in the higher forms the plant body is a <xex>thallus</xex>, which may be filamentous or may consist of plates of cells; it is commonly undifferentiated into stem, leaves, and roots, and shows no distinct tissue systems; the fronds of many algae, however, are modified to serve many of the functions of the above-named organs. Both asexual and sexual reproduction, often of a complex type, occur in these forms. The Thallophyta exist almost exclusively as gametophytes, the sporophyte being absent or rudimentary. By those who do not separate the Myxophyta from the Tallophyta as a distinct phylum the latter is treated as the lowermost group in the vegetable kingdom.</def><br/
+\'d8<hw>Thal*loph"y*ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Thallophyte</er>.]</ety> <fld>(Bot.)</fld> <def>A phylum of plants of very diverse habit and structure, including the algae, fungi, and lichens. The simpler forms, as many blue-green algae, yeasts, etc., are unicellular and reproduce vegetatively or  by means of asexual spores; in the higher forms the plant body is a <xex>thallus</xex>, which may be filamentous or may consist of plates of cells; it is commonly undifferentiated into stem, leaves, and roots, and shows no distinct tissue systems; the fronds of many algae, however, are modified to serve many of the functions of the above-named organs. Both asexual and sexual reproduction, often of a complex type, occur in these forms. The Thallophyta exist almost exclusively as gametophytes, the sporophyte being absent or rudimentary. By those who do not separate the Myxophyta from the Tallophyta as a distinct phylum the latter is treated as the lowermost group in the vegetable kingdom.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Thallophyte</ent><br/
@@ -12123,11 +12123,11 @@ Or roughening waste, their humble <qex>texture</qex> weave.</q> <rj><qau>Thomson
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thallus</ent><br/
-||<hw>Thal"lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Thalli</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ young shoot or branch, frond.]</ety> <fld>(Bot.)</fld> <def>A solid mass of cellular tissue, consisting of one or more layers, usually in the form of a flat stratum or expansion, but sometimes erect or pendulous, and elongated and branching, and forming the substance of the thallogens.</def><br/
+\'d8<hw>Thal"lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Thalli</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ young shoot or branch, frond.]</ety> <fld>(Bot.)</fld> <def>A solid mass of cellular tissue, consisting of one or more layers, usually in the form of a flat stratum or expansion, but sometimes erect or pendulous, and elongated and branching, and forming the substance of the thallogens.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thalweg</ent><br/
-||<hw>Thal"weg`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., fr. <ets>thal</ets> valley + <ets>weg</ets> way. See <er>Dale</er>; <er>Way</er>.]</ety> <fld>(Physiography)</fld> <sd>(a)</sd> <def>A line following the lowest part of a valley, whether under water or not.</def> <sd>(b)</sd> <def>The line of continuous maximum descent from any point on a land surface, or that cutting all contours and angles.</def><br/
+\'d8<hw>Thal"weg`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., fr. <ets>thal</ets> valley + <ets>weg</ets> way. See <er>Dale</er>; <er>Way</er>.]</ety> <fld>(Physiography)</fld> <sd>(a)</sd> <def>A line following the lowest part of a valley, whether under water or not.</def> <sd>(b)</sd> <def>The line of continuous maximum descent from any point on a land surface, or that cutting all contours and angles.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tammuz</ent><br/
@@ -12143,7 +12143,7 @@ Or roughening waste, their humble <qex>texture</qex> weave.</q> <rj><qau>Thomson
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thamyn</ent><br/
-||<hw>Tha"myn</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>An Asiatic deer (<spn>Rucervus Eldi</spn>) resembling the swamp deer; -- called also <altname>Eld's deer</altname>.</def><br/
+\'d8<hw>Tha"myn</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>An Asiatic deer (<spn>Rucervus Eldi</spn>) resembling the swamp deer; -- called also <altname>Eld's deer</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Than</ent><br/
@@ -12170,7 +12170,7 @@ It's fitter being sane <qex>than</qex> mad.</q> <rj><qau>R. Browning.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thana</ent><br/
-||<hw>Tha"na</hw> <pr>(t<aum/"n<aum/)</pr>, <pos>n.</pos> <altname>[Written also <asp>tana</asp>, <asp>tanna</asp>.]</altname> <ety>[Hind. <ets>th<amac/n<amac/</ets>.]</ety> <def>A police station.</def> <mark>[India]</mark>  <rj><au>Kipling.</au></rj><br/
+\'d8<hw>Tha"na</hw> <pr>(t<aum/"n<aum/)</pr>, <pos>n.</pos> <altname>[Written also <asp>tana</asp>, <asp>tanna</asp>.]</altname> <ety>[Hind. <ets>th<amac/n<amac/</ets>.]</ety> <def>A police station.</def> <mark>[India]</mark>  <rj><au>Kipling.</au></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Thanage</ent><br/
@@ -12677,7 +12677,7 @@ The man's the gowd [gold] for <qex>a'that</qex>.</q> <rj><qau>Burns.</qau></rj><
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>thaumaturgus</ent><br/
-||<hw>thau`ma*tur"gus</hw> <pr>(th<add/`m<adot/*t<ucir/r"g<ucr/s)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>qaymatourgo`s</grk> wonder-working; <grk>qay^ma</grk> a wonder + <grk>'e`rgon</grk> work.]</ety> <def>A miracle worker; -- a title given by the Roman Catholics to some saints.</def><br/
+\'d8<hw>thau`ma*tur"gus</hw> <pr>(th<add/`m<adot/*t<ucir/r"g<ucr/s)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>qaymatourgo`s</grk> wonder-working; <grk>qay^ma</grk> a wonder + <grk>'e`rgon</grk> work.]</ety> <def>A miracle worker; -- a title given by the Roman Catholics to some saints.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>thaumaturgy</ent><br/
@@ -12731,7 +12731,7 @@ Irradiate.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thea</ent><br/
-||<hw>The"a</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL. See <er>Tea</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of plants found in China and Japan; the tea plant.</def><br/
+\'d8<hw>The"a</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL. See <er>Tea</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of plants found in China and Japan; the tea plant.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ It is now commonly referred to the genus <gen>Camellia</gen>.</note><br/
@@ -12866,7 +12866,7 @@ Of stateliest view.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Theca</ent><br/
-||<hw>The"ca</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Thecae</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/ a case to put anything in. See <er>Tick</er> a cover.]</ety> <sn>1.</sn> <def>A sheath; a case; <as>as, the <ex>theca</ex>, or cell, of an anther; the <ex>theca</ex>, or spore case, of a fungus; the <ex>theca</ex> of the spinal cord.</as></def><br/
+\'d8<hw>The"ca</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Thecae</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/ a case to put anything in. See <er>Tick</er> a cover.]</ety> <sn>1.</sn> <def>A sheath; a case; <as>as, the <ex>theca</ex>, or cell, of an anther; the <ex>theca</ex>, or spore case, of a fungus; the <ex>theca</ex> of the spinal cord.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <sd>(a)</sd> <def>The chitinous cup which protects the hydranths of certain hydroids.</def> <sd>(b)</sd> <def>The more or less cuplike calicle of a coral.</def> <sd>(c)</sd> <def>The wall forming a calicle of a coral.</def><br/
@@ -12885,7 +12885,7 @@ Of stateliest view.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thecata</ent><br/
-||<hw>The*ca"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <?/ a case.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Thecophora</er>.</def><br/
+\'d8<hw>The*ca"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <?/ a case.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Thecophora</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thecla</ent><br/
@@ -12908,15 +12908,15 @@ Of stateliest view.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thecodontia</ent><br/
-||<hw>The`co*don"ti*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Paleon.)</fld> <def>A group of fossil saurians having biconcave vertebrae and the teeth implanted in sockets.</def><br/
+\'d8<hw>The`co*don"ti*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Paleon.)</fld> <def>A group of fossil saurians having biconcave vertebrae and the teeth implanted in sockets.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thecophora</ent><br/
-||<hw>The*coph"o*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <?/ a case + <grk>fe`rein</grk> to bear.]</ety> <fld>(Zool.)</fld> <def>A division of hydroids comprising those which have the hydranths in thecae and the gonophores in capsules. The campanularians and sertularians are examples. Called also <altname>Thecata</altname>. See <xex>Illust.</xex> under <er>Hydroidea</er>.</def><br/
+\'d8<hw>The*coph"o*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <?/ a case + <grk>fe`rein</grk> to bear.]</ety> <fld>(Zool.)</fld> <def>A division of hydroids comprising those which have the hydranths in thecae and the gonophores in capsules. The campanularians and sertularians are examples. Called also <altname>Thecata</altname>. See <xex>Illust.</xex> under <er>Hydroidea</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thecosomata</ent><br/
-||<hw>The`co*so"ma*ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Theca</er>, and <er>Soma</er>.]</ety> <fld>(Zool.)</fld> <def>An order of Pteropoda comprising those species which have a shell. See <er>Pteropoda</er>.</def> -- <wordforms><wf>The`co*so"ma*tous</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>The`co*so"ma*ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Theca</er>, and <er>Soma</er>.]</ety> <fld>(Zool.)</fld> <def>An order of Pteropoda comprising those species which have a shell. See <er>Pteropoda</er>.</def> -- <wordforms><wf>The`co*so"ma*tous</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thedom</ent><br/
@@ -13491,7 +13491,7 @@ In all humanity.</q> <rj><qau>Massinger.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Theorica</ent><br/
-||<hw>The*or"i*ca</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ (sc. <?/), fr. <?/ belonging to <?/ a public spectacle. See <er>Theory</er>.]</ety> <fld>(Gr. Antiq.)</fld> <def>Public moneys expended at Athens on festivals, sacrifices, and public entertainments (especially theatrical performances), and in gifts to the people; -- also called <altname>theoric fund</altname>.</def><br/
+\'d8<hw>The*or"i*ca</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ (sc. <?/), fr. <?/ belonging to <?/ a public spectacle. See <er>Theory</er>.]</ety> <fld>(Gr. Antiq.)</fld> <def>Public moneys expended at Athens on festivals, sacrifices, and public entertainments (especially theatrical performances), and in gifts to the people; -- also called <altname>theoric fund</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Theorical</ent><br/
@@ -13581,7 +13581,7 @@ In all humanity.</q> <rj><qau>Massinger.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Therapeutae</ent><br/
-||<hw>Ther`a*peu"tae</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ (pl. <?/) an attendant, servant, physician. See <er>Therapeutic</er>.]</ety> <fld>(Eccl. Hist.)</fld> <def>A name given to certain ascetics said to have anciently dwelt in the neighborhood of Alexandria. They are described in a work attributed to Philo, the genuineness and credibility of which are now much discredited.</def><br/
+\'d8<hw>Ther`a*peu"tae</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ (pl. <?/) an attendant, servant, physician. See <er>Therapeutic</er>.]</ety> <fld>(Eccl. Hist.)</fld> <def>A name given to certain ascetics said to have anciently dwelt in the neighborhood of Alexandria. They are described in a work attributed to Philo, the genuineness and credibility of which are now much discredited.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Therapeutical</ent><br/
@@ -13907,7 +13907,7 @@ And Enid started waking.</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p><ent>Theriaca</ent><br/
 <ent>Theriac</ent><br/
-<mhw>{ <hw>The"ri*ac</hw> <pr>(?)</pr>, ||<hw>The*ri"a*ca</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>theriaca</ets> an antidote against the bite of serpents, Gr. <?/: cf. F. <ets>th<eacute/riaque</ets>. See <er>Treacle</er>.]</ety> <sn>1.</sn> <fld>(Old Med.)</fld> <def>An ancient composition esteemed efficacious against the effects of poison; especially, a certain compound of sixty-four drugs, prepared, pulverized, and reduced by means of honey to an electuary; -- called also <altname>theriaca Andromachi</altname>, and <altname>Venice treacle</altname>.</def><br/
+<mhw>{ <hw>The"ri*ac</hw> <pr>(?)</pr>, \'d8<hw>The*ri"a*ca</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>theriaca</ets> an antidote against the bite of serpents, Gr. <?/: cf. F. <ets>th<eacute/riaque</ets>. See <er>Treacle</er>.]</ety> <sn>1.</sn> <fld>(Old Med.)</fld> <def>An ancient composition esteemed efficacious against the effects of poison; especially, a certain compound of sixty-four drugs, prepared, pulverized, and reduced by means of honey to an electuary; -- called also <altname>theriaca Andromachi</altname>, and <altname>Venice treacle</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Treacle; molasses.</def>  <rj><au>British Pharm.</au></rj><br/
@@ -13928,11 +13928,11 @@ And Enid started waking.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Theriodonta</ent><br/
-||<hw>The`ri*o*don"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Paleon.)</fld> <def>Same as <er>Theriodontia</er>.</def><br/
+\'d8<hw>The`ri*o*don"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Paleon.)</fld> <def>Same as <er>Theriodontia</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Theriodontia</ent><br/
-||<hw>The`ri*o*don"ti*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ (dim. of <?/ a beast) + <?/, <?/, a tooth.]</ety> <fld>(Paleon.)</fld> <def>An extinct order of reptiles found in the Permian and Triassic formations in South Africa. In some respects they resembled carnivorous mammals. Called also <altname>Theromorpha</altname>.</def><br/
+\'d8<hw>The`ri*o*don"ti*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ (dim. of <?/ a beast) + <?/, <?/, a tooth.]</ety> <fld>(Paleon.)</fld> <def>An extinct order of reptiles found in the Permian and Triassic formations in South Africa. In some respects they resembled carnivorous mammals. Called also <altname>Theromorpha</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ They had biconcave vertebrae, ambulatory limbs, and a well-developed pelvis and shoulder girdle. Some of the species had large maxillary teeth. The head somewhat resembled that of a turtle. The Dicynodont is one of the best-known examples. See <er>Dicynodont</er>.</note><br/
@@ -13947,7 +13947,7 @@ And Enid started waking.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Thermae</ent><br/
-||<hw>Ther"mae</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L. See <er>Thermal</er>.]</ety> <def>Springs or baths of warm or hot water.</def><br/
+\'d8<hw>Ther"mae</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L. See <er>Thermal</er>.]</ety> <def>Springs or baths of warm or hot water.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thermal</ent><br/
@@ -13988,7 +13988,7 @@ And Enid started waking.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thermidor</ent><br/
-||<hw>Ther`mi`dor"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. Gr. <?/ warm, hot.]</ety> <def>The eleventh month of the French republican calendar, -- commencing July 19, and ending August 17. See the Note under <er>Vend<eacute/miaire</er>.</def><br/
+\'d8<hw>Ther`mi`dor"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. Gr. <?/ warm, hot.]</ety> <def>The eleventh month of the French republican calendar, -- commencing July 19, and ending August 17. See the Note under <er>Vend<eacute/miaire</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thermifugine</ent><br/
@@ -14305,15 +14305,15 @@ And Enid started waking.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Theromorpha</ent><br/
-||<hw>The`ro*mor"pha</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.: Gr. <grk>qh`r</grk> beast + <grk>morfh`</grk> form.]</ety> <fld>(Paleon.)</fld> <def>See <er>Theriodonta</er>.</def><br/
+\'d8<hw>The`ro*mor"pha</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.: Gr. <grk>qh`r</grk> beast + <grk>morfh`</grk> form.]</ety> <fld>(Paleon.)</fld> <def>See <er>Theriodonta</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Theropoda</ent><br/
-||<hw>The*rop"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>qh`r</grk> a beast + <?/, <?/, foot.]</ety> <fld>(Paleon.)</fld> <def>An order of carnivorous dinosaurs in which the feet are less birdlike, and hence more like those of an ordinary quadruped, than in the Ornithopoda. It includes the rapacious genera <gen>Megalosaurus</gen>, <gen>Creosaurus</gen>, and their allies.</def><br/
+\'d8<hw>The*rop"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>qh`r</grk> a beast + <?/, <?/, foot.]</ety> <fld>(Paleon.)</fld> <def>An order of carnivorous dinosaurs in which the feet are less birdlike, and hence more like those of an ordinary quadruped, than in the Ornithopoda. It includes the rapacious genera <gen>Megalosaurus</gen>, <gen>Creosaurus</gen>, and their allies.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thesaurus</ent><br/
-||<hw>The*sau"rus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Thesauri</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Treasure</er>.]</ety> <def>A treasury or storehouse; hence, a repository, especially of knowledge; -- often applied to a comprehensive work, like a dictionary or cyclopedia.</def><br/
+\'d8<hw>The*sau"rus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Thesauri</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Treasure</er>.]</ety> <def>A treasury or storehouse; hence, a repository, especially of knowledge; -- often applied to a comprehensive work, like a dictionary or cyclopedia.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>These</ent><br/
@@ -14783,7 +14783,7 @@ A <qex>thievish</qex> living on the common road.</q> <rj><qau>Shak.</qau></rj><b
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Thigmotaxis</ent><br/
-||<hw>Thig`mo*tax"is</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ touch + <?/ an arranging.]</ety> <fld>(Physiol.)</fld> <def>The property possessed by living protoplasm of contracting, and thus moving, when touched by a solid or fluid substance.</def></p>
+\'d8<hw>Thig`mo*tax"is</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ touch + <?/ an arranging.]</ety> <fld>(Physiol.)</fld> <def>The property possessed by living protoplasm of contracting, and thus moving, when touched by a solid or fluid substance.</def></p>
 
 <p><note><hand/ When the movement is away from the touching body, it is <stype>negative thigmotaxis</stype>; when towards it, <stype>positive thigmotaxis</stype>.</note><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -15002,7 +15002,7 @@ And hath his <qex>things</qex> [<it>i. e.</it>, prayers, devotions] said full co
 
 <p><ent>Ting</ent><br/
 <ent>Thing</ent><br/
-<mhw>{ <hw>Thing</hw>, ||<hw>Ting</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Dan. <ets>thing</ets>, <ets>ting</ets>, Norw. <ets>ting</ets>, or Sw. <ets>ting</ets>.]</ety> <def>In Scandinavian countries, a legislative or judicial assembly; -- used, esp. in composition, in titles of such bodies. See <er>Legislature</er>, <xex>Norway</xex>.</def><br/
+<mhw>{ <hw>Thing</hw>, \'d8<hw>Ting</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Dan. <ets>thing</ets>, <ets>ting</ets>, Norw. <ets>ting</ets>, or Sw. <ets>ting</ets>.]</ety> <def>In Scandinavian countries, a legislative or judicial assembly; -- used, esp. in composition, in titles of such bodies. See <er>Legislature</er>, <xex>Norway</xex>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Think</ent><br/
@@ -15514,7 +15514,7 @@ Without some <qex>thistly</qex> sorrow at its side.</q> <rj><qau>Cowper.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thlipsis</ent><br/
-||<hw>Thlip"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ pressure, fr. <?/ to press.]</ety> <fld>(Med.)</fld> <def>Compression, especially constriction of vessels by an external cause.</def><br/
+\'d8<hw>Thlip"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ pressure, fr. <?/ to press.]</ety> <fld>(Med.)</fld> <def>Compression, especially constriction of vessels by an external cause.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tho</ent><br/
@@ -15633,7 +15633,7 @@ Without some <qex>thistly</qex> sorrow at its side.</q> <rj><qau>Cowper.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thoracentesis</ent><br/
-||<hw>Tho`ra*cen*te"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ thorax + <?/ pricking, from <?/ to prick, stab.]</ety> <fld>(Surg.)</fld> <def>The operation of puncturing the chest wall so as to let out liquids contained in the cavity of the chest.</def><br/
+\'d8<hw>Tho`ra*cen*te"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ thorax + <?/ pricking, from <?/ to prick, stab.]</ety> <fld>(Surg.)</fld> <def>The operation of puncturing the chest wall so as to let out liquids contained in the cavity of the chest.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thoracic</ent><br/
@@ -15648,7 +15648,7 @@ Without some <qex>thistly</qex> sorrow at its side.</q> <rj><qau>Cowper.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thoracica</ent><br/
-||<hw>Tho*rac"i*ca</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A division of cirripeds including those which have six thoracic segments, usually bearing six pairs of cirri. The common barnacles are examples.</def><br/
+\'d8<hw>Tho*rac"i*ca</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A division of cirripeds including those which have six thoracic segments, usually bearing six pairs of cirri. The common barnacles are examples.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thoracometer</ent><br/
@@ -15660,7 +15660,7 @@ Without some <qex>thistly</qex> sorrow at its side.</q> <rj><qau>Cowper.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thoracostraca</ent><br/
-||<hw>Tho`ra*cos"tra*ca</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Thorax</er>, and <er>Ostracoid</er>, <pos>a.</pos>]</ety> <fld>(Zool.)</fld> <def>An extensive division of Crustacea, having a dorsal shield or carapec<?/ <?/<?/niting all, or nearly all, of the thoracic somites to the head. It includes the crabs, lobsters, shrimps, and similar species.</def><br/
+\'d8<hw>Tho`ra*cos"tra*ca</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Thorax</er>, and <er>Ostracoid</er>, <pos>a.</pos>]</ety> <fld>(Zool.)</fld> <def>An extensive division of Crustacea, having a dorsal shield or carapec<?/ <?/<?/niting all, or nearly all, of the thoracic somites to the head. It includes the crabs, lobsters, shrimps, and similar species.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thoracotomy</ent><br/
@@ -15907,7 +15907,7 @@ Of easy <qex>thoroughfare</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thoth</ent><br/
-||<hw>Thoth</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Myth.)</fld> <def>The god of eloquence and letters among the ancient Egyptians, and supposed to be the inventor of writing and philosophy. He corresponded to the <xex>Mercury</xex> of the Romans, and was usually represented as a human figure with the head of an ibis or a lamb.</def><br/
+\'d8<hw>Thoth</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Myth.)</fld> <def>The god of eloquence and letters among the ancient Egyptians, and supposed to be the inventor of writing and philosophy. He corresponded to the <xex>Mercury</xex> of the Romans, and was usually represented as a human figure with the head of an ibis or a lamb.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>The Egyptian sacred baboon.</def><br/
@@ -16909,7 +16909,7 @@ In vaults and prisons, and to <qex>thrill</qex> and shake.</q> <rj><qau>Shak.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thrips</ent><br/
-||<hw>Thrips</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a woodworm, Gr. <?/.]</ety> <fld>(Zool.)</fld> <def>Any one of numerous small species of Thysanoptera, especially those which attack useful plants, as the grain thrips (<spn>Thrips cerealium</spn>).</def><br/
+\'d8<hw>Thrips</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a woodworm, Gr. <?/.]</ety> <fld>(Zool.)</fld> <def>Any one of numerous small species of Thysanoptera, especially those which attack useful plants, as the grain thrips (<spn>Thrips cerealium</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The term is also popularly applied to various other small injurious insects.</note><br/
@@ -17069,11 +17069,11 @@ That pants and reaches after distant good.</q> <rj><qau>Addison.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thrombosis</ent><br/
-||<hw>Throm*bo"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Thrombus</er>.]</ety> <fld>(Med.)</fld> <def>The obstruction of a blood vessel by a clot formed at the site of obstruction; -- distinguished from <contr>embolism</contr>, which is produced by a clot or foreign body brought from a distance.</def> -- <wordforms><wf>Throm*bot"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>Throm*bo"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Thrombus</er>.]</ety> <fld>(Med.)</fld> <def>The obstruction of a blood vessel by a clot formed at the site of obstruction; -- distinguished from <contr>embolism</contr>, which is produced by a clot or foreign body brought from a distance.</def> -- <wordforms><wf>Throm*bot"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thrombus</ent><br/
-||<hw>Throm"bus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Thrombi</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ a lump, a clot of blood.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>A clot of blood formed of a passage of a vessel and remaining at the site of coagulation.</def> <sd>(b)</sd> <def>A tumor produced by the escape of blood into the subcutaneous cellular tissue.</def><br/
+\'d8<hw>Throm"bus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Thrombi</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ a lump, a clot of blood.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>A clot of blood formed of a passage of a vessel and remaining at the site of coagulation.</def> <sd>(b)</sd> <def>A tumor produced by the escape of blood into the subcutaneous cellular tissue.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Throne</ent><br/
@@ -17732,18 +17732,18 @@ And often reaches, and his <qex>thrusts</qex> renews.</q> <rj><qau>Dryden.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thuja</ent><br/
-||<hw>Thu"ja</hw> <pr>(th<umac/"j<adot/)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>qyi`a</grk> an African tree with sweet-smelling wood.]</ety> <fld>(Bot.)</fld> <def>A genus of evergreen trees, thickly branched, remarkable for the distichous arrangement of their branches, and having scalelike, closely imbricated, or compressed leaves.</def> <altsp>[Written also <asp>thuya</asp>.]</altsp> See <er>Thyine wood</er>.<br/
+\'d8<hw>Thu"ja</hw> <pr>(th<umac/"j<adot/)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>qyi`a</grk> an African tree with sweet-smelling wood.]</ety> <fld>(Bot.)</fld> <def>A genus of evergreen trees, thickly branched, remarkable for the distichous arrangement of their branches, and having scalelike, closely imbricated, or compressed leaves.</def> <altsp>[Written also <asp>thuya</asp>.]</altsp> See <er>Thyine wood</er>.<br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ <spn>Thuja occidentalis</spn> is the <stype><spn>Arbor vitae</spn></stype> of the Eastern and Northern United States. <spn>Thuja gigantea</spn> of North-western America is a very large tree, there called <stype>red cedar</stype>, and <stype>canoe cedar</stype>, and furnishes a useful timber.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>thujone</ent><br/
-||<hw>thu"jone</hw> <pr>(th<umac/"j<omac/n)</pr>, <pos>n.</pos> <def>An oil, <chform>C10H16O</chform>, the chief constituent of cedar leaf oil (thuja oil), which is obtained from the northern white cedar (arbor vitae, <spn>Thuja occidentalis</spn>) or the western Red Cedar (<spn>Thuja plicatis</spn>).  It is a stimulant similar to camphor.  It is also called <altname>thujol</altname>, <altname>thuyol</altname>, <altname>absinthol</altname>, <altname>thuyone</altname>, <altname>tanacetol</altname>, and <altname>tanacetone</altname>.</def> <au>Stedman.</au><br/
+\'d8<hw>thu"jone</hw> <pr>(th<umac/"j<omac/n)</pr>, <pos>n.</pos> <def>An oil, <chform>C10H16O</chform>, the chief constituent of cedar leaf oil (thuja oil), which is obtained from the northern white cedar (arbor vitae, <spn>Thuja occidentalis</spn>) or the western Red Cedar (<spn>Thuja plicatis</spn>).  It is a stimulant similar to camphor.  It is also called <altname>thujol</altname>, <altname>thuyol</altname>, <altname>absinthol</altname>, <altname>thuyone</altname>, <altname>tanacetol</altname>, and <altname>tanacetone</altname>.</def> <au>Stedman.</au><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Thule</ent><br/
-||<hw>Thu"le</hw> <pr>(th<umac/"l<esl/)</pr>, <pos>prop. n.</pos> <ety>[L. <ets>Thule</ets>, <ets>Thyle</ets>, Gr. <grk>Qoy`lh</grk>, <grk>Qy`lh</grk>.]</ety> <def>The name given by ancient geographers to the northernmost part of the habitable world.  According to some, this land was Norway, according to others, Iceland, or more probably Mainland, the largest of the Shetland islands; hence, the Latin phrase <xex>ultima Thule</xex>, farthest Thule.</def><br/
+\'d8<hw>Thu"le</hw> <pr>(th<umac/"l<esl/)</pr>, <pos>prop. n.</pos> <ety>[L. <ets>Thule</ets>, <ets>Thyle</ets>, Gr. <grk>Qoy`lh</grk>, <grk>Qy`lh</grk>.]</ety> <def>The name given by ancient geographers to the northernmost part of the habitable world.  According to some, this land was Norway, according to others, Iceland, or more probably Mainland, the largest of the Shetland islands; hence, the Latin phrase <xex>ultima Thule</xex>, farthest Thule.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thulia</ent><br/
@@ -18113,7 +18113,7 @@ Nor the all-dreaded <qex>thunderstone</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thus</ent><br/
-||<hw>Thus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>thus</ets>, better <ets>tus</ets>, frankincense. See <er>Thurible</er>.]</ety> <def>The commoner kind of frankincense, or that obtained from the Norway spruce, the long-leaved pine, and other conifers.</def><br/
+\'d8<hw>Thus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>thus</ets>, better <ets>tus</ets>, frankincense. See <er>Thurible</er>.]</ety> <def>The commoner kind of frankincense, or that obtained from the Norway spruce, the long-leaved pine, and other conifers.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thus</ent><br/
@@ -18309,7 +18309,7 @@ In autumn <qex>thwarts</qex> the night.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>thymus</ent><br/
-||<hw>thy"mus</hw> <pr>(th<imac/"m<ucr/s)</pr>, <pos>a.</pos> <ety>[NL., fr. Gr. <grk>qy`mos</grk>.]</ety> <fld>(Anat.)</fld> <def>Of, pertaining to, or designating, the thymus gland.</def> -- <def2><pos>n.</pos> <def>The thymus gland.</def></def2><br/
+\'d8<hw>thy"mus</hw> <pr>(th<imac/"m<ucr/s)</pr>, <pos>a.</pos> <ety>[NL., fr. Gr. <grk>qy`mos</grk>.]</ety> <fld>(Anat.)</fld> <def>Of, pertaining to, or designating, the thymus gland.</def> -- <def2><pos>n.</pos> <def>The thymus gland.</def></def2><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col><b>Thymus gland</b></col>, <it>or</it> <col><b>Thymus body</b></col></mcol>, <cd>a ductless gland in the throat, or in the neighboring region, of nearly all vertebrates.  In man and other mammals it is the throat, or neck, sweetbread, which lies in the upper part of the thorax and lower part of the throat.  It is largest in fetal and early life, and disappears or becomes rudimentary in the adult.  The thymus gland functions as the site of maturation of T-lymphocytes (T-cells), which confer cell-mediated immunity on the host organism;  thus, removal or malfunciton of the thymus can lead to absence of cell-mediated immunity, and a consequent loss of resistance to infection.</cd></cs><br/
@@ -18373,7 +18373,7 @@ He rolled upon the fragrant ground.</q> <rj><qau>Gay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thyrsus</ent><br/
-||<hw>Thyr"sus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Thyrsi</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/.  Cf. <er>Torso</er>.]</ety> <sn>1.</sn> <def>A staff entwined with ivy, and surmounted by a pine cone, or by a bunch of vine or ivy leaves with grapes or berries. It is an attribute of Bacchus, and of the satyrs and others engaging in Bacchic rites.</def><br/
+\'d8<hw>Thyr"sus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Thyrsi</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/.  Cf. <er>Torso</er>.]</ety> <sn>1.</sn> <def>A staff entwined with ivy, and surmounted by a pine cone, or by a bunch of vine or ivy leaves with grapes or berries. It is an attribute of Bacchus, and of the satyrs and others engaging in Bacchic rites.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>A good to grow on graves<br/
@@ -18388,11 +18388,11 @@ The <qex>thyrsus</qex>, tipped with fragrant cones of pine.</q> <rj><qau>Longfel
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thysanopter</ent><br/
-||<hw>Thy`sa*nop"ter</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>One of the Thysanoptera.</def><br/
+\'d8<hw>Thy`sa*nop"ter</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>One of the Thysanoptera.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thysanoptera</ent><br/
-||<hw>Thy`sa*nop"te*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <?/ a fringe + <?/ a wing.]</ety> <fld>(Zool.)</fld> <def>A division of insects, considered by some writers a distinct order, but regarded by others as belonging to the Hemiptera. They are all of small size, and have narrow, broadly fringed wings with rudimentary nervures. Most of the species feed upon the juices of plants, and some, as those which attack grain, are very injurious to crops. Called also <altname>Physopoda</altname>.  See <er>Thrips</er>.</def><br/
+\'d8<hw>Thy`sa*nop"te*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <?/ a fringe + <?/ a wing.]</ety> <fld>(Zool.)</fld> <def>A division of insects, considered by some writers a distinct order, but regarded by others as belonging to the Hemiptera. They are all of small size, and have narrow, broadly fringed wings with rudimentary nervures. Most of the species feed upon the juices of plants, and some, as those which attack grain, are very injurious to crops. Called also <altname>Physopoda</altname>.  See <er>Thrips</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thysanopteran</ent><br/
@@ -18404,7 +18404,7 @@ The <qex>thyrsus</qex>, tipped with fragrant cones of pine.</q> <rj><qau>Longfel
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thysanura</ent><br/
-||<hw>Thys`a*nu"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ fringe + <?/ tail.]</ety> <fld>(Zool.)</fld> <def>An order of wingless hexapod insects which have setiform caudal appendages, either bent beneath the body to form a spring, or projecting as bristles. It comprises the Cinura, or bristletails, and the Collembola, or springtails. Called also <altname>Thysanoura</altname>. See <er>Lepisma</er>, and <er>Podura</er>.</def><br/
+\'d8<hw>Thys`a*nu"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ fringe + <?/ tail.]</ety> <fld>(Zool.)</fld> <def>An order of wingless hexapod insects which have setiform caudal appendages, either bent beneath the body to form a spring, or projecting as bristles. It comprises the Cinura, or bristletails, and the Collembola, or springtails. Called also <altname>Thysanoura</altname>. See <er>Lepisma</er>, and <er>Podura</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thysanuran</ent><br/
@@ -18449,7 +18449,7 @@ The <qex>thyrsus</qex>, tipped with fragrant cones of pine.</q> <rj><qau>Longfel
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tibia</ent><br/
-||<hw>Tib"i*a</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tibiae</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>The inner, or preaxial, and usually the larger, of the two bones of the leg or hind limb below the knee.</def><br/
+\'d8<hw>Tib"i*a</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tibiae</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>The inner, or preaxial, and usually the larger, of the two bones of the leg or hind limb below the knee.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>The fourth joint of the leg of an insect. See <xex>Illust.</xex> under <er>Coleoptera</er>, and under <er>Hexapoda</er>.</def><br/
@@ -18473,7 +18473,7 @@ The <qex>thyrsus</qex>, tipped with fragrant cones of pine.</q> <rj><qau>Longfel
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tibiale</ent><br/
-||<hw>Tib`i*a"le</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tibialia</plw> <pr>(#)</pr>.</plu> <ety>[NL.]</ety> <fld>(Anat.)</fld> <def>The bone or cartilage of the tarsus which articulates with the tibia and corresponds to a part of the astragalus in man and most mammals.</def><br/
+\'d8<hw>Tib`i*a"le</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tibialia</plw> <pr>(#)</pr>.</plu> <ety>[NL.]</ety> <fld>(Anat.)</fld> <def>The bone or cartilage of the tarsus which articulates with the tibia and corresponds to a part of the astragalus in man and most mammals.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tibicinate</ent><br/
@@ -18504,7 +18504,7 @@ The <qex>thyrsus</qex>, tipped with fragrant cones of pine.</q> <rj><qau>Longfel
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tical</ent><br/
-||<hw>Ti*cal"</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A bean-shaped coin of Siam, worth about sixty cents; also, a weight equal to 236 grains troy.</def>  <rj><au>Malcom.</au></rj><br/
+\'d8<hw>Ti*cal"</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A bean-shaped coin of Siam, worth about sixty cents; also, a weight equal to 236 grains troy.</def>  <rj><au>Malcom.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A money of account in China, reckoning at about $1.60; also, a weight of about four ounces avoirdupois.</def><br/
@@ -19103,7 +19103,7 @@ Revenge less sweet than a forgiving mind.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Tienda</ent><br/
-||<hw>Ti*en"da</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., prop., tent, awning.]</ety> <def>In Cuba, Mexico, etc., a booth, stall, or shop where merchandise is sold.</def><br/
+\'d8<hw>Ti*en"da</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., prop., tent, awning.]</ety> <def>In Cuba, Mexico, etc., a booth, stall, or shop where merchandise is sold.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tier</ent><br/
@@ -19165,7 +19165,7 @@ Revenge less sweet than a forgiving mind.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tiers etat</ent><br/
-||<hw>Tiers` <eacute/`tat"</hw> <pr>(?)</pr>. <ety>[F.]</ety> <def>The third estate, or commonalty, in France, answering to the commons in Great Britain; -- so called in distinction from, and as inferior to, the nobles and clergy.</def><br/
+\'d8<hw>Tiers` <eacute/`tat"</hw> <pr>(?)</pr>. <ety>[F.]</ety> <def>The third estate, or commonalty, in France, answering to the commons in Great Britain; -- so called in distinction from, and as inferior to, the nobles and clergy.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The refusal of the clergy and nobility to give the <xex>tiers <eacute/tat</xex> a representation in the States-general proportioned to their actual numbers had an important influence in bringing on the French Revolution of 1789. Since that time the term has been purely historical.</note><br/
@@ -19234,7 +19234,7 @@ Revenge less sweet than a forgiving mind.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tigella</ent><br/
-||<hw>Ti*gel"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from F. <ets>tige</ets> stem or stock.]</ety> <fld>(Bot.)</fld> <def>That part of an embryo which represents the young stem; the caulicle or radicle.</def><br/
+\'d8<hw>Ti*gel"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from F. <ets>tige</ets> stem or stock.]</ety> <fld>(Bot.)</fld> <def>That part of an embryo which represents the young stem; the caulicle or radicle.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tigelle</ent><br/
@@ -19419,7 +19419,7 @@ I'll urge thee round the dusty plain.</q> <rj><qau>Fawkes.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tilde</ent><br/
-||<hw>Til"de</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., fr. L. <ets>titulus</ets> a superscription, title, token, sign. See <er>Title</er>, <pos>n.</pos>]</ety> <def>The accentual mark placed over <it>n</it>, and sometimes over <it>l</it>, in Spanish words [thus, <it><ntil/</it>, <it><ltil/</it>], indicating that, in pronunciation, the sound of the following vowel is to be preceded by that of the initial, or consonantal, <it>y</it>.</def><br/
+\'d8<hw>Til"de</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., fr. L. <ets>titulus</ets> a superscription, title, token, sign. See <er>Title</er>, <pos>n.</pos>]</ety> <def>The accentual mark placed over <it>n</it>, and sometimes over <it>l</it>, in Spanish words [thus, <it><ntil/</it>, <it><ltil/</it>], indicating that, in pronunciation, the sound of the following vowel is to be preceded by that of the initial, or consonantal, <it>y</it>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tile</ent><br/
@@ -19491,7 +19491,7 @@ Which <qex>tile</qex> this house, will come again.</q> <rj><qau>Donne.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tilia</ent><br/
-||<hw>Til"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., linden. Cf. <er>Teil</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of trees, the lindens, the type of the family <fam>Tiliaceae</fam>, distinguished by the winglike bract coalescent with the peduncle, and by the indehiscent fruit having one or two seeds. There are about twenty species, natives of temperate regions.  Many species are planted as ornamental shade trees, and the tough fibrous inner bark is a valuable article of commerce. Also, a plant of this genus.</def><br/
+\'d8<hw>Til"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., linden. Cf. <er>Teil</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of trees, the lindens, the type of the family <fam>Tiliaceae</fam>, distinguished by the winglike bract coalescent with the peduncle, and by the indehiscent fruit having one or two seeds. There are about twenty species, natives of temperate regions.  Many species are planted as ornamental shade trees, and the tough fibrous inner bark is a valuable article of commerce. Also, a plant of this genus.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tiliaceous</ent><br/
@@ -19594,7 +19594,7 @@ Cramped under worse than South-sea-isle taboo.</q> <rj><qau>Tennyson.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tillandsia</ent><br/
-||<hw>Til*land"si*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., after Prof. <etsep>Tillands</etsep>, of Abo, in Finland.]</ety> <fld>(Bot.)</fld> <def>An immense genus of epiphytic bromeliaceous plants confined to tropical and subtropical America. They usually bear a rosette of narrow overlapping basal leaves, which often hold a considerable quantity of water. The spicate or paniculate flowers have free perianth segments, and are often subtended by colored bracts. Also, a plant of this genus.</def>  <note><spn>Tillandsia usneoides</spn>, called <stype>Spanish moss</stype>, <stype>long moss</stype>, <stype>black moss</stype>, and <stype>Florida moss</stype>, has a very slender pendulous branching stem, and forms great hanging tufts on the branches of trees in the Southeastern United States and south to Argentina. It is often used for stuffing mattresses</note><br/
+\'d8<hw>Til*land"si*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., after Prof. <etsep>Tillands</etsep>, of Abo, in Finland.]</ety> <fld>(Bot.)</fld> <def>An immense genus of epiphytic bromeliaceous plants confined to tropical and subtropical America. They usually bear a rosette of narrow overlapping basal leaves, which often hold a considerable quantity of water. The spicate or paniculate flowers have free perianth segments, and are often subtended by colored bracts. Also, a plant of this genus.</def>  <note><spn>Tillandsia usneoides</spn>, called <stype>Spanish moss</stype>, <stype>long moss</stype>, <stype>black moss</stype>, and <stype>Florida moss</stype>, has a very slender pendulous branching stem, and forms great hanging tufts on the branches of trees in the Southeastern United States and south to Argentina. It is often used for stuffing mattresses</note><br/
 [<source>1913 Webster</source> + <source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tiller</ent><br/
@@ -19645,7 +19645,7 @@ Cramped under worse than South-sea-isle taboo.</q> <rj><qau>Tennyson.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tillodontia</ent><br/
-||<hw>Til`lo*don"ti*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <fld>(Paleon.)</fld> <def>An extinct group of Mammalia found fossil in the Eocene formation. The species are related to the carnivores, ungulates, and rodents. Called also <altname>Tillodonta</altname>.</def><br/
+\'d8<hw>Til`lo*don"ti*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <fld>(Paleon.)</fld> <def>An extinct group of Mammalia found fossil in the Eocene formation. The species are related to the carnivores, ungulates, and rodents. Called also <altname>Tillodonta</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tillot</ent><br/
@@ -19661,7 +19661,7 @@ Cramped under worse than South-sea-isle taboo.</q> <rj><qau>Tennyson.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tilmus</ent><br/
-||<hw>Til"mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>tilmo`s</grk>, fr. <grk>ti`llein</grk> to pluck, pull.]</ety> <fld>(Med.)</fld> <def>Floccillation.</def><br/
+\'d8<hw>Til"mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>tilmo`s</grk>, fr. <grk>ti`llein</grk> to pluck, pull.]</ety> <fld>(Med.)</fld> <def>Floccillation.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Til seed</ent><br/
@@ -19807,7 +19807,7 @@ We gained the mother city.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Timbale</ent><br/
-||<hw>Tim`bale"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., prop., a kettledrum; -- so named from the form of the mold used. Cf. <er>Timbal</er>.]</ety> <fld>(Cookery)</fld> <def>A seasoned preparation, as of chicken, lobster, cheese, or fish, cooked in a drum-shaped mold; also, a pastry case, usually small, filled with a cooked mixture.</def><br/
+\'d8<hw>Tim`bale"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., prop., a kettledrum; -- so named from the form of the mold used. Cf. <er>Timbal</er>.]</ety> <fld>(Cookery)</fld> <def>A seasoned preparation, as of chicken, lobster, cheese, or fish, cooked in a drum-shaped mold; also, a pastry case, usually small, filled with a cooked mixture.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Timber</ent><br/
@@ -20265,7 +20265,7 @@ Inclining to them both.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Timpano</ent><br/
-||<hw>Tim"pa*no</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Timpani</plw> <pr>(#)</pr>.</plu> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>See <er>Tympano</er>.</def><br/
+\'d8<hw>Tim"pa*no</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Timpani</plw> <pr>(#)</pr>.</plu> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>See <er>Tympano</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Timur-leng</ent><br/
@@ -20296,7 +20296,7 @@ Inclining to them both.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tinamides</ent><br/
-||<hw>Ti*nam"i*des</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A division of struthious birds, including the tinamous.</def><br/
+\'d8<hw>Ti*nam"i*des</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A division of struthious birds, including the tinamous.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tinamou</ent><br/
@@ -20434,7 +20434,7 @@ That mote recure their wounds; so inly they did <qex>tine</qex>.</q> <rj><qau>Sp
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tinea</ent><br/
-||<hw>Tin"e*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a worm, a moth.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>A name applied to various skin diseases, but especially to ringworm. See <er>Ringworm</er>, and <er>Sycosis</er>.</def><br/
+\'d8<hw>Tin"e*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a worm, a moth.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>A name applied to various skin diseases, but especially to ringworm. See <er>Ringworm</er>, and <er>Sycosis</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>A genus of small Lepidoptera, including the clothes moths and carpet moths.</def><br/
@@ -20469,7 +20469,7 @@ That mote recure their wounds; so inly they did <qex>tine</qex>.</q> <rj><qau>Sp
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ting</ent><br/
-||<hw>Ting</hw>, <pos>n.</pos> <def>The apartment in a Chinese temple where the idol is kept.</def><br/
+\'d8<hw>Ting</hw>, <pos>n.</pos> <def>The apartment in a Chinese temple where the idol is kept.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tinge</ent><br/
@@ -20505,7 +20505,7 @@ That mote recure their wounds; so inly they did <qex>tine</qex>.</q> <rj><qau>Sp
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tingis</ent><br/
-||<hw>Tin"gis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A genus of small hemipterous insects which injure trees by sucking the sap from the leaves. See <xex>Illustration</xex> in Appendix.</def><br/
+\'d8<hw>Tin"gis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A genus of small hemipterous insects which injure trees by sucking the sap from the leaves. See <xex>Illustration</xex> in Appendix.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tingle</ent><br/
@@ -20649,7 +20649,7 @@ Moves to the music of his <qex>tinkling</qex> bells.</q> <rj><qau>Dodsley.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tinnitus</ent><br/
-||<hw>Tin*ni"tus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>tinnire</ets> to jingle.]</ety> <fld>(Med.)</fld> <def>A ringing, whistling, or other imaginary noise perceived in the ears; -- called also <altname>tinnitus aurium</altname>.</def><br/
+\'d8<hw>Tin*ni"tus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>tinnire</ets> to jingle.]</ety> <fld>(Med.)</fld> <def>A ringing, whistling, or other imaginary noise perceived in the ears; -- called also <altname>tinnitus aurium</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tinnock</ent><br/
@@ -20753,7 +20753,7 @@ His the mere <qex>tinsel</qex>, hers the rich reward.</q> <rj><qau>Cowper.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tintinnabulum</ent><br/
-||<hw>Tin`tin*nab"u*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Tintinnabula</plw> <pr>(#)</pr></plu>. <ety>[L., a bell. See <er>Tintinnabular</er>.]</ety> <def>A bell; also, a set or combination of bells or metal plates used as a musical instrument or as a toy.</def><br/
+\'d8<hw>Tin`tin*nab"u*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Tintinnabula</plw> <pr>(#)</pr></plu>. <ety>[L., a bell. See <er>Tintinnabular</er>.]</ety> <def>A bell; also, a set or combination of bells or metal plates used as a musical instrument or as a toy.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tinto</ent><br/
@@ -21002,7 +21002,7 @@ Stands <qex>tiptoe</qex> on the misty mountain tops.</q> <rj><qau>Shak.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tipula</ent><br/
-||<hw>Tip"u*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Tipulae</plw> <pr>(#)</pr>, E. <plw>Tipulas</plw> <pr>(#)</pr>.</plu> <ety>[L., the water spider, or water spinner.]</ety> <fld>(Zool.)</fld> <def>Any one of many species of long-legged dipterous insects belonging to <gen>Tipula</gen> and allied genera. They have long and slender bodies. See <cref>Crane fly</cref>, under <er>Crane</er>.</def><br/
+\'d8<hw>Tip"u*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Tipulae</plw> <pr>(#)</pr>, E. <plw>Tipulas</plw> <pr>(#)</pr>.</plu> <ety>[L., the water spider, or water spinner.]</ety> <fld>(Zool.)</fld> <def>Any one of many species of long-legged dipterous insects belonging to <gen>Tipula</gen> and allied genera. They have long and slender bodies. See <cref>Crane fly</cref>, under <er>Crane</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tipulary</ent><br/
@@ -21021,7 +21021,7 @@ Stands <qex>tiptoe</qex> on the misty mountain tops.</q> <rj><qau>Shak.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tirailleur</ent><br/
-||<hw>Ti`rail`leur"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., from <ets>tirailler</ets> to skirmish, wrest, from <ets>tirer</ets> to draw.]</ety> <fld>(Mil.)</fld> <def>Formerly, a member of an independent body of marksmen in the French army. They were used sometimes in front of the army to annoy the enemy, sometimes in the rear to check his pursuit. The term is now applied to all troops acting as skirmishers.</def><br/
+\'d8<hw>Ti`rail`leur"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., from <ets>tirailler</ets> to skirmish, wrest, from <ets>tirer</ets> to draw.]</ety> <fld>(Mil.)</fld> <def>Formerly, a member of an independent body of marksmen in the French army. They were used sometimes in front of the army to annoy the enemy, sometimes in the rear to check his pursuit. The term is now applied to all troops acting as skirmishers.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tire</ent><br/
@@ -21324,7 +21324,7 @@ Assembled at the clarion's call.</q> <rj><qau>T. Warton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Titanotherium</ent><br/
-||<hw>Ti`tan*o*the"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a Titan + <?/, dim. of <?/ a beast.]</ety> <fld>(Paleon.)</fld> <def>A large American Miocene mammal, allied to the rhinoceros, and more nearly to the extinct Brontotherium.</def><br/
+\'d8<hw>Ti`tan*o*the"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a Titan + <?/, dim. of <?/ a beast.]</ety> <fld>(Paleon.)</fld> <def>A large American Miocene mammal, allied to the rhinoceros, and more nearly to the extinct Brontotherium.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Titanous</ent><br/
@@ -22068,12 +22068,12 @@ With <qex>toast</qex> embrowned, and fragrant nutmeg fraught.</q> <rj><qau>T. Wa
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Toccata</ent><br/
-||<hw>Toc*ca"ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It., fr. <ets>toccare</ets> to touch. See <er>Touch</er>.]</ety> <fld>(Mus.)</fld> <def>An old form of piece for the organ or harpsichord, somewhat in the free and brilliant style of the <xex>prelude</xex>, <xex>fantasia</xex>, or <xex>capriccio</xex>.</def><br/
+\'d8<hw>Toc*ca"ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It., fr. <ets>toccare</ets> to touch. See <er>Touch</er>.]</ety> <fld>(Mus.)</fld> <def>An old form of piece for the organ or harpsichord, somewhat in the free and brilliant style of the <xex>prelude</xex>, <xex>fantasia</xex>, or <xex>capriccio</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Toccatina</ent><br/
 <ent>Toccatella</ent><br/
-<mhw>{ ||<hw>Toc`ca*tel"la</hw> <pr>(?)</pr>, ||<hw>Toc`ca*ti"na</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos>} <ety>[It.]</ety> <fld>(Music)</fld> <def>A short or simple toccata.</def><br/
+<mhw>{ \'d8<hw>Toc`ca*tel"la</hw> <pr>(?)</pr>, \'d8<hw>Toc`ca*ti"na</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos>} <ety>[It.]</ety> <fld>(Music)</fld> <def>A short or simple toccata.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tocher</ent><br/
@@ -22093,7 +22093,7 @@ With <qex>toast</qex> embrowned, and fragrant nutmeg fraught.</q> <rj><qau>T. Wa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tocororo</ent><br/
-||<hw>To*co*ro"ro</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Probably from the native name through the Spanish: cf. Sp. <ets>tocororo</ets>.]</ety> <fld>(Zool.)</fld> <def>A cuban trogon (<spn>Priotelus temnurus</spn>) having a serrated bill and a tail concave at the end.</def><br/
+\'d8<hw>To*co*ro"ro</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Probably from the native name through the Spanish: cf. Sp. <ets>tocororo</ets>.]</ety> <fld>(Zool.)</fld> <def>A cuban trogon (<spn>Priotelus temnurus</spn>) having a serrated bill and a tail concave at the end.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tocsin</ent><br/
@@ -22260,7 +22260,7 @@ Is worth for me a thousand yesterdays.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tofus</ent><br/
-||<hw>To"fus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., tufa.]</ety> <sn>1.</sn> <def>Tophus.</def><br/
+\'d8<hw>To"fus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., tufa.]</ety> <sn>1.</sn> <def>Tophus.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Min.)</fld> <def>Tufa. See under <er>Tufa</er>, and <er>Toph</er>.</def><br/
@@ -22271,10 +22271,10 @@ Is worth for me a thousand yesterdays.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Toga</ent><br/
-||<hw>To"ga</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Togas</plw> <pr>(#)</pr>, L. <plw>Togae</plw> <pr>(#)</pr>.</plu> <ety>[L., akin to <ets>tegere</ets> to cover. See <er>Thatch</er>.]</ety> <fld>(Rom. Antiq.)</fld> <def>The loose outer garment worn by the ancient Romans, consisting of a single broad piece of woolen cloth of a shape approaching a semicircle. It was of undyed wool, except the border of the toga praetexta.</def><br/
+\'d8<hw>To"ga</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Togas</plw> <pr>(#)</pr>, L. <plw>Togae</plw> <pr>(#)</pr>.</plu> <ety>[L., akin to <ets>tegere</ets> to cover. See <er>Thatch</er>.]</ety> <fld>(Rom. Antiq.)</fld> <def>The loose outer garment worn by the ancient Romans, consisting of a single broad piece of woolen cloth of a shape approaching a semicircle. It was of undyed wool, except the border of the toga praetexta.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs>||<col><b>Toga praetexta</b></col>. <ety>[L.]</ety>, <cd>a toga with a broad purple border, worn by children of both sexes, by magistrates, and by persons engaged in sacred rites.</cd> -- ||<col><b>Toga virilis</b></col> <ety>[L.]</ety>, <cd>the manly gown; the common toga. This was assumed by Roman boys about the time of completing their fourteenth year.</cd></cs><br/
+<p><cs>\'d8<col><b>Toga praetexta</b></col>. <ety>[L.]</ety>, <cd>a toga with a broad purple border, worn by children of both sexes, by magistrates, and by persons engaged in sacred rites.</cd> -- \'d8<col><b>Toga virilis</b></col> <ety>[L.]</ety>, <cd>the manly gown; the common toga. This was assumed by Roman boys about the time of completing their fourteenth year.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Togated</ent><br/
@@ -22360,7 +22360,7 @@ Is worth for me a thousand yesterdays.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tohubohu</ent><br/
-||<hw>To"hu*bo"hu</hw> <pr>(t<omac/"h<oomac/-b<omac/"h<oomac/)</pr>, <pos>n.</pos> <ety>[F. <ets>tohu-bohu</ets>, fr. Heb. <ets>toh<umac/ wa boh<umac/</ets> without form and void (<au>Gen. i. 2</au>).]</ety> <def>Chaos; confusion.</def> <mark>[Rare]</mark> <br/
+\'d8<hw>To"hu*bo"hu</hw> <pr>(t<omac/"h<oomac/-b<omac/"h<oomac/)</pr>, <pos>n.</pos> <ety>[F. <ets>tohu-bohu</ets>, fr. Heb. <ets>toh<umac/ wa boh<umac/</ets> without form and void (<au>Gen. i. 2</au>).]</ety> <def>Chaos; confusion.</def> <mark>[Rare]</mark> <br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><q>Was ever such a <qex>tohubohu</qex> of people as there assembles?</q>  <rj><qau>Thackeray.</qau></rj><br/
@@ -22470,11 +22470,11 @@ When <qex>toil</qex> remitting lent its turn to play.</q> <rj><qau>Goldsmith.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Toison</ent><br/
-||<hw>Toi`son"</hw> <pr>(tw<adot/`z<ocir/n")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A sheep's fleece.</def><br/
+\'d8<hw>Toi`son"</hw> <pr>(tw<adot/`z<ocir/n")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A sheep's fleece.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Toison d'or</ent><br/
-||<hw>Toi`son" d'or"</hw> <pr>(d<osl/r")</pr>. <ety>[F.]</ety> <def>Lit., the golden fleece; specif., the order of the Golden Fleece, or its jewel.</def><br/
+\'d8<hw>Toi`son" d'or"</hw> <pr>(d<osl/r")</pr>. <ety>[F.]</ety> <def>Lit., the golden fleece; specif., the order of the Golden Fleece, or its jewel.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tokay</ent><br/
@@ -22549,7 +22549,7 @@ Are mere forerunners of their ends.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tola</ent><br/
-||<hw>To"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind., from Skr. <ets>tul<amac/</ets> a balance.]</ety> <def>A weight of British India. The standard tola is equal to 180 grains.</def><br/
+\'d8<hw>To"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind., from Skr. <ets>tul<amac/</ets> a balance.]</ety> <def>A weight of British India. The standard tola is equal to 180 grains.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tolane</ent><br/
@@ -22888,7 +22888,7 @@ Shall tithe or <qex>toll</qex> in our dominions.</q> <rj><qau>Shak.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Toman</ent><br/
-||<hw>To*man"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Per. <ets>t<omac/m<amac/n</ets>; from a Mongol word signifying, ten thousand.]</ety> <def>A money of account in Persia, whose value varies greatly at different times and places. Its average value may be reckoned at about two and a half dollars.</def><br/
+\'d8<hw>To*man"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Per. <ets>t<omac/m<amac/n</ets>; from a Mongol word signifying, ten thousand.]</ety> <def>A money of account in Persia, whose value varies greatly at different times and places. Its average value may be reckoned at about two and a half dollars.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tom and Jerry</ent><br/
@@ -22979,7 +22979,7 @@ Shall tithe or <qex>toll</qex> in our dominions.</q> <rj><qau>Shak.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tomentum</ent><br/
-||<hw>To*men"tum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tomenta</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Tomentose</er>. ]</ety> <fld>(Bot.)</fld> <def>The closely matted hair or downy nap covering the leaves or stems of some plants.</def><br/
+\'d8<hw>To*men"tum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tomenta</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Tomentose</er>. ]</ety> <fld>(Bot.)</fld> <def>The closely matted hair or downy nap covering the leaves or stems of some plants.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tomfool</ent><br/
@@ -22996,7 +22996,7 @@ Shall tithe or <qex>toll</qex> in our dominions.</q> <rj><qau>Shak.</qau></rj><b
 [<source>PJC</source>]</p>
 
 <p><ent>Tomium</ent><br/
-||<hw>To"mi*um</hw> <pr>(t<omac/"m<icr/*<ucr/m)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tomia</plw> <pr>(t<omac/"m<icr/*<adot/)</pr></plu> <ety>[NL., fr. Gr. <grk>te`mnein</grk> to cut.]</ety> <fld>(Zool.)</fld> <def>The cutting edge of the bill of a bird.</def><br/
+\'d8<hw>To"mi*um</hw> <pr>(t<omac/"m<icr/*<ucr/m)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tomia</plw> <pr>(t<omac/"m<icr/*<adot/)</pr></plu> <ety>[NL., fr. Gr. <grk>te`mnein</grk> to cut.]</ety> <fld>(Zool.)</fld> <def>The cutting edge of the bill of a bird.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tomjohn</ent><br/
@@ -23032,7 +23032,7 @@ Shall tithe or <qex>toll</qex> in our dominions.</q> <rj><qau>Shak.</qau></rj><b
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tomopteris</ent><br/
-||<hw>To*mop"te*ris</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>to`mos</grk> a cut + <grk>ptero`n</grk> wing (but taken to mean, fin).]</ety> <fld>(Zool.)</fld> <def>A genus of transparent marine annelids which swim actively at the surface of the sea. They have deeply divided or forked finlike organs (parapodia). This genus is the type of the order, or suborder, Gymnocopa.</def><br/
+\'d8<hw>To*mop"te*ris</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>to`mos</grk> a cut + <grk>ptero`n</grk> wing (but taken to mean, fin).]</ety> <fld>(Zool.)</fld> <def>A genus of transparent marine annelids which swim actively at the surface of the sea. They have deeply divided or forked finlike organs (parapodia). This genus is the type of the order, or suborder, Gymnocopa.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tomorn</ent><br/
@@ -23092,7 +23092,7 @@ Shall tithe or <qex>toll</qex> in our dominions.</q> <rj><qau>Shak.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ton</ent><br/
-||<hw>Ton</hw> <pr>(t<ocir/n)</pr>, <pos>n.</pos> <ety>[F. See <er>Tone</er>.]</ety> <def>The prevailing fashion or mode; vogue; <as>as, things of <ex>ton</ex></as>.</def>  <rj><au>Byron.</au></rj><br/
+\'d8<hw>Ton</hw> <pr>(t<ocir/n)</pr>, <pos>n.</pos> <ety>[F. See <er>Tone</er>.]</ety> <def>The prevailing fashion or mode; vogue; <as>as, things of <ex>ton</ex></as>.</def>  <rj><au>Byron.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>If our people of <qex>ton</qex> are selfish, at any rate they show they are selfish.</q> <rj><qau>Thackeray.</qau></rj><br/
@@ -23555,11 +23555,11 @@ Shall tithe or <qex>toll</qex> in our dominions.</q> <rj><qau>Shak.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tonne</ent><br/
-||<hw>Tonne</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A metric ton.</def><br/
+\'d8<hw>Tonne</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A metric ton.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tonneau</ent><br/
-||<hw>Ton`neau"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Tonneaux</plw> <pr>(#)</pr></plu>. <ety>[F.]</ety> <sn>1.</sn> <def>In France, a light-wheeled vehicle with square or rounded body and rear entrance.</def><br/
+\'d8<hw>Ton`neau"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Tonneaux</plw> <pr>(#)</pr></plu>. <ety>[F.]</ety> <sn>1.</sn> <def>In France, a light-wheeled vehicle with square or rounded body and rear entrance.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <fld>(Automobiles)</fld> <def>Orig., the after part of the body with  entrance at the rear (as in vehicle in def. 1); now, one with sides closing in the seat or seats and entered by a door usually at the side, also, the entire body of an automobile having such an after part.</def><br/
@@ -23616,7 +23616,7 @@ Shall tithe or <qex>toll</qex> in our dominions.</q> <rj><qau>Shak.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tonsilitis</ent><br/
-||<hw>Ton`sil*i"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Tonsil</er>, and <er>-itis</er>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the tonsils; quinsy.</def> <altsp>[Written also, and more usually, <asp>tonsillitis</asp>.]</altsp><br/
+\'d8<hw>Ton`sil*i"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Tonsil</er>, and <er>-itis</er>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the tonsils; quinsy.</def> <altsp>[Written also, and more usually, <asp>tonsillitis</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tonsillectomy</ent><br/
@@ -23669,7 +23669,7 @@ Shall tithe or <qex>toll</qex> in our dominions.</q> <rj><qau>Shak.</qau></rj><b
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tonus</ent><br/
-||<hw>To"nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. a sound, tone. See <er>Tone</er>.]</ety> <fld>(Physiol.)</fld> <def>Tonicity, or tone; <as>as, muscular <ex>tonus</ex></as>.</def><br/
+\'d8<hw>To"nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. a sound, tone. See <er>Tone</er>.]</ety> <fld>(Physiol.)</fld> <def>Tonicity, or tone; <as>as, muscular <ex>tonus</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tony</ent><br/
@@ -24670,7 +24670,7 @@ And black Gehenna called, the type of hell.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Tora</ent><br/
 <ent>Torah</ent><br/
-<mhw>{ ||<hw>To"rah</hw>, ||<hw>To"ra</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Toroth</plw> <pr>(#)</pr></plu>. <ety>[Heb. <ets>t<omac/r<amac/h</ets>.]</ety> <fld>(Jewish Lit.)</fld> <sd>(a)</sd> <def>A law; a precept.</def></p>
+<mhw>{ \'d8<hw>To"rah</hw>, \'d8<hw>To"ra</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Toroth</plw> <pr>(#)</pr></plu>. <ety>[Heb. <ets>t<omac/r<amac/h</ets>.]</ety> <fld>(Jewish Lit.)</fld> <sd>(a)</sd> <def>A law; a precept.</def></p>
 
 <p><q>A considerable body of priestly <qex>Toroth</qex>.</q>  <rj><qau>S. R. Driver.</qau></rj></p>
 
@@ -24685,7 +24685,7 @@ And black Gehenna called, the type of hell.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Torana</ent><br/
 <ent>Toran</ent><br/
-<mhw>{ <hw>To"ran</hw> <pr>(?)</pr>, ||<hw>To"ra*na</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[Skr. <ets>t<omac/ra<nsdot/a</ets> an arch, a gate.]</ety> <fld>(Indian Arch.)</fld> <def>A gateway, commonly of wood, but sometimes of stone, consisting of two upright pillars carrying one to three transverse lintels. It is often minutely carved with symbolic sculpture, and serves as a monumental approach to a Buddhist temple.</def><br/
+<mhw>{ <hw>To"ran</hw> <pr>(?)</pr>, \'d8<hw>To"ra*na</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[Skr. <ets>t<omac/ra<nsdot/a</ets> an arch, a gate.]</ety> <fld>(Indian Arch.)</fld> <def>A gateway, commonly of wood, but sometimes of stone, consisting of two upright pillars carrying one to three transverse lintels. It is often minutely carved with symbolic sculpture, and serves as a monumental approach to a Buddhist temple.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Torbernite</ent><br/
@@ -24800,7 +24800,7 @@ And black Gehenna called, the type of hell.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Torilto</ent><br/
-||<hw>To*ril"to</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. Sp. <ets>torillo</ets> a little bull.]</ety> <fld>(Zool.)</fld> <def>A species of Turnix (<spn>Turnix sylvatica</spn>) native of Spain and Northen Africa.</def><br/
+\'d8<hw>To*ril"to</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. Sp. <ets>torillo</ets> a little bull.]</ety> <fld>(Zool.)</fld> <def>A species of Turnix (<spn>Turnix sylvatica</spn>) native of Spain and Northen Africa.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Torinese</ent><br/
@@ -24889,7 +24889,7 @@ Pleasures about me, so much more I feel<br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tormina</ent><br/
-||<hw>Tor"mi*na</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., a griping in the belly.]</ety> <fld>(Med.)</fld> <def>acute, colicky pains; gripes.</def><br/
+\'d8<hw>Tor"mi*na</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., a griping in the belly.]</ety> <fld>(Med.)</fld> <def>acute, colicky pains; gripes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Torminous</ent><br/
@@ -24905,7 +24905,7 @@ Pleasures about me, so much more I feel<br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tornaria</ent><br/
-||<hw>Tor*na"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tornariae</plw>  <pr>(#)</pr>.</plu> <ety>[NL., fr. L. <ets>tornare</ets> to turn.]</ety> <fld>(Zool.)</fld> <def>The peculiar free swimming larva of Balanoglossus. See <xex>Illust.</xex> in Append.</def><br/
+\'d8<hw>Tor*na"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tornariae</plw>  <pr>(#)</pr>.</plu> <ety>[NL., fr. L. <ets>tornare</ets> to turn.]</ety> <fld>(Zool.)</fld> <def>The peculiar free swimming larva of Balanoglossus. See <xex>Illust.</xex> in Append.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Torose</ent><br/
@@ -25098,7 +25098,7 @@ Pleasures about me, so much more I feel<br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Torques</ent><br/
-||<hw>Tor"ques</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a necklace. See <er>Torque</er>, 1.]</ety> <fld>(Zool.)</fld> <def>A cervical ring of hair or feathers, distinguished by its color or structure; a collar.</def><br/
+\'d8<hw>Tor"ques</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a necklace. See <er>Torque</er>, 1.]</ety> <fld>(Zool.)</fld> <def>A cervical ring of hair or feathers, distinguished by its color or structure; a collar.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Torrefaction</ent><br/
@@ -25255,7 +25255,7 @@ Stemmed the wild <qex>torrent</qex> of a barbarous age.</q> <rj><qau>Pope.</qau>
 <p><sn>2.</sn> <fld>(Law)</fld> <def>Any civil wrong or injury; a wrongful act (not involving a breach of contract) for which an action will lie; a form of action, in some parts of the United States, for a wrong or injury.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs>||<col><b>Executor de son tort</b></col>.  <cd>See under <er>Executor</er>.</cd> -- <col><b>Tort feasor</b></col> <fld>(Law)</fld>, <cd>a wrongdoer; a trespasser.</cd>  <rj><au>Wharton.</au></rj></cs><br/
+<p><cs>\'d8<col><b>Executor de son tort</b></col>.  <cd>See under <er>Executor</er>.</cd> -- <col><b>Tort feasor</b></col> <fld>(Law)</fld>, <cd>a wrongdoer; a trespasser.</cd>  <rj><au>Wharton.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tort</ent><br/
@@ -25286,7 +25286,7 @@ Stemmed the wild <qex>torrent</qex> of a barbarous age.</q> <rj><qau>Pope.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tortilla</ent><br/
-||<hw>Tor*til"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>An unleavened cake, as of maize flour, baked on a heated iron or stone.</def><br/
+\'d8<hw>Tor*til"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>An unleavened cake, as of maize flour, baked on a heated iron or stone.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tortion</ent><br/
@@ -25329,7 +25329,7 @@ Stemmed the wild <qex>torrent</qex> of a barbarous age.</q> <rj><qau>Pope.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tortrix</ent><br/
-||<hw>Tor"trix</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>torquere</ets>, <ets>tortum</ets>, to twist.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>Any one of numerous species of small moths of the family <fam>Tortricidae</fam>, the larvae of which usually roll up the leaves of plants on which they live; -- also called <altname>leaf roller</altname>.</def><br/
+\'d8<hw>Tor"trix</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>torquere</ets>, <ets>tortum</ets>, to twist.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>Any one of numerous species of small moths of the family <fam>Tortricidae</fam>, the larvae of which usually roll up the leaves of plants on which they live; -- also called <altname>leaf roller</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>A genus of tropical short-tailed snakes, which are not venomous.  One species (<spn>Tortrix scytalae</spn>) is handsomely banded with black, and is sometimes worn alive by the natives of Brazil for a necklace.</def><br/
@@ -25423,7 +25423,7 @@ Stemmed the wild <qex>torrent</qex> of a barbarous age.</q> <rj><qau>Pope.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Torula</ent><br/
-||<hw>Tor"u*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Torulae</plw> <pr>(<?/)</pr></plu> <ety>[NL., dim. of L. <ets>torus</ets> a semicircular molding.]</ety> <fld>(Biol.)</fld> <sd>(a)</sd> <def>A chain of special bacteria.</def> <sd>(b)</sd> <def>A genus of budding fungi.  Same as <er>Saccharomyces</er>.  Also used adjectively.</def><br/
+\'d8<hw>Tor"u*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Torulae</plw> <pr>(<?/)</pr></plu> <ety>[NL., dim. of L. <ets>torus</ets> a semicircular molding.]</ety> <fld>(Biol.)</fld> <sd>(a)</sd> <def>A chain of special bacteria.</def> <sd>(b)</sd> <def>A genus of budding fungi.  Same as <er>Saccharomyces</er>.  Also used adjectively.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Torulaform</ent><br/
@@ -25439,7 +25439,7 @@ Stemmed the wild <qex>torrent</qex> of a barbarous age.</q> <rj><qau>Pope.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Torus</ent><br/
-||<hw>To"rus</hw> <pr>(t<omac/"r<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tori</plw> <pr>(t<omac/"r<imac/)</pr>.</plu> <ety>[L., a round, swelling, or bulging place, an elevation.  Cf. 3d <er>Tore</er>.]</ety><br/
+\'d8<hw>To"rus</hw> <pr>(t<omac/"r<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tori</plw> <pr>(t<omac/"r<imac/)</pr>.</plu> <ety>[L., a round, swelling, or bulging place, an elevation.  Cf. 3d <er>Tore</er>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <fld>(Arch.)</fld> <def>A large molding used in the bases of columns.  Its profile is semicircular. See <xex>Illust.</xex> of <er>Molding.</er></def>  <rj><au>Brande & C.</au></rj><br/
@@ -25596,10 +25596,10 @@ And full of peace, now <qex>tossed</qex> and turbulent.</q> <rj><qau>Milton.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tosto</ent><br/
-||<hw>Tos"to</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Quick; rapid.</def><br/
+\'d8<hw>Tos"to</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Quick; rapid.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs>||<col><b>Pui tosto</b></col> <pr>(<?/)</pr> <ety>[It.]</ety> <fld>(Mus.)</fld>, <cd>faster; more rapid.</cd></cs><br/
+<p><cs>\'d8<col><b>Pui tosto</b></col> <pr>(<?/)</pr> <ety>[It.]</ety> <fld>(Mus.)</fld>, <cd>faster; more rapid.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Toswink</ent><br/
@@ -25775,7 +25775,7 @@ Of the turtle, crane, and beaver.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Totipalmi</ent><br/
-||<hw>To`ti*pal"mi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from L. <ets>totus</ets> all, whole + <ets>palmus</ets> palm.]</ety> <fld>(Zool.)</fld> <def>A division of swimming birds including those that have totipalmate feet.</def><br/
+\'d8<hw>To`ti*pal"mi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from L. <ets>totus</ets> all, whole + <ets>palmus</ets> palm.]</ety> <fld>(Zool.)</fld> <def>A division of swimming birds including those that have totipalmate feet.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Totipresence</ent><br/
@@ -26398,11 +26398,11 @@ And there is scantly time for half the work.</q> <rj><qau>Tennyson.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tournois</ent><br/
-||<hw>Tour`nois"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., belonging to <ets>Tours</ets> in France.]</ety> <def>A former French money of account worth 20 sous, or a franc. It was thus called in distinction from the Paris <xex>livre</xex>, which contained 25 sous.</def><br/
+\'d8<hw>Tour`nois"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., belonging to <ets>Tours</ets> in France.]</ety> <def>A former French money of account worth 20 sous, or a franc. It was thus called in distinction from the Paris <xex>livre</xex>, which contained 25 sous.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tournure</ent><br/
-||<hw>Tour*nure"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>tourner</ets> to turn.]</ety><br/
+\'d8<hw>Tour*nure"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>tourner</ets> to turn.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>Turn; contour; figure.</def><br/
@@ -26487,7 +26487,7 @@ And there is scantly time for half the work.</q> <rj><qau>Tennyson.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tout-ensemble</ent><br/
-||<hw>Tout`-en`sem"ble</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>All together; hence, in costume, the fine arts, etc., the general effect of a work as a whole, without regard to the execution of the separate perts.</def><br/
+\'d8<hw>Tout`-en`sem"ble</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>All together; hence, in costume, the fine arts, etc., the general effect of a work as a whole, without regard to the execution of the separate perts.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Touter</ent><br/
@@ -26850,7 +26850,7 @@ In <qex>towers</qex>, and curls, and periwigs.</q> <rj><qau>Hudibras.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Toxaemia</ent><br/
-||<hw>Tox*<ae/"mi*a</hw> <pr>(t<ocr/ks"<emac/"m<icr/*<adot/)</pr>, <pos>a.</pos> <ety>[NL., fr. Gr. <grk>toxiko`n</grk> poison + <grk>a"i^ma</grk> blood.]</ety> <fld>(Med.)</fld> <def>Blood poisoning. See under <er>Blood</er>.</def><br/
+\'d8<hw>Tox*<ae/"mi*a</hw> <pr>(t<ocr/ks"<emac/"m<icr/*<adot/)</pr>, <pos>a.</pos> <ety>[NL., fr. Gr. <grk>toxiko`n</grk> poison + <grk>a"i^ma</grk> blood.]</ety> <fld>(Med.)</fld> <def>Blood poisoning. See under <er>Blood</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Toxalbumin</ent><br/
@@ -26898,7 +26898,7 @@ In <qex>towers</qex>, and curls, and periwigs.</q> <rj><qau>Hudibras.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Toxifera</ent><br/
-||<hw>Tox*if"e*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>to`xon</grk> a bow + L. <ets>ferre</ets> to bear.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Toxoglossa</er>.</def><br/
+\'d8<hw>Tox*if"e*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>to`xon</grk> a bow + L. <ets>ferre</ets> to bear.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Toxoglossa</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Toxine</ent><br/
@@ -26906,7 +26906,7 @@ In <qex>towers</qex>, and curls, and periwigs.</q> <rj><qau>Hudibras.</qau></rj>
 <mhw>{ <hw>Tox"in</hw>, <hw>Tox"ine</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>toxiko`n</grk>. See <er>Toxic</er>. ]</ety> <def>A poisonous product formed by an organism, such as a pathogenic bacterium, a plant or an animal, usually having a high molecular weight, often a protein or a polysaccharide, but occasionally a low-molecular weight agent such as <stype>tetrodotoxin</stype>.</def></p>
 
 <p><ent>Toxiphobia</ent><br/
-||<hw>Tox`i*pho"bi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>toxiko`n</grk> poison + <grk>fo`bos</grk> fear.]</ety> <fld>(Med.)</fld> <def>An insane or greatly exaggerated dread of poisons.</def><br/
+\'d8<hw>Tox`i*pho"bi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>toxiko`n</grk> poison + <grk>fo`bos</grk> fear.]</ety> <fld>(Med.)</fld> <def>An insane or greatly exaggerated dread of poisons.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Toxodon</ent><br/
@@ -26914,11 +26914,11 @@ In <qex>towers</qex>, and curls, and periwigs.</q> <rj><qau>Hudibras.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Toxodonta</ent><br/
-||<hw>Tox`o*don"ta</hw> <pr>(?)</pr>, <pos>n.pl.</pos> <ety>[NL.]</ety> <fld>(Paleon.)</fld> <def>An extinct order of Mammalia found in the South American Tertiary formation. The incisor teeth were long and curved and provided with a persistent pulp. They are supposed to be related both to the rodents and ungulates. Called also <altname>Toxodontia</altname>.</def><br/
+\'d8<hw>Tox`o*don"ta</hw> <pr>(?)</pr>, <pos>n.pl.</pos> <ety>[NL.]</ety> <fld>(Paleon.)</fld> <def>An extinct order of Mammalia found in the South American Tertiary formation. The incisor teeth were long and curved and provided with a persistent pulp. They are supposed to be related both to the rodents and ungulates. Called also <altname>Toxodontia</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Toxoglossa</ent><br/
-||<hw>Tox`o*glos"sa</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>to`xon</grk> a bow + <?/ tongue.]</ety> <fld>(Zool.)</fld> <def>A division of marine gastropod mollusks in which the radula are converted into poison fangs. The cone shells (<gen>Conus</gen>), Pleurotoma, and Terebra, are examples. See <xex>Illust.</xex> of <er>Cone</er>, <pos>n.</pos>, 4, <er>Pleurotoma</er>, and <er>Terebra</er>.</def><br/
+\'d8<hw>Tox`o*glos"sa</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>to`xon</grk> a bow + <?/ tongue.]</ety> <fld>(Zool.)</fld> <def>A division of marine gastropod mollusks in which the radula are converted into poison fangs. The cone shells (<gen>Conus</gen>), Pleurotoma, and Terebra, are examples. See <xex>Illust.</xex> of <er>Cone</er>, <pos>n.</pos>, 4, <er>Pleurotoma</er>, and <er>Terebra</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Toxoid</ent><br/
@@ -26930,7 +26930,7 @@ In <qex>towers</qex>, and curls, and periwigs.</q> <rj><qau>Hudibras.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Toxotes</ent><br/
-||<hw>Tox"o*tes</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ an archer.]</ety> <fld>(Zool.)</fld> <def>A genus of fishes comprising the archer fishes. See <er>Archer fish</er>.</def><br/
+\'d8<hw>Tox"o*tes</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ an archer.]</ety> <fld>(Zool.)</fld> <def>A genus of fishes comprising the archer fishes. See <er>Archer fish</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Toy</ent><br/
@@ -27035,7 +27035,7 @@ In <qex>towers</qex>, and curls, and periwigs.</q> <rj><qau>Hudibras.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trabea</ent><br/
-||<hw>Tra"be*a</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Trabeae</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Rom. Antiq.)</fld> <def>A toga of purple, or ornamented with purple horizontal stripes. -- worn by kings, consuls, and augurs.</def>  <rj><au>Dr. W. Smith.</au></rj><br/
+\'d8<hw>Tra"be*a</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Trabeae</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Rom. Antiq.)</fld> <def>A toga of purple, or ornamented with purple horizontal stripes. -- worn by kings, consuls, and augurs.</def>  <rj><au>Dr. W. Smith.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trabeated</ent><br/
@@ -27047,7 +27047,7 @@ In <qex>towers</qex>, and curls, and periwigs.</q> <rj><qau>Hudibras.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trabecula</ent><br/
-||<hw>Tra*bec"u*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Trabeculae</plw>  <pr>(-l<emac/)</pr>.</plu> <ety>[L., a little beam.]</ety> <fld>(Anat.)</fld> <def>A small bar, rod, bundle of fibers, or septal membrane, in the framework of an organ part.</def><br/
+\'d8<hw>Tra*bec"u*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Trabeculae</plw>  <pr>(-l<emac/)</pr>.</plu> <ety>[L., a little beam.]</ety> <fld>(Anat.)</fld> <def>A small bar, rod, bundle of fibers, or septal membrane, in the framework of an organ part.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trabecular</ent><br/
@@ -27189,7 +27189,7 @@ Of <qex>tracing</qex> word, and line by line.</q> <rj><qau>Denham.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trachearia</ent><br/
-||<hw>Tra`che*a"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A division of Arachnida including those that breathe only by means of tracheae. It includes the mites, ticks, false scorpions, and harvestmen.</def><br/
+\'d8<hw>Tra`che*a"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A division of Arachnida including those that breathe only by means of tracheae. It includes the mites, ticks, false scorpions, and harvestmen.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tracheary</ent><br/
@@ -27197,7 +27197,7 @@ Of <qex>tracing</qex> word, and line by line.</q> <rj><qau>Denham.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tracheata</ent><br/
-||<hw>Tra`che*a"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>An extensive division of arthropods comprising all those which breathe by tracheae, as distinguished from Crustacea, which breathe by means of branchiae.</def><br/
+\'d8<hw>Tra`che*a"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>An extensive division of arthropods comprising all those which breathe by tracheae, as distinguished from Crustacea, which breathe by means of branchiae.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tracheate</ent><br/
@@ -27213,7 +27213,7 @@ Of <qex>tracing</qex> word, and line by line.</q> <rj><qau>Denham.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tracheitis</ent><br/
-||<hw>Tra`che*i"tis</hw> <pr>(tr<amac/`k<esl/*<imac/"t<icr/s)</pr>, <pos>n.</pos> <ety>[NL. See <er>Trachea</er>; <er>-itis</er>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the trachea, or windpipe.</def><br/
+\'d8<hw>Tra`che*i"tis</hw> <pr>(tr<amac/`k<esl/*<imac/"t<icr/s)</pr>, <pos>n.</pos> <ety>[NL. See <er>Trachea</er>; <er>-itis</er>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the trachea, or windpipe.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trachelidan</ent><br/
@@ -27225,7 +27225,7 @@ Of <qex>tracing</qex> word, and line by line.</q> <rj><qau>Denham.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trachelipoda</ent><br/
-||<hw>Tra`che*lip"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Trachelipod</er>.]</ety> <fld>(Zool.)</fld> <def>An extensive artificial group of gastropods comprising all those which have a spiral shell and the foot attached to the base of the neck.</def><br/
+\'d8<hw>Tra`che*lip"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Trachelipod</er>.]</ety> <fld>(Zool.)</fld> <def>An extensive artificial group of gastropods comprising all those which have a spiral shell and the foot attached to the base of the neck.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trachelipodous</ent><br/
@@ -27241,11 +27241,11 @@ Of <qex>tracing</qex> word, and line by line.</q> <rj><qau>Denham.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trachenchyma</ent><br/
-||<hw>Tra*chen"chy*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.,fr. <ets>trachea</ets> + -<ets>enchyma</ets> as in E. <ets>parenchyma</ets>.]</ety> <fld>(Bot.)</fld> <def>A vegetable tissue consisting of tracheae.</def><br/
+\'d8<hw>Tra*chen"chy*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.,fr. <ets>trachea</ets> + -<ets>enchyma</ets> as in E. <ets>parenchyma</ets>.]</ety> <fld>(Bot.)</fld> <def>A vegetable tissue consisting of tracheae.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tracheobranchia</ent><br/
-||<hw>Tra`che*o*bran"chi*a</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tracheobranchlae</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Trachea</er>, and <er>Branchia</er>.]</ety> <fld>(Zool.)</fld> <def>One of the gill-like breathing organs of certain aquatic insect larvae. They contain tracheal tubes somewhat similar to those of other insects.</def><br/
+\'d8<hw>Tra`che*o*bran"chi*a</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tracheobranchlae</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Trachea</er>, and <er>Branchia</er>.]</ety> <fld>(Zool.)</fld> <def>One of the gill-like breathing organs of certain aquatic insect larvae. They contain tracheal tubes somewhat similar to those of other insects.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tracheobronchial</ent><br/
@@ -27257,7 +27257,7 @@ Of <qex>tracing</qex> word, and line by line.</q> <rj><qau>Denham.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tracheophonae</ent><br/
-||<hw>Tra`che*oph"o*nae</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., from <ets>trachea</ets> + Gr. <grk>fonei^n</grk> to sound.]</ety> <fld>(Zool.)</fld> <def>A group of passerine birds having the syrinx at the lower end of the trachea.</def><br/
+\'d8<hw>Tra`che*oph"o*nae</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., from <ets>trachea</ets> + Gr. <grk>fonei^n</grk> to sound.]</ety> <fld>(Zool.)</fld> <def>A group of passerine birds having the syrinx at the lower end of the trachea.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tracheoscopy</ent><br/
@@ -27273,11 +27273,11 @@ Of <qex>tracing</qex> word, and line by line.</q> <rj><qau>Denham.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trachitis</ent><br/
-||<hw>Tra*chi"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Med.)</fld> <def>Tracheitis.</def><br/
+\'d8<hw>Tra*chi"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Med.)</fld> <def>Tracheitis.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trachoma</ent><br/
-||<hw>Tra*cho"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ roughness, fr. <?/ rough.]</ety> <fld>(Med.)</fld> <def>a contagious granular conjunctivitis caused by the bacterium <spn>Chlamydia trachomatis</spn>.  It is a chronic inflammation of the conjunctiva</def> -- <wordforms><wf>Tra*chom"a*tous</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>Tra*cho"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ roughness, fr. <?/ rough.]</ety> <fld>(Med.)</fld> <def>a contagious granular conjunctivitis caused by the bacterium <spn>Chlamydia trachomatis</spn>.  It is a chronic inflammation of the conjunctiva</def> -- <wordforms><wf>Tra*chom"a*tous</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Trachycarpous</ent><br/
@@ -27285,7 +27285,7 @@ Of <qex>tracing</qex> word, and line by line.</q> <rj><qau>Denham.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trachymedusae</ent><br/
-||<hw>Tra`chy*me*du"sae</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr.Gr. <?/ rough + <ets>medusa</ets>.]</ety> <fld>(Zool.)</fld> <def>A division of acalephs in which the development is direct from the eggs, without a hydroid stage. Some of the species are parasitic on other medusae.</def><br/
+\'d8<hw>Tra`chy*me*du"sae</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr.Gr. <?/ rough + <ets>medusa</ets>.]</ety> <fld>(Zool.)</fld> <def>A division of acalephs in which the development is direct from the eggs, without a hydroid stage. Some of the species are parasitic on other medusae.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trachyspermous</ent><br/
@@ -27293,7 +27293,7 @@ Of <qex>tracing</qex> word, and line by line.</q> <rj><qau>Denham.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trachystomata</ent><br/
-||<hw>Tra`chy*stom"a*ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ rough + <ets>stoma</ets>.]</ety> <fld>(Zool.)</fld> <def>An order of tailed aquatic amphibians, including <gen>Siren</gen> and <gen>Pseudobranchus</gen>. They have anterior legs only, are eel-like in form, and have no teeth except a small patch on the palate. The external gills are persistent through life.</def><br/
+\'d8<hw>Tra`chy*stom"a*ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ rough + <ets>stoma</ets>.]</ety> <fld>(Zool.)</fld> <def>An order of tailed aquatic amphibians, including <gen>Siren</gen> and <gen>Pseudobranchus</gen>. They have anterior legs only, are eel-like in form, and have no teeth except a small patch on the palate. The external gills are persistent through life.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trachyte</ent><br/
@@ -27772,7 +27772,7 @@ Long was my travel, long my <qex>trade</qex> to win her.</q> <rj><qau>Massinger.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tradescantia</ent><br/
-||<hw>Trad`es*can"ti*a</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <fld>(Bot.)</fld> <def>A genus including spiderwort and Wandering Jew.</def><br/
+\'d8<hw>Trad`es*can"ti*a</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <fld>(Bot.)</fld> <def>A genus including spiderwort and Wandering Jew.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tradesfolk</ent><br/
@@ -27899,7 +27899,7 @@ Long was my travel, long my <qex>trade</qex> to win her.</q> <rj><qau>Massinger.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Traditor</ent><br/
-||<hw>Trad"i*tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>tradere</ets>, <ets>traditum</ets>. See <er>Traitor</er>.]</ety> <fld>(Eccl. Hist.)</fld> <def>A deliverer; -- a name of infamy given to Christians who delivered the Scriptures, or the goods of the church, to their persecutors to save their lives.</def>  <rj><au>Milner.</au></rj><br/
+\'d8<hw>Trad"i*tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>tradere</ets>, <ets>traditum</ets>. See <er>Traitor</er>.]</ety> <fld>(Eccl. Hist.)</fld> <def>A deliverer; -- a name of infamy given to Christians who delivered the Scriptures, or the goods of the church, to their persecutors to save their lives.</def>  <rj><au>Milner.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Traduce</ent><br/
@@ -28086,7 +28086,7 @@ From Billingsgate her fishy <qex>traffic</qex> bear.</q> <rj><qau>Gay.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tragedienne</ent><br/
-||<hw>Tra`g<eacute/`dienne"</hw> <pr>(tr<adot/`zh<asl/`dy<ecr/n"; Eng. tr<adot/*j<emac/"d<icr/*<ecr/n`)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A woman who plays in tragedy.</def><br/
+\'d8<hw>Tra`g<eacute/`dienne"</hw> <pr>(tr<adot/`zh<asl/`dy<ecr/n"; Eng. tr<adot/*j<emac/"d<icr/*<ecr/n`)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A woman who plays in tragedy.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tragedious</ent><br/
@@ -28164,7 +28164,7 @@ Into misery and endeth wretchedly.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tragus</ent><br/
-||<hw>Tra"gus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a part of the inner ear.]</ety> <fld>(Anat.)</fld> <def>The prominence in front of the external opening of the ear. See <xex>Illust.</xex> under <er>Ear</er>.</def><br/
+\'d8<hw>Tra"gus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a part of the inner ear.]</ety> <fld>(Anat.)</fld> <def>The prominence in front of the external opening of the ear. See <xex>Illust.</xex> under <er>Ear</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>T rail</ent><br/
@@ -28517,7 +28517,7 @@ Of famous London town.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Traiteur</ent><br/
-||<hw>Trai`teur"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>The keeper of an eating house, or restaurant; a restaurateur.</def>  <rj><au>Simmonds.</au></rj><br/
+\'d8<hw>Trai`teur"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>The keeper of an eating house, or restaurant; a restaurateur.</def>  <rj><au>Simmonds.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 1527 --><br/
@@ -28668,7 +28668,7 @@ Of famous London town.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Trama</ent><br/
-||<hw>Tra"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., woof.]</ety> <fld>(Bot.)</fld> <def>The loosely woven substance which lines the chambers within the gleba in certain <ord>Gasteromycetes</ord>.</def><br/
+\'d8<hw>Tra"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., woof.]</ety> <fld>(Bot.)</fld> <def>The loosely woven substance which lines the chambers within the gleba in certain <ord>Gasteromycetes</ord>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tramble</ent><br/
@@ -28724,7 +28724,7 @@ Of famous London town.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tramontana</ent><br/
-||<hw>Tra`mon*ta"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. See <er>Tramontane</er>.]</ety> <fld>(Meteor.)</fld> <def>A dry, cold, violent, northerly wind of the Adriatic.</def><br/
+\'d8<hw>Tra`mon*ta"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. See <er>Tramontane</er>.]</ety> <fld>(Meteor.)</fld> <def>A dry, cold, violent, northerly wind of the Adriatic.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tramontane</ent><br/
@@ -29595,7 +29595,7 @@ Of Paradise, dear bought with lasting woes.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Transire</ent><br/
-||<hw>Trans*i"re</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>transire</ets> to pass through or across, to pass.]</ety> <fld>(End. Law)</fld> <def>A customhouse clearance for a coasting vessel; a permit.</def><br/
+\'d8<hw>Trans*i"re</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>transire</ets> to pass through or across, to pass.]</ety> <fld>(End. Law)</fld> <def>A customhouse clearance for a coasting vessel; a permit.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Transisthmian</ent><br/
@@ -30884,7 +30884,7 @@ Bases and tinsel <qex>trappings</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Travail</ent><br/
-||<hw>Tra`vail"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>travail</ets>, a frame for confining a horse, or OF. <ets>travail</ets> beam, and E. <ets>trave</ets>, n. Cf. <er>Travail</er>, <pos>v. i.</pos>]</ety> <def>Same as <er>Travois</er>.</def><br/
+\'d8<hw>Tra`vail"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>travail</ets>, a frame for confining a horse, or OF. <ets>travail</ets> beam, and E. <ets>trave</ets>, n. Cf. <er>Travail</er>, <pos>v. i.</pos>]</ety> <def>Same as <er>Travois</er>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Travail</ent><br/
@@ -31164,7 +31164,7 @@ That he who conquers is but last undone.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Travois</ent><br/
-||<hw>Tra`vois"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <er>Travail</er>.]</ety> <sn>1.</sn> <def>A primitive vehicle, common among the North American Indians, usually two trailing poles serving as shafts and bearing a platform or net for a load.</def></p>
+\'d8<hw>Tra`vois"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <er>Travail</er>.]</ety> <sn>1.</sn> <def>A primitive vehicle, common among the North American Indians, usually two trailing poles serving as shafts and bearing a platform or net for a load.</def></p>
 
 <p><q>On the plains they will have horses dragging <qex>travoises</qex>; dogs with <qex>travoises</qex>, women and children loaded with impediments.</q>  <rj><qau>Julian Ralph.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -31738,7 +31738,7 @@ With <qex>treble</qex> walls.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Trecento</ent><br/
-||<hw>Tre*cen"to</hw> <pr>(?)</pr>, <pos>n. & a.</pos> <ety>[It., three hundred, abbr. for thirteen hundred.]</ety> <def>The fourteenth century, when applied to Italian art, literature, etc. It marks the period of Dante, Petrarch, and boccaccio in literature, and of Giotto in painting.</def><br/
+\'d8<hw>Tre*cen"to</hw> <pr>(?)</pr>, <pos>n. & a.</pos> <ety>[It., three hundred, abbr. for thirteen hundred.]</ety> <def>The fourteenth century, when applied to Italian art, literature, etc. It marks the period of Dante, Petrarch, and boccaccio in literature, and of Giotto in painting.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Trechometer</ent><br/
@@ -31746,7 +31746,7 @@ With <qex>treble</qex> walls.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Treckschuyt</ent><br/
-||<hw>Treck"schuyt`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[D. <ets>trekschuit</ets>; <ets>trekken</ets> to draw + <ets>schuit</ets> a boat.  Cf. <er>Trackscout</er>.]</ety> <def>A covered boat for goods and passengers, used on the Dutch and Flemish canals.</def><br/
+\'d8<hw>Treck"schuyt`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[D. <ets>trekschuit</ets>; <ets>trekken</ets> to draw + <ets>schuit</ets> a boat.  Cf. <er>Trackscout</er>.]</ety> <def>A covered boat for goods and passengers, used on the Dutch and Flemish canals.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Treddle</ent><br/
@@ -31851,7 +31851,7 @@ With <qex>treble</qex> walls.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trefle</ent><br/
-||<hw>Tr<eacute/`fl<eacute/"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F. <ets>tr<eacute/fl<eacute/</ets>. See <er>Trefoil</er>.]</ety> <fld>(Her.)</fld> <def>Having a three-lobed extremity or extremities, as a cross; also, more rarely, ornamented with trefoils projecting from the edges, as a bearing.</def><br/
+\'d8<hw>Tr<eacute/`fl<eacute/"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F. <ets>tr<eacute/fl<eacute/</ets>. See <er>Trefoil</er>.]</ety> <fld>(Her.)</fld> <def>Having a three-lobed extremity or extremities, as a cross; also, more rarely, ornamented with trefoils projecting from the edges, as a bearing.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trefoil</ent><br/
@@ -31936,7 +31936,7 @@ Such as these subtle <qex>tregetours</qex> play.</q> <rj><qau>Chaucer.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tremando</ent><br/
-||<hw>Tre*man"do</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Trembling; -- used as a direction to perform a passage with a general shaking of the whole chord.</def><br/
+\'d8<hw>Tre*man"do</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Trembling; -- used as a direction to perform a passage with a general shaking of the whole chord.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trematode</ent><br/
@@ -31944,7 +31944,7 @@ Such as these subtle <qex>tregetours</qex> play.</q> <rj><qau>Chaucer.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trematodea</ent><br/
-||<hw>Trem`a*to"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <?/ having holes, from <?/, <?/, a hole.]</ety> <fld>(Zool.)</fld> <def>An extensive order of parasitic worms. They are found in the internal cavities of animals belonging to all classes. Many species are found, also, on the gills and skin of fishes. A few species are parasitic on man, and some, of which the fluke is the most important, are injurious parasites of domestic animals. The trematodes usually have a flattened body covered with a chitinous skin, and are furnished with two or more suckers for adhesion. Most of the species are hermaphrodite. Called also <altname>Trematoda</altname>, and <altname>Trematoidea</altname>. See <er>Fluke</er>, <er>Tristoma</er>, and <er>Cercaria</er>.</def><br/
+\'d8<hw>Trem`a*to"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <?/ having holes, from <?/, <?/, a hole.]</ety> <fld>(Zool.)</fld> <def>An extensive order of parasitic worms. They are found in the internal cavities of animals belonging to all classes. Many species are found, also, on the gills and skin of fishes. A few species are parasitic on man, and some, of which the fluke is the most important, are injurious parasites of domestic animals. The trematodes usually have a flattened body covered with a chitinous skin, and are furnished with two or more suckers for adhesion. Most of the species are hermaphrodite. Called also <altname>Trematoda</altname>, and <altname>Trematoidea</altname>. See <er>Fluke</er>, <er>Tristoma</er>, and <er>Cercaria</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trematoid</ent><br/
@@ -31996,7 +31996,7 @@ Shall <qex>tremble</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tremella</ent><br/
-||<hw>Tre*mel"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>tremere</ets>, to tremble: cf. It. <ets>tremella</ets>, F. <ets>tremelle</ets>.]</ety> <fld>(Bot.)</fld> <def>A genus of gelatinous fungi found in moist grounds.</def><br/
+\'d8<hw>Tre*mel"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>tremere</ets>, to tremble: cf. It. <ets>tremella</ets>, F. <ets>tremelle</ets>.]</ety> <fld>(Bot.)</fld> <def>A genus of gelatinous fungi found in moist grounds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tremendous</ent><br/
@@ -32013,7 +32013,7 @@ Shall <qex>tremble</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tremex</ent><br/
-||<hw>Tre"mex</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A genus of large hymenopterous insects allied to the sawflies. The female lays her eggs in holes which she bores in the trunks of trees with her large and long ovipositor, and the larva bores in the wood. See <xex>Illust.</xex> of <er>Horntail</er>.</def><br/
+\'d8<hw>Tre"mex</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A genus of large hymenopterous insects allied to the sawflies. The female lays her eggs in holes which she bores in the trunks of trees with her large and long ovipositor, and the larva bores in the wood. See <xex>Illust.</xex> of <er>Horntail</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The pigeon tremex (<spn>Tremex columba</spn>), a common American species, infests the elm, pear, and other trees.</note><br/
@@ -32024,7 +32024,7 @@ Shall <qex>tremble</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tremolando</ent><br/
-||<hw>Tre*mo*lan"do</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Same as <er>Tremando</er>.</def><br/
+\'d8<hw>Tre*mo*lan"do</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Same as <er>Tremando</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tremolite</ent><br/
@@ -32032,7 +32032,7 @@ Shall <qex>tremble</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tremolo</ent><br/
-||<hw>Tre"mo*lo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.  Cf. <er>Tremulous</er>.]</ety> <fld>(Mus.)</fld> <sd>(a)</sd> <def>The rapid reiteration of tones without any apparent cessation, so as to produce a tremulous effect.</def> <sd>(b)</sd> <def>A certain contrivance in an organ, which causes the notes to sound with rapid pulses or beats, producing a tremulous effect; -- called also <altname>tremolant</altname>, and <altname>tremulant</altname>.</def><br/
+\'d8<hw>Tre"mo*lo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.  Cf. <er>Tremulous</er>.]</ety> <fld>(Mus.)</fld> <sd>(a)</sd> <def>The rapid reiteration of tones without any apparent cessation, so as to produce a tremulous effect.</def> <sd>(b)</sd> <def>A certain contrivance in an organ, which causes the notes to sound with rapid pulses or beats, producing a tremulous effect; -- called also <altname>tremolant</altname>, and <altname>tremulant</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tremor</ent><br/
@@ -32242,7 +32242,7 @@ Her silver stream.</q> <rj><qau>W. Browne.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trente et quarante</ent><br/
-||<hw>Trente" et` qua`rante"</hw> <pr>(?)</pr>. <ety>[F., lit., thirty and forty.]</ety> <def>Same as <altname>Rouge et noir</altname>, under <er>Rouge</er>.</def><br/
+\'d8<hw>Trente" et` qua`rante"</hw> <pr>(?)</pr>. <ety>[F., lit., thirty and forty.]</ety> <def>Same as <altname>Rouge et noir</altname>, under <er>Rouge</er>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Trenton period</ent><br/
@@ -32651,7 +32651,7 @@ To wreathe his shield.</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Triandria</ent><br/
-||<hw>Tri*an"dri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Tri-</er>, and <er>-androus</er>.]</ety> <fld>(Bot.)</fld> <def>A Linnaean class of plants having three distinct and equal stamens.</def><br/
+\'d8<hw>Tri*an"dri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Tri-</er>, and <er>-androus</er>.]</ety> <fld>(Bot.)</fld> <def>A Linnaean class of plants having three distinct and equal stamens.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Triandrous</ent><br/
@@ -32696,7 +32696,7 @@ To wreathe his shield.</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Triangulares</ent><br/
-||<hw>Tri*an`gu*la"res</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L.]</ety> <fld>(Zool.)</fld> <def>The triangular, or maioid, crabs. See <xex>Illust.</xex> under <er>Maioid</er>, and <xex>Illust.</xex> of <cref>Spider crab</cref>, under <er>Spider</er>.</def><br/
+\'d8<hw>Tri*an`gu*la"res</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L.]</ety> <fld>(Zool.)</fld> <def>The triangular, or maioid, crabs. See <xex>Illust.</xex> under <er>Maioid</er>, and <xex>Illust.</xex> of <cref>Spider crab</cref>, under <er>Spider</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Triangularity</ent><br/
@@ -32860,7 +32860,7 @@ To wreathe his shield.</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tribunal</ent><br/
-||<hw>Tri`bu*nal"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>In villages of the Philippine Islands, a kind of townhall. At the  tribunal the head men of the village met to transact business, prisoners were confined, and troops and travelers were often quartered.</def><br/
+\'d8<hw>Tri`bu*nal"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>In villages of the Philippine Islands, a kind of townhall. At the  tribunal the head men of the village met to transact business, prisoners were confined, and troops and travelers were often quartered.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tribunary</ent><br/
@@ -32969,7 +32969,7 @@ To wreathe his shield.</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trica</ent><br/
-||<hw>Tri"ca</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tricae</plw> <pr>(#)</pr>.</plu> <ety>[NL.]</ety> <fld>(Bot.)</fld> <def>An apothecium in certain lichens, having a spherical surface marked with spiral or concentric ridges and furrows.</def><br/
+\'d8<hw>Tri"ca</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tricae</plw> <pr>(#)</pr>.</plu> <ety>[NL.]</ety> <fld>(Bot.)</fld> <def>An apothecium in certain lichens, having a spherical surface marked with spiral or concentric ridges and furrows.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tricarballylic</ent><br/
@@ -33010,19 +33010,19 @@ To wreathe his shield.</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Triceps</ent><br/
-||<hw>Tri"ceps</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>triceps</ets>, having three beads; <ets>tres</ets>, <ets>tria</ets>, three + <ets>caput</ets> head: cf. F. <ets>triceps</ets>. See <er>Three</er>, and <ets>Chief</ets>.]</ety> <fld>(Anat.)</fld> <def>A muscle having three heads; specif., the great extensor of the forearm, arising by three heads and inserted into the olecranon at the elbow.</def><br/
+\'d8<hw>Tri"ceps</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>triceps</ets>, having three beads; <ets>tres</ets>, <ets>tria</ets>, three + <ets>caput</ets> head: cf. F. <ets>triceps</ets>. See <er>Three</er>, and <ets>Chief</ets>.]</ety> <fld>(Anat.)</fld> <def>A muscle having three heads; specif., the great extensor of the forearm, arising by three heads and inserted into the olecranon at the elbow.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trichiasis</ent><br/
-||<hw>Tri*chi"a*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <grk>tri`x</grk>, <grk>tricho`s</grk>, hair.]</ety> <fld>(Med.)</fld> <def>A disease of the eye, in which the eyelashes, being turned in upon the eyeball, produce constant irritation by the motion of the lids.</def><br/
+\'d8<hw>Tri*chi"a*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <grk>tri`x</grk>, <grk>tricho`s</grk>, hair.]</ety> <fld>(Med.)</fld> <def>A disease of the eye, in which the eyelashes, being turned in upon the eyeball, produce constant irritation by the motion of the lids.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trichina</ent><br/
-||<hw>Tri*chi"na</hw> <pr>(-n<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Trichinae</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ hairy, made of hair, fr. <grk>tri`x</grk>, <grk>tricho`s</grk>, hair.]</ety> <fld>(Zool.)</fld> <def>A small, slender nematoid worm (<spn>Trichina spiralis</spn>) which, in the larval state, is parasitic, often in immense numbers, in the voluntary muscles of man, the hog, and many other animals. When insufficiently cooked meat containing the larvae is swallowed by man, they are liberated and rapidly become adult, pair, and the ovoviviparous females produce in a short time large numbers of young which find their way into the muscles, either directly, or indirectly by means of the blood. Their presence in the muscles and the intestines in large numbers produces trichinosis.</def><br/
+\'d8<hw>Tri*chi"na</hw> <pr>(-n<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Trichinae</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ hairy, made of hair, fr. <grk>tri`x</grk>, <grk>tricho`s</grk>, hair.]</ety> <fld>(Zool.)</fld> <def>A small, slender nematoid worm (<spn>Trichina spiralis</spn>) which, in the larval state, is parasitic, often in immense numbers, in the voluntary muscles of man, the hog, and many other animals. When insufficiently cooked meat containing the larvae is swallowed by man, they are liberated and rapidly become adult, pair, and the ovoviviparous females produce in a short time large numbers of young which find their way into the muscles, either directly, or indirectly by means of the blood. Their presence in the muscles and the intestines in large numbers produces trichinosis.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trichiniasis</ent><br/
-||<hw>Trich`i*ni"a*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Med.)</fld> <def>Trichinosis.</def><br/
+\'d8<hw>Trich`i*ni"a*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Med.)</fld> <def>Trichinosis.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trichinize</ent><br/
@@ -33034,7 +33034,7 @@ To wreathe his shield.</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trichinosis</ent><br/
-||<hw>Trich`i*no"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Trichina</er>.]</ety> <fld>(Med.)</fld> <def>The disease produced by the presence of trichinae in the muscles and intestinal track. It is marked by fever, muscular pains, and symptoms resembling those of typhoid fever, and is frequently fatal.</def><br/
+\'d8<hw>Trich`i*no"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Trichina</er>.]</ety> <fld>(Med.)</fld> <def>The disease produced by the presence of trichinae in the muscles and intestinal track. It is marked by fever, muscular pains, and symptoms resembling those of typhoid fever, and is frequently fatal.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trichinous</ent><br/
@@ -33063,7 +33063,7 @@ To wreathe his shield.</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trichiurus</ent><br/
-||<hw>Trich`i*u"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>tri`x</grk>, <grk>tricho`s</grk>, a hair + <grk>o'yra`</grk> tail.]</ety> <fld>(Zool.)</fld> <def>A genus of fishes comprising the hairtails. See <er>Hairtail</er>.</def><br/
+\'d8<hw>Trich`i*u"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>tri`x</grk>, <grk>tricho`s</grk>, a hair + <grk>o'yra`</grk> tail.]</ety> <fld>(Zool.)</fld> <def>A genus of fishes comprising the hairtails. See <er>Hairtail</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trichloride</ent><br/
@@ -33071,7 +33071,7 @@ To wreathe his shield.</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trichobranchia</ent><br/
-||<hw>Trich`o*bran"chi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>tri`x</grk>, <grk>tricho`s</grk>, hair + <ets>branchia</ets>.]</ety> <fld>(Zool.)</fld> <def>The gill of a crustacean in which the branchial filaments are slender and cylindrical, as in the crawfishes.</def><br/
+\'d8<hw>Trich`o*bran"chi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>tri`x</grk>, <grk>tricho`s</grk>, hair + <ets>branchia</ets>.]</ety> <fld>(Zool.)</fld> <def>The gill of a crustacean in which the branchial filaments are slender and cylindrical, as in the crawfishes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trichocyst</ent><br/
@@ -33109,7 +33109,7 @@ To wreathe his shield.</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trichoptera</ent><br/
-||<hw>Tri*chop"te*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>tri`x</grk>, <grk>tricho`s</grk>, a hair + <?/ wing.]</ety> <fld>(Zool.)</fld> <def>A suborder of Neuroptera usually having the wings covered with minute hairs. It comprises the caddice flies, and is considered by some to be a distinct order.</def><br/
+\'d8<hw>Tri*chop"te*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>tri`x</grk>, <grk>tricho`s</grk>, a hair + <?/ wing.]</ety> <fld>(Zool.)</fld> <def>A suborder of Neuroptera usually having the wings covered with minute hairs. It comprises the caddice flies, and is considered by some to be a distinct order.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trichopteran</ent><br/
@@ -33125,7 +33125,7 @@ To wreathe his shield.</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trichoscolices</ent><br/
-||<hw>Trich`o*scol"i*ces</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>tri`x</grk>, <grk>tricho`s</grk>, hair + <grk>skw`lhx</grk> a worm.]</ety> <fld>(Zool.)</fld> <def>An extensive group of wormlike animals characterized by being more or less covered with cilia.</def><br/
+\'d8<hw>Trich`o*scol"i*ces</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>tri`x</grk>, <grk>tricho`s</grk>, hair + <grk>skw`lhx</grk> a worm.]</ety> <fld>(Zool.)</fld> <def>An extensive group of wormlike animals characterized by being more or less covered with cilia.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trichotomous</ent><br/
@@ -33312,7 +33312,7 @@ A gentle stream.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Triclinium</ent><br/
-||<hw>Tri*clin"i*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Triclinia</plw> <pr>(#)</pr>.</plu> <ety>[L., from Gr. <?/, <?/; <?/ (see <er>Tri-</er>) + <er><?/</er> a couch.]</ety> <fld>(Rom. Antiq.)</fld> <sd>(a)</sd> <def>A couch for reclining at meals, extending round three sides of a table, and usually in three parts.</def> <sd>(b)</sd> <def>A dining room furnished with such a triple couch.</def><br/
+\'d8<hw>Tri*clin"i*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Triclinia</plw> <pr>(#)</pr>.</plu> <ety>[L., from Gr. <?/, <?/; <?/ (see <er>Tri-</er>) + <er><?/</er> a couch.]</ety> <fld>(Rom. Antiq.)</fld> <sd>(a)</sd> <def>A couch for reclining at meals, extending round three sides of a table, and usually in three parts.</def> <sd>(b)</sd> <def>A dining room furnished with such a triple couch.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tricoccous</ent><br/
@@ -33347,7 +33347,7 @@ A gentle stream.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tricot</ent><br/
-||<hw>Tri`cot"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A fabric of woolen, silk, or cotton knitted, or women to resemble knitted work.</def><br/
+\'d8<hw>Tri`cot"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A fabric of woolen, silk, or cotton knitted, or women to resemble knitted work.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tricrotic</ent><br/
@@ -33388,7 +33388,7 @@ A gentle stream.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tridacna</ent><br/
-||<hw>Tri*dac"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., pl., a kind of oysters, fr. Gr. <?/ eaten at three bites, <?/ tri- + <?/ to bite.]</ety> <fld>(Zool.)</fld> <def>A genus of very large marine bivalve shells found on the coral reefs of the Indian and Pacific Oceans. One species (<spn>Tridacna gigas</spn>) often weighs four or five hundred pounds, and is sometimes used for baptismal fonts. Called also <altname>paw shell</altname>, and <altname>fountain shell</altname>.</def><br/
+\'d8<hw>Tri*dac"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., pl., a kind of oysters, fr. Gr. <?/ eaten at three bites, <?/ tri- + <?/ to bite.]</ety> <fld>(Zool.)</fld> <def>A genus of very large marine bivalve shells found on the coral reefs of the Indian and Pacific Oceans. One species (<spn>Tridacna gigas</spn>) often weighs four or five hundred pounds, and is sometimes used for baptismal fonts. Called also <altname>paw shell</altname>, and <altname>fountain shell</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tridactyle</ent><br/
@@ -33501,7 +33501,7 @@ A gentle stream.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Triens</ent><br/
-||<hw>Tri"ens</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., from <ets>tres</ets>, <ets>tria</ets>, three.]</ety> <fld>(Rom. Antiq.)</fld> <def>A Roman copper coin, equal to one third of the <it>as.</it> See 3d <er>As</er>, 2.</def><br/
+\'d8<hw>Tri"ens</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., from <ets>tres</ets>, <ets>tria</ets>, three.]</ety> <fld>(Rom. Antiq.)</fld> <def>A Roman copper coin, equal to one third of the <it>as.</it> See 3d <er>As</er>, 2.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trier</ent><br/
@@ -33624,7 +33624,7 @@ And <qex>frifles</qex> life.</q> <rj><qau>Young.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trifolium</ent><br/
-||<hw>Tri*fo"li*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., clover.]</ety> <fld>(Bot.)</fld> <def>A genus of leguminous herbs with densely spiked flowers and usually trifoliate leaves; trefoil. There are many species, all of which are called <xex>clover</xex>. See <er>Clover</er>.</def><br/
+\'d8<hw>Tri*fo"li*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., clover.]</ety> <fld>(Bot.)</fld> <def>A genus of leguminous herbs with densely spiked flowers and usually trifoliate leaves; trefoil. There are many species, all of which are called <xex>clover</xex>. See <er>Clover</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trifoly</ent><br/
@@ -33635,7 +33635,7 @@ And <qex>frifles</qex> life.</q> <rj><qau>Young.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Triforium</ent><br/
-||<hw>Tri*fo"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL., fr. L. <ets>tri-</ets> (see <er>Tri-</er>) + <ets>foris</ets>, pl. <ets>fores</ets>, a door.]</ety> <fld>(Arch.)</fld> <def>The gallery or open space between the vaulting and the roof of the aisles of a church, often forming a rich arcade in the interior of the church, above the nave arches and below the clearstory windows.</def><br/
+\'d8<hw>Tri*fo"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL., fr. L. <ets>tri-</ets> (see <er>Tri-</er>) + <ets>foris</ets>, pl. <ets>fores</ets>, a door.]</ety> <fld>(Arch.)</fld> <def>The gallery or open space between the vaulting and the roof of the aisles of a church, often forming a rich arcade in the interior of the church, above the nave arches and below the clearstory windows.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Triform</ent><br/
@@ -33775,11 +33775,11 @@ And <qex>frifles</qex> life.</q> <rj><qau>Young.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trigone</ent><br/
-||<hw>Tri`gone"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., literally, a trigon.]</ety> <fld>(Anat.)</fld> <def>A smooth triangular area on the inner surface of the bladder, limited by the apertures of the ureters and urethra.</def><br/
+\'d8<hw>Tri`gone"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., literally, a trigon.]</ety> <fld>(Anat.)</fld> <def>A smooth triangular area on the inner surface of the bladder, limited by the apertures of the ureters and urethra.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trigonia</ent><br/
-||<hw>Tri*go"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Trigon</er>. So called in allusion to the triangular shape of some species.]</ety> <fld>(Zool.)</fld> <def>A genus of pearly bivalve shells, numerous extinct species of which are characteristic of the Mesozoic rocks. A few living species exist on the coast of Australia.</def><br/
+\'d8<hw>Tri*go"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Trigon</er>. So called in allusion to the triangular shape of some species.]</ety> <fld>(Zool.)</fld> <def>A genus of pearly bivalve shells, numerous extinct species of which are characteristic of the Mesozoic rocks. A few living species exist on the coast of Australia.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trigonocerous</ent><br/
@@ -33836,7 +33836,7 @@ And <qex>frifles</qex> life.</q> <rj><qau>Young.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trigynia</ent><br/
-||<hw>Tri*gyn"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., Gr. <?/ (see <er>Tri-</er>) + <?/ a woman, a female.]</ety> <fld>(Bot.)</fld> <def>A Linnaean order of plants having three pistils or styles.</def><br/
+\'d8<hw>Tri*gyn"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., Gr. <?/ (see <er>Tri-</er>) + <?/ a woman, a female.]</ety> <fld>(Bot.)</fld> <def>A Linnaean order of plants having three pistils or styles.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trigynous</ent><br/
@@ -33985,11 +33985,11 @@ Of waters, <qex>trilling</qex> from the riven stone.</q> <rj><qau>Glover.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trillium</ent><br/
-||<hw>Tril"li*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.; cf. L. <ets>trilix</ets> triple-woven, triple.]</ety> <fld>(Bot.)</fld> <def>A genus of liliaceous plants; the three-leaved nightshade; -- so called because all the parts of the plant are in threes.</def><br/
+\'d8<hw>Tril"li*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.; cf. L. <ets>trilix</ets> triple-woven, triple.]</ety> <fld>(Bot.)</fld> <def>A genus of liliaceous plants; the three-leaved nightshade; -- so called because all the parts of the plant are in threes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trillo</ent><br/
-||<hw>Tril"lo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. See <er>Trill</er>.]</ety> <fld>(Mus.)</fld> <def>A trill or shake. See <er>Trill</er>.</def><br/
+\'d8<hw>Tril"lo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. See <er>Trill</er>.]</ety> <fld>(Mus.)</fld> <def>A trill or shake. See <er>Trill</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trilobate</ent><br/
@@ -34005,7 +34005,7 @@ Of waters, <qex>trilling</qex> from the riven stone.</q> <rj><qau>Glover.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trilobita</ent><br/
-||<hw>Tri`lo*bi"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Paleon.)</fld> <def>An extinct order of arthropods comprising the trilobites.</def><br/
+\'d8<hw>Tri`lo*bi"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Paleon.)</fld> <def>An extinct order of arthropods comprising the trilobites.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trilobite</ent><br/
@@ -34115,7 +34115,7 @@ Of boats last night.</q> <rj><qau>Trench.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trimera</ent><br/
-||<hw>Tri"me*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Tri-</er>, and <er>-mere</er>.]</ety> <fld>(Zool.)</fld> <def>A division of Coleoptera including those which have but three joints in the tarsi.</def><br/
+\'d8<hw>Tri"me*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Tri-</er>, and <er>-mere</er>.]</ety> <fld>(Zool.)</fld> <def>A division of Coleoptera including those which have but three joints in the tarsi.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trimeran</ent><br/
@@ -34246,7 +34246,7 @@ Of boats last night.</q> <rj><qau>Trench.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trimurti</ent><br/
-||<hw>Tri*mur"ti</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr. <ets>trim<umac/rti</ets>; <ets>tri</ets> three + <ets>m<umac/rti</ets> body.]</ety> <fld>(Hindu Myth.)</fld> <def>The triad, or trinity, of Hindu gods, consisting of Brahma, the Creator, Vishnu, the Preserver, and Siva, the Destroyer.</def> <altsp>[Spelled also <asp>Trimurtti</asp>.]</altsp><br/
+\'d8<hw>Tri*mur"ti</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr. <ets>trim<umac/rti</ets>; <ets>tri</ets> three + <ets>m<umac/rti</ets> body.]</ety> <fld>(Hindu Myth.)</fld> <def>The triad, or trinity, of Hindu gods, consisting of Brahma, the Creator, Vishnu, the Preserver, and Siva, the Destroyer.</def> <altsp>[Spelled also <asp>Trimurtti</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trimyarian</ent><br/
@@ -34301,7 +34301,7 @@ Of boats last night.</q> <rj><qau>Trench.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tringa</ent><br/
-||<hw>Trin"ga</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A genus of limicoline birds including many species of sandpipers. See <er>Dunlin</er>, <er>Knot</er>, and <er>Sandpiper</er>.</def><br/
+\'d8<hw>Trin"ga</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A genus of limicoline birds including many species of sandpipers. See <er>Dunlin</er>, <er>Knot</er>, and <er>Sandpiper</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tringle</ent><br/
@@ -34422,7 +34422,7 @@ Of boats last night.</q> <rj><qau>Trench.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trinucleus</ent><br/
-||<hw>Tri*nu"cle*us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>tri-</ets> + <ets>nucleus</ets>.]</ety> <fld>(Paleon.)</fld> <def>A genus of Lower Silurian trilobites in which the glabella and cheeks form three rounded elevations on the head.</def><br/
+\'d8<hw>Tri*nu"cle*us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>tri-</ets> + <ets>nucleus</ets>.]</ety> <fld>(Paleon.)</fld> <def>A genus of Lower Silurian trilobites in which the glabella and cheeks form three rounded elevations on the head.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trio</ent><br/
@@ -34448,7 +34448,7 @@ Of boats last night.</q> <rj><qau>Trench.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trioecia</ent><br/
-||<hw>Tri*<oe/"ci*a</hw> <pr>(-<emac/"sh<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Tri<oe/cious</er>.]</ety> <fld>(Bot.)</fld> <def>The third order of the Linnaean class Polygamia.</def><br/
+\'d8<hw>Tri*<oe/"ci*a</hw> <pr>(-<emac/"sh<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Tri<oe/cious</er>.]</ety> <fld>(Bot.)</fld> <def>The third order of the Linnaean class Polygamia.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trioecious</ent><br/
@@ -34472,11 +34472,11 @@ Of boats last night.</q> <rj><qau>Trench.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Trionychoidea</ent><br/
-||<hw>Tri*on`y*choi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Trionyx</er>, and <er>-old</er>.]</ety> <fld>(Zool.)</fld> <def>A division of chelonians which comprises Trionyx and allied genera; -- called also <altname>Trionychoides</altname>, and <altname>Trionychina</altname>.</def><br/
+\'d8<hw>Tri*on`y*choi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Trionyx</er>, and <er>-old</er>.]</ety> <fld>(Zool.)</fld> <def>A division of chelonians which comprises Trionyx and allied genera; -- called also <altname>Trionychoides</altname>, and <altname>Trionychina</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trionyx</ent><br/
-||<hw>Tri*on"yx</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ (see <er>Tri-</er>) + <?/ a claw.]</ety> <fld>(Zool.)</fld> <def>A genus of fresh-water or river turtles which have the shell imperfectly developed and covered with a soft leathery skin.  They are noted for their agility and rapacity.  Called also <altname>soft tortoise</altname>, <altname>soft-shell tortoise</altname>, and <altname>mud turtle</altname>.</def><br/
+\'d8<hw>Tri*on"yx</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ (see <er>Tri-</er>) + <?/ a claw.]</ety> <fld>(Zool.)</fld> <def>A genus of fresh-water or river turtles which have the shell imperfectly developed and covered with a soft leathery skin.  They are noted for their agility and rapacity.  Called also <altname>soft tortoise</altname>, <altname>soft-shell tortoise</altname>, and <altname>mud turtle</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The common American species (<spn>Trionyx ferox</spn> syn. <spn>Aspidonectus ferox</spn>) becomes over a foot in length and is very voracious.  Similar species are found in Asia and Africa.</note><br/
@@ -34668,7 +34668,7 @@ They had not time to take a steady sight.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tripe-de-roche</ent><br/
-||<hw>Tripe`-de-roche"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Bot.)</fld> <def>Same as Rock tripe, under <er>Rock</er>.</def><br/
+\'d8<hw>Tripe`-de-roche"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Bot.)</fld> <def>Same as Rock tripe, under <er>Rock</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tripel</ent><br/
@@ -34754,7 +34754,7 @@ They had not time to take a steady sight.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tripitaka</ent><br/
-||<hw>Tri*pit"a*ka</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr. <ets>tripi<tsdot/aka</ets>.]</ety> <def>The three divisions, or <ldquo/baskets<rdquo/ (<xex>pitakas</xex>), of buddhist scriptures, -- the Vinayapitaka <ety>[Skr. <ets>Vinayapi<tsdot/aka</ets>]</ety> , or Basket of Discipline; Suttapitaka [Pali] , or Basket of Discourses; and Abhidhammapitaka [Pali] , or Basket of Metaphysics.</def><br/
+\'d8<hw>Tri*pit"a*ka</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr. <ets>tripi<tsdot/aka</ets>.]</ety> <def>The three divisions, or <ldquo/baskets<rdquo/ (<xex>pitakas</xex>), of buddhist scriptures, -- the Vinayapitaka <ety>[Skr. <ets>Vinayapi<tsdot/aka</ets>]</ety> , or Basket of Discipline; Suttapitaka [Pali] , or Basket of Discourses; and Abhidhammapitaka [Pali] , or Basket of Metaphysics.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Triplasian</ent><br/
@@ -34958,7 +34958,7 @@ They had not time to take a steady sight.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tripsis</ent><br/
-||<hw>Trip"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <?/ to rub.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>Trituration.</def> <mark>[R.]</mark> <sd>(b)</sd> <def>Shampoo.</def> <mark>[R.]</mark><br/
+\'d8<hw>Trip"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <?/ to rub.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>Trituration.</def> <mark>[R.]</mark> <sd>(b)</sd> <def>Shampoo.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Triptote</ent><br/
@@ -35027,7 +35027,7 @@ They had not time to take a steady sight.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trisagion</ent><br/
-||<hw>Tris*ag"i*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ thrice holy; <?/ thrice + <?/ holy.]</ety> <fld>(Eccl.)</fld> <def>An ancient anthem, -- usually known by its Latin name <xex>tersanctus</xex>.See <er>Tersanctus</er>.</def><br/
+\'d8<hw>Tris*ag"i*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ thrice holy; <?/ thrice + <?/ holy.]</ety> <fld>(Eccl.)</fld> <def>An ancient anthem, -- usually known by its Latin name <xex>tersanctus</xex>.See <er>Tersanctus</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trisect</ent><br/
@@ -35060,7 +35060,7 @@ They had not time to take a steady sight.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Trismus</ent><br/
-||<hw>Tris"mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., form Gr. <?/ gnashing of the teeth.]</ety> <fld>(Med.)</fld> <def>The lockjaw.</def><br/
+\'d8<hw>Tris"mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., form Gr. <?/ gnashing of the teeth.]</ety> <fld>(Med.)</fld> <def>The lockjaw.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trisnitrate</ent><br/
@@ -35149,7 +35149,7 @@ Heart so full of care and cumber.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tristoma</ent><br/
-||<hw>Tris"to*ma</hw> <pr>(tr<icr/s"t<osl/*m<adot/)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>tri-</grk> (see <er>Tri-</er>) + <grk>sto`ma</grk> mouth.]</ety> <fld>(Zool.)</fld> <def>Any one of numerous species of trematode worms belonging to <gen>Tristoma</gen> and allied genera having a large posterior sucker and two small anterior ones. They usually have broad, thin, and disklike bodies, and are parasite on the gills and skin of fishes.</def><br/
+\'d8<hw>Tris"to*ma</hw> <pr>(tr<icr/s"t<osl/*m<adot/)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>tri-</grk> (see <er>Tri-</er>) + <grk>sto`ma</grk> mouth.]</ety> <fld>(Zool.)</fld> <def>Any one of numerous species of trematode worms belonging to <gen>Tristoma</gen> and allied genera having a large posterior sucker and two small anterior ones. They usually have broad, thin, and disklike bodies, and are parasite on the gills and skin of fishes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tristy</ent><br/
@@ -35227,7 +35227,7 @@ Heart so full of care and cumber.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Triticum</ent><br/
-||<hw>Trit"i*cum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., perhaps fr. <ets>tritus</ets>, p. p. of <ets>terere</ets> to grind.]</ety> <fld>(Bot.)</fld> <def>A genus of grasses including the various species of wheat.</def><br/
+\'d8<hw>Trit"i*cum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., perhaps fr. <ets>tritus</ets>, p. p. of <ets>terere</ets> to grind.]</ety> <fld>(Bot.)</fld> <def>A genus of grasses including the various species of wheat.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>tritium</ent><br/
@@ -35235,7 +35235,7 @@ Heart so full of care and cumber.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Triton</ent><br/
-||<hw>Tri"ton</hw> <pr>(tr<imac/"t<ocr/n)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>Tri`twn</grk>.]</ety> <fld>(Gr. Myth.)</fld> <def>A fabled sea demigod, the son of Neptune and Amphitrite, and the trumpeter of Neptune.  He is represented by poets and painters as having the upper part of his body like that of a man, and the lower part like that of a fish. He often has a trumpet made of a shell.</def><br/
+\'d8<hw>Tri"ton</hw> <pr>(tr<imac/"t<ocr/n)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>Tri`twn</grk>.]</ety> <fld>(Gr. Myth.)</fld> <def>A fabled sea demigod, the son of Neptune and Amphitrite, and the trumpeter of Neptune.  He is represented by poets and painters as having the upper part of his body like that of a man, and the lower part like that of a fish. He often has a trumpet made of a shell.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Have sight of Proteus rising from the sea,<br/
@@ -35257,7 +35257,7 @@ Or hear old <qex>Triton</qex> blow his wreathed horn.</q> <rj><qau>Wordsworth.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tritovum</ent><br/
-||<hw>Tri*to"vum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tritova</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ third + L. <ets>ovum</ets> egg.]</ety> <fld>(Zool.)</fld> <def>An embryonic insect which has twice cast its skin previous to hatching from the egg.</def><br/
+\'d8<hw>Tri*to"vum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tritova</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ third + L. <ets>ovum</ets> egg.]</ety> <fld>(Zool.)</fld> <def>An embryonic insect which has twice cast its skin previous to hatching from the egg.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tritozooid</ent><br/
@@ -35433,7 +35433,7 @@ All nations of the <qex>triumphed</qex> word.</q> <rj><qau>Massinger.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Triumvir</ent><br/
-||<hw>Tri*um"vir</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Triumviri</plw> <pr>(#)</pr>, E. <plw>Triumvirs</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. <ets>res</ets>, gen. <ets>trium</ets>, three + <ets>vir</ets> a man. See <er>Three</er>, and <er>Virile</er>.]</ety> <fld>(Rom. Antiq.)</fld> <def>One of tree men united in public office or authority.</def><br/
+\'d8<hw>Tri*um"vir</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Triumviri</plw> <pr>(#)</pr>, E. <plw>Triumvirs</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. <ets>res</ets>, gen. <ets>trium</ets>, three + <ets>vir</ets> a man. See <er>Three</er>, and <er>Virile</er>.]</ety> <fld>(Rom. Antiq.)</fld> <def>One of tree men united in public office or authority.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ In later times the triumvirs of Rome were three men who jointly exercised sovereign power. Julius Caesar, Crassus, and Pompey were the first triumvirs; Octavianus (Augustus), Antony, and Lepidus were the second and last.</note><br/
@@ -35455,7 +35455,7 @@ All nations of the <qex>triumphed</qex> word.</q> <rj><qau>Massinger.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Triungulus</ent><br/
-||<hw>Tri*un"gu*lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Triunguli</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Tri-</er>, and <er>Ungulate</er>.]</ety> <fld>(Zool.)</fld> <def>The active young larva of any oil beetle. It has feet armed with three claws, and is parasitic on bees. See <xex>Illust.</xex> of <cref>Oil beetle</cref>, under <er>Oil</er>.</def><br/
+\'d8<hw>Tri*un"gu*lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Triunguli</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Tri-</er>, and <er>Ungulate</er>.]</ety> <fld>(Zool.)</fld> <def>The active young larva of any oil beetle. It has feet armed with three claws, and is parasitic on bees. See <xex>Illust.</xex> of <cref>Oil beetle</cref>, under <er>Oil</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Triunity</ent><br/
@@ -35545,7 +35545,7 @@ All nations of the <qex>triumphed</qex> word.</q> <rj><qau>Massinger.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trivium</ent><br/
-||<hw>Triv"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL. See <er>Trivial</er>.]</ety> <sn>1.</sn> <def>The three <ldquo/ liberal<rdquo/ arts, grammar, logic, and rhetoric; -- being a triple way, as it were, to eloquence.</def><br/
+\'d8<hw>Triv"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL. See <er>Trivial</er>.]</ety> <sn>1.</sn> <def>The three <ldquo/ liberal<rdquo/ arts, grammar, logic, and rhetoric; -- being a triple way, as it were, to eloquence.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The <xex>trivium</xex> and <xex>quadrivium</xex> together made up the seven liberal arts. See <er>Quadrivium</er>.</note><br/
@@ -35578,7 +35578,7 @@ All nations of the <qex>triumphed</qex> word.</q> <rj><qau>Massinger.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trocha</ent><br/
-||<hw>Tro"cha</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., bypath, crossroad.]</ety> <fld>(Mil.)</fld> <def>A line of fortifications, usually rough, constructed to prevent the passage of an enemy across a region.</def> <mark>[Sp. Amer.]</mark><br/
+\'d8<hw>Tro"cha</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., bypath, crossroad.]</ety> <fld>(Mil.)</fld> <def>A line of fortifications, usually rough, constructed to prevent the passage of an enemy across a region.</def> <mark>[Sp. Amer.]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Trochaic</ent><br/
@@ -35598,7 +35598,7 @@ All nations of the <qex>triumphed</qex> word.</q> <rj><qau>Massinger.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trochanter</ent><br/
-||<hw>Tro*chan"ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>One of two processes near the head of the femur, the outer being called the <stype>great trochanter</stype>, and the inner the <stype>small trochanter</stype>.</def><br/
+\'d8<hw>Tro*chan"ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>One of two processes near the head of the femur, the outer being called the <stype>great trochanter</stype>, and the inner the <stype>small trochanter</stype>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>The third joint of the leg of an insect, or the second when the trochantine is united with the coxa.</def><br/
@@ -35635,7 +35635,7 @@ All nations of the <qex>triumphed</qex> word.</q> <rj><qau>Massinger.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trochili</ent><br/
-||<hw>Troch"i*li</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Trochilus</er>.]</ety> <fld>(Zool.)</fld> <def>A division of birds comprising the humming birds.</def><br/
+\'d8<hw>Troch"i*li</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Trochilus</er>.]</ety> <fld>(Zool.)</fld> <def>A division of birds comprising the humming birds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trochilic</ent><br/
@@ -35651,11 +35651,11 @@ All nations of the <qex>triumphed</qex> word.</q> <rj><qau>Massinger.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trochilos</ent><br/
-||<hw>Troch"i*los</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Trochilus</er>.]</ety> <fld>(Zool.)</fld> <def>The crocodile bird, or trochil.</def><br/
+\'d8<hw>Troch"i*los</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Trochilus</er>.]</ety> <fld>(Zool.)</fld> <def>The crocodile bird, or trochil.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trochilus</ent><br/
-||<hw>Troch"i*lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Trochili</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>trochilus</ets> a kind of small bird. Gr. <?/, fr. <ets><?/</ets> to run.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A genus of humming birds. It Formerly included all the known species.</def> <sd>(b)</sd> <def>Any one of several species of wrens and kinglets.</def> <mark>[Obs.]</mark> <sd>(c)</sd> <def>The crocodile bird.</def><br/
+\'d8<hw>Troch"i*lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Trochili</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>trochilus</ets> a kind of small bird. Gr. <?/, fr. <ets><?/</ets> to run.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A genus of humming birds. It Formerly included all the known species.</def> <sd>(b)</sd> <def>Any one of several species of wrens and kinglets.</def> <mark>[Obs.]</mark> <sd>(c)</sd> <def>The crocodile bird.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Arch.)</fld> <def>An annular molding whose section is concave, like the edge of a pulley; -- called also <altname>scotia</altname>.</def><br/
@@ -35666,7 +35666,7 @@ All nations of the <qex>triumphed</qex> word.</q> <rj><qau>Massinger.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trochiscus</ent><br/
-||<hw>Tro*chis"cus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Trochisci</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/ a small ball, dim. of <?/ a wheel. See <er>Troche</er>.]</ety> <fld>(Pharm.)</fld> <def>A kind of tablet or lozenge; a troche.</def><br/
+\'d8<hw>Tro*chis"cus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Trochisci</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/ a small ball, dim. of <?/ a wheel. See <er>Troche</er>.]</ety> <fld>(Pharm.)</fld> <def>A kind of tablet or lozenge; a troche.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trochisk</ent><br/
@@ -35678,7 +35678,7 @@ All nations of the <qex>triumphed</qex> word.</q> <rj><qau>Massinger.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trochlea</ent><br/
-||<hw>Troch"le*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a case or sheaf containing one or more pulleys, Gr. <?/. See <er>Trochilics</er>.]</ety> <sn>1.</sn> <fld>(Mach.)</fld> <def>A pulley.</def> <mark>[Obs.]</mark><br/
+\'d8<hw>Troch"le*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a case or sheaf containing one or more pulleys, Gr. <?/. See <er>Trochilics</er>.]</ety> <sn>1.</sn> <fld>(Mach.)</fld> <def>A pulley.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Anat.)</fld> <def>A pulley, or a structure resembling a pulley; <as>as, the <ex>trochlea</ex>, or pulleylike end, of the humerus, which articulates with the ulna; or the <ex>trochlea</ex>, or fibrous ring, in the upper part of the orbit, through which the superior oblique, or trochlear, muscle of the eye passes.</as></def><br/
@@ -35725,7 +35725,7 @@ All nations of the <qex>triumphed</qex> word.</q> <rj><qau>Massinger.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trochus</ent><br/
-||<hw>Tro"chus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Trochi</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ a wheel.]</ety> <fld>(Zool.)</fld> <def>Any one of numerous species of marine univalve shells belonging to <gen>Trochus</gen> and many allied genera of the family <fam>Trochidae</fam>. Some of the species are called also <altname>topshells</altname>.</def><br/
+\'d8<hw>Tro"chus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Trochi</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ a wheel.]</ety> <fld>(Zool.)</fld> <def>Any one of numerous species of marine univalve shells belonging to <gen>Trochus</gen> and many allied genera of the family <fam>Trochidae</fam>. Some of the species are called also <altname>topshells</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Troco</ent><br/
@@ -35765,7 +35765,7 @@ All nations of the <qex>triumphed</qex> word.</q> <rj><qau>Massinger.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Troglodytes</ent><br/
-||<hw>Trog`lo*dy"tes</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Troglodyte</er>.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A genus of apes including the chimpanzee.</def> <note>The chimpanzee is now named <spn>Pan troglodytes</spn>.</note>, and its genus is <gen>Pan</gen>.<br/
+\'d8<hw>Trog`lo*dy"tes</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Troglodyte</er>.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A genus of apes including the chimpanzee.</def> <note>The chimpanzee is now named <spn>Pan troglodytes</spn>.</note>, and its genus is <gen>Pan</gen>.<br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>A genus of singing birds including the common wrens.</def><br/
@@ -35809,7 +35809,7 @@ All nations of the <qex>triumphed</qex> word.</q> <rj><qau>Massinger.</qau></rj>
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Trois point</ent><br/
-||<hw>Trois` point"</hw> <pr>(?)</pr>. <ety>[F. <ets>trois</ets> three.]</ety> <fld>(Backgammon)</fld> <def>The third point from the outer edge on each player's home table.</def><br/
+\'d8<hw>Trois` point"</hw> <pr>(?)</pr>. <ety>[F. <ets>trois</ets> three.]</ety> <fld>(Backgammon)</fld> <def>The third point from the outer edge on each player's home table.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Trojan</ent><br/
@@ -36107,7 +36107,7 @@ I must not look to have.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trophi</ent><br/
-||<hw>Tro"phi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ a feeder, fr. <?/ to feed.]</ety> <fld>(Zool.)</fld> <def>The mouth parts of an insect, collectively, including the labrum, labium, maxillae, mandibles, and lingua, with their appendages.</def><br/
+\'d8<hw>Tro"phi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ a feeder, fr. <?/ to feed.]</ety> <fld>(Zool.)</fld> <def>The mouth parts of an insect, collectively, including the labrum, labium, maxillae, mandibles, and lingua, with their appendages.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trophic</ent><br/
@@ -36240,7 +36240,7 @@ And broken beaks of ships, the <qex>trophies</qex> of their wars.</q> <rj><qau>D
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Troppo</ent><br/
-||<hw>Trop"po</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Too much; <as>as, allegro ma non <ex>troppo</ex>, brisk but not too much so</as>.</def><br/
+\'d8<hw>Trop"po</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Too much; <as>as, allegro ma non <ex>troppo</ex>, brisk but not too much so</as>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Trossers</ent><br/
@@ -36433,7 +36433,7 @@ Do breed unnatural <qex>troubles</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trou-de-loup</ent><br/
-||<hw>Trou"-de-loup"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Trous-de-loup</plw> <pr>(<?/)</pr>.</plu> <ety>[F. <ets>trou</ets> hole + <ets>de</ets> of + <ets>loup</ets> wolf.]</ety> <fld>(Mil.)</fld> <def>A pit in the form of an inverted cone or pyramid, constructed as an obstacle to the approach of an enemy, and having a pointed stake in the middle. The pits are called also <altname>trapholes</altname>.</def><br/
+\'d8<hw>Trou"-de-loup"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Trous-de-loup</plw> <pr>(<?/)</pr>.</plu> <ety>[F. <ets>trou</ets> hole + <ets>de</ets> of + <ets>loup</ets> wolf.]</ety> <fld>(Mil.)</fld> <def>A pit in the form of an inverted cone or pyramid, constructed as an obstacle to the approach of an enemy, and having a pointed stake in the middle. The pits are called also <altname>trapholes</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trough</ent><br/
@@ -36462,7 +36462,7 @@ Do breed unnatural <qex>troubles</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Troupe</ent><br/
-||<hw>Troupe</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., troop. See <er>Troop</er>.]</ety> <def>A company or troop, especially the company of performers in a play or an opera.</def><br/
+\'d8<hw>Troupe</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., troop. See <er>Troop</er>.]</ety> <def>A company or troop, especially the company of performers in a play or an opera.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Troupial</ent><br/
@@ -36483,11 +36483,11 @@ Do breed unnatural <qex>troubles</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trousse</ent><br/
-||<hw>Trousse</hw> <pr>(tr<oomac/s)</pr>, <pos>n.</pos> <ety>[F. See <er>Truss</er>; cf. <er>Trousseau</er>.]</ety> <def>A case for small implements; <as>as, a surgeon's <ex>trousse</ex></as>.</def><br/
+\'d8<hw>Trousse</hw> <pr>(tr<oomac/s)</pr>, <pos>n.</pos> <ety>[F. See <er>Truss</er>; cf. <er>Trousseau</er>.]</ety> <def>A case for small implements; <as>as, a surgeon's <ex>trousse</ex></as>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Trousseau</ent><br/
-||<hw>Trous`seau"</hw> <pr>(tr<oomac/`s<omac/")</pr>, <pos>n.</pos> <ety>[F., fr. OF. <ets>trossel</ets>, dim. of <ets>trousse</ets> a bundle, truss. See <er>Truss</er>.]</ety> <def>The collective lighter equipments or outfit of a bride, including clothes, jewelry, and the like; especially, that which is provided for her by her family.</def><br/
+\'d8<hw>Trous`seau"</hw> <pr>(tr<oomac/`s<omac/")</pr>, <pos>n.</pos> <ety>[F., fr. OF. <ets>trossel</ets>, dim. of <ets>trousse</ets> a bundle, truss. See <er>Truss</er>.]</ety> <def>The collective lighter equipments or outfit of a bride, including clothes, jewelry, and the like; especially, that which is provided for her by her family.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trout</ent><br/
@@ -36524,7 +36524,7 @@ Do breed unnatural <qex>troubles</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Trouveur</ent><br/
 <ent>Trouvere</ent><br/
-<mhw>{ ||<hw>Trou`v<egrave/re"</hw> <pr>(?)</pr>, ||<hw>Trou`veur"</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[F. <ets>trouveur</ets>, <ets>trouv<egrave/re</ets>. See <er>Troubadour</er>.]</ety> <def>One of a school of poets who flourished in Northern France from the eleventh to the fourteenth century.</def><br/
+<mhw>{ \'d8<hw>Trou`v<egrave/re"</hw> <pr>(?)</pr>, \'d8<hw>Trou`veur"</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[F. <ets>trouveur</ets>, <ets>trouv<egrave/re</ets>. See <er>Troubadour</er>.]</ety> <def>One of a school of poets who flourished in Northern France from the eleventh to the fourteenth century.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trover</ent><br/
@@ -36988,7 +36988,7 @@ So faithful, love unequaled.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Truite</ent><br/
-||<hw>Trui`t<eacute/"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., fr. <ets>truite</ets> trout.]</ety> <def>Having a delicately crackled surface; -- applied to porcelian, etc.</def><br/
+\'d8<hw>Trui`t<eacute/"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., fr. <ets>truite</ets> trout.]</ety> <def>Having a delicately crackled surface; -- applied to porcelian, etc.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Trull</ent><br/
@@ -37253,7 +37253,7 @@ Excites us to arms.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Truncus</ent><br/
-||<hw>Trun"cus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Zool.)</fld> <def>The thorax of an insect. See <er>Trunk</er>, <pos>n.</pos>, 5.</def><br/
+\'d8<hw>Trun"cus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Zool.)</fld> <def>The thorax of an insect. See <er>Trunk</er>, <pos>n.</pos>, 5.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trundle</ent><br/
@@ -37910,7 +37910,7 @@ Confounds us.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Trygon</ent><br/
-||<hw>Try"gon</hw> <pr>(tr<imac/"g<ocr/n)</pr>, <pos>n.</pos> <ety>[L., a sting ray, from Gr.<?/ a kind of fish with a prickle in the tail.]</ety> <fld>(Zool.)</fld> <def>Any one of several species of large sting rays belonging to <gen>Trygon</gen> and allied genera.</def><br/
+\'d8<hw>Try"gon</hw> <pr>(tr<imac/"g<ocr/n)</pr>, <pos>n.</pos> <ety>[L., a sting ray, from Gr.<?/ a kind of fish with a prickle in the tail.]</ety> <fld>(Zool.)</fld> <def>Any one of several species of large sting rays belonging to <gen>Trygon</gen> and allied genera.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trying</ent><br/
@@ -38014,11 +38014,11 @@ To summon his array.</q> <rj><qau>Macaulay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tschakmeck</ent><br/
-||<hw>Tschak*meck"</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The chameck.</def><br/
+\'d8<hw>Tschak*meck"</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The chameck.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tschego</ent><br/
-||<hw>Tsche"go</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From a native name.]</ety> <fld>(Zool.)</fld> <def>A West African anthropoid ape allied to the gorilla and chimpanzee, and by some considered only a variety of the chimpanzee. It is noted for building large, umbrella-shaped nests in trees. Called also <altname>tscheigo</altname>, <altname>tschiego</altname>, <altname>nschego</altname>, <altname>nscheigo</altname>.</def><br/
+\'d8<hw>Tsche"go</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From a native name.]</ety> <fld>(Zool.)</fld> <def>A West African anthropoid ape allied to the gorilla and chimpanzee, and by some considered only a variety of the chimpanzee. It is noted for building large, umbrella-shaped nests in trees. Called also <altname>tscheigo</altname>, <altname>tschiego</altname>, <altname>nschego</altname>, <altname>nscheigo</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tsebe</ent><br/
@@ -38035,11 +38035,11 @@ To summon his array.</q> <rj><qau>Macaulay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tsung-li Yamen</ent><br/
-||<hw>Tsung"-li Ya"men</hw> <pr>(?)</pr>. <altsp>[Written also <asp>Tsung-li-Yamen</asp> or <asp>Tsungli Yamen</asp>.]</altsp> <ety>[Chin.]</ety> <def>The board or department of foreign affairs in the Chinese government. See <er>Yamen</er>.</def><br/
+\'d8<hw>Tsung"-li Ya"men</hw> <pr>(?)</pr>. <altsp>[Written also <asp>Tsung-li-Yamen</asp> or <asp>Tsungli Yamen</asp>.]</altsp> <ety>[Chin.]</ety> <def>The board or department of foreign affairs in the Chinese government. See <er>Yamen</er>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tsung tu</ent><br/
-||<hw>Tsung" tu`</hw> <pr>(?)</pr>. <def>A viceroy or governor-general, the highest provincial official in China, with civil and military authority over one or more provinces.</def><br/
+\'d8<hw>Tsung" tu`</hw> <pr>(?)</pr>. <def>A viceroy or governor-general, the highest provincial official in China, with civil and military authority over one or more provinces.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tuatara</ent><br/
@@ -38226,7 +38226,7 @@ To summon his array.</q> <rj><qau>Macaulay.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tuberculosis</ent><br/
-||<hw>Tu*ber`cu*lo"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Tubercle</er>.]</ety> <fld>(Med.)</fld> <def>A constitutional disease caused by infection with <spn>Mycobacterium tuberculosis</spn> (also called the <er>Tubercle bacillus</er>), characterized by the production of tubercles in the internal organs, and especially in the lungs, where it constitutes the most common variety of pulmonary phthisis (consumption).  The Mycobacteria are slow-growing and without cell walls, and are thus not affected by the beta-lactam antibiotics; treatment is difficult, usually requiring simultaneous administration of multiple antibiotics to effect a cure.  Prior to availability of antibiotic treatment, the cure required extensive rest, for which special sanatoriums were constructed.</def><br/
+\'d8<hw>Tu*ber`cu*lo"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Tubercle</er>.]</ety> <fld>(Med.)</fld> <def>A constitutional disease caused by infection with <spn>Mycobacterium tuberculosis</spn> (also called the <er>Tubercle bacillus</er>), characterized by the production of tubercles in the internal organs, and especially in the lungs, where it constitutes the most common variety of pulmonary phthisis (consumption).  The Mycobacteria are slow-growing and without cell walls, and are thus not affected by the beta-lactam antibiotics; treatment is difficult, usually requiring simultaneous administration of multiple antibiotics to effect a cure.  Prior to availability of antibiotic treatment, the cure required extensive rest, for which special sanatoriums were constructed.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Tuberculous</ent><br/
@@ -38234,7 +38234,7 @@ To summon his array.</q> <rj><qau>Macaulay.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tuberculum</ent><br/
-||<hw>Tu*ber"cu*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tubercula</plw> <pr>(#)</pr>.</plu> <ety>[L., dim. of <ets>tuber</ets> a swelling.]</ety> <fld>(Zool.)</fld> <def>A tubercle.</def><br/
+\'d8<hw>Tu*ber"cu*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tubercula</plw> <pr>(#)</pr>.</plu> <ety>[L., dim. of <ets>tuber</ets> a swelling.]</ety> <fld>(Zool.)</fld> <def>A tubercle.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tuberiferous</ent><br/
@@ -38290,7 +38290,7 @@ To summon his array.</q> <rj><qau>Macaulay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tubicolae</ent><br/
-||<hw>Tu*bic"o*lae</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L.  <ets>tubus</ets> a tube + <ets>colere</ets> to inhabit.]</ety> <fld>(Zool.)</fld> <def>A division of annelids including those which construct, and habitually live in, tubes. The head or anterior segments usually bear gills and cirri. Called also <altname>Sedentaria</altname>, and <altname>Capitibranchiata</altname>. See <er>Serpula</er>, and <er>Sabella</er>.</def><br/
+\'d8<hw>Tu*bic"o*lae</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L.  <ets>tubus</ets> a tube + <ets>colere</ets> to inhabit.]</ety> <fld>(Zool.)</fld> <def>A division of annelids including those which construct, and habitually live in, tubes. The head or anterior segments usually bear gills and cirri. Called also <altname>Sedentaria</altname>, and <altname>Capitibranchiata</altname>. See <er>Serpula</er>, and <er>Sabella</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tubicolar</ent><br/
@@ -38332,7 +38332,7 @@ To summon his array.</q> <rj><qau>Macaulay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tubipora</ent><br/
-||<hw>Tu*bip"o*ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from L. <ets>tubus</ets> tube + <ets>porus</ets> passage, pore.]</ety> <fld>(Zool.)</fld> <def>A genus of halcyonoids in which the skeleton, or coral (called <xex>organ-pipe coral</xex>), consists of a mass of parallel cylindrical tubes united at intervals by transverse plates. These corals are usually red or purple and form large masses. They are natives of the tropical parts of the Indian and Pacific Oceans.</def><br/
+\'d8<hw>Tu*bip"o*ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from L. <ets>tubus</ets> tube + <ets>porus</ets> passage, pore.]</ety> <fld>(Zool.)</fld> <def>A genus of halcyonoids in which the skeleton, or coral (called <xex>organ-pipe coral</xex>), consists of a mass of parallel cylindrical tubes united at intervals by transverse plates. These corals are usually red or purple and form large masses. They are natives of the tropical parts of the Indian and Pacific Oceans.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tubipore</ent><br/
@@ -38359,11 +38359,11 @@ To summon his array.</q> <rj><qau>Macaulay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tubularia</ent><br/
-||<hw>Tu`bu*la"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A genus of hydroids having large, naked, flowerlike hydranths at the summits of long, slender, usually simple, stems. The gonophores are small, and form clusters at the bases of the outer tentacles.</def><br/
+\'d8<hw>Tu`bu*la"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A genus of hydroids having large, naked, flowerlike hydranths at the summits of long, slender, usually simple, stems. The gonophores are small, and form clusters at the bases of the outer tentacles.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tubulariae</ent><br/
-||<hw>Tu`bu*la"ri*ae</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <def>See <er>Tubularida</er>.</def><br/
+\'d8<hw>Tu`bu*la"ri*ae</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <def>See <er>Tubularida</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tubularian</ent><br/
@@ -38378,7 +38378,7 @@ To summon his array.</q> <rj><qau>Macaulay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tubularida</ent><br/
-||<hw>Tu"bu*lar`i*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>An extensive division of Hydroidea; the tubularians; -- called also <altname>Athecata</altname>, <altname>Gymnoblastea</altname>, and <altname>Tubulariae</altname>.</def><br/
+\'d8<hw>Tu"bu*lar`i*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>An extensive division of Hydroidea; the tubularians; -- called also <altname>Athecata</altname>, <altname>Gymnoblastea</altname>, and <altname>Tubulariae</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tubulate</ent><br/
@@ -38412,7 +38412,7 @@ To summon his array.</q> <rj><qau>Macaulay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tubulibranchiata</ent><br/
-||<hw>Tu`bu*li*bran`chi*a"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from L. <ets>tubulus</ets> a little tube + <ets>branchia</ets> a gill.]</ety> <fld>(Zool.)</fld> <def>A group of gastropod mollusks having a tubular shell. Vermetus is an example.</def><br/
+\'d8<hw>Tu`bu*li*bran`chi*a"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from L. <ets>tubulus</ets> a little tube + <ets>branchia</ets> a gill.]</ety> <fld>(Zool.)</fld> <def>A group of gastropod mollusks having a tubular shell. Vermetus is an example.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tubulicole</ent><br/
@@ -38549,11 +38549,11 @@ The <qex>tucket sonance</qex> and the note to mount.</q> <rj><qau>Shak.</qau></r
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tucum</ent><br/
-||<hw>Tu"cum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[So called by the Indians of Brazil.]</ety> <def>A fine, strong fiber obtained from the young leaves of a Brazilian palm (<spn>Astrocaryum vulgare</spn>), used for cordage, bowstrings, etc.; also, the plant yielding this fiber. Called also <altname>tecum</altname>, and <altname>tecum fiber</altname>.</def><br/
+\'d8<hw>Tu"cum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[So called by the Indians of Brazil.]</ety> <def>A fine, strong fiber obtained from the young leaves of a Brazilian palm (<spn>Astrocaryum vulgare</spn>), used for cordage, bowstrings, etc.; also, the plant yielding this fiber. Called also <altname>tecum</altname>, and <altname>tecum fiber</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tucuma</ent><br/
-||<hw>Tu*cu"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>A Brazilian palm (<spn>Astrocaryum Tucuma</spn>) which furnishes an edible fruit.</def><br/
+\'d8<hw>Tu*cu"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>A Brazilian palm (<spn>Astrocaryum Tucuma</spn>) which furnishes an edible fruit.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tudor</ent><br/
@@ -39131,7 +39131,7 @@ Now rolling, boils in his <qex>tumultuous</qex> breast.</q> <rj><qau>Milton.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tumulus</ent><br/
-||<hw>Tu"mu*lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tumuli</plw> <pr>(#)</pr>.</plu> <ety>[L., a mound, a sepulchral mound, probably from <ets>tumere</ets> to swell.  Cf. <er>Tumid</er>.]</ety> <def>An artificial hillock, especially one raised over a grave, particularly over the graves of persons buried in ancient times; a barrow.</def><br/
+\'d8<hw>Tu"mu*lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tumuli</plw> <pr>(#)</pr>.</plu> <ety>[L., a mound, a sepulchral mound, probably from <ets>tumere</ets> to swell.  Cf. <er>Tumid</er>.]</ety> <def>An artificial hillock, especially one raised over a grave, particularly over the graves of persons buried in ancient times; a barrow.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tun</ent><br/
@@ -39193,7 +39193,7 @@ Now rolling, boils in his <qex>tumultuous</qex> breast.</q> <rj><qau>Milton.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tundra</ent><br/
-||<hw>Tun"dra</hw> <pr>(t<oomac/n"dr<adot/)</pr>, <pos>n.</pos> <ety>[Russ.]</ety> <def>One of the level or undulating treeless plains characteristic of northern arctic regions in both hemispheres; the term is most commony associated with the arctic plains of Siberia.  The tundras mark the limit of arborescent vegetation; they consist of black mucky soil with a permanently frozen subsoil, but support a dense growth of mosses and lichens, and dwarf herbs and shrubs, often showy-flowered.</def><br/
+\'d8<hw>Tun"dra</hw> <pr>(t<oomac/n"dr<adot/)</pr>, <pos>n.</pos> <ety>[Russ.]</ety> <def>One of the level or undulating treeless plains characteristic of northern arctic regions in both hemispheres; the term is most commony associated with the arctic plains of Siberia.  The tundras mark the limit of arborescent vegetation; they consist of black mucky soil with a permanently frozen subsoil, but support a dense growth of mosses and lichens, and dwarf herbs and shrubs, often showy-flowered.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tune</ent><br/
@@ -39348,7 +39348,7 @@ With <qex>tuneless</qex> pipe, beside the murmuring Loire!</q> <rj><qau>Goldsmit
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tunicata</ent><br/
-||<hw>Tu`ni*ca"ta</hw> <pr>(?)</pr>, <pos>pr. n. pl.</pos> <ety>[NL. See <er>Tunicate</er>.]</ety> <fld>(Zool.)</fld> <def>A grand division of the animal kingdom, intermediate, in some respects, between the invertebrates and vertebrates, and in modern classifications considered a subphylum of the vertebrates; called also <subphylum>urochordata</subphylum>.  They were formerly classed with acephalous mollusks.  The body is usually covered with a firm external tunic, consisting in part of cellulose, and having two openings, one for the entrance and one for the exit of water.  The pharynx is usually dilated in the form of a sac, pierced by several series of ciliated slits, and serves as a gill.</def><br/
+\'d8<hw>Tu`ni*ca"ta</hw> <pr>(?)</pr>, <pos>pr. n. pl.</pos> <ety>[NL. See <er>Tunicate</er>.]</ety> <fld>(Zool.)</fld> <def>A grand division of the animal kingdom, intermediate, in some respects, between the invertebrates and vertebrates, and in modern classifications considered a subphylum of the vertebrates; called also <subphylum>urochordata</subphylum>.  They were formerly classed with acephalous mollusks.  The body is usually covered with a firm external tunic, consisting in part of cellulose, and having two openings, one for the entrance and one for the exit of water.  The pharynx is usually dilated in the form of a sac, pierced by several series of ciliated slits, and serves as a gill.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Most of the species when mature are firmly attached to foreign substances, but have free-swimming larvae which are furnished with an elongated tail and somewhat resemble a tadpole.  In this state the larva has a urochord and certain other structures resembling some embryonic vertebrates. See <er>Ascidian</er>, <er>Doliolum</er>, <er>Salpa</er>, <er>Urochord</er>, and <xex>Illust.</xex> of <cref>Social ascidian</cref>, under <er>Social</er>.</note><br/
@@ -39507,7 +39507,7 @@ The smoke forth threw.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tur</ent><br/
-||<hw>Tur</hw> <pr>(t<oomac/r)</pr>, <pos>n.</pos> <ety>[Pol.]</ety> <fld>(Zool.)</fld> <def>The <er>urus</er>.</def><br/
+\'d8<hw>Tur</hw> <pr>(t<oomac/r)</pr>, <pos>n.</pos> <ety>[Pol.]</ety> <fld>(Zool.)</fld> <def>The <er>urus</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Turacin</ent><br/
@@ -39577,7 +39577,7 @@ The smoke forth threw.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Turbellaria</ent><br/
-||<hw>Tur`bel*la"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., dim. fr. L. <ets>turbo</ets> a whirling.]</ety> <fld>(Zool.)</fld> <def>An extensive group of worms which have the body covered externally with vibrating cilia. It includes the Rhabdoc<oe/la and Dendroc<oe/la. Formerly, the nemerteans were also included in this group.</def><br/
+\'d8<hw>Tur`bel*la"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., dim. fr. L. <ets>turbo</ets> a whirling.]</ety> <fld>(Zool.)</fld> <def>An extensive group of worms which have the body covered externally with vibrating cilia. It includes the Rhabdoc<oe/la and Dendroc<oe/la. Formerly, the nemerteans were also included in this group.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Turbellarian</ent><br/
@@ -39675,7 +39675,7 @@ Guided by one weak hand, was seen to float.</q> <rj><qau>Whittier.</qau></rj><br
 [<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
 
 <p><ent>Turbinella</ent><br/
-||<hw>Tur`bi*nel"la</hw> <pr>(?)</pr>, <pos>pr. n.</pos> <ety>[NL., dim. fr. L. <ets>turbo</ets>, <ets>-inis</ets>, a top.]</ety> <fld>(Zool.)</fld> <def>A genus of large marine gastropods having a thick heavy shell with conspicuous folds on the columella.</def><br/
+\'d8<hw>Tur`bi*nel"la</hw> <pr>(?)</pr>, <pos>pr. n.</pos> <ety>[NL., dim. fr. L. <ets>turbo</ets>, <ets>-inis</ets>, a top.]</ety> <fld>(Zool.)</fld> <def>A genus of large marine gastropods having a thick heavy shell with conspicuous folds on the columella.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Turbinite</ent><br/
@@ -39782,11 +39782,11 @@ And full of peace, now tossed and <qex>turbulent</qex>.</q> <rj><qau>Milton.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Turdiformes</ent><br/
-||<hw>Tur`di*for"mes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>turdus</ets> a thrush + <ets>forma</ets> form.]</ety> <fld>(Zool.)</fld> <def>A division of singing birds including the thrushes and allied kinds.</def><br/
+\'d8<hw>Tur`di*for"mes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>turdus</ets> a thrush + <ets>forma</ets> form.]</ety> <fld>(Zool.)</fld> <def>A division of singing birds including the thrushes and allied kinds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Turdus</ent><br/
-||<hw>Tur"dus</hw> <pr>(?)</pr>, <pos>pr. n.</pos> <ety>[L., a thrush.]</ety> <fld>(Zool.)</fld> <def>A genus of singing birds including the true thrushes.</def><br/
+\'d8<hw>Tur"dus</hw> <pr>(?)</pr>, <pos>pr. n.</pos> <ety>[L., a thrush.]</ety> <fld>(Zool.)</fld> <def>A genus of singing birds including the true thrushes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tureen</ent><br/
@@ -39908,7 +39908,7 @@ And full of peace, now tossed and <qex>turbulent</qex>.</q> <rj><qau>Milton.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Turio</ent><br/
-||<hw>Tu"ri*o</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Turiones</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Bot.)</fld> <def>A shoot or sprout from the ground.</def>  <rj><au>Gray.</au></rj><br/
+\'d8<hw>Tu"ri*o</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Turiones</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Bot.)</fld> <def>A shoot or sprout from the ground.</def>  <rj><au>Gray.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Turiole</ent><br/
@@ -40382,7 +40382,7 @@ Some fresher beauty varying round.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Turner</ent><br/
-||<hw>Tur"ner</hw> <pr>(t<oomac/r"n<etil/r)</pr>, <pos>n.</pos> <ety>[G.]</ety> <def>A person who practices athletic or gymnastic exercises.</def><br/
+\'d8<hw>Tur"ner</hw> <pr>(t<oomac/r"n<etil/r)</pr>, <pos>n.</pos> <ety>[G.]</ety> <def>A person who practices athletic or gymnastic exercises.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Turnerite</ent><br/
@@ -40407,11 +40407,11 @@ Some fresher beauty varying round.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Turnhalle</ent><br/
-||<hw>Turn"hal`le</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., from <ets>turnen</ets> to exercise gymnastics + <ets>halle</ets> hall.]</ety> <def>A building used as a school of gymnastics.</def><br/
+\'d8<hw>Turn"hal`le</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., from <ets>turnen</ets> to exercise gymnastics + <ets>halle</ets> hall.]</ety> <def>A building used as a school of gymnastics.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Turnicimorphae</ent><br/
-||<hw>Tur`ni*ci*mor"phae</hw> <pr>(?)</pr>, <pos>pr. n. pl.</pos> <ety>[NL. See <er>Turnix</er>, and <er>-morphous</er>.]</ety> <fld>(Zool.)</fld> <def>A division of birds including <gen>Turnix</gen> and allied genera, resembling quails in appearance but differing from them anatomically.</def><br/
+\'d8<hw>Tur`ni*ci*mor"phae</hw> <pr>(?)</pr>, <pos>pr. n. pl.</pos> <ety>[NL. See <er>Turnix</er>, and <er>-morphous</er>.]</ety> <fld>(Zool.)</fld> <def>A division of birds including <gen>Turnix</gen> and allied genera, resembling quails in appearance but differing from them anatomically.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Turning</ent><br/
@@ -40579,11 +40579,11 @@ Some fresher beauty varying round.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Turnus</ent><br/
-||<hw>Tur"nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>Turnus</ets>, the king of the Rutuli, mentioned in the Aeneid.]</ety> <fld>(Zool.)</fld> <def>A common, large, handsome, American swallowtail butterfly, now regarded as one of the forms of <spn>Papilio glaucus</spn> syn. <spn>Jasoniades glaucus</spn>.  The wings are yellow, margined and barred with black, and with an orange-red spot near the posterior angle of the hind wings.  Called also <altname>tiger swallowtail</altname>. See <xex>Illust.</xex> under <er>Swallowtail</er>.</def><br/
+\'d8<hw>Tur"nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>Turnus</ets>, the king of the Rutuli, mentioned in the Aeneid.]</ety> <fld>(Zool.)</fld> <def>A common, large, handsome, American swallowtail butterfly, now regarded as one of the forms of <spn>Papilio glaucus</spn> syn. <spn>Jasoniades glaucus</spn>.  The wings are yellow, margined and barred with black, and with an orange-red spot near the posterior angle of the hind wings.  Called also <altname>tiger swallowtail</altname>. See <xex>Illust.</xex> under <er>Swallowtail</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Turnverein</ent><br/
-||<hw>Turn"ve*rein`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., from <ets>turnen</ets> to exercise + <ets>verein</ets> a union.]</ety> <def>A company or association of gymnasts and athletes.</def><br/
+\'d8<hw>Turn"ve*rein`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., from <ets>turnen</ets> to exercise + <ets>verein</ets> a union.]</ety> <def>A company or association of gymnasts and athletes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Turnwrest</ent><br/
@@ -40798,7 +40798,7 @@ Some fresher beauty varying round.</q> <rj><qau>Byron.</qau></rj><br/
 <p><ent>Tousche</ent><br/
 <ent>Tushe</ent><br/
 <ent>Tusche</ent><br/
-<mhw>{ ||<hw>Tusch"e</hw> <pr>(?)</pr>, <pos>n.</pos> Also <hw>Tushe</hw>, <hw>Tousche</hw>, etc. }</mhw><ety>[G. <ets>tusche</ets>, fr. F. <ets>toucher</ets> to touch.]</ety> <def>A lithographic drawing or painting material of the same nature as lithographic ink. It is also used as a resistant in the biting-in process.</def><br/
+<mhw>{ \'d8<hw>Tusch"e</hw> <pr>(?)</pr>, <pos>n.</pos> Also <hw>Tushe</hw>, <hw>Tousche</hw>, etc. }</mhw><ety>[G. <ets>tusche</ets>, fr. F. <ets>toucher</ets> to touch.]</ety> <def>A lithographic drawing or painting material of the same nature as lithographic ink. It is also used as a resistant in the biting-in process.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tuscor</ent><br/
@@ -40886,7 +40886,7 @@ Some fresher beauty varying round.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tussis</ent><br/
-||<hw>Tus"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Med.)</fld> <def>A cough.</def><br/
+\'d8<hw>Tus"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Med.)</fld> <def>A cough.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tussive</ent><br/
@@ -41053,7 +41053,7 @@ Some fresher beauty varying round.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tutti</ent><br/
-||<hw>Tut"ti</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[It., fr. L. <ets>totus</ets>, pl. <ets>toti</ets>, all.]</ety> <fld>(Mus.)</fld> <def>All; -- a direction for all the singers or players to perform together.</def>  <rj><au>Moore (Encyc. of Music).</au></rj><br/
+\'d8<hw>Tut"ti</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[It., fr. L. <ets>totus</ets>, pl. <ets>toti</ets>, all.]</ety> <fld>(Mus.)</fld> <def>All; -- a direction for all the singers or players to perform together.</def>  <rj><au>Moore (Encyc. of Music).</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tutti-frutti</ent><br/
@@ -41073,7 +41073,7 @@ Some fresher beauty varying round.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tuum</ent><br/
-||<hw>Tu"um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Lit., thine; that which is thine; -- used in <xex>meum and tuum</xex>. See 2d <er>Meum</er>.</def><br/
+\'d8<hw>Tu"um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Lit., thine; that which is thine; -- used in <xex>meum and tuum</xex>. See 2d <er>Meum</er>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tu-whoo</ent><br/
@@ -41098,7 +41098,7 @@ Thy <qex>tu-whoos</qex> of yesternight.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Tuyere</ent><br/
-||<hw>Tu`y<egrave/re"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.; akin to <ets>tuyau</ets> a pipe; of Teutonic origin.  Cf. <er>Tweer</er>, <er>Tewel</er>.]</ety> <def>A nozzle, mouthpiece, or fixture through which the blast is delivered to the interior of a blast furnace, or to the fire of a forge.</def> <altsp>[Corruptly written also <asp>tweer</asp>, and <asp>twier</asp>.]</altsp><br/
+\'d8<hw>Tu`y<egrave/re"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.; akin to <ets>tuyau</ets> a pipe; of Teutonic origin.  Cf. <er>Tweer</er>, <er>Tewel</er>.]</ety> <def>A nozzle, mouthpiece, or fixture through which the blast is delivered to the interior of a blast furnace, or to the fire of a forge.</def> <altsp>[Corruptly written also <asp>tweer</asp>, and <asp>twier</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Tuy<egrave/re arch</b></col>, <cd>the embrasure, in the wall of a blast furnace through which the tuy<egrave/re enters.</cd></cs><br/
@@ -42359,7 +42359,7 @@ That thou began'st to <qex>twist</qex> so fine a story?</q> <rj><qau>Shak.</qau>
 [<source>PJC</source>]</p>
 
 <p><ent>Tylarus</ent><br/
-||<hw>Ty"la*rus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tylari</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>ty`lh</grk> a cushion.]</ety> <fld>(Zool.)</fld> <def>One of the pads on the under surface of the toes of birds.</def><br/
+\'d8<hw>Ty"la*rus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tylari</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>ty`lh</grk> a cushion.]</ety> <fld>(Zool.)</fld> <def>One of the pads on the under surface of the toes of birds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 1558 pr=PI --><br/
@@ -42370,11 +42370,11 @@ That thou began'st to <qex>twist</qex> so fine a story?</q> <rj><qau>Shak.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tylopoda</ent><br/
-||<hw>Ty*lop"o*da</hw> <pr>(t<imac/*l<ocr/p"<osl/*d<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., from <grk>ty`lh</grk> a cushion + <ets>-poda</ets>.]</ety> <fld>(Zool.)</fld> <def>A tribe of ungulates comprising the camels.</def><br/
+\'d8<hw>Ty*lop"o*da</hw> <pr>(t<imac/*l<ocr/p"<osl/*d<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., from <grk>ty`lh</grk> a cushion + <ets>-poda</ets>.]</ety> <fld>(Zool.)</fld> <def>A tribe of ungulates comprising the camels.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tylosis</ent><br/
-||<hw>Ty*lo"sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tyloses</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>ty`los</grk> a lump, knot.]</ety> <fld>(Bot.)</fld> <def>An intrusion of one vegetable cell into the cavity of another, sometimes forming there an irregular mass of cells.</def>  <rj><au>Goodale.</au></rj><br/
+\'d8<hw>Ty*lo"sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tyloses</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>ty`los</grk> a lump, knot.]</ety> <fld>(Bot.)</fld> <def>An intrusion of one vegetable cell into the cavity of another, sometimes forming there an irregular mass of cells.</def>  <rj><au>Goodale.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tymbal</ent><br/
@@ -42424,7 +42424,7 @@ That thou began'st to <qex>twist</qex> so fine a story?</q> <rj><qau>Shak.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tympanites</ent><br/
-||<hw>Tym`pa*ni"tes</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>tympani`ths</grk>, fr. <grk>ty`mpanon</grk> a kettledrum.]</ety> <fld>(Med.)</fld> <def>A flatulent distention of the belly; tympany.</def><br/
+\'d8<hw>Tym`pa*ni"tes</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>tympani`ths</grk>, fr. <grk>ty`mpanon</grk> a kettledrum.]</ety> <fld>(Med.)</fld> <def>A flatulent distention of the belly; tympany.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tympanitic</ent><br/
@@ -42444,7 +42444,7 @@ That thou began'st to <qex>twist</qex> so fine a story?</q> <rj><qau>Shak.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tympano</ent><br/
-||<hw>Tym"pa*no</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tympani</plw> <pr>(#)</pr>.</plu> <ety>[It. <ets>timpano</ets>. See <er>Tympanum</er>.]</ety> <fld>(Mus.)</fld> <def>A kettledrum; -- chiefly used in the plural to denote the kettledrums of an orchestra. See <er>Kettledrum</er>.</def> <altsp>[Written also <asp>timpano</asp>.]</altsp><br/
+\'d8<hw>Tym"pa*no</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tympani</plw> <pr>(#)</pr>.</plu> <ety>[It. <ets>timpano</ets>. See <er>Tympanum</er>.]</ety> <fld>(Mus.)</fld> <def>A kettledrum; -- chiefly used in the plural to denote the kettledrums of an orchestra. See <er>Kettledrum</er>.</def> <altsp>[Written also <asp>timpano</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tympano-</ent><br/
@@ -42674,7 +42674,7 @@ Short blistered breeches, and those <qex>types</qex> of travel.</q> <rj><qau>Sha
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Typhlitis</ent><br/
-||<hw>Typh*li"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ blind, closed (as applied to the caecum) + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the caecum.</def><br/
+\'d8<hw>Typh*li"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ blind, closed (as applied to the caecum) + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the caecum.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Typhlosole</ent><br/
@@ -42727,7 +42727,7 @@ Short blistered breeches, and those <qex>types</qex> of travel.</q> <rj><qau>Sha
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Typhos</ent><br/
-||<hw>Ty"phos</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Med.)</fld> <def>Typhus.</def> <mark>[Obs.]</mark><br/
+\'d8<hw>Ty"phos</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Med.)</fld> <def>Typhus.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Typhotoxin</ent><br/
@@ -42835,7 +42835,7 @@ Short blistered breeches, and those <qex>types</qex> of travel.</q> <rj><qau>Sha
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Typothetae</ent><br/
-||<hw>Ty*poth"e*tae</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. E. <ets>type</ets> + Gr. <?/ to put, set.]</ety> <def>Printers; -- used in the name of an association of the master printers of the United States and Canada, called The United <xex>Typothetae</xex> of America.</def><br/
+\'d8<hw>Ty*poth"e*tae</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. E. <ets>type</ets> + Gr. <?/ to put, set.]</ety> <def>Printers; -- used in the name of an association of the master printers of the United States and Canada, called The United <xex>Typothetae</xex> of America.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tyran</ent><br/

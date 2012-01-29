@@ -139,7 +139,7 @@ Among the builders.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gabelle</ent><br/
-||<hw>Ga`belle"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Gabel</er>.]</ety> <def>A tax, especially on salt.</def> <mark>[France]</mark>  <rj><au>Brande & C.</au></rj><br/
+\'d8<hw>Ga`belle"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Gabel</er>.]</ety> <def>A tax, especially on salt.</def> <mark>[France]</mark>  <rj><au>Brande & C.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gabelleman</ent><br/
@@ -181,7 +181,7 @@ Among the builders.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gabionnade</ent><br/
-||<hw>Ga`bion`nade"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Gabionade</er>.</def><br/
+\'d8<hw>Ga`bion`nade"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Gabionade</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gable</ent><br/
@@ -585,11 +585,11 @@ Hath left me <qex>gaged</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gaillard</ent><br/
-||<hw>Gail`lard"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F. See <er>Galliard</er>.]</ety> <def>Gay; brisk; merry; galliard.</def>  <rj><au>Chaucer.</au></rj><br/
+\'d8<hw>Gail`lard"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F. See <er>Galliard</er>.]</ety> <def>Gay; brisk; merry; galliard.</def>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gailliarde</ent><br/
-||<hw>Gail*liarde"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Galliard</er> a dance.]</ety> <def>A lively French and Italian dance.</def><br/
+\'d8<hw>Gail*liarde"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Galliard</er> a dance.]</ety> <def>A lively French and Italian dance.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gaily</ent><br/
@@ -903,7 +903,7 @@ Be drained.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Galbe</ent><br/
-||<hw>Galbe</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.; OF. <ets>garbe</ets>, fr. It. <ets>garbo</ets> grace, gracefulness. See <er>Garb</er> dress.]</ety> <fld>(Art)</fld> <def>The general outward form of any solid object, as of a column or a vase.</def><br/
+\'d8<hw>Galbe</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.; OF. <ets>garbe</ets>, fr. It. <ets>garbo</ets> grace, gracefulness. See <er>Garb</er> dress.]</ety> <fld>(Art)</fld> <def>The general outward form of any solid object, as of a column or a vase.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Galbulidae</ent><br/
@@ -961,7 +961,7 @@ From their soft wings.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Galea</ent><br/
-||<hw>Ga"le*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a helmet.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>The upper lip or helmet-shaped part of a labiate flower.</def><br/
+\'d8<hw>Ga"le*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a helmet.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>The upper lip or helmet-shaped part of a labiate flower.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Surg.)</fld> <def>A kind of bandage for the head.</def><br/
@@ -988,7 +988,7 @@ From their soft wings.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Galei</ent><br/
-||<hw>Ga"le*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. <ets>Galeus</ets>, name of one genus, fr. Gr. <?/ a kind of shark.]</ety> <fld>(Zool.)</fld> <def>That division of elasmobranch fishes which includes the sharks.</def><br/
+\'d8<hw>Ga"le*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. <ets>Galeus</ets>, name of one genus, fr. Gr. <?/ a kind of shark.]</ety> <fld>(Zool.)</fld> <def>That division of elasmobranch fishes which includes the sharks.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Galena</ent><br/
@@ -1028,7 +1028,7 @@ From their soft wings.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Galeopithecus</ent><br/
-||<hw>Ga`le*o*pi*the"cus</hw> <pr>(g<amac/`l<esl/*<osl/*p<icr/*th<emac/"k<ucr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>gale`h</grk> a weasel + <grk>pi`qhkos</grk> an ape.]</ety> <fld>(Zool.)</fld> <def>A genus of flying Insectivora, formerly called <altname>flying lemurs</altname>. See <er>Colugo</er>.</def></p>
+\'d8<hw>Ga`le*o*pi*the"cus</hw> <pr>(g<amac/`l<esl/*<osl/*p<icr/*th<emac/"k<ucr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>gale`h</grk> a weasel + <grk>pi`qhkos</grk> an ape.]</ety> <fld>(Zool.)</fld> <def>A genus of flying Insectivora, formerly called <altname>flying lemurs</altname>. See <er>Colugo</er>.</def></p>
 
 <p><ent>galere</ent><br/
 <ent>galere</ent><br/
@@ -1419,7 +1419,7 @@ They most must laugh.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gallimatia</ent><br/
-||<hw>Gal`li*ma"ti*a</hw> <pr>(? <or/ ?)</pr>, <pos>n.</pos> <def>Senseless talk. <mark>[Obs. or R.]</mark> See <er>Galimatias</er>.</def><br/
+\'d8<hw>Gal`li*ma"ti*a</hw> <pr>(? <or/ ?)</pr>, <pos>n.</pos> <def>Senseless talk. <mark>[Obs. or R.]</mark> See <er>Galimatias</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gallimaufry</ent><br/
@@ -1440,7 +1440,7 @@ They most must laugh.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gallinaceae</ent><br/
-||<hw>Gal"li*nace*ae</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Gallinaceous</er>.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Gallinae</er>.</def><br/
+\'d8<hw>Gal"li*nace*ae</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Gallinaceous</er>.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Gallinae</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gallinacean</ent><br/
@@ -1452,7 +1452,7 @@ They most must laugh.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gallinae</ent><br/
-||<hw>Gal*li"nae</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it></plu> <ety>[NL., fr. L. <ets>gallina</ets> a hen, <ets>gallus</ets> a cock.]</ety> <fld>(Zool.)</fld> <def>An order of birds, including the common domestic fowls, pheasants, grouse, quails, and allied forms; -- sometimes called <altname><ord>Rasores</ord></altname>.</def><br/
+\'d8<hw>Gal*li"nae</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it></plu> <ety>[NL., fr. L. <ets>gallina</ets> a hen, <ets>gallus</ets> a cock.]</ety> <fld>(Zool.)</fld> <def>An order of birds, including the common domestic fowls, pheasants, grouse, quails, and allied forms; -- sometimes called <altname><ord>Rasores</ord></altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gallinago</ent><br/
@@ -1839,7 +1839,7 @@ They most must laugh.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Galvanotonus</ent><br/
-||<hw>Gal`va*not"o*nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. E. <ets>galvanic</ets> + Gr. <?/ to tone.]</ety> <fld>(Physiol.)</fld> <def>Same as <er>Electrotonus</er>.</def><br/
+\'d8<hw>Gal`va*not"o*nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. E. <ets>galvanic</ets> + Gr. <?/ to tone.]</ety> <fld>(Physiol.)</fld> <def>Same as <er>Electrotonus</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Galvanotropism</ent><br/
@@ -1881,7 +1881,7 @@ They most must laugh.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gamba</ent><br/
-||<hw>Gam"ba</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A viola da gamba.</def><br/
+\'d8<hw>Gam"ba</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A viola da gamba.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gambadoes</ent><br/
@@ -2193,7 +2193,7 @@ At alle times, though him <qex>gamed</qex> or smarte.</q> <rj><qau>Chaucer.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gamin</ent><br/
-||<hw>Gam"in</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A neglected and untrained city boy; a young street Arab.</def><br/
+\'d8<hw>Gam"in</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A neglected and untrained city boy; a young street Arab.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>In Japan, the <qex>gamins</qex> run after you, and say, 'Look at the Chinaman.'</q> <rj><qau>L. Oliphant.</qau></rj><br/
@@ -2265,7 +2265,7 @@ At alle times, though him <qex>gamed</qex> or smarte.</q> <rj><qau>Chaucer.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gamogenesis</ent><br/
-||<hw>Gam`o*gen"e*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ marriage + E. <ets>genesis</ets>.]</ety> <fld>(Biol.)</fld> <def>The production of offspring by the union of parents of different sexes; sexual reproduction; -- the opposite of <xex>agamogenesis</xex>.</def><br/
+\'d8<hw>Gam`o*gen"e*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ marriage + E. <ets>genesis</ets>.]</ety> <fld>(Biol.)</fld> <def>The production of offspring by the union of parents of different sexes; sexual reproduction; -- the opposite of <xex>agamogenesis</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gamogenetic</ent><br/
@@ -2527,7 +2527,7 @@ At alle times, though him <qex>gamed</qex> or smarte.</q> <rj><qau>Chaucer.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ganocephala</ent><br/
-||<hw>Gan`o*ceph"a*la</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <?/ brightness + <?/ head.]</ety> <fld>(Paleon.)</fld> <def>A group of fossil amphibians allied to the labyrinthodonts, having the head defended by bony, sculptured plates, as in some ganoid fishes.</def><br/
+\'d8<hw>Gan`o*ceph"a*la</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <?/ brightness + <?/ head.]</ety> <fld>(Paleon.)</fld> <def>A group of fossil amphibians allied to the labyrinthodonts, having the head defended by bony, sculptured plates, as in some ganoid fishes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ganocephalous</ent><br/
@@ -2546,7 +2546,7 @@ At alle times, though him <qex>gamed</qex> or smarte.</q> <rj><qau>Chaucer.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ganoidei</ent><br/
-||<hw>Ga*noi"de*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Ganoid</er>.]</ety> <fld>(Zool.)</fld> <def>One of the subclasses of fishes. They have an arterial cone and bulb, spiral intestinal valve, and the optic nerves united by a chiasma. Many of the species are covered with bony plates, or with ganoid scales; others have cycloid scales.</def><br/
+\'d8<hw>Ga*noi"de*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Ganoid</er>.]</ety> <fld>(Zool.)</fld> <def>One of the subclasses of fishes. They have an arterial cone and bulb, spiral intestinal valve, and the optic nerves united by a chiasma. Many of the species are covered with bony plates, or with ganoid scales; others have cycloid scales.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ They were numerous, and some of them of large size, in early geological periods; but they are represented by comparatively few living species, most of which inhabit fresh waters, as the bowfin, gar pike, bichir, Ceratodus, paddle fish, and sturgeon.</note><br/
@@ -2850,11 +2850,11 @@ And asks if it be time to rise.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Garcinia</ent><br/
-||<hw>Gar*cin"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Bot.)</fld> <def>A genus of plants, including the mangosteen tree (<spn>Garcinia Mangostana</spn>), found in the islands of the Indian Archipelago; -- so called in honor of Dr. <etsep>Garcin</etsep>.</def><br/
+\'d8<hw>Gar*cin"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Bot.)</fld> <def>A genus of plants, including the mangosteen tree (<spn>Garcinia Mangostana</spn>), found in the islands of the Indian Archipelago; -- so called in honor of Dr. <etsep>Garcin</etsep>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Garcon</ent><br/
-||<hw>Gar`<cced/on"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>A boy; a young unmarried man.</def><br/
+\'d8<hw>Gar`<cced/on"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>A boy; a young unmarried man.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn> <def>A serving boy or man; a waiter; -- used in direct address; <as>as, <ex>garcon</ex>, please bring a glass of water</as> -- in Eng. chiefly applied to French waiters.</def><br/
@@ -2873,7 +2873,7 @@ And asks if it be time to rise.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Garde civique</ent><br/
-||<hw>Garde` ci`vique"</hw> <pr>(?)</pr>. <ety>[F.]</ety> <def>See <er>Army organization</er>, above.</def><br/
+\'d8<hw>Garde` ci`vique"</hw> <pr>(?)</pr>. <ety>[F.]</ety> <def>See <er>Army organization</er>, above.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Garden</ent><br/
@@ -2906,7 +2906,7 @@ The pleasant <qex>garden</qex> of great Italy.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gardenia</ent><br/
-||<hw>Garde"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Bot.)</fld> <def>A genus of plants, some species of which produce beautiful and fragrant flowers; Cape jasmine; -- so called in honor of Dr. Alexander <xex>Garden</xex>.</def><br/
+\'d8<hw>Garde"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Bot.)</fld> <def>A genus of plants, some species of which produce beautiful and fragrant flowers; Cape jasmine; -- so called in honor of Dr. Alexander <xex>Garden</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gardening</ent><br/
@@ -3002,7 +3002,7 @@ The pleasant <qex>garden</qex> of great Italy.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gargoulette</ent><br/
-||<hw>Gar`gou*lette"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A water cooler or jug with a handle and spout; a gurglet.</def>  <rj><au>Mollett.</au></rj><br/
+\'d8<hw>Gar`gou*lette"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A water cooler or jug with a handle and spout; a gurglet.</def>  <rj><au>Mollett.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gargoyle</ent><br/
@@ -3218,7 +3218,7 @@ For <qex>garnish</qex> this, and that for use.</q> <rj><qau>Prior.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Garookuh</ent><br/
-||<hw>Ga*roo"kuh</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A small fishing vessel met with in the Persian Gulf.</def><br/
+\'d8<hw>Ga*roo"kuh</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A small fishing vessel met with in the Persian Gulf.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Garous</ent><br/
@@ -3379,7 +3379,7 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Garum</ent><br/
-||<hw>Ga"rum</hw> <pr>(g<amac/"r<ucr/m)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>ga`ros</grk>.]</ety> <def>A sauce made of small fish. It was prized by the ancients.</def><br/
+\'d8<hw>Ga"rum</hw> <pr>(g<amac/"r<ucr/m)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>ga`ros</grk>.]</ety> <def>A sauce made of small fish. It was prized by the ancients.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Garvie</ent><br/
@@ -3657,7 +3657,7 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gasteromycetes</ent><br/
-||<hw>Gas`te*ro*my*ce"tes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <?/ stomach + <?/ a mushroom.]</ety> <fld>(Bot.)</fld> <def>An order of fungi, in which the spores are borne inside a sac called the peridium, as in the puffballs.</def><br/
+\'d8<hw>Gas`te*ro*my*ce"tes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <?/ stomach + <?/ a mushroom.]</ety> <fld>(Bot.)</fld> <def>An order of fungi, in which the spores are borne inside a sac called the peridium, as in the puffballs.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gasterophilus</ent><br/
@@ -3670,7 +3670,7 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gasteropoda</ent><br/
-||<hw>Gas`te*rop`o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <fld>(Zool.)</fld> <def>Same as <er>Gastropoda</er>.</def><br/
+\'d8<hw>Gas`te*rop`o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <fld>(Zool.)</fld> <def>Same as <er>Gastropoda</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gasteropodous</ent><br/
@@ -3690,15 +3690,15 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastornis</ent><br/
-||<hw>Gas*tor"nis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from <ets>Gaston</ets> M. Plante, the discover + Gr. <?/ bird.]</ety> <fld>(Paleon.)</fld> <def>A genus of large eocene birds from the Paris basin.</def><br/
+\'d8<hw>Gas*tor"nis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from <ets>Gaston</ets> M. Plante, the discover + Gr. <?/ bird.]</ety> <fld>(Paleon.)</fld> <def>A genus of large eocene birds from the Paris basin.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastraea</ent><br/
-||<hw>Gas*tr<ae/"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/, <?/, the stomach.]</ety> <fld>(Biol.)</fld> <def>A primeval larval form; a double-walled sac from which, according to the hypothesis of Haeckel, man and all other animals, that in the first stages of their individual evolution pass through a two-layered structural stage, or gastrula form, must have descended.  This idea constitutes the <xex>Gastr<ae/a theory</xex> of Haeckel. See <er>Gastrula</er>.</def><br/
+\'d8<hw>Gas*tr<ae/"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/, <?/, the stomach.]</ety> <fld>(Biol.)</fld> <def>A primeval larval form; a double-walled sac from which, according to the hypothesis of Haeckel, man and all other animals, that in the first stages of their individual evolution pass through a two-layered structural stage, or gastrula form, must have descended.  This idea constitutes the <xex>Gastr<ae/a theory</xex> of Haeckel. See <er>Gastrula</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastralgia</ent><br/
-||<hw>Gas*tral"gi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, <?/, stomach + <?/ pain.]</ety> <fld>(Med.)</fld> <def>Pain in the stomach or epigastrium, as in gastric disorders.</def><br/
+\'d8<hw>Gas*tral"gi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, <?/, stomach + <?/ pain.]</ety> <fld>(Med.)</fld> <def>Pain in the stomach or epigastrium, as in gastric disorders.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastric</ent><br/
@@ -3721,7 +3721,7 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastritis</ent><br/
-||<hw>Gas*tri"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from. Gr. <?/, <?/, stomach + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the stomach, esp. of its mucuos membrane.</def><br/
+\'d8<hw>Gas*tri"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from. Gr. <?/, <?/, stomach + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the stomach, esp. of its mucuos membrane.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastro-</ent><br/
@@ -3757,7 +3757,7 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastroenteritis</ent><br/
-||<hw>Gas`tro*en`te*ri"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Gastroenrteric</er>, and <er>-itis</er>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the lining membrane of the stomach and the intestines.</def><br/
+\'d8<hw>Gas`tro*en`te*ri"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Gastroenrteric</er>, and <er>-itis</er>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the lining membrane of the stomach and the intestines.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastroepiploic</ent><br/
@@ -3785,7 +3785,7 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastromalacia</ent><br/
-||<hw>Gas`tro*ma*la"ci*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, <?/, stomach + <?/ softness, fr. <?/ soft.]</ety> <fld>(Med.)</fld> <def>A softening of the coats of the stomach; -- usually a post-morten change.</def><br/
+\'d8<hw>Gas`tro*ma*la"ci*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, <?/, stomach + <?/ softness, fr. <?/ soft.]</ety> <fld>(Med.)</fld> <def>A softening of the coats of the stomach; -- usually a post-morten change.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastromancy</ent><br/
@@ -3793,7 +3793,7 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastromyces</ent><br/
-||<hw>Gas`tro*my"ces</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, <?/, stomach + <?/, <?/, a fungus.]</ety> <fld>(Biol.)</fld> <def>The fungoid growths sometimes found in the stomach; such as Torula, etc.</def><br/
+\'d8<hw>Gas`tro*my"ces</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, <?/, stomach + <?/, <?/, a fungus.]</ety> <fld>(Biol.)</fld> <def>The fungoid growths sometimes found in the stomach; such as Torula, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastromyth</ent><br/
@@ -3829,7 +3829,7 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastropoda</ent><br/
-||<hw>Gas*trop"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos>, <ety>[NL., fr. Gr. <?/, <?/, stomach + <ets>-poda</ets>.]</ety> <fld>(Zool.)</fld> <def>One of the classes of Mollusca, of great extent. It includes most of the marine spiral shells, and the land and fresh-water snails. They generally creep by means of a flat, muscular disk, or foot, on the ventral side of the body. The head usually bears one or two pairs of tentacles. See <er>Mollusca</er>.</def> <altsp>[Written also <asp>Gasteropoda</asp>.]</altsp><br/
+\'d8<hw>Gas*trop"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos>, <ety>[NL., fr. Gr. <?/, <?/, stomach + <ets>-poda</ets>.]</ety> <fld>(Zool.)</fld> <def>One of the classes of Mollusca, of great extent. It includes most of the marine spiral shells, and the land and fresh-water snails. They generally creep by means of a flat, muscular disk, or foot, on the ventral side of the body. The head usually bears one or two pairs of tentacles. See <er>Mollusca</er>.</def> <altsp>[Written also <asp>Gasteropoda</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The Gastropoda are divided into three subclasses; viz.: (<stype>a</stype>) The Streptoneura or Dioecia, including the Pectinibranchiata, Rhipidoglossa, Docoglossa, and Heteropoda. (<stype>b</stype>) The Euthyneura, including the Pulmonata and Opisthobranchia. (<stype>c</stype>) The Amphineura, including the Polyplacophora and Aplacophora.</note><br/
@@ -3872,11 +3872,11 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastrotricha</ent><br/
-||<hw>Gas*trot"ri*cha</hw> <pr>(?)</pr>, <pos>n. pl.</pos>, <ety>[NL., fr. Gr. <?/ belly + <?/, <?/, hair.]</ety> <fld>(Zool.)</fld> <def>A group of small wormlike animals, having cilia on the ventral side. The group is regarded as an ancestral or synthetic one, related to rotifers and annelids.</def><br/
+\'d8<hw>Gas*trot"ri*cha</hw> <pr>(?)</pr>, <pos>n. pl.</pos>, <ety>[NL., fr. Gr. <?/ belly + <?/, <?/, hair.]</ety> <fld>(Zool.)</fld> <def>A group of small wormlike animals, having cilia on the ventral side. The group is regarded as an ancestral or synthetic one, related to rotifers and annelids.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastrotrocha</ent><br/
-||<hw>Gas*trot"ro*cha</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, <?/, stomach + <?/ a wheel.]</ety> <fld>(Zool.)</fld> <def>A form of annelid larva having cilia on the ventral side.</def><br/
+\'d8<hw>Gas*trot"ro*cha</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, <?/, stomach + <?/ a wheel.]</ety> <fld>(Zool.)</fld> <def>A form of annelid larva having cilia on the ventral side.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastrovascular</ent><br/
@@ -3884,7 +3884,7 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastrula</ent><br/
-||<hw>Gas"tru*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it></plu> <plw>Gastrul<ae/</plw> <pr>(#)</pr> <ety>[NL., dim. fr. Gr. <?/ the stomach.]</ety> <fld>(Biol.)</fld> <def>An embryonic form having its origin in the invagination or pushing in of the wall of the planula or blastula (the <xex>blastosphere</xex>) on one side, thus giving rise to a double-walled sac, with one opening or mouth (the <xex>blastopore</xex>) which leads into the cavity (the <xex>archenteron</xex>) lined by the inner wall (the <xex>hypoblast</xex>). See <xex>Illust.</xex> under <er>Invagination</er>. In a more general sense, an ideal stage in embryonic development. See <er>Gastr<ae/a</er>.</def> -- <def2><pos>a.</pos> <def>Of or pertaining to a gastrula.</def></def2><br/
+\'d8<hw>Gas"tru*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it></plu> <plw>Gastrul<ae/</plw> <pr>(#)</pr> <ety>[NL., dim. fr. Gr. <?/ the stomach.]</ety> <fld>(Biol.)</fld> <def>An embryonic form having its origin in the invagination or pushing in of the wall of the planula or blastula (the <xex>blastosphere</xex>) on one side, thus giving rise to a double-walled sac, with one opening or mouth (the <xex>blastopore</xex>) which leads into the cavity (the <xex>archenteron</xex>) lined by the inner wall (the <xex>hypoblast</xex>). See <xex>Illust.</xex> under <er>Invagination</er>. In a more general sense, an ideal stage in embryonic development. See <er>Gastr<ae/a</er>.</def> -- <def2><pos>a.</pos> <def>Of or pertaining to a gastrula.</def></def2><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 615 --></p>
@@ -3894,7 +3894,7 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastrura</ent><br/
-||<hw>Gas*tru"ra</hw> <pr>(g<acr/s*tr<udd/"r<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>gasth`r</grk> belly + <grk>o'yra`</grk> tail.]</ety> <fld>(Zool.)</fld> <def>See <er>Stomatopoda</er>.</def><br/
+\'d8<hw>Gas*tru"ra</hw> <pr>(g<acr/s*tr<udd/"r<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>gasth`r</grk> belly + <grk>o'yra`</grk> tail.]</ety> <fld>(Zool.)</fld> <def>See <er>Stomatopoda</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastrurous</ent><br/
@@ -3906,7 +3906,7 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gatch</ent><br/
-||<hw>Gatch</hw> <pr>(g<acr/ch)</pr>, <pos>n.</pos> <ety>[Per. <ets>gach</ets> mortar.]</ety> <def>Plaster as used in Persian architecture and decorative art.</def></p>
+\'d8<hw>Gatch</hw> <pr>(g<acr/ch)</pr>, <pos>n.</pos> <ety>[Per. <ets>gach</ets> mortar.]</ety> <def>Plaster as used in Persian architecture and decorative art.</def></p>
 
 <p><cs><col><b>Gatch decoration</b></col>, <cd>decoration in plaster often producing design of great beauty.</cd> -- <col><b>Gatch work</b></col>, <cd>work in which gatch is employed; also, articles of gatch ornamentation collectively.</cd></cs><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -4157,7 +4157,7 @@ Rise in the heart, and <qex>gather</qex> to the eyes.</q> <rj><qau>Tennyson.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gauche</ent><br/
-||<hw>Gauche</hw> <pr>(g<omac/sh)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>Left handed;</def> <specif>hence,</specif> <def>awkward; clumsy.</def><br/
+\'d8<hw>Gauche</hw> <pr>(g<omac/sh)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>Left handed;</def> <specif>hence,</specif> <def>awkward; clumsy.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Geom.)</fld> <def>Winding; twisted; warped; -- applied to curves and surfaces.</def><br/
@@ -4176,11 +4176,11 @@ Rise in the heart, and <qex>gather</qex> to the eyes.</q> <rj><qau>Tennyson.</qa
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Gaucherie</ent><br/
-||<hw>Gauche`rie"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>An awkward action; clumsiness; boorishness.</def><br/
+\'d8<hw>Gauche`rie"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>An awkward action; clumsiness; boorishness.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gaucho</ent><br/
-||<hw>Gau"cho</hw> <pr>(gou"ch<osl/)</pr>, <pos>n.</pos>, <plu><it>pl.</it> <plw>Gauchos</plw> <pr>(gou"ch<osl/z)</pr></plu> <ety>[Sp.]</ety> <def>One of the native inhabitants of the South American pampas, of Spanish-American descent. They live mostly by rearing cattle.  Hence, a South American cowboy, especially on the pampas.</def><br/
+\'d8<hw>Gau"cho</hw> <pr>(gou"ch<osl/)</pr>, <pos>n.</pos>, <plu><it>pl.</it> <plw>Gauchos</plw> <pr>(gou"ch<osl/z)</pr></plu> <ety>[Sp.]</ety> <def>One of the native inhabitants of the South American pampas, of Spanish-American descent. They live mostly by rearing cattle.  Hence, a South American cowboy, especially on the pampas.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A member of an Indian population, somewhat affected by Spanish blood, in the archipelagoes off the Chilean coast.</def><br/
@@ -4206,7 +4206,7 @@ Rise in the heart, and <qex>gather</qex> to the eyes.</q> <rj><qau>Tennyson.</qa
 
 <p><ent>Gaudeamus</ent><br/
 <ent>Gaudeamus Igitur</ent><br/
-||<mhw><hw>Gaudeamus</hw>, <hw>Gaudeamus igitur</hw></mhw> <pr>(gou`d<amac/*<adot/"m<oocr/s`)</pr>, <pos>pr. n.</pos> <ety>[L.]</ety>  <def>The name of a Latin song originating in the thirteenth century, celebrating the joy of youth as students in a university, and suggesting that they take advantage of youth before they succomb to inevitable old age and death.  It is still sung by students, often with verses altered to include themes pertinent to particular schools.</def><br/
+\'d8<mhw><hw>Gaudeamus</hw>, <hw>Gaudeamus igitur</hw></mhw> <pr>(gou`d<amac/*<adot/"m<oocr/s`)</pr>, <pos>pr. n.</pos> <ety>[L.]</ety>  <def>The name of a Latin song originating in the thirteenth century, celebrating the joy of youth as students in a university, and suggesting that they take advantage of youth before they succomb to inevitable old age and death.  It is still sung by students, often with verses altered to include themes pertinent to particular schools.</def><br/
 <br/
 <song><title>Gaudeamus Igitur</title><br/
 <br/<text>
@@ -4321,7 +4321,7 @@ But not expressed in fancy; rich, not <qex>gaudy</qex>.</q> <rj><qau>Shak.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gauffre</ent><br/
-||<hw>Gauf"fre</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Gopher</er>.]</ety> <fld>(Zool.)</fld> <def>A gopher, esp. the pocket gopher.</def><br/
+\'d8<hw>Gauf"fre</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Gopher</er>.]</ety> <fld>(Zool.)</fld> <def>A gopher, esp. the pocket gopher.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gauge</ent><br/
@@ -4431,7 +4431,7 @@ By what we do to-night.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gaultheria</ent><br/
-||<hw>Gaul*the"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Bot.)</fld> <def>A genus of ericaceous shrubs with evergreen foliage, and, often, edible berries. It includes the American winter-green (<spn>Gaultheria procumbens</spn>), and the larger-fruited <stype>salal</stype> of Northwestern America (<spn>Gaultheria Shallon</spn>).</def><br/
+\'d8<hw>Gaul*the"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Bot.)</fld> <def>A genus of ericaceous shrubs with evergreen foliage, and, often, edible berries. It includes the American winter-green (<spn>Gaultheria procumbens</spn>), and the larger-fruited <stype>salal</stype> of Northwestern America (<spn>Gaultheria Shallon</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>gaumless</ent><br/
@@ -4482,7 +4482,7 @@ By what we do to-night.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gaur</ent><br/
-||<hw>Gaur</hw> <pr>(g<add/r <it>or</it> gour)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>An East Indian species of wild cattle (<spn>Bibos gauris</spn>), of large size and an untamable disposition.</def> <altsp>[Spelt also <asp>gour</asp>.]</altsp><br/
+\'d8<hw>Gaur</hw> <pr>(g<add/r <it>or</it> gour)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>An East Indian species of wild cattle (<spn>Bibos gauris</spn>), of large size and an untamable disposition.</def> <altsp>[Spelt also <asp>gour</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gaure</ent><br/
@@ -4497,7 +4497,7 @@ By what we do to-night.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Gaussage</ent><br/
-||<hw>Gauss"age</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Elec.)</fld> <def>The intensity of a magnetic field expressed in C.G.S. units, or gausses.</def><br/
+\'d8<hw>Gauss"age</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Elec.)</fld> <def>The intensity of a magnetic field expressed in C.G.S. units, or gausses.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Gaussian</ent><br/
@@ -4534,7 +4534,7 @@ By what we do to-night.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gavage</ent><br/
-||<hw>Ga`vage"</hw> <pr>(g<adot/`v<adot/zh")</pr>, <pos>n.</pos> <ety>[F., fr. <ets>gaver</ets> to gorge.]</ety> <def>Forced feeding (as of poultry or infants) by means of a tube passed through the mouth down to the stomach.</def><br/
+\'d8<hw>Ga`vage"</hw> <pr>(g<adot/`v<adot/zh")</pr>, <pos>n.</pos> <ety>[F., fr. <ets>gaver</ets> to gorge.]</ety> <def>Forced feeding (as of poultry or infants) by means of a tube passed through the mouth down to the stomach.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Gave</ent><br/
@@ -4594,7 +4594,7 @@ By what we do to-night.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Gaviae</ent><br/
-||<hw>Ga"vi<ae/</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>gavia</ets> a sea mew.]</ety> <fld>(Zool.)</fld> <def>The division of birds which includes the gulls and terns.</def><br/
+\'d8<hw>Ga"vi<ae/</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>gavia</ets> a sea mew.]</ety> <fld>(Zool.)</fld> <def>The division of birds which includes the gulls and terns.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gavial</ent><br/
@@ -4679,7 +4679,7 @@ In gems and wanton dress!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gaydiang</ent><br/
-||<hw>Gay"di*ang</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Naut.)</fld> <def>A vessel of Anam, with two or three masts, lofty triangular sails, and in construction somewhat resembling a Chinese junk.</def><br/
+\'d8<hw>Gay"di*ang</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Naut.)</fld> <def>A vessel of Anam, with two or three masts, lofty triangular sails, and in construction somewhat resembling a Chinese junk.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gayety</ent><br/
@@ -5114,7 +5114,7 @@ And black <qex>Gehenna</qex> called, the type of Hell.</q> <rj><qau>Milton.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gelada</ent><br/
-||<hw>Gel"a*da</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A baboon (<spn>Gelada Ruppelli</spn>) of Abyssinia, remarkable for the length of the hair on the neck and shoulders of the adult male.</def><br/
+\'d8<hw>Gel"a*da</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A baboon (<spn>Gelada Ruppelli</spn>) of Abyssinia, remarkable for the length of the hair on the neck and shoulders of the adult male.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gelastic</ent><br/
@@ -5292,7 +5292,7 @@ And black <qex>Gehenna</qex> called, the type of Hell.</q> <rj><qau>Milton.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gelsemium</ent><br/
-||<hw>Gel*se"mium</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. It. <ets>gelsomino</ets> jasmine.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A genus of climbing plants. The yellow (false) jasmine (<spn>Gelsemium sempervirens</spn>) is a native of the Southern United States. It has showy and deliciously fragrant flowers.</def><br/
+\'d8<hw>Gel*se"mium</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. It. <ets>gelsomino</ets> jasmine.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A genus of climbing plants. The yellow (false) jasmine (<spn>Gelsemium sempervirens</spn>) is a native of the Southern United States. It has showy and deliciously fragrant flowers.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Med.)</fld> <def>The root of the yellow jasmine, used in malarial fevers, etc.</def><br/
@@ -5396,7 +5396,7 @@ A swelling knot is raised called a <qex>gem</qex>.</q> <rj><qau>Denham.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gemini</ent><br/
-||<hw>Gem"i*ni</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., twins, pl. of <ets>geminus</ets>; cf. Skr. <ets>j<?/mi</ets> related as brother or sister.]</ety> <fld>(Astron.)</fld> <def>A constellation of the zodiac, containing the two bright stars <xex>Castor</xex> and <xex>Pollux</xex>; also, the third sign of the zodiac, which the sun enters about May 20th.</def><br/
+\'d8<hw>Gem"i*ni</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., twins, pl. of <ets>geminus</ets>; cf. Skr. <ets>j<?/mi</ets> related as brother or sister.]</ety> <fld>(Astron.)</fld> <def>A constellation of the zodiac, containing the two bright stars <xex>Castor</xex> and <xex>Pollux</xex>; also, the third sign of the zodiac, which the sun enters about May 20th.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Geminiflorous</ent><br/
@@ -5412,11 +5412,11 @@ A swelling knot is raised called a <qex>gem</qex>.</q> <rj><qau>Denham.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gemitores</ent><br/
-||<hw>Gem`i*to"res</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>gemere</ets>, <ets>gemitum</ets>, to sign, moan.]</ety> <fld>(Zool.)</fld> <def>A division of birds including the true pigeons.</def><br/
+\'d8<hw>Gem`i*to"res</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>gemere</ets>, <ets>gemitum</ets>, to sign, moan.]</ety> <fld>(Zool.)</fld> <def>A division of birds including the true pigeons.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gemma</ent><br/
-||<hw>Gem"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gemm<ae/</plw> <pr>(#)</pr>.</plu> <ety>[L., a bud.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A leaf bud, as distinguished from a flower bud.</def><br/
+\'d8<hw>Gem"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gemm<ae/</plw> <pr>(#)</pr>.</plu> <ety>[L., a bud.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A leaf bud, as distinguished from a flower bud.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Biol.)</fld> <def>A bud spore; one of the small spores or buds in the reproduction of certain Protozoa, which separate one at a time from the parent cell.</def><br/
@@ -5475,7 +5475,7 @@ A swelling knot is raised called a <qex>gem</qex>.</q> <rj><qau>Denham.</qau></r
 
 <p><ent>Gemmipares</ent><br/
 <ent>Gemmipara</ent><br/
-<mhw>{ ||<hw>Gem*mip"a*ra</hw> <pr>(?)</pr> ||<hw>Gem*mip"a*res</hw> <pr>(?)</pr> }</mhw> <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>gemma</ets> bud + <ets>parere</ets> to produce.]</ety> <fld>(Zool.)</fld> <def>Animals which increase by budding, as hydroids.</def><br/
+<mhw>{ \'d8<hw>Gem*mip"a*ra</hw> <pr>(?)</pr> \'d8<hw>Gem*mip"a*res</hw> <pr>(?)</pr> }</mhw> <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>gemma</ets> bud + <ets>parere</ets> to produce.]</ety> <fld>(Zool.)</fld> <def>Animals which increase by budding, as hydroids.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gemmiparity</ent><br/
@@ -5546,15 +5546,15 @@ A swelling knot is raised called a <qex>gem</qex>.</q> <rj><qau>Denham.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gena</ent><br/
-||<hw>Ge"na</hw> <pr>(?)</pr>, <ety>[L., the cheek.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>The cheek; the feathered side of the under mandible of a bird.</def> <sd>(b)</sd> <def>The part of the head to which the jaws of an insect are attached.</def><br/
+\'d8<hw>Ge"na</hw> <pr>(?)</pr>, <ety>[L., the cheek.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>The cheek; the feathered side of the under mandible of a bird.</def> <sd>(b)</sd> <def>The part of the head to which the jaws of an insect are attached.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Genappe</ent><br/
-||<hw>Ge*nappe"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <ets>Genappe</ets>, in Belgium.]</ety> <def>A worsted yarn or cord of peculiar smoothness, used in the manufacture of braid, fringe, etc.</def> <au>Simmonds.</au><br/
+\'d8<hw>Ge*nappe"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <ets>Genappe</ets>, in Belgium.]</ety> <def>A worsted yarn or cord of peculiar smoothness, used in the manufacture of braid, fringe, etc.</def> <au>Simmonds.</au><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gendarme</ent><br/
-||<hw>Gen`darme"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gendarmes</plw> <pr>(#)</pr>, or <plw>Gens d'armes</plw>.</plu> <ety>[F.]</ety> <sn>1.</sn> <fld>(Mil.)</fld> <def>One of a body of heavy cavalry.</def> <mark>[Obs.]</mark> <mark>[France]</mark><br/
+\'d8<hw>Gen`darme"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gendarmes</plw> <pr>(#)</pr>, or <plw>Gens d'armes</plw>.</plu> <ety>[F.]</ety> <sn>1.</sn> <fld>(Mil.)</fld> <def>One of a body of heavy cavalry.</def> <mark>[Obs.]</mark> <mark>[France]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>An armed policeman in France.</def>  <rj><au>Thackeray.</au></rj><br/
@@ -5718,7 +5718,7 @@ Argue your wisdom and your love to Richard.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Generalia</ent><br/
-||<hw>Gen`e*ra"li*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Neut. pl., fr. L. <ets>generalis</ets>.]</ety> <def>Generalities; general terms.</def>  <rj><au>J. S. Mill.</au></rj><br/
+\'d8<hw>Gen`e*ra"li*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Neut. pl., fr. L. <ets>generalis</ets>.]</ety> <def>Generalities; general terms.</def>  <rj><au>J. S. Mill.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>generalise</ent><br/
@@ -6232,7 +6232,7 @@ Argue your wisdom and your love to Richard.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>genie</ent><br/
-<mhw><hw>ge"nie</hw>, ||<hw>g<eacute/`nie</hw></mhw> <pr>(j<emac/"n<emac/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>Same as <er>Genius</er>{1}.</def><br/
+<mhw><hw>ge"nie</hw>, \'d8<hw>g<eacute/`nie</hw></mhw> <pr>(j<emac/"n<emac/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>Same as <er>Genius</er>{1}.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Islamic mythology)</fld>  <def>Same as <er>jinnee</er>.</def><br/
@@ -6242,7 +6242,7 @@ Argue your wisdom and your love to Richard.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Genio</ent><br/
-||<hw>Ge"ni*o</hw> <pr>(j<emac/"n<icr/*<osl/)</pr>, <pos>n.</pos> <ety>[It. See <er>Genius</er>.]</ety> <def>A man of a particular turn of mind.</def> <mark>[R.]</mark>  <rj><au>Tatler.</au></rj><br/
+\'d8<hw>Ge"ni*o</hw> <pr>(j<emac/"n<icr/*<osl/)</pr>, <pos>n.</pos> <ety>[It. See <er>Genius</er>.]</ety> <def>A man of a particular turn of mind.</def> <mark>[R.]</mark>  <rj><au>Tatler.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>geniohyoid</ent><br/
@@ -6385,7 +6385,7 @@ Argue your wisdom and your love to Richard.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Genouillere</ent><br/
-||<hw>Ge*nouil`l<egrave/re"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <fld>(Anc. Armor)</fld> <def>A metal plate covering the knee.</def><br/
+\'d8<hw>Ge*nouil`l<egrave/re"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <fld>(Anc. Armor)</fld> <def>A metal plate covering the knee.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Fort.)</fld> <def>That part of a parapet which lies between the gun platform and the bottom of an embrasure.</def><br/
@@ -6401,7 +6401,7 @@ Argue your wisdom and your love to Richard.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Genre</ent><br/
-||<hw>Gen"re</hw> <pr>(zh<aum/N"r')</pr>, <pos>n.</pos> <ety>[F. See <er>Gender</er>.]</ety> <sn>1.</sn> <def>Kind; genus; class; form; style, esp. in literature.</def></p>
+\'d8<hw>Gen"re</hw> <pr>(zh<aum/N"r')</pr>, <pos>n.</pos> <ety>[F. See <er>Gender</er>.]</ety> <sn>1.</sn> <def>Kind; genus; class; form; style, esp. in literature.</def></p>
 
 <p><q>French drama was lisping or still inarticulate; the great French <qex>genre</qex> of the fabliau was hardly born.</q>  <rj><qau>Saintsbury.</qau></rj></p>
 
@@ -6412,7 +6412,7 @@ Argue your wisdom and your love to Richard.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gens</ent><br/
-||<hw>Gens</hw> <pr>(j<ecr/nz)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gentes</plw> <pr>(j<ecr/n"t<emac/z)</pr>.</plu> <ety>[L. See <er>Gentle</er>, <pos>a.</pos>]</ety> <fld>(Rom. Hist.)</fld> <sn>1.</sn> <def>A clan or family connection, embracing several families of the same stock, who had a common name and certain common religious rites; a subdivision of the Roman curia or tribe.</def><br/
+\'d8<hw>Gens</hw> <pr>(j<ecr/nz)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gentes</plw> <pr>(j<ecr/n"t<emac/z)</pr>.</plu> <ety>[L. See <er>Gentle</er>, <pos>a.</pos>]</ety> <fld>(Rom. Hist.)</fld> <sn>1.</sn> <def>A clan or family connection, embracing several families of the same stock, who had a common name and certain common religious rites; a subdivision of the Roman curia or tribe.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Ethnol.)</fld> <def>A minor subdivision of a tribe, among American aborigines. It includes those who have a common descent, and bear the same totem.</def><br/
@@ -6781,7 +6781,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Genu</ent><br/
-||<hw>Ge"nu</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it>  <plw>Genua</plw> <pr>(#)</pr>.</plu> <ety>[L., the knee.]</ety> <fld>(Anat.)</fld> <sd>(a)</sd> <def>The knee.</def> <sd>(b)</sd> <def>The kneelike bend, in the anterior part of the callosum of the brain.</def><br/
+\'d8<hw>Ge"nu</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it>  <plw>Genua</plw> <pr>(#)</pr>.</plu> <ety>[L., the knee.]</ety> <fld>(Anat.)</fld> <sd>(a)</sd> <def>The knee.</def> <sd>(b)</sd> <def>The kneelike bend, in the anterior part of the callosum of the brain.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Genuflect</ent><br/
@@ -6821,7 +6821,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Genys</ent><br/
-||<hw>Ge"nys</hw> <pr>(j<emac/"n<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ge`nys</grk> the under jaw.]</ety> <fld>(Zool.)</fld> <def>See <er>Gonys</er>.</def></p>
+\'d8<hw>Ge"nys</hw> <pr>(j<emac/"n<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ge`nys</grk> the under jaw.]</ety> <fld>(Zool.)</fld> <def>See <er>Gonys</er>.</def></p>
 
 <p><ent>Geocentrical</ent><br/
 <ent>Geocentric</ent><br/
@@ -7108,7 +7108,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Geophila</ent><br/
-||<hw>Ge*oph"i*la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>ge`a</grk>, <grk>gh^</grk>, earth + <?/ to love.]</ety> <fld>(Zool.)</fld> <def>The division of Mollusca which includes the land snails and slugs.</def></p>
+\'d8<hw>Ge*oph"i*la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>ge`a</grk>, <grk>gh^</grk>, earth + <?/ to love.]</ety> <fld>(Zool.)</fld> <def>The division of Mollusca which includes the land snails and slugs.</def></p>
 
 <p><ent>Geophilidae</ent><br/
 <hw>Geophilidae</hw> <pos>n.</pos> <def>A natural family of small extremely elongate earth-living centipedes.</def><br/
@@ -7210,7 +7210,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Georgium Sidus</ent><br/
-||<hw>Geor"gi*um Si`dus</hw> <pr>(?)</pr>. <ety>[NL., the star of <ets>George</ets> (III. of England).]</ety> <fld>(Astron.)</fld> <def>The planet Uranus, so named by its discoverer, Sir W. Herschel.</def><br/
+\'d8<hw>Geor"gi*um Si`dus</hw> <pr>(?)</pr>. <ety>[NL., the star of <ets>George</ets> (III. of England).]</ety> <fld>(Astron.)</fld> <def>The planet Uranus, so named by its discoverer, Sir W. Herschel.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Geoscopy</ent><br/
@@ -7252,7 +7252,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gephyrea</ent><br/
-||<hw>Ge*phyr"e*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ a dam, a bridge.]</ety> <fld>(Zool.)</fld> <def>An order of marine Annelida, in which the body is imperfectly, or not at all, annulated externally, and is mostly without set<ae/.</def><br/
+\'d8<hw>Ge*phyr"e*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ a dam, a bridge.]</ety> <fld>(Zool.)</fld> <def>An order of marine Annelida, in which the body is imperfectly, or not at all, annulated externally, and is mostly without set<ae/.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gephyrean</ent><br/
@@ -7268,7 +7268,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gerah</ent><br/
-||<hw>Ge"rah</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Heb. <ets>g<?/rah</ets>, lit., a bean.]</ety> <fld>(Jewish Antiq.)</fld> <def>A small coin and weight; 1-20th of a shekel.</def><br/
+\'d8<hw>Ge"rah</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Heb. <ets>g<?/rah</ets>, lit., a bean.]</ety> <fld>(Jewish Antiq.)</fld> <def>A small coin and weight; 1-20th of a shekel.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The silver gerah is supposed to have been worth about three cents; the gold about fifty-four cents; the weight equivalent to about thirteen grains.</note><br/
@@ -7323,7 +7323,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 
 <p><ent>Gerbille</ent><br/
 <ent>Gerbil</ent><br/
-<mhw>{ <hw>Ger"bil</hw> <pr>(j<etil/r"b<icr/l)</pr>, ||<hw>Ger`bille"</hw> <pr>(zh<asl/r`b<esl/l")</pr>, }</mhw> <pos>n.</pos> <ety>[F. <ets>gerbille</ets>.  Cf. <er>Jerboa</er>.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>One of several species of small, jumping, murine burrowing rodents, of the genus <gen>Gerbillus</gen> and related genera of the subfamily <fam>Gerbillinae</fam>. They have long soft pale fur and hind legs adapted for leaping.  In their leaping powers they resemble the jerboa. They inhabit Africa, India, and Southern Europe.</def><br/
+<mhw>{ <hw>Ger"bil</hw> <pr>(j<etil/r"b<icr/l)</pr>, \'d8<hw>Ger`bille"</hw> <pr>(zh<asl/r`b<esl/l")</pr>, }</mhw> <pos>n.</pos> <ety>[F. <ets>gerbille</ets>.  Cf. <er>Jerboa</er>.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>One of several species of small, jumping, murine burrowing rodents, of the genus <gen>Gerbillus</gen> and related genera of the subfamily <fam>Gerbillinae</fam>. They have long soft pale fur and hind legs adapted for leaping.  In their leaping powers they resemble the jerboa. They inhabit Africa, India, and Southern Europe.</def><br/
 [<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>A rodent (<spn>Meriones unguiculatus</spn>) of the subfamily <fam>Gerbillinae</fam> that is commonly kept as a pet; it is also called the <altname>tamarisk gerbil</altname>, <altname>sand rat</altname> and <altname>jird</altname>.  Its natural habitats are the dry regions of Northern Africa and Asia.</def><br/
@@ -7496,7 +7496,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Germarium</ent><br/
-||<hw>Ger*ma"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Germ</er>.]</ety> <fld>(Zool.)</fld> <def>An organ in which the ova are developed in certain Turbellaria.</def><br/
+\'d8<hw>Ger*ma"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Germ</er>.]</ety> <fld>(Zool.)</fld> <def>An organ in which the ova are developed in certain Turbellaria.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 623 --></p>
@@ -7529,7 +7529,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Germinal</ent><br/
-||<hw>Ger`mi*nal"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Germ</er> .]</ety> <def>The seventh month of the French republican calendar [1792 -- 1806]. It began March 21 and ended April 19. See <er>Vend<eacute/miaire</er>.</def><br/
+\'d8<hw>Ger`mi*nal"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Germ</er> .]</ety> <def>The seventh month of the French republican calendar [1792 -- 1806]. It began March 21 and ended April 19. See <er>Vend<eacute/miaire</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Germinant</ent><br/
@@ -7594,7 +7594,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gerocomia</ent><br/
-||<hw>Ger`o*co"mi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>See <er>Gerocomy</er>.</def><br/
+\'d8<hw>Ger`o*co"mi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>See <er>Gerocomy</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gerocomical</ent><br/
@@ -7606,7 +7606,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gerontes</ent><br/
-||<hw>Ge*ron"tes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/, <?/.]</ety> <fld>(Gr. Antiq.)</fld> <def>Magistrates in Sparta, who with the ephori and kings, constituted the supreme civil authority.</def><br/
+\'d8<hw>Ge*ron"tes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/, <?/.]</ety> <fld>(Gr. Antiq.)</fld> <def>Magistrates in Sparta, who with the ephori and kings, constituted the supreme civil authority.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gerontocracy</ent><br/
@@ -7614,7 +7614,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Geropigia</ent><br/
-||<hw>Ger`o*pig"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pg. <ets>geropiga</ets>.]</ety> <def>A mixture composed of unfermented grape juice, brandy, sugar, etc., for adulteration of wines.</def> <altsp>[Written also <asp>jerupigia</asp>.]</altsp><br/
+\'d8<hw>Ger`o*pig"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pg. <ets>geropiga</ets>.]</ety> <def>A mixture composed of unfermented grape juice, brandy, sugar, etc., for adulteration of wines.</def> <altsp>[Written also <asp>jerupigia</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>-gerous</ent><br/
@@ -7666,14 +7666,14 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gesso</ent><br/
-||<hw>Ges"so</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It., chalk, plaster.]</ety> <sn>1.</sn> <def>Plaster of Paris, or gypsum, esp. as prepared for use in painting, or in making bas-reliefs and the like; by extension, a plasterlike or pasty material spread upon a surface to fit it for painting or gilding, or a surface so prepared.</def><br/
+\'d8<hw>Ges"so</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It., chalk, plaster.]</ety> <sn>1.</sn> <def>Plaster of Paris, or gypsum, esp. as prepared for use in painting, or in making bas-reliefs and the like; by extension, a plasterlike or pasty material spread upon a surface to fit it for painting or gilding, or a surface so prepared.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <def>A work of art done in gesso.</def> <mark>[Obs.]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Gesso duro</ent><br/
-||<hw>Ges"so du"ro</hw> <pr>(?)</pr>. <ety>[It., hard plaster.]</ety> <def>A variety of gesso which when dried becomes hard and durable, often used in making bas-relief casts, which are colored and mounted in elaborate frames.</def><br/
+\'d8<hw>Ges"so du"ro</hw> <pr>(?)</pr>. <ety>[It., hard plaster.]</ety> <def>A variety of gesso which when dried becomes hard and durable, often used in making bas-relief casts, which are colored and mounted in elaborate frames.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Gest</ent><br/
@@ -8091,7 +8091,7 @@ But, in a larger sense, we cannot dedicate -- we cannot consecrate -- we cannot 
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Gharry</ent><br/
-||<hw>Ghar"ry</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets>g<amac/<?/i</ets>.]</ety> <def>Any wheeled cart or carriage.</def> <mark>[India]</mark><br/
+\'d8<hw>Ghar"ry</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets>g<amac/<?/i</ets>.]</ety> <def>Any wheeled cart or carriage.</def> <mark>[India]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ghast</ent><br/
@@ -8138,7 +8138,7 @@ Full suddenly he fled.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Ghaut</ent><br/
 <ent>Ghat</ent><br/
-<mhw>{ ||<hw>Ghat</hw> <hw>Ghaut</hw> }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets>gh<amac/t</ets>.]</ety><br/
+<mhw>{ \'d8<hw>Ghat</hw> <hw>Ghaut</hw> }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets>gh<amac/t</ets>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>A pass through a mountain.</def> <mark>[India]</mark>  <rj><au>J. D. Hooker.</au></rj><br/
@@ -8151,15 +8151,15 @@ Full suddenly he fled.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ghawazi</ent><br/
-||<hw>Gha*wa"zi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Etymol. uncertain.]</ety> <def>Egyptian dancing girls, of a lower sort than the almeh.</def></p>
+\'d8<hw>Gha*wa"zi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Etymol. uncertain.]</ety> <def>Egyptian dancing girls, of a lower sort than the almeh.</def></p>
 
 <p><ent>Ghazel</ent><br/
 <ent>Ghazal</ent><br/
-<mhw>{ ||<hw>Ghaz"al</hw> <pr>(?)</pr>, ||<hw>Ghaz"el</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[Ar. <ets>ghazal</ets>.]</ety> <def>A kind of Oriental lyric, and usually erotic, poetry, written in recurring rhymes.</def><br/
+<mhw>{ \'d8<hw>Ghaz"al</hw> <pr>(?)</pr>, \'d8<hw>Ghaz"el</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[Ar. <ets>ghazal</ets>.]</ety> <def>A kind of Oriental lyric, and usually erotic, poetry, written in recurring rhymes.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Ghazi</ent><br/
-||<hw>Gha"zi</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Ar. <ets>gh<amac/z<imac/</ets>.]</ety> <def>Among Muslims, a warrior champion or veteran, esp. in the destruction of infidels.</def><br/
+\'d8<hw>Gha"zi</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Ar. <ets>gh<amac/z<imac/</ets>.]</ety> <def>Among Muslims, a warrior champion or veteran, esp. in the destruction of infidels.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Ghebre</ent><br/
@@ -8332,7 +8332,7 @@ And was a blessed <qex>ghost</qex>.</q> <rj><qau>Coleridge.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Giallolino</ent><br/
-||<hw>Gial`lo*li"no</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It., from <ets>giallo</ets> yellow, prob. fr. OHG. <ets>gelo</ets>, G. <ets>gelb</ets>; akin to E. <ets>yellow</ets>.]</ety> <def>A term variously employed by early writers on art, though commonly designating the yellow oxide of lead, or massicot.</def>  <rj><au>Fairholt.</au></rj><br/
+\'d8<hw>Gial`lo*li"no</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It., from <ets>giallo</ets> yellow, prob. fr. OHG. <ets>gelo</ets>, G. <ets>gelb</ets>; akin to E. <ets>yellow</ets>.]</ety> <def>A term variously employed by early writers on art, though commonly designating the yellow oxide of lead, or massicot.</def>  <rj><au>Fairholt.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Giambeux</ent><br/
@@ -8389,7 +8389,7 @@ And was a blessed <qex>ghost</qex>.</q> <rj><qau>Coleridge.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Giaour</ent><br/
-||<hw>Giaour</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Turk. <ets>giaur</ets> an infidel, Per. <ets>gawr</ets>, another form of <ets>ghebr</ets> fire worshiper.  Cf. <er>Kaffir</er>, <er>Gheber</er> .]</ety> <def>An infidel; -- a term applied by Turks to disbelievers in the Muslim religion, especially Christians.</def>  <rj><au>Byron.</au></rj><br/
+\'d8<hw>Giaour</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Turk. <ets>giaur</ets> an infidel, Per. <ets>gawr</ets>, another form of <ets>ghebr</ets> fire worshiper.  Cf. <er>Kaffir</er>, <er>Gheber</er> .]</ety> <def>An infidel; -- a term applied by Turks to disbelievers in the Muslim religion, especially Christians.</def>  <rj><au>Byron.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gib</ent><br/
@@ -8556,7 +8556,7 @@ All kinds of <qex>gibberish</qex> he had learnt to know.</q> <rj><qau>Drayton.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gibel</ent><br/
-||<hw>Gib"el</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G. <ets>gibel</ets>, <ets>giebel</ets>.]</ety> <fld>(Zool.)</fld> <def>A kind of carp (<spn>Cyprinus gibelio</spn>); -- called also <altname>Prussian carp</altname>.</def><br/
+\'d8<hw>Gib"el</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G. <ets>gibel</ets>, <ets>giebel</ets>.]</ety> <fld>(Zool.)</fld> <def>A kind of carp (<spn>Cyprinus gibelio</spn>); -- called also <altname>Prussian carp</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Giber</ent><br/
@@ -8840,7 +8840,7 @@ Strom wind of the equinox.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gigerium</ent><br/
-||<hw>Gi*ge"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gigeria</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. L. <ets>gigeria</ets>, pl., the cooked entrails of poultry.]</ety> <fld>(Anat.)</fld> <def>The muscular stomach, or gizzard, of birds.</def><br/
+\'d8<hw>Gi*ge"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gigeria</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. L. <ets>gigeria</ets>, pl., the cooked entrails of poultry.]</ety> <fld>(Anat.)</fld> <def>The muscular stomach, or gizzard, of birds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gigget</ent><br/
@@ -8907,7 +8907,7 @@ At the piteous hap of the fairy wight.</q> <rj><qau>J. R. Drake.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gigue</ent><br/
-||<hw>Gigue</hw> <pr>(zh<esl/g)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A piece of lively dance music, in two strains which are repeated; also, the dance.</def><br/
+\'d8<hw>Gigue</hw> <pr>(zh<esl/g)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A piece of lively dance music, in two strains which are repeated; also, the dance.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Gila monster</ent><br/
@@ -9356,7 +9356,7 @@ Lies foul with chewed grass.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ginglymodi</ent><br/
-||<hw>Gin`gly*mo"di</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.; cf. Gr. <?/ ginglymoid. See <er>Ginglymoid</er>.]</ety> <fld>(Zool.)</fld> <def>An order of ganoid fishes, including the modern gar pikes and many allied fossil forms. They have rhombic, ganoid scales, a heterocercal tail, paired fins without an axis, fulcra on the fins, and a bony skeleton, with the vertebr<ae/ convex in front and concave behind, forming a ball and socket joint. See <er>Ganoidel</er>.</def></p>
+\'d8<hw>Gin`gly*mo"di</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.; cf. Gr. <?/ ginglymoid. See <er>Ginglymoid</er>.]</ety> <fld>(Zool.)</fld> <def>An order of ganoid fishes, including the modern gar pikes and many allied fossil forms. They have rhombic, ganoid scales, a heterocercal tail, paired fins without an axis, fulcra on the fins, and a bony skeleton, with the vertebr<ae/ convex in front and concave behind, forming a ball and socket joint. See <er>Ganoidel</er>.</def></p>
 
 <p><ent>Ginglymoidal</ent><br/
 <ent>Ginglymoid</ent><br/
@@ -9364,7 +9364,7 @@ Lies foul with chewed grass.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ginglymus</ent><br/
-||<hw>Gin"gly*mus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ginglymi</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ a hingelike joint, a ball and socket joint.]</ety> <fld>(Anat.)</fld> <def>A hinge joint; an articulation, admitting of flexion and extension, or motion in two directions only, as the elbow and the ankle.</def><br/
+\'d8<hw>Gin"gly*mus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ginglymi</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ a hingelike joint, a ball and socket joint.]</ety> <fld>(Anat.)</fld> <def>A hinge joint; an articulation, admitting of flexion and extension, or motion in two directions only, as the elbow and the ankle.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ginhouse</ent><br/
@@ -9816,7 +9816,7 @@ And <qex>girt</qex> thee with the sword.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Gitano</ent><br/
 <ent>Gitana</ent><br/
-<mhw>{ ||<hw>Gi*ta"na</hw> <pr>(?)</pr>, <pos>n. fem.</pos>; ||<hw>Gi*ta"no</hw> <pr>(?)</pr>, <pos>n. masc.</pos> }</mhw> <ety>[Sp., fr. (assumed) LL. <ets>Aegyptanus</ets>, fem. <ets>Aegyptana</ets>, Egyptian. Cf. <er>Gypsy</er>.]</ety> <def>A Spanish gypsy.</def><br/
+<mhw>{ \'d8<hw>Gi*ta"na</hw> <pr>(?)</pr>, <pos>n. fem.</pos>; \'d8<hw>Gi*ta"no</hw> <pr>(?)</pr>, <pos>n. masc.</pos> }</mhw> <ety>[Sp., fr. (assumed) LL. <ets>Aegyptanus</ets>, fem. <ets>Aegyptana</ets>, Egyptian. Cf. <er>Gypsy</er>.]</ety> <def>A Spanish gypsy.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Gite</ent><br/
@@ -9847,7 +9847,7 @@ And <qex>girt</qex> thee with the sword.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Giusto</ent><br/
-||<hw>Gius"to</hw> <pr>(j<oomac/s"t<osl/)</pr>, <pos>a.</pos> <ety>[It., fr. L. <ets>justus</ets>. See <er>Just</er>, <pos>a.</pos>]</ety> <fld>(Mus.)</fld> <def>In just, correct, or suitable time.</def><br/
+\'d8<hw>Gius"to</hw> <pr>(j<oomac/s"t<osl/)</pr>, <pos>a.</pos> <ety>[It., fr. L. <ets>justus</ets>. See <er>Just</er>, <pos>a.</pos>]</ety> <fld>(Mus.)</fld> <def>In just, correct, or suitable time.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Give</ent><br/
@@ -10092,11 +10092,11 @@ From his true meant design.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Glabella</ent><br/
-||<hw>Gla*bel"la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Glabell<ae/</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. L. <ets>glabellus</ets> hairless, fr. <ets>glaber</ets> bald.]</ety> <fld>(Anat.)</fld> <def>The space between the eyebrows, also including the corresponding part of the frontal bone; the mesophryon.</def> -- <wordforms><wf>Gla*bel"lar</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>Gla*bel"la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Glabell<ae/</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. L. <ets>glabellus</ets> hairless, fr. <ets>glaber</ets> bald.]</ety> <fld>(Anat.)</fld> <def>The space between the eyebrows, also including the corresponding part of the frontal bone; the mesophryon.</def> -- <wordforms><wf>Gla*bel"lar</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glabellum</ent><br/
-||<hw>Gla*bel"lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Glabella</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Glabella</er>.]</ety> <fld>(Zool.)</fld> <def>The median, convex lobe of the head of a trilobite. See <er>Trilobite</er>.</def><br/
+\'d8<hw>Gla*bel"lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Glabella</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Glabella</er>.]</ety> <fld>(Zool.)</fld> <def>The median, convex lobe of the head of a trilobite. See <er>Trilobite</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glabrate</ent><br/
@@ -10335,7 +10335,7 @@ More <qex>glad</qex> to me than to a miser money is.</q> <rj><qau>Sir P. Sidney.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gladius</ent><br/
-||<hw>Gla"di*us</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gladii</plw> <pr>(#)</pr>.</plu> <ety>[L., a sword.]</ety> <fld>(Zool.)</fld> <def>The internal shell, or pen, of cephalopods like the squids.</def><br/
+\'d8<hw>Gla"di*us</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gladii</plw> <pr>(#)</pr>.</plu> <ety>[L., a sword.]</ety> <fld>(Zool.)</fld> <def>The internal shell, or pen, of cephalopods like the squids.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gladly</ent><br/
@@ -10440,7 +10440,7 @@ More <qex>glad</qex> to me than to a miser money is.</q> <rj><qau>Sir P. Sidney.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glama</ent><br/
-||<hw>Gla"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.; cf. Gr. <?/, L. <ets>gramiae</ets>, Gr. <?/ blear-eyed.]</ety> <fld>(Med.)</fld> <def>A copious gummy secretion of the humor of the eyelids, in consequence of some disorder; blearedness; lippitude.</def><br/
+\'d8<hw>Gla"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.; cf. Gr. <?/, L. <ets>gramiae</ets>, Gr. <?/ blear-eyed.]</ety> <fld>(Med.)</fld> <def>A copious gummy secretion of the humor of the eyelids, in consequence of some disorder; blearedness; lippitude.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>glamor</ent><br/
@@ -10650,7 +10650,7 @@ His vulture eye pursued the trip of those small <qex>glancing</qex> feet.</q> <r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glans</ent><br/
-||<hw>Glans</hw> <pr>(?)</pr> <pos>n.</pos>; <plu><it>pl.</it> <plw>Glandes</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Gland</er>.]</ety><br/
+\'d8<hw>Glans</hw> <pr>(?)</pr> <pos>n.</pos>; <plu><it>pl.</it> <plw>Glandes</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Gland</er>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <fld>(Anat.)</fld> <def>The vascular body which forms the apex of the penis, and the extremity of the clitoris.</def><br/
@@ -10971,7 +10971,7 @@ The running of one <qex>glass</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glaucoma</ent><br/
-||<hw>Glau*co"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>glay`kwma</grk>, fr. <grk>glayko`s</grk> light gray, blue gray.]</ety> <fld>(Med.)</fld> <def>Dimness or abolition of sight, with a diminution of transparency, a bluish or greenish tinge of the refracting media of the eye, and a hard inelastic condition of the eyeball, with marked increase of tension within the eyeball.</def><br/
+\'d8<hw>Glau*co"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>glay`kwma</grk>, fr. <grk>glayko`s</grk> light gray, blue gray.]</ety> <fld>(Med.)</fld> <def>Dimness or abolition of sight, with a diminution of transparency, a bluish or greenish tinge of the refracting media of the eye, and a hard inelastic condition of the eyeball, with marked increase of tension within the eyeball.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glaucomatous</ent><br/
@@ -10991,7 +10991,7 @@ The running of one <qex>glass</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glaucosis</ent><br/
-||<hw>Glau*co"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>glay`kwsis</grk>.]</ety> <fld>(Med.)</fld> <def>Same as <er>Glaucoma</er>.</def><br/
+\'d8<hw>Glau*co"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>glay`kwsis</grk>.]</ety> <fld>(Med.)</fld> <def>Same as <er>Glaucoma</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glaucous</ent><br/
@@ -11002,7 +11002,7 @@ The running of one <qex>glass</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glaucus</ent><br/
-||<hw>Glau"cus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., sea green.]</ety> <fld>(Zool.)</fld> <def>A genus of nudibranchiate mollusks, found in the warmer latitudes, swimming in the open sea. These mollusks are beautifully colored with blue and silvery white.</def><br/
+\'d8<hw>Glau"cus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., sea green.]</ety> <fld>(Zool.)</fld> <def>A genus of nudibranchiate mollusks, found in the warmer latitudes, swimming in the open sea. These mollusks are beautifully colored with blue and silvery white.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glaum</ent><br/
@@ -11672,11 +11672,11 @@ And with indented <qex>glides</qex> did slip away.</q> <rj><qau>Shak.</qau></rj>
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Glioma</ent><br/
-||<hw>Gli*o"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/  glue + <ets>-oma</ets>.]</ety> <fld>(Med.)</fld> <def>A tumor springing from the neuroglia or connective tissue of the brain, spinal cord, or other portions of the nervous system.</def><br/
+\'d8<hw>Gli*o"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/  glue + <ets>-oma</ets>.]</ety> <fld>(Med.)</fld> <def>A tumor springing from the neuroglia or connective tissue of the brain, spinal cord, or other portions of the nervous system.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glires</ent><br/
-||<hw>Gli"res</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., dormice.]</ety> <fld>(Zool.)</fld> <def>An order of mammals; the <ord>Rodentia</ord>.</def> -- <wordforms><wf>Gli"rine</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>Gli"res</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., dormice.]</ety> <fld>(Zool.)</fld> <def>An order of mammals; the <ord>Rodentia</ord>.</def> -- <wordforms><wf>Gli"rine</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gliridae</ent><br/
@@ -11701,7 +11701,7 @@ And with indented <qex>glides</qex> did slip away.</q> <rj><qau>Shak.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glissette</ent><br/
-||<hw>Glis*sette"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>glisser</ets> to slip.]</ety> <fld>(Math.)</fld> <def>The locus described by any point attached to a curve that slips continuously on another fixed curve, the movable curve having no rotation at any instant.</def><br/
+\'d8<hw>Glis*sette"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>glisser</ets> to slip.]</ety> <fld>(Math.)</fld> <def>The locus described by any point attached to a curve that slips continuously on another fixed curve, the movable curve having no rotation at any instant.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glist</ent><br/
@@ -11915,7 +11915,7 @@ A <qex>globe</qex> of fiery seraphim inclosed.</q> <rj><qau>Milton.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Globigerina</ent><br/
-||<hw>Glo*big`e*ri"na</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Globigerin<ae/</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. L. <ets>globus</ets> a round body + <ets>gerere</ets> to bear.]</ety> <fld>(Zool.)</fld> <def>A genus of small Foraminifera, which live abundantly at or near the surface of the sea. Their dead shells, falling to the bottom, make up a large part of the soft mud, generally found in depths below 3,000 feet, and called <partof>globigerina ooze</partof>. See <xex>Illust.</xex> of <er>Foraminifera</er>.</def><br/
+\'d8<hw>Glo*big`e*ri"na</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Globigerin<ae/</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. L. <ets>globus</ets> a round body + <ets>gerere</ets> to bear.]</ety> <fld>(Zool.)</fld> <def>A genus of small Foraminifera, which live abundantly at or near the surface of the sea. Their dead shells, falling to the bottom, make up a large part of the soft mud, generally found in depths below 3,000 feet, and called <partof>globigerina ooze</partof>. See <xex>Illust.</xex> of <er>Foraminifera</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>globin</ent><br/
@@ -12009,7 +12009,7 @@ A <qex>globe</qex> of fiery seraphim inclosed.</q> <rj><qau>Milton.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glochidium</ent><br/
-||<hw>Glo*chid"i*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Glochidia</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ the point of an arrow.]</ety> <fld>(Zool.)</fld> <def>The larva or young of the mussel, formerly thought to be a parasite upon the parent's gills.</def><br/
+\'d8<hw>Glo*chid"i*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Glochidia</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ the point of an arrow.]</ety> <fld>(Zool.)</fld> <def>The larva or young of the mussel, formerly thought to be a parasite upon the parent's gills.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glockenspiel</ent><br/
@@ -12065,7 +12065,7 @@ A <qex>globe</qex> of fiery seraphim inclosed.</q> <rj><qau>Milton.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glomerulus</ent><br/
-||<hw>Glo*mer"u*lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Glomeruli</plw> <pr>(#)</pr>.</plu> <ety>[NL., dim. of L. <ets>glomus</ets>. See 3d <er>Glome</er>.]</ety> <fld>(Anat.)</fld> <def>The bunch of looped capillary blood vessels in a Malpighian capsule of the kidney.</def><br/
+\'d8<hw>Glo*mer"u*lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Glomeruli</plw> <pr>(#)</pr>.</plu> <ety>[NL., dim. of L. <ets>glomus</ets>. See 3d <er>Glome</er>.]</ety> <fld>(Anat.)</fld> <def>The bunch of looped capillary blood vessels in a Malpighian capsule of the kidney.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glomuliferous</ent><br/
@@ -12186,7 +12186,7 @@ First lightened into day.</q> <rj><qau>Trench.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gloria</ent><br/
-||<hw>Glo"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., glory.]</ety> <fld>(Eccl.)</fld> <sd>(a)</sd> <def>A doxology (beginning <xex>Gloria Patri</xex>, Glory be to the Father), sung or said at the end of the Psalms in the service of the Roman Catholic and other churches.</def> <sd>(b)</sd> <def>A portion of the Mass (<xex>Gloria in Excelsis Deo</xex>, Glory be to God on high), and also of the communion service in some churches. In the Episcopal Church the version in English is used.</def> <sd>(c)</sd> <def>The musical setting of a gloria.</def><br/
+\'d8<hw>Glo"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., glory.]</ety> <fld>(Eccl.)</fld> <sd>(a)</sd> <def>A doxology (beginning <xex>Gloria Patri</xex>, Glory be to the Father), sung or said at the end of the Psalms in the service of the Roman Catholic and other churches.</def> <sd>(b)</sd> <def>A portion of the Mass (<xex>Gloria in Excelsis Deo</xex>, Glory be to God on high), and also of the communion service in some churches. In the Episcopal Church the version in English is used.</def> <sd>(c)</sd> <def>The musical setting of a gloria.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gloriation</ent><br/
@@ -12239,7 +12239,7 @@ First lightened into day.</q> <rj><qau>Trench.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gloriosa</ent><br/
-||<hw>Glo`ri*o"sa</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Nl., fr. L. <ets>gloriosus</ets>. See <er>Glorious</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of climbing plants with very showy lilylike blossoms, natives of India.</def><br/
+\'d8<hw>Glo`ri*o"sa</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Nl., fr. L. <ets>gloriosus</ets>. See <er>Glorious</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of climbing plants with very showy lilylike blossoms, natives of India.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glorioser</ent><br/
@@ -12247,7 +12247,7 @@ First lightened into day.</q> <rj><qau>Trench.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glorioso</ent><br/
-||<hw>Glo`ri*o"so</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <def>A boaster.</def> <mark>[Obs.]</mark>  <rj><au>Fuller.</au></rj><br/
+\'d8<hw>Glo`ri*o"so</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <def>A boaster.</def> <mark>[Obs.]</mark>  <rj><au>Fuller.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glorious</ent><br/
@@ -12419,7 +12419,7 @@ He would unriddle in a moment.</q> <rj><qau>Hudibras.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glossa</ent><br/
-||<hw>Glos"sa</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gloss<ae/</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ the tongue.]</ety> <fld>(Zool.)</fld> <def>The tongue, or lingua, of an insect. See <er>Hymenoptera</er>.</def><br/
+\'d8<hw>Glos"sa</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gloss<ae/</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ the tongue.]</ety> <fld>(Zool.)</fld> <def>The tongue, or lingua, of an insect. See <er>Hymenoptera</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glossal</ent><br/
@@ -12447,7 +12447,7 @@ He would unriddle in a moment.</q> <rj><qau>Hudibras.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glossata</ent><br/
-||<hw>Glos*sa"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Glossa</er>.]</ety> <fld>(Zool.)</fld> <def>The Lepidoptera.</def><br/
+\'d8<hw>Glos*sa"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Glossa</er>.]</ety> <fld>(Zool.)</fld> <def>The Lepidoptera.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glossator</ent><br/
@@ -12487,7 +12487,7 @@ He would unriddle in a moment.</q> <rj><qau>Hudibras.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glossitis</ent><br/
-||<hw>Glos*si"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/ tongue + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the tongue.</def><br/
+\'d8<hw>Glos*si"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/ tongue + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the tongue.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glossly</ent><br/
@@ -12495,7 +12495,7 @@ He would unriddle in a moment.</q> <rj><qau>Hudibras.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glossocomon</ent><br/
-||<hw>Glos*soc"o*mon</hw> <pr>(?)</pr>, <pos>n.</pos><ety>[NL., fr. Gr. <?/ a kind of case.]</ety> <def>A kind of hoisting winch.</def><br/
+\'d8<hw>Glos*soc"o*mon</hw> <pr>(?)</pr>, <pos>n.</pos><ety>[NL., fr. Gr. <?/ a kind of case.]</ety> <def>A kind of hoisting winch.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glossoepiglottic</ent><br/
@@ -12519,7 +12519,7 @@ He would unriddle in a moment.</q> <rj><qau>Hudibras.</qau></rj><br/
 
 <p><ent>Glossolaly</ent><br/
 <ent>Glossolalia</ent><br/
-<mhw>{ ||<hw>Glos`so*la"li*a</hw> <pr>(?)</pr>, <hw>Glos*sol"a*ly</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL., fr. Gr. <?/ tongue + <?/ talk: cf. F. <ets>glossolalie</ets>.]</ety> <def>The gift of tongues. <xex>Farrar</xex>.</def><br/
+<mhw>{ \'d8<hw>Glos`so*la"li*a</hw> <pr>(?)</pr>, <hw>Glos*sol"a*ly</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL., fr. Gr. <?/ tongue + <?/ talk: cf. F. <ets>glossolalie</ets>.]</ety> <def>The gift of tongues. <xex>Farrar</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glossological</ent><br/
@@ -12737,7 +12737,7 @@ The which hath fire in darkness, none in light.</q> <rj><qau>Shak.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gloxinia</ent><br/
-||<hw>Glox*in"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Bot.)</fld> <def>American genus of herbaceous plants with very handsome bell-shaped blossoms; -- named after B. P. <xex>Gloxin</xex>, a German botanist.</def><br/
+\'d8<hw>Glox*in"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Bot.)</fld> <def>American genus of herbaceous plants with very handsome bell-shaped blossoms; -- named after B. P. <xex>Gloxin</xex>, a German botanist.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gloze</ent><br/
@@ -12826,7 +12826,7 @@ The which hath fire in darkness, none in light.</q> <rj><qau>Shak.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glucosuria</ent><br/
-||<hw>Glu`co*su"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. E. <ets>glucose</ets> + Gr. <?/ urine.]</ety> <fld>(Med.)</fld> <def>A condition in which glucose is discharged in the urine; diabetes mellitus.</def><br/
+\'d8<hw>Glu`co*su"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. E. <ets>glucose</ets> + Gr. <?/ urine.]</ety> <fld>(Med.)</fld> <def>A condition in which glucose is discharged in the urine; diabetes mellitus.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glue</ent><br/
@@ -12991,7 +12991,7 @@ And <qex>glutted</qex> all night long breast-deep in corn.</q> <rj><qau>Tennyson
 
 <p><ent>glutaeus</ent><br/
 <ent>gluteus</ent><br/
-<mhw><hw>glu*te"us</hw>, ||<hw>glu*t<ae/"us</hw></mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Gluteal</er>.]</ety> <fld>(Anat.)</fld> <def>Any of several muscles in the buttocks of man and most mammals, especially the great muscle of the buttock (the <stype>gluteus maximus</stype>); also, the corresponding muscle in many lower animals.</def><br/
+<mhw><hw>glu*te"us</hw>, \'d8<hw>glu*t<ae/"us</hw></mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Gluteal</er>.]</ety> <fld>(Anat.)</fld> <def>Any of several muscles in the buttocks of man and most mammals, especially the great muscle of the buttock (the <stype>gluteus maximus</stype>); also, the corresponding muscle in many lower animals.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><note><hand/ In man, the <xex>gluteus</xex> is composed of three distinct parts, which extend and abduct the thigh, and help support the body in standing.</note><br/
@@ -13030,7 +13030,7 @@ And <qex>glutted</qex> all night long breast-deep in corn.</q> <rj><qau>Tennyson
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gluteus</ent><br/
-||<hw>Glu*te"us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Anat.)</fld> <def>Same as <er>Glut<ae/us</er>.</def><br/
+\'d8<hw>Glu*te"us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Anat.)</fld> <def>Same as <er>Glut<ae/us</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glutin</ent><br/
@@ -13268,11 +13268,11 @@ And <qex>glutted</qex> all night long breast-deep in corn.</q> <rj><qau>Tennyson
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Glycosuria</ent><br/
-||<hw>Gly`co*su"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Med.)</fld> <def>Same as <er>Glucosuria</er>.</def><br/
+\'d8<hw>Gly`co*su"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Med.)</fld> <def>Same as <er>Glucosuria</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glycyrrhiza</ent><br/
-||<hw>Glyc`yr*rhi"za</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/; <?/ sweet + <?/ root.  Cf. <er>Licorice</er>.]</ety><br/
+\'d8<hw>Glyc`yr*rhi"za</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/; <?/ sweet + <?/ root.  Cf. <er>Licorice</er>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <fld>(Bot.)</fld> <def>A genus of papilionaceous herbaceous plants, one species of which (<spn>G. glabra</spn>), is the licorice plant, the roots of which have a bittersweet mucilaginous taste.</def><br/
@@ -13368,7 +13368,7 @@ And <qex>glutted</qex> all night long breast-deep in corn.</q> <rj><qau>Tennyson
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glyptotheca</ent><br/
-||<hw>Glyp`to*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ carved + <?/ case, box.]</ety> <def>A building or room devoted to works of sculpture.</def><br/
+\'d8<hw>Glyp`to*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ carved + <?/ case, box.]</ety> <def>A building or room devoted to works of sculpture.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glyster</ent><br/
@@ -13385,7 +13385,7 @@ And <qex>glutted</qex> all night long breast-deep in corn.</q> <rj><qau>Tennyson
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gnaphalium</ent><br/
-||<hw>Gna*pha"li*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Nl., from Gr. <?/ wool of the teasel.]</ety> <fld>(Bot.)</fld> <def>A genus of composite plants with white or colored dry and persistent involucres; a kind of everlasting.</def><br/
+\'d8<hw>Gna*pha"li*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Nl., from Gr. <?/ wool of the teasel.]</ety> <fld>(Bot.)</fld> <def>A genus of composite plants with white or colored dry and persistent involucres; a kind of everlasting.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gnar</ent><br/
@@ -13466,7 +13466,7 @@ And felly <qex>gnarre</qex>.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gnathidium</ent><br/
-||<hw>Gna*thid"i*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gnathidia</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>gna`qos</grk> the jaw.]</ety> <fld>(Zool.)</fld> <def>The ramus of the lower jaw of a bird as far as it is naked; -- commonly used in the plural.</def><br/
+\'d8<hw>Gna*thid"i*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gnathidia</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>gna`qos</grk> the jaw.]</ety> <fld>(Zool.)</fld> <def>The ramus of the lower jaw of a bird as far as it is naked; -- commonly used in the plural.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gnathite</ent><br/
@@ -13490,12 +13490,12 @@ And felly <qex>gnarre</qex>.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gnathostoma</ent><br/
-||<hw>Gna*thos"to*ma</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>gna`qos</grk> the jaw + <?/, <?/, the mouth.]</ety> <fld>(Zool.)</fld> <def>A comprehensive division of vertebrates, including all that have distinct jaws, in contrast with the leptocardians and marsipobranchs (<class>Cyclostoma</class>), which lack them.</def> <altsp>[Written also <asp>Gnathostomata</asp>.]</altsp><-- Modern order <ord>Cyclostomata</ord>,
+\'d8<hw>Gna*thos"to*ma</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>gna`qos</grk> the jaw + <?/, <?/, the mouth.]</ety> <fld>(Zool.)</fld> <def>A comprehensive division of vertebrates, including all that have distinct jaws, in contrast with the leptocardians and marsipobranchs (<class>Cyclostoma</class>), which lack them.</def> <altsp>[Written also <asp>Gnathostomata</asp>.]</altsp><-- Modern order <ord>Cyclostomata</ord>,
 containing the lampreys and hagfishes, is now in the class of vertebrates called <class>Agnatha</class>.  The extinct ostracoderms are included in the <class>Agnatha</class>. The lampreys and hagfishes were included in the <class>marsipobranchia</class> in the 1913 dictionary.  They are now classified as an order. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gnathotheca</ent><br/
-||<hw>Gnath`o*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gnathothecae</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>gna`qos</grk> the jaw + <?/ a box.]</ety> <fld>(Zool.)</fld> <def>The horney covering of the lower mandible of a bird.</def><br/
+\'d8<hw>Gnath`o*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gnathothecae</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>gna`qos</grk> the jaw + <?/ a box.]</ety> <fld>(Zool.)</fld> <def>The horney covering of the lower mandible of a bird.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gnatling</ent><br/
@@ -13653,7 +13653,7 @@ containing the lampreys and hagfishes, is now in the class of vertebrates called
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gnosis</ent><br/
-||<hw>Gno"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>gnw^sis</grk>.]</ety> <fld>(Metaph.)</fld> <def>The deeper wisdom; knowledge of spiritual truth, such as was claimed by the Gnostics.</def><br/
+\'d8<hw>Gno"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>gnw^sis</grk>.]</ety> <fld>(Metaph.)</fld> <def>The deeper wisdom; knowledge of spiritual truth, such as was claimed by the Gnostics.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gnostic</ent><br/
@@ -14168,7 +14168,7 @@ Of <qex>goatish</qex> lust.</q> <rj><qau>Massinger.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gobemouche</ent><br/
-||<hw>Gobe`mouche"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Literally, a fly swallower; hence, once who keeps his mouth open; a boor; a silly and credulous person.</def><br/
+\'d8<hw>Gobe`mouche"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Literally, a fly swallower; hence, once who keeps his mouth open; a boor; a silly and credulous person.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gobet</ent><br/
@@ -14476,11 +14476,11 @@ The nymphs and native <qex>godheads</qex> yet unknown.</q> <rj><qau>Dryden.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Goeland</ent><br/
-||<hw>Go`<eum/`land"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>go<eum/land</ets>.]</ety> <fld>(Zool.)</fld> <def>A white tropical tern (<spn>Cygis candida</spn>).</def><br/
+\'d8<hw>Go`<eum/`land"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>go<eum/land</ets>.]</ety> <fld>(Zool.)</fld> <def>A white tropical tern (<spn>Cygis candida</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Goemin</ent><br/
-||<hw>Go`<eum/`min"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>go<eum/mon</ets> seaweed.]</ety> <def>A complex mixture of several substances extracted from Irish moss.</def><br/
+\'d8<hw>Go`<eum/`min"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>go<eum/mon</ets> seaweed.]</ety> <def>A complex mixture of several substances extracted from Irish moss.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Goen</ent><br/
@@ -14942,11 +14942,11 @@ The nymphs and native <qex>godheads</qex> yet unknown.</q> <rj><qau>Dryden.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gomphiasis</ent><br/
-||<hw>Gom*phi"a*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ toothache or gnashing of teeth, fr. <?/ a grinder tooth, from <?/ a bolt.]</ety> <fld>(Med.)</fld> <def>A disease of the teeth, which causes them to loosen and fall out of their sockets.</def> <mark>[Archaic]</mark><br/
+\'d8<hw>Gom*phi"a*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ toothache or gnashing of teeth, fr. <?/ a grinder tooth, from <?/ a bolt.]</ety> <fld>(Med.)</fld> <def>A disease of the teeth, which causes them to loosen and fall out of their sockets.</def> <mark>[Archaic]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gomphosis</ent><br/
-||<hw>Gom*pho"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, prop., a bolting together, fr. <?/ to fasten with bolts or nails, <?/ bolt, nail: cf. F. <ets>gomphose</ets>.]</ety> <fld>(Anat.)</fld> <def>A form of union or immovable articulation where a hard part is received into the cavity of a bone, as the teeth into the jaws.</def><br/
+\'d8<hw>Gom*pho"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, prop., a bolting together, fr. <?/ to fasten with bolts or nails, <?/ bolt, nail: cf. F. <ets>gomphose</ets>.]</ety> <fld>(Anat.)</fld> <def>A form of union or immovable articulation where a hard part is received into the cavity of a bone, as the teeth into the jaws.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gomuti</ent><br/
@@ -14971,7 +14971,7 @@ The nymphs and native <qex>godheads</qex> yet unknown.</q> <rj><qau>Dryden.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gonangium</ent><br/
-||<hw>Go`nan*gi"um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Gonangia</plw> <pr>(#)</pr>, E. <plw>Gonangiums</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ offspring + <?/ vessel.]</ety> <fld>(Zool.)</fld> <def>See <er>Gonotheca</er>.</def><br/
+\'d8<hw>Go`nan*gi"um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Gonangia</plw> <pr>(#)</pr>, E. <plw>Gonangiums</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ offspring + <?/ vessel.]</ety> <fld>(Zool.)</fld> <def>See <er>Gonotheca</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gondola</ent><br/
@@ -15068,11 +15068,11 @@ Stream in the air.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gonidium</ent><br/
-||<hw>Go*nid"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, dim. of <?/ angle.]</ety> <fld>(Zool.)</fld> <def>A special groove or furrow at one or both angles of the mouth of many Anthozoa.</def><br/
+\'d8<hw>Go*nid"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, dim. of <?/ angle.]</ety> <fld>(Zool.)</fld> <def>A special groove or furrow at one or both angles of the mouth of many Anthozoa.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gonidium</ent><br/
-||<hw>Go*nid"i*um</hw>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gonidia</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ that which generates.]</ety> <fld>(Bot.)</fld> <def>A component cell of the yellowish green layer in certain lichens.</def><br/
+\'d8<hw>Go*nid"i*um</hw>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gonidia</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ that which generates.]</ety> <fld>(Bot.)</fld> <def>A component cell of the yellowish green layer in certain lichens.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>gon"iff</ent><br/
@@ -15080,7 +15080,7 @@ Stream in the air.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Gonimia</ent><br/
-||<hw>Go*nim"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ productive, fr. <?/ that which generates.]</ety> <fld>(Bot.)</fld> <def>Bluish green granules which occur in certain lichens, as <gen>Collema</gen>, <gen>Peltigera</gen>, etc., and which replace the more usual gonidia.</def><br/
+\'d8<hw>Go*nim"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ productive, fr. <?/ that which generates.]</ety> <fld>(Bot.)</fld> <def>Bluish green granules which occur in certain lichens, as <gen>Collema</gen>, <gen>Peltigera</gen>, etc., and which replace the more usual gonidia.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gonimous</ent><br/
@@ -15114,7 +15114,7 @@ Stream in the air.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gonoblastidium</ent><br/
-||<hw>Gon`o*blas*tid"i*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gonoblastidia</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ offspring + <?/ to bud.]</ety> <fld>(Zool.)</fld> <def>A blastostyle.</def><br/
+\'d8<hw>Gon`o*blas*tid"i*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gonoblastidia</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ offspring + <?/ to bud.]</ety> <fld>(Zool.)</fld> <def>A blastostyle.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gonocalyx</ent><br/
@@ -15126,7 +15126,7 @@ Stream in the air.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gonococcus</ent><br/
-||<hw>Gon`o*coc"cus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ semen, the genitals + NL. & E. <ets>coccus</ets>.]</ety> <fld>(Med.)</fld> <def>A microorganism (Neisseria gonnorrhoeae) of the genus <gen>Neisseria</gen> (formerly <gen>Micrococcus</gen>), found in the secretion in gonorrhea, and constituting the cause of this disease.</def><br/
+\'d8<hw>Gon`o*coc"cus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ semen, the genitals + NL. & E. <ets>coccus</ets>.]</ety> <fld>(Med.)</fld> <def>A microorganism (Neisseria gonnorrhoeae) of the genus <gen>Neisseria</gen> (formerly <gen>Micrococcus</gen>), found in the secretion in gonorrhea, and constituting the cause of this disease.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Gonoph</ent><br/
@@ -15155,7 +15155,7 @@ Stream in the air.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gonotheca</ent><br/
-||<hw>Gon`o*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gonothec<?/</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ offspring + <?/ box.]</ety> <fld>(Zool.)</fld> <def>A capsule developed on certain hydroids (<fam>Thecaphora</fam>), inclosing the blastostyle upon which the medusoid buds or gonophores are developed; -- called also <altname>gonangium</altname>, and <altname>teleophore</altname>. See <er>Hydroidea</er>, and <xex>Illust.</xex> of <er>Campanularian</er>.</def><br/
+\'d8<hw>Gon`o*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gonothec<?/</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ offspring + <?/ box.]</ety> <fld>(Zool.)</fld> <def>A capsule developed on certain hydroids (<fam>Thecaphora</fam>), inclosing the blastostyle upon which the medusoid buds or gonophores are developed; -- called also <altname>gonangium</altname>, and <altname>teleophore</altname>. See <er>Hydroidea</er>, and <xex>Illust.</xex> of <er>Campanularian</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gonozooid</ent><br/
@@ -15167,7 +15167,7 @@ Stream in the air.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gonys</ent><br/
-||<hw>Go"nys</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <er>Genys</er>.]</ety> <fld>(Zool.)</fld> <def>The keel or lower outline of a bird's bill, so far as the mandibular rami are united.</def><br/
+\'d8<hw>Go"nys</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <er>Genys</er>.]</ety> <fld>(Zool.)</fld> <def>The keel or lower outline of a bird's bill, so far as the mandibular rami are united.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Goober</ent><br/
@@ -15588,7 +15588,7 @@ Unto the state of Venice.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Guru</ent><br/
 <ent>Gooroo</ent><br/
-<mhw>||<hw>Goo*roo"</hw>, <hw>Gu*ru"</hw> <pr>(g<oomac/*r<oomac/")</pr></mhw>, <pos>n.</pos> <ety>[Hind. <ets>gur<umac/</ets> a spiritual parent or teacher, Skr. <ets>guru</ets> heavy, noble, venerable, teacher.  Cf. <er>Grief</er>.]</ety> <sn>1.</sn> <def>A spiritual teacher, guide, or confessor among the Hindus; a guru.</def>  <rj><au>Malcom.</au></rj><br/
+<mhw>\'d8<hw>Goo*roo"</hw>, <hw>Gu*ru"</hw> <pr>(g<oomac/*r<oomac/")</pr></mhw>, <pos>n.</pos> <ety>[Hind. <ets>gur<umac/</ets> a spiritual parent or teacher, Skr. <ets>guru</ets> heavy, noble, venerable, teacher.  Cf. <er>Grief</er>.]</ety> <sn>1.</sn> <def>A spiritual teacher, guide, or confessor among the Hindus; a guru.</def>  <rj><au>Malcom.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <pr>(g<oomac/"r<oomac/)</pr> <def>one who has expert knowledge of a technical area and serves as an advisor to others; an expert and teacher.  Usually written <ex>guru</ex>.</def><br/
@@ -15765,7 +15765,7 @@ The twelve good rules, the royal game of <qex>goose</qex>.</q> <rj><qau>Goldsmit
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Goracco</ent><br/
-||<hw>Go*rac"co</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A paste prepared from tobacco, and smoked in hookahs in Western India.</def><br/
+\'d8<hw>Go*rac"co</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A paste prepared from tobacco, and smoked in hookahs in Western India.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Goral</ent><br/
@@ -15802,7 +15802,7 @@ The twelve good rules, the royal game of <qex>goose</qex>.</q> <rj><qau>Goldsmit
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gordiacea</ent><br/
-||<hw>Gor`di*a"ce*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Gordian</er>, 1.]</ety> <fld>(Zool.)</fld> <def>A division of nematoid worms, including the hairworms or hair eels (<gen>Gordius</gen> and <gen>Mermis</gen>). See <er>Gordius</er>, and <xex>Illustration</xex> in Appendix.</def><br/
+\'d8<hw>Gor`di*a"ce*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Gordian</er>, 1.]</ety> <fld>(Zool.)</fld> <def>A division of nematoid worms, including the hairworms or hair eels (<gen>Gordius</gen> and <gen>Mermis</gen>). See <er>Gordius</er>, and <xex>Illustration</xex> in Appendix.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gordian</ent><br/
@@ -15820,7 +15820,7 @@ The twelve good rules, the royal game of <qex>goose</qex>.</q> <rj><qau>Goldsmit
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gordius</ent><br/
-||<hw>Gor"di*us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Gordian</er>, 1.]</ety> <fld>(Zool.)</fld> <def>A genus of long, slender, nematoid worms, parasitic in insects until near maturity, when they leave the insect, and live in water, in which they deposit their eggs; -- called also <altname>hair eel</altname>, <altname>hairworm</altname>, and <altname>hair snake</altname>, from the absurd, but common and widely diffused, notion that they are metamorphosed horsehairs.</def><br/
+\'d8<hw>Gor"di*us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Gordian</er>, 1.]</ety> <fld>(Zool.)</fld> <def>A genus of long, slender, nematoid worms, parasitic in insects until near maturity, when they leave the insect, and live in water, in which they deposit their eggs; -- called also <altname>hair eel</altname>, <altname>hairworm</altname>, and <altname>hair snake</altname>, from the absurd, but common and widely diffused, notion that they are metamorphosed horsehairs.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gore</ent><br/
@@ -15945,7 +15945,7 @@ e spewed up his <qex>gorge</qex>, that all did him detest.</q> <rj><qau>Spenser.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gorgerin</ent><br/
-||<hw>Gor`ge*rin"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>gorge</ets> neck.]</ety> <fld>(Arch.)</fld> <def>In some columns, that part of the capital between the termination of the shaft and the annulet of the echinus, or the space between two neck moldings; -- called also <altname>neck of the capital</altname>, and <altname>hypotrachelium</altname>. See <xex>Illust.</xex> of <er>Column</er>.</def><br/
+\'d8<hw>Gor`ge*rin"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>gorge</ets> neck.]</ety> <fld>(Arch.)</fld> <def>In some columns, that part of the capital between the termination of the shaft and the annulet of the echinus, or the space between two neck moldings; -- called also <altname>neck of the capital</altname>, and <altname>hypotrachelium</altname>. See <xex>Illust.</xex> of <er>Column</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gorget</ent><br/
@@ -15990,7 +15990,7 @@ e spewed up his <qex>gorge</qex>, that all did him detest.</q> <rj><qau>Spenser.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gorgonacea</ent><br/
-||<hw>Gor`go*na"ce*a</hw> <pr>(g<ocir/r`g<osl/*n<amac/"sh<esl/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>See <er>Gorgoniacea</er>.</def><br/
+\'d8<hw>Gor`go*na"ce*a</hw> <pr>(g<ocir/r`g<osl/*n<amac/"sh<esl/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>See <er>Gorgoniacea</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gorgonean</ent><br/
@@ -15998,18 +15998,18 @@ e spewed up his <qex>gorge</qex>, that all did him detest.</q> <rj><qau>Spenser.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gorgoneion</ent><br/
-||<hw>Gor`go*ne"ion</hw> <pr>(g<ocir/r`g<osl/*n<emac/"y<ocr/n)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gorgoneia</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>Gorgo`neios</grk>, equiv. to <grk>Gorgei^os</grk> belonging to a Gorgon.]</ety> <fld>(Arch.)</fld> <def>A mask carved in imitation of a Gorgon's head.</def>  <rj><au>Elmes.</au></rj><br/
+\'d8<hw>Gor`go*ne"ion</hw> <pr>(g<ocir/r`g<osl/*n<emac/"y<ocr/n)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gorgoneia</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>Gorgo`neios</grk>, equiv. to <grk>Gorgei^os</grk> belonging to a Gorgon.]</ety> <fld>(Arch.)</fld> <def>A mask carved in imitation of a Gorgon's head.</def>  <rj><au>Elmes.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gorgonia</ent><br/
-||<hw>Gor*go"ni*a</hw> <pr>(g<ocir/r*g<omac/"n<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[L., a coral which hardens in the air.]</ety> <fld>(Zool.)</fld> <sn>1.</sn> <def>A genus of Gorgoniacea, formerly very extensive, but now restricted to such species as the West Indian sea fan (<spn>Gorgonia flabellum</spn>), sea plume (<spn>G. setosa</spn>), and other allied species having a flexible, horny axis.</def><br/
+\'d8<hw>Gor*go"ni*a</hw> <pr>(g<ocir/r*g<omac/"n<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[L., a coral which hardens in the air.]</ety> <fld>(Zool.)</fld> <sn>1.</sn> <def>A genus of Gorgoniacea, formerly very extensive, but now restricted to such species as the West Indian sea fan (<spn>Gorgonia flabellum</spn>), sea plume (<spn>G. setosa</spn>), and other allied species having a flexible, horny axis.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Any slender branched gorgonian.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gorgoniacea</ent><br/
-||<hw>Gor*go`ni*a"ce*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Gorgonia</er>.]</ety> <fld>(Zool.)</fld> <def>One of the principal divisions of Alcyonaria, including those forms which have a firm and usually branched axis, covered with a porous crust, or c<oe/nenchyma, in which the polyp cells are situated.</def><br/
+\'d8<hw>Gor*go`ni*a"ce*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Gorgonia</er>.]</ety> <fld>(Zool.)</fld> <def>One of the principal divisions of Alcyonaria, including those forms which have a firm and usually branched axis, covered with a porous crust, or c<oe/nenchyma, in which the polyp cells are situated.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The axis is commonly horny, but it may be solid and stony (composed of calcium carbonate), as in the red coral of commerce, or it may be in alternating horny and stony joints, as in Isis. See <er>Alcyonaria</er>, <er>Anthozoa</er>, <er>C<oe/nenchyma</er>.</note><br/
@@ -16035,7 +16035,7 @@ Bound with <qex>Gorgonian</qex> rigor not to move.</q> <rj><qau>Milton.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gorgonzola</ent><br/
-||<hw>Gor`gon*zo"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <def>A kind of Italian pressed milk cheese; -- so called from a village near Milan.</def><br/
+\'d8<hw>Gor`gon*zo"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <def>A kind of Italian pressed milk cheese; -- so called from a village near Milan.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Gorhen</ent><br/
@@ -16342,7 +16342,7 @@ Thy <qex>gory</qex> locks at me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gossypium</ent><br/
-||<hw>Gos*syp"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>gossypion</ets>, <ets>gossipion</ets>.]</ety> <fld>(Bot.)</fld> <def>A genus of plants which yield the cotton of the arts. The species are much confused. <spn>G. herbaceum</spn> is the name given to the common cotton plant, while the long-stapled sea-island cotton is produced by <spn>G. Barbadense</spn>, a shrubby variety. There are several other kinds besides these.</def><br/
+\'d8<hw>Gos*syp"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>gossypion</ets>, <ets>gossipion</ets>.]</ety> <fld>(Bot.)</fld> <def>A genus of plants which yield the cotton of the arts. The species are much confused. <spn>G. herbaceum</spn> is the name given to the common cotton plant, while the long-stapled sea-island cotton is produced by <spn>G. Barbadense</spn>, a shrubby variety. There are several other kinds besides these.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Got</ent><br/
@@ -16473,7 +16473,7 @@ Thy <qex>gory</qex> locks at me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Gouache</ent><br/
-||<hw>Gouache</hw> <pr>(gw<adot/sh)</pr>, <pos>n.</pos> <ety>[F., It. <ets>guazzo</ets>.]</ety> <def>A method of painting with opaque colors, which have been ground in water and mingled with a preparation of gum; also, a picture thus painted.</def><br/
+\'d8<hw>Gouache</hw> <pr>(gw<adot/sh)</pr>, <pos>n.</pos> <ety>[F., It. <ets>guazzo</ets>.]</ety> <def>A method of painting with opaque colors, which have been ground in water and mingled with a preparation of gum; also, a picture thus painted.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Goud</ent><br/
@@ -16481,7 +16481,7 @@ Thy <qex>gory</qex> locks at me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Goudron</ent><br/
-||<hw>Gou`dron"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., tar.]</ety> <fld>(Mil.)</fld> <def>a small fascine or fagot, steeped in wax, pitch, and glue, used in various ways, as for igniting buildings or works, or to light ditches and ramparts.</def>  <rj><au>Farrow.</au></rj><br/
+\'d8<hw>Gou`dron"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., tar.]</ety> <fld>(Mil.)</fld> <def>a small fascine or fagot, steeped in wax, pitch, and glue, used in various ways, as for igniting buildings or works, or to light ditches and ramparts.</def>  <rj><au>Farrow.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gouge</ent><br/
@@ -16552,7 +16552,7 @@ Thy <qex>gory</qex> locks at me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Goura</ent><br/
-||<hw>Gou"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>One of several species of large, crested ground pigeons of the genus <gen>Goura</gen>, inhabiting New Guinea and adjacent islands. The Queen Victoria pigeon (<spn>Goura Victoria</spn>) and the crowned pigeon (<spn>G. coronata</spn>) are among the best known species.</def><br/
+\'d8<hw>Gou"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>One of several species of large, crested ground pigeons of the genus <gen>Goura</gen>, inhabiting New Guinea and adjacent islands. The Queen Victoria pigeon (<spn>Goura Victoria</spn>) and the crowned pigeon (<spn>G. coronata</spn>) are among the best known species.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gourami</ent><br/
@@ -16605,7 +16605,7 @@ Thy <qex>gory</qex> locks at me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Gourmet</ent><br/
-||<hw>Gour`met"</hw> <pr>(g<oomac/r`m<asl/")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A connoisseur in eating and drinking; an epicure.</def><br/
+\'d8<hw>Gour`met"</hw> <pr>(g<oomac/r`m<asl/")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A connoisseur in eating and drinking; an epicure.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gournet</ent><br/
@@ -16632,7 +16632,7 @@ Thy <qex>gory</qex> locks at me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gout</ent><br/
-||<hw>Go<ucir/t</hw> <pr>(g<oomac/)</pr>, <pos>n.</pos> <ety>[F., fr. L. <ets>gustus</ets> taste. See <er>Gusto</er>.]</ety> <def>Taste; relish.</def><br/
+\'d8<hw>Go<ucir/t</hw> <pr>(g<oomac/)</pr>, <pos>n.</pos> <ety>[F., fr. L. <ets>gustus</ets> taste. See <er>Gusto</er>.]</ety> <def>Taste; relish.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Goutily</ent><br/
@@ -17258,7 +17258,7 @@ teachers of every <qex>grade</qex>.</q> <rj><qau>Buckle.</qau></rj><br/
 
 <p><ent>Gradine</ent><br/
 <ent>Gradin</ent><br/
-<mhw>{ ||<hw>Gra"din</hw> <pr>(?)</pr>, <hw>Gra*dine"</hw> <pr>(?)</pr>,}</mhw> <pos>n.</pos> <ety>[F. <ets>gradin</ets>, <ets>dim</ets>. <ets>of grade</ets>. See <er>Grade</er>.]</ety> <fld>(Arch.)</fld> <def>Any member like a step, as the raised back of an altar or the like; a set raised over another.</def> <ldquo/The <xex>gradines</xex> of the amphitheeater.<rdquo/  <rj><au>Layard.</au></rj><br/
+<mhw>{ \'d8<hw>Gra"din</hw> <pr>(?)</pr>, <hw>Gra*dine"</hw> <pr>(?)</pr>,}</mhw> <pos>n.</pos> <ety>[F. <ets>gradin</ets>, <ets>dim</ets>. <ets>of grade</ets>. See <er>Grade</er>.]</ety> <fld>(Arch.)</fld> <def>Any member like a step, as the raised back of an altar or the like; a set raised over another.</def> <ldquo/The <xex>gradines</xex> of the amphitheeater.<rdquo/  <rj><au>Layard.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gradine</ent><br/
@@ -17270,7 +17270,7 @@ teachers of every <qex>grade</qex>.</q> <rj><qau>Buckle.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gradino</ent><br/
-||<hw>Gra*di"no</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gradinos</plw> <pr>(#)</pr>.</plu> <ety>[It.]</ety> <fld>(Arch.)</fld> <def>A step or raised shelf, as above a sideboard or altar.  Cf. <er>Superaltar</er>, and <er>Gradin</er>.</def><br/
+\'d8<hw>Gra*di"no</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gradinos</plw> <pr>(#)</pr>.</plu> <ety>[It.]</ety> <fld>(Arch.)</fld> <def>A step or raised shelf, as above a sideboard or altar.  Cf. <er>Superaltar</er>, and <er>Gradin</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gradual</ent><br/
@@ -17406,14 +17406,14 @@ and subordinate stages.</q> <rj><qau>Tatham.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gradus</ent><br/
-||<hw>Gra"dus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From L. gradus ad Parnassum a step to Parnassus.]</ety> <def>A dictionary of prosody, designed as an aid in writing Greek or Latin poetry.</def><br/
+\'d8<hw>Gra"dus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From L. gradus ad Parnassum a step to Parnassus.]</ety> <def>A dictionary of prosody, designed as an aid in writing Greek or Latin poetry.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>He set to work . . . without <qex>gradus</qex> or other help.</q> <rj><qau>T. Hughes.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Graf</ent><br/
-||<hw>Graf</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.  Cf. <er>-grave</er>.]</ety> <def>A German title of nobility, equivalent to earl in English, or count in French. See <er>Earl</er>.</def><br/
+\'d8<hw>Graf</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.  Cf. <er>-grave</er>.]</ety> <def>A German title of nobility, equivalent to earl in English, or count in French. See <er>Earl</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Graff</ent><br/
@@ -17438,7 +17438,7 @@ and subordinate stages.</q> <rj><qau>Tatham.</qau></rj><br/
 <p><-- p. 643  --></p>
 
 <p><ent>Graffiti</ent><br/
-||<hw>Graf*fi"ti</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[It., pl. of <ets>graffito</ets> scratched]</ety> <sn>1.</sn> <def>Inscriptions, figure drawings, etc., found on the walls of ancient sepulchers or ruins, as in the Catacombs, or at Pompeii.</def><br/
+\'d8<hw>Graf*fi"ti</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[It., pl. of <ets>graffito</ets> scratched]</ety> <sn>1.</sn> <def>Inscriptions, figure drawings, etc., found on the walls of ancient sepulchers or ruins, as in the Catacombs, or at Pompeii.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>any writings or drawings on a surface in a public place, placed there without authorization of the owner of the object on which it is written.  Such <ex>graffiti</ex> are usually unwelcome, and are considered as form of vandalism.</def><br/
@@ -17745,11 +17745,11 @@ Likce crimson dyed in <qex>grain.</qex></q> <rj><qau>Spenser.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grallae</ent><br/
-||<hw>Gral"l<ae/</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>grallae</ets> stilts, for <ets>gradulae</ets>, fr. <ets>gradus.</ets>  See <er>Grade.</er>]</ety> <fld>(Zool.)</fld> <def>An order of birds which formerly included all the waders.  By later writers it is usually restricted to the sandpipers, plovers, and allied forms; -- called also <altname>Grallatores</altname>.</def><br/
+\'d8<hw>Gral"l<ae/</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>grallae</ets> stilts, for <ets>gradulae</ets>, fr. <ets>gradus.</ets>  See <er>Grade.</er>]</ety> <fld>(Zool.)</fld> <def>An order of birds which formerly included all the waders.  By later writers it is usually restricted to the sandpipers, plovers, and allied forms; -- called also <altname>Grallatores</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grallatores</ent><br/
-||<hw>Gral"la*to"res</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. from L. <ets>grallator</ets> one who runs on stilts.]</ety> <fld>(Zool.)</fld> <def>See <er>Grall<ae/</er>.</def> </p>
+\'d8<hw>Gral"la*to"res</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. from L. <ets>grallator</ets> one who runs on stilts.]</ety> <fld>(Zool.)</fld> <def>See <er>Grall<ae/</er>.</def> </p>
 
 <p><ent>Grallatory</ent><br/
 <ent>Grallatorial</ent><br/
@@ -17975,7 +17975,7 @@ families or householders, they shall set up a <qex>grammar</qex> school, the mas
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Granadilla</ent><br/
-||<hw>Gran`a*dil"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., dim. of <ets>granada</ets> pomegranate. See <er>Grenade</er>, <er>Garnet</er>.]</ety> <fld>(Bot.)</fld> <def>The fruit of certain species of passion flower (esp. <spn>Passiflora quadrangularis</spn>) found in Brazil and the West Indies. It is as large as a child's head, and is a good dessert fruit. The fruit of <spn>Passiflora edulis</spn> is used for flavoring ices.</def><br/
+\'d8<hw>Gran`a*dil"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., dim. of <ets>granada</ets> pomegranate. See <er>Grenade</er>, <er>Garnet</er>.]</ety> <fld>(Bot.)</fld> <def>The fruit of certain species of passion flower (esp. <spn>Passiflora quadrangularis</spn>) found in Brazil and the West Indies. It is as large as a child's head, and is a good dessert fruit. The fruit of <spn>Passiflora edulis</spn> is used for flavoring ices.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>granadillo</ent><br/
@@ -18261,7 +18261,7 @@ To see her <qex>granges</qex> and her bernes wide.</q> <rj><qau>Chaucer.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Granilla</ent><br/
-||<hw>Gra*nil"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., small seed.]</ety> <def>Small grains or dust of cochineal or the coccus insect.</def><br/
+\'d8<hw>Gra*nil"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., small seed.]</ety> <def>Small grains or dust of cochineal or the coccus insect.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Granite</ent><br/
@@ -19164,7 +19164,7 @@ To <qex>gratify</qex> his noble service.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Gratin</ent><br/
-||<hw>Gra`tin"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Cookery)</fld> <def>The brown crust formed upon a gratinated dish; also, the dish itself, as of crusts of bread, game, or poultry.</def><br/
+\'d8<hw>Gra`tin"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Cookery)</fld> <def>The brown crust formed upon a gratinated dish; also, the dish itself, as of crusts of bread, game, or poultry.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Gratinate</ent><br/
@@ -19172,7 +19172,7 @@ To <qex>gratify</qex> his noble service.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>gratinee</ent><br/
-<mhw>||<hw>Gra`tin*<eacute/"</hw> <it>or</it> ||<hw>Gra`tin*<eacute/e"</hw></mhw> <pr>(gr<aum/`t'n*<amac/")</pr>, <pos>n.</pos> <ety>[F., p. p. of <ets>gratiner</ets> to cook au gratin.]</ety> <fld>(Cookery)</fld> <def>same as <er>au gratin</er>.</def><br/
+<mhw>\'d8<hw>Gra`tin*<eacute/"</hw> <it>or</it> \'d8<hw>Gra`tin*<eacute/e"</hw></mhw> <pr>(gr<aum/`t'n*<amac/")</pr>, <pos>n.</pos> <ety>[F., p. p. of <ets>gratiner</ets> to cook au gratin.]</ety> <fld>(Cookery)</fld> <def>same as <er>au gratin</er>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Grating</ent><br/
@@ -19261,11 +19261,11 @@ To <qex>gratify</qex> his noble service.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grauwacke</ent><br/
-||<hw>Grau"wack*e</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.]</ety> <def>Graywacke.</def><br/
+\'d8<hw>Grau"wack*e</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.]</ety> <def>Graywacke.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gravamen</ent><br/
-||<hw>Gra*va"men</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Gravamina </plw> <pr>(#)</pr>, E. <plw>Gravamens</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. <ets>gravare</ets> to load, burden, fr. <ets>gravis</ets> heavy, weighty. See <er>Grave</er>, <pos>a.</pos>]</ety> <fld>(Law)</fld> <def>The grievance complained of; the substantial cause of the action; also, in general, the ground or essence of a complaint. Bouvier.</def><br/
+\'d8<hw>Gra*va"men</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Gravamina </plw> <pr>(#)</pr>, E. <plw>Gravamens</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. <ets>gravare</ets> to load, burden, fr. <ets>gravis</ets> heavy, weighty. See <er>Grave</er>, <pos>a.</pos>]</ety> <fld>(Law)</fld> <def>The grievance complained of; the substantial cause of the action; also, in general, the ground or essence of a complaint. Bouvier.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>-grave</ent><br/
@@ -19786,7 +19786,7 @@ Close <qex>grazer</qex>, finds wherewith to ease her want.</q> <rj><qau>J. Phili
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grazioso</ent><br/
-||<hw>Gra"zi*o"so</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[It., adj. See <er>Gracious</er>.]</ety> (<fld>Mus.</fld>) <def>Gracefully; smoothly; elegantly.</def><br/
+\'d8<hw>Gra"zi*o"so</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[It., adj. See <er>Gracious</er>.]</ety> (<fld>Mus.</fld>) <def>Gracefully; smoothly; elegantly.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gre</ent><br/
@@ -20137,7 +20137,7 @@ Close <qex>grazer</qex>, finds wherewith to ease her want.</q> <rj><qau>J. Phili
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grecque</ent><br/
-||<hw>Grecque</hw> <pr>(gr<ecr/k)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>An ornament supposed to be of Greek origin, esp. a fret or meander.</def><br/
+\'d8<hw>Grecque</hw> <pr>(gr<ecr/k)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>An ornament supposed to be of Greek origin, esp. a fret or meander.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gree</ent><br/
@@ -20627,7 +20627,7 @@ Call forth the <qex>greens</qex>, and wake the rising flowers.</q> <rj><qau>Pope
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gregarinae</ent><br/
-||<hw>Greg`a*ri"n<ae/</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. <ets>Gregarina</ets> the typical genus, fr. L. <ets>gregarius</ets>.  See <er>Gregarious</er>.]</ety> <fld>(Zool.)</fld> <def>An order of Protozoa, allied to the Rhizopoda, and parasitic in other animals, as in the earthworm, lobster, etc.   When adult, they have a small, wormlike body inclosing a nucleus, but without external organs; in one of the young stages, they are am<oe/biform; -- called also <altname>Gregarinida</altname>, and <altname>Gregarinaria</altname>.</def><br/
+\'d8<hw>Greg`a*ri"n<ae/</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. <ets>Gregarina</ets> the typical genus, fr. L. <ets>gregarius</ets>.  See <er>Gregarious</er>.]</ety> <fld>(Zool.)</fld> <def>An order of Protozoa, allied to the Rhizopoda, and parasitic in other animals, as in the earthworm, lobster, etc.   When adult, they have a small, wormlike body inclosing a nucleus, but without external organs; in one of the young stages, they are am<oe/biform; -- called also <altname>Gregarinida</altname>, and <altname>Gregarinaria</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gregarine</ent><br/
@@ -20635,7 +20635,7 @@ Call forth the <qex>greens</qex>, and wake the rising flowers.</q> <rj><qau>Pope
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gregarinida</ent><br/
-||<hw>Greg`a*rin"i*da</hw> <pr>(?)</pr> <def>Gregarin<ae/.</def><br/
+\'d8<hw>Greg`a*rin"i*da</hw> <pr>(?)</pr> <def>Gregarin<ae/.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gregarious</ent><br/
@@ -21185,7 +21185,7 @@ On wigwam log, and tree, and stone.</q> <rj><qau>Whittier.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grille</ent><br/
-||<hw>Grille</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F. See <er>Grill</er>, <pos>v. t.</pos>]</ety> <def>A lattice or grating.</def><br/
+\'d8<hw>Grille</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F. See <er>Grill</er>, <pos>v. t.</pos>]</ety> <def>A lattice or grating.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The <qex>grille</qex> which formed part of the gate.</q> <rj><qau>L. Oliphant.</qau></rj><br/
@@ -21381,7 +21381,7 @@ Into the common prison, there to <qex>grind</qex>.</q> <rj><qau>Milton.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grindelia</ent><br/
-||<hw>Grin*de"li*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. Named after D. H. <ets>Grindel</ets>, a Russian.]</ety> <fld>(Med.)</fld> <def>The dried stems and leaves of tarweed (<gen>Grindelia</gen>), used as a remedy in asthma and bronchitis.</def><br/
+\'d8<hw>Grin*de"li*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. Named after D. H. <ets>Grindel</ets>, a Russian.]</ety> <fld>(Med.)</fld> <def>The dried stems and leaves of tarweed (<gen>Grindelia</gen>), used as a remedy in asthma and bronchitis.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grinder</ent><br/
@@ -21619,7 +21619,7 @@ Into the common prison, there to <qex>grind</qex>.</q> <rj><qau>Milton.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gris</ent><br/
-||<hw>Gris</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[OF. & F., fr. LL. <ets>griseus</ets>; of German origin; cf. MHG. <ets>gris</ets>, G. <ets>greis</ets>, hoary.  Cf. <er>Grizzle</er>.]</ety> <def>Gray.</def> <mark>[R.]</mark> <au>Chaucer.</au><br/
+\'d8<hw>Gris</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[OF. & F., fr. LL. <ets>griseus</ets>; of German origin; cf. MHG. <ets>gris</ets>, G. <ets>greis</ets>, hoary.  Cf. <er>Grizzle</er>.]</ety> <def>Gray.</def> <mark>[R.]</mark> <au>Chaucer.</au><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gris</ent><br/
@@ -21631,7 +21631,7 @@ Into the common prison, there to <qex>grind</qex>.</q> <rj><qau>Milton.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grisaille</ent><br/
-||<hw>Gri"saille`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., from gris gray.]</ety> <sn>1.</sn> <fld>(Fine Arts)</fld> <def>Decorative painting in gray monochrome; -- used in English especially for painted glass.</def><br/
+\'d8<hw>Gri"saille`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., from gris gray.]</ety> <sn>1.</sn> <fld>(Fine Arts)</fld> <def>Decorative painting in gray monochrome; -- used in English especially for painted glass.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A kind of French fancy dress goods.</def>  <rj><au>Knight.</au></rj><br/
@@ -21658,7 +21658,7 @@ Is smoothed by that below.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grisette</ent><br/
-||<hw>Gri*sette"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. grisette a gray woolen cloth, fr. <ets>gris</ets> gray. Grisettes were so called because they wore gray gowns made of this stuff.  See <er>Gars</er>.]</ety> <def>A French girl or young married woman of the lower class; more frequently, a young working woman who is fond of gallantry.</def>  <rj><au>Sterne.</au></rj><br/
+\'d8<hw>Gri*sette"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. grisette a gray woolen cloth, fr. <ets>gris</ets> gray. Grisettes were so called because they wore gray gowns made of this stuff.  See <er>Gars</er>.]</ety> <def>A French girl or young married woman of the lower class; more frequently, a young working woman who is fond of gallantry.</def>  <rj><au>Sterne.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Griskin</ent><br/
@@ -22142,7 +22142,7 @@ Wrought in a sad sincerity.</q> <rj><qau>Emerson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gros</ent><br/
-||<hw>Gros</hw> <pr>(gr<omac/)</pr>, <pos>n.</pos> <ety>[F. See <er>Gross</er>.]</ety> <def>A heavy silk with a dull finish; <as>as, <ex>gros</ex> de Naples; <ex>gros</ex> de Tours.</as></def><br/
+\'d8<hw>Gros</hw> <pr>(gr<omac/)</pr>, <pos>n.</pos> <ety>[F. See <er>Gross</er>.]</ety> <def>A heavy silk with a dull finish; <as>as, <ex>gros</ex> de Naples; <ex>gros</ex> de Tours.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grosbeak</ent><br/
@@ -22156,7 +22156,7 @@ Wrought in a sad sincerity.</q> <rj><qau>Emerson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Groschen</ent><br/
-||<hw>Grosch"en</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.]</ety> <def>A small silver coin and money of account of Germany, worth about two cents. It was discontinued in the new monetary system of the empire and not subsequeently used.</def><br/
+\'d8<hw>Grosch"en</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.]</ety> <def>A small silver coin and money of account of Germany, worth about two cents. It was discontinued in the new monetary system of the empire and not subsequeently used.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Grosgrain</ent><br/
@@ -22248,7 +22248,7 @@ Wrought in a sad sincerity.</q> <rj><qau>Emerson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grossularia</ent><br/
-||<hw>Gros`su*la"ria</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Grossular</er>.]</ety> <fld>(Min.)</fld> <def>Same as <er>Grossular</er>.</def><br/
+\'d8<hw>Gros`su*la"ria</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Grossular</er>.]</ety> <fld>(Min.)</fld> <def>Same as <er>Grossular</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grossulin</ent><br/
@@ -23148,7 +23148,7 @@ To <qex>grunt</qex> and sweat under a weary life.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gruyere cheese</ent><br/
-||<hw>Gru"y<egrave/re` cheese"</hw> <pr>(<?/)</pr>. <def>A kind of cheese made at <etsep>Gruy<egrave/re</etsep>, <country>Switzerland</country>.  It is a firm cheese containing numerous cells, and is known in the United States as <altname>Schweitzerk<aum/se</altname>.</def><br/
+\'d8<hw>Gru"y<egrave/re` cheese"</hw> <pr>(<?/)</pr>. <def>A kind of cheese made at <etsep>Gruy<egrave/re</etsep>, <country>Switzerland</country>.  It is a firm cheese containing numerous cells, and is known in the United States as <altname>Schweitzerk<aum/se</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gry</ent><br/
@@ -23167,7 +23167,7 @@ To <qex>grunt</qex> and sweat under a weary life.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gryllus</ent><br/
-||<hw>Gryl"lus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., <ets>locust</ets>.]</ety> <fld>(Zool.)</fld> <def>A genus of insects including the common crickets.</def><br/
+\'d8<hw>Gryl"lus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., <ets>locust</ets>.]</ety> <fld>(Zool.)</fld> <def>A genus of insects including the common crickets.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grype</ent><br/
@@ -23179,7 +23179,7 @@ To <qex>grunt</qex> and sweat under a weary life.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gryphaea</ent><br/
-||<hw>Gry*ph<ae/"a</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. I <ets>gryphus</ets>, or <ets>qryps</ets>, gen. <ets>gryphis</ets>, a <ets>griffin</ets>.]</ety> <fld>(Zool.)</fld> <def>A genus of cretaceous fossil shells allied to the oyster.</def><br/
+\'d8<hw>Gry*ph<ae/"a</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. I <ets>gryphus</ets>, or <ets>qryps</ets>, gen. <ets>gryphis</ets>, a <ets>griffin</ets>.]</ety> <fld>(Zool.)</fld> <def>A genus of cretaceous fossil shells allied to the oyster.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gryphite</ent><br/
@@ -23191,7 +23191,7 @@ To <qex>grunt</qex> and sweat under a weary life.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grysbok</ent><br/
-||<hw>Grys"bok</hw> <pr>(?)</pr> <pos>n.</pos> <ety>[D.  <ets>grijs</ets> gray + <ets>bok</ets> buck.]</ety> <fld>(Zool.)</fld> <def>A small South African antelope (<spn>Neotragus melanotis</spn>).  It is speckled with gray and chestnut, above; the under parts are reddish fawn.</def><br/
+\'d8<hw>Grys"bok</hw> <pr>(?)</pr> <pos>n.</pos> <ety>[D.  <ets>grijs</ets> gray + <ets>bok</ets> buck.]</ety> <fld>(Zool.)</fld> <def>A small South African antelope (<spn>Neotragus melanotis</spn>).  It is speckled with gray and chestnut, above; the under parts are reddish fawn.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>G-spot</ent><br/
@@ -23217,7 +23217,7 @@ To <qex>grunt</qex> and sweat under a weary life.</q> <rj><qau>Shak.</qau></rj><
 [<source>PJC</source>]</p>
 
 <p><ent>Guacharo</ent><br/
-||<hw>Gua*cha"ro</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. Sp. <ets>gu<aacute/charo</ets> sickly, dropsical, <ets>guacharaca</ets> a sort of bird.]</ety> <fld>(Zool.)</fld> <def>A nocturnal bird of South America and Trinidad (<spn>Steatornis Caripensis</spn>, or <spn>S. steatornis</spn>); -- called also <altname>oilbird</altname>.</def><br/
+\'d8<hw>Gua*cha"ro</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. Sp. <ets>gu<aacute/charo</ets> sickly, dropsical, <ets>guacharaca</ets> a sort of bird.]</ety> <fld>(Zool.)</fld> <def>A nocturnal bird of South America and Trinidad (<spn>Steatornis Caripensis</spn>, or <spn>S. steatornis</spn>); -- called also <altname>oilbird</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ It resembles the goatsuckers and nighthawks, but feeds on fruits, and nests in caverns. A pure oil, used in place of butter, is extracted from the young by the natives.</note><br/
@@ -23296,11 +23296,11 @@ To <qex>grunt</qex> and sweat under a weary life.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Guara</ent><br/
-||<hw>Gua"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Braz. <ets>guar<aacute/</ets>.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>The scarlet ibis. See <er>Ibis</er>.</def> <sd>(b)</sd> <def>A large-maned wild dog of South America (<spn>Canis jubatus</spn>) -- named from its cry.</def><br/
+\'d8<hw>Gua"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Braz. <ets>guar<aacute/</ets>.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>The scarlet ibis. See <er>Ibis</er>.</def> <sd>(b)</sd> <def>A large-maned wild dog of South America (<spn>Canis jubatus</spn>) -- named from its cry.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Guarana</ent><br/
-||<hw>Gua"ra*na`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pg.]</ety> <fld>(Med.)</fld> <def>A preparation from the seeds of <spn>Paullinia sorbilis</spn>, a woody climber of Brazil, used in making an astringent drink, and also in the cure of headache.</def><br/
+\'d8<hw>Gua"ra*na`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pg.]</ety> <fld>(Med.)</fld> <def>A preparation from the seeds of <spn>Paullinia sorbilis</spn>, a woody climber of Brazil, used in making an astringent drink, and also in the cure of headache.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Guaranine</ent><br/
@@ -23640,11 +23640,11 @@ For this fool <qex>gudgeon</qex>, this opinion.</q> <rj><qau>Shak.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Guenon</ent><br/
-||<hw>Guenon"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Zool.)</fld> <def>Any of several long-tailed arboreal African monkeys, of the genera <gen>Cercopithecus</gen> and <gen>Erythrocebus</gen> (formerly classified as <gen>Cercocebus</gen>), such as as the green monkey (<spn>Cercopithecus callitrichus</spn>) and grivet (<spn>Cercopithecus griseo-viridis</spn>).</def><br/
+\'d8<hw>Guenon"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Zool.)</fld> <def>Any of several long-tailed arboreal African monkeys, of the genera <gen>Cercopithecus</gen> and <gen>Erythrocebus</gen> (formerly classified as <gen>Cercocebus</gen>), such as as the green monkey (<spn>Cercopithecus callitrichus</spn>) and grivet (<spn>Cercopithecus griseo-viridis</spn>).</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Gueparde</ent><br/
-||<hw>Gue`parde"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F.  <ets>gu<eacute/pard</ets>.]</ety> <fld>(Zool.)</fld> <def>The cheetah.</def><br/
+\'d8<hw>Gue`parde"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F.  <ets>gu<eacute/pard</ets>.]</ety> <fld>(Zool.)</fld> <def>The cheetah.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Guerdon</ent><br/
@@ -23882,7 +23882,7 @@ That <qex>guested</qex> here so late.</q> <rj><qau>Chapman.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Guicowar</ent><br/
-||<hw>Gui"co*war</hw> <pr>(?)</pr>, <pos>n.</pos> <def>[Mahratta <ets>g<amac/ekw<amac/r</ets>, prop., a cowherd.]  The title of the sovereign of Guzerat, in Western India; -- generally called the <altname>Guicowar of Baroda</altname>, which is the capital of the country.</def><br/
+\'d8<hw>Gui"co*war</hw> <pr>(?)</pr>, <pos>n.</pos> <def>[Mahratta <ets>g<amac/ekw<amac/r</ets>, prop., a cowherd.]  The title of the sovereign of Guzerat, in Western India; -- generally called the <altname>Guicowar of Baroda</altname>, which is the capital of the country.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Guidable</ent><br/
@@ -24051,7 +24051,7 @@ That <qex>guested</qex> here so late.</q> <rj><qau>Chapman.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Guillemet</ent><br/
-||<hw>Guil"le*met`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A quotation mark.</def> <mark>[R.]</mark><br/
+\'d8<hw>Guil"le*met`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A quotation mark.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Guillemot</ent><br/
@@ -24066,7 +24066,7 @@ That <qex>guested</qex> here so late.</q> <rj><qau>Chapman.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Guilloche</ent><br/
-||<hw>Guil"loche`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>guillochis</ets>; -- said to be fr. <etsep>Guillot</etsep>, the inventor of a machine for carving it.]</ety> <fld>(Arch.)</fld> <sn>1.</sn> <def>An ornament in the form of two or more bands or strings twisted over each other in a continued series, leaving circular openings which are filled with round ornaments.</def><br/
+\'d8<hw>Guil"loche`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>guillochis</ets>; -- said to be fr. <etsep>Guillot</etsep>, the inventor of a machine for carving it.]</ety> <fld>(Arch.)</fld> <sn>1.</sn> <def>An ornament in the form of two or more bands or strings twisted over each other in a continued series, leaving circular openings which are filled with round ornaments.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>In ornamental art, any pattern made by interlacing curved lines.</def><br/
@@ -24162,7 +24162,7 @@ With <qex>guilt</qex> of his own sin.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Guimpe</ent><br/
-||<hw>Guimpe</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See 2d <er>Gimp</er>.]</ety> <sn>1.</sn> <def>A kind of short blouse or chemisette, worn under a low-necked dress such as a jumper or pinafore.</def> <wns>[wns=2]</wns><br/
+\'d8<hw>Guimpe</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See 2d <er>Gimp</er>.]</ety> <sn>1.</sn> <def>A kind of short blouse or chemisette, worn under a low-necked dress such as a jumper or pinafore.</def> <wns>[wns=2]</wns><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn> <def>a piece of starched cloth covering the shoulders of a nun's habit.</def> <wns>[wns=1]</wns><br/
@@ -24263,7 +24263,7 @@ ever yet have overpowered the imagination.</q> <rj><qau>Burke.</qau></rj><br/
 
 <p><ent>gula</ent><br/
 <ent>gulae</ent><br/
-||<hw>Gu"la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Gulae</plw> <pr>(#)</pr>, E. <plw>Gulas</plw> <pr>(#)</pr>.</plu> <ety>[L., the throat, gullet.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <sd>(a)</sd> <def>The upper front of the neck, next to the chin; the upper throat.</def> <sd>(b)</sd> <def>A plate which in most insects supports the submentum.</def><br/
+\'d8<hw>Gu"la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Gulae</plw> <pr>(#)</pr>, E. <plw>Gulas</plw> <pr>(#)</pr>.</plu> <ety>[L., the throat, gullet.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <sd>(a)</sd> <def>The upper front of the neck, next to the chin; the upper throat.</def> <sd>(b)</sd> <def>A plate which in most insects supports the submentum.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Arch.)</fld> <def>A capping molding. Same as <er>Cymatium</er>.</def><br/
@@ -24569,7 +24569,7 @@ To avoid <qex>gullage</qex>, sir, by such a creature?</q> <rj><qau>B. Jonson</qa
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Gumma</ent><br/
-||<hw>Gum"ma</hw> <pr>(g<ucr/m"m<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gummata</plw> <pr>(#)</pr>.</plu> <ety>[NL. So called from its gummy contents See <er>Gum</er>.]</ety> <fld>(Med.)</fld> <def>A kind of soft tumor, usually of syphilitic origin.</def><br/
+\'d8<hw>Gum"ma</hw> <pr>(g<ucr/m"m<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gummata</plw> <pr>(#)</pr>.</plu> <ety>[NL. So called from its gummy contents See <er>Gum</er>.]</ety> <fld>(Med.)</fld> <def>A kind of soft tumor, usually of syphilitic origin.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gummatous</ent><br/
@@ -24708,7 +24708,7 @@ When fire is in the powder runne.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Guna</ent><br/
-||<hw>Gu"na</hw> <pr>(g<oomac/"n<adot/)</pr>, <pos>n.</pos> <ety>[Skr. <ets>guna</ets> quality.]</ety> <def>In Sanskrit grammar, a lengthening of the simple vowels <it>a</it>, <it>i</it>, <it>e</it>, by prefixing an <it>a</it> element. The term is sometimes used to denote the same vowel change in other languages.</def><br/
+\'d8<hw>Gu"na</hw> <pr>(g<oomac/"n<adot/)</pr>, <pos>n.</pos> <ety>[Skr. <ets>guna</ets> quality.]</ety> <def>In Sanskrit grammar, a lengthening of the simple vowels <it>a</it>, <it>i</it>, <it>e</it>, by prefixing an <it>a</it> element. The term is sometimes used to denote the same vowel change in other languages.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gunarchy</ent><br/
@@ -24736,7 +24736,7 @@ When fire is in the powder runne.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gunjah</ent><br/
-||<hw>Gun"jah</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>See <er>Ganja</er>.</def><br/
+\'d8<hw>Gun"jah</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>See <er>Ganja</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>gunk</ent><br/
@@ -25157,7 +25157,7 @@ bitter; whereas there is nothing <qex>gustable</qex> sweeter.</q> <rj><qau>Harve
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gustoso</ent><br/
-||<hw>Gus*to"so</hw> <pr>(?)</pr>, <pos>a. & adv.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Tasteful; in a tasteful, agreeable manner.</def><br/
+\'d8<hw>Gus*to"so</hw> <pr>(?)</pr>, <pos>a. & adv.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Tasteful; in a tasteful, agreeable manner.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gusty</ent><br/
@@ -25213,7 +25213,7 @@ name of its vowels, used it as freely as he pleased.</q> <rj><qau>Addison.</qau>
 
 <p><ent>gutta</ent><br/
 <ent>guttae</ent><br/
-||<hw>Gut"ta</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Guttae</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <sn>1.</sn> <def>A drop.</def><br/
+\'d8<hw>Gut"ta</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Guttae</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <sn>1.</sn> <def>A drop.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Arch.)</fld> <def>One of a series of ornaments, in the form of a frustum of a cone, attached to the lower part of the triglyphs, and also to the lower faces of the mutules, in the Doric order; -- called also <altname>campana</altname>, and <altname>drop</altname>.</def><br/
@@ -25286,7 +25286,7 @@ name of its vowels, used it as freely as he pleased.</q> <rj><qau>Addison.</qau>
 [<source>PJC</source>]</p>
 
 <p><ent>Guttifer</ent><br/
-||<hw>Gut"ti*fer`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>gutta</ets> drop+ <ets>ferre</ets> to bear.]</ety> <fld>(Bot.)</fld> <def>A plant that exudes gum or resin.</def><br/
+\'d8<hw>Gut"ti*fer`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>gutta</ets> drop+ <ets>ferre</ets> to bear.]</ety> <fld>(Bot.)</fld> <def>A plant that exudes gum or resin.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Guttiferous</ent><br/
@@ -25554,7 +25554,7 @@ Of <qex>gymnic</qex> artists, wrestlers, riders, runners?</q> <rj><qau>Milton.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gymnoblastea</ent><br/
-||<hw>Gym`no*blas"te*a</hw> <pr>(j<icr/m`n<osl/*bl<acr/s"t<esl/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL.  fr. Gr. <grk>gymno`s</grk> naked + <grk>blasta`nein</grk> to sprout.]</ety> <fld>(Zool.)</fld> <def>The Athecata; -- so called because the medusoid buds are not inclosed in a capsule.</def><br/
+\'d8<hw>Gym`no*blas"te*a</hw> <pr>(j<icr/m`n<osl/*bl<acr/s"t<esl/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL.  fr. Gr. <grk>gymno`s</grk> naked + <grk>blasta`nein</grk> to sprout.]</ety> <fld>(Zool.)</fld> <def>The Athecata; -- so called because the medusoid buds are not inclosed in a capsule.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gymnoblastic</ent><br/
@@ -25566,15 +25566,15 @@ Of <qex>gymnic</qex> artists, wrestlers, riders, runners?</q> <rj><qau>Milton.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gymnochroa</ent><br/
-||<hw>Gym*noch"ro*a</hw> <pr>(j<icr/m*n<ocr/k"r<osl/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>gymno`s</grk> naked + <grk>chro`a</grk> skin, body.]</ety> <fld>(Zool.)</fld> <def>A division of Hydroidea including the hydra. See <er>Hydra</er>.</def><br/
+\'d8<hw>Gym*noch"ro*a</hw> <pr>(j<icr/m*n<ocr/k"r<osl/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>gymno`s</grk> naked + <grk>chro`a</grk> skin, body.]</ety> <fld>(Zool.)</fld> <def>A division of Hydroidea including the hydra. See <er>Hydra</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gymnocladus</ent><br/
-||<hw>Gym*noc"la*dus</hw> <pr>(j<icr/m*n<ocr/"l<adot/*d<ucr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>gymno`s</grk> naked + <grk>kla`dos</grk> a branch.]</ety> <fld>(Bot.)</fld> <def>A genus of leguminous plants; the Kentucky coffee tree. The leaves are cathartic, and the seeds a substitute for coffee.</def><br/
+\'d8<hw>Gym*noc"la*dus</hw> <pr>(j<icr/m*n<ocr/"l<adot/*d<ucr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>gymno`s</grk> naked + <grk>kla`dos</grk> a branch.]</ety> <fld>(Bot.)</fld> <def>A genus of leguminous plants; the Kentucky coffee tree. The leaves are cathartic, and the seeds a substitute for coffee.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gymnocopa</ent><br/
-||<hw>Gym`no*co"pa</hw> <pr>(j<icr/m`n<osl/*k<omac/"p<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>gymno`s</grk> naked + <grk>kw`ph</grk> an oar.]</ety> <fld>(Zool.)</fld> <def>A group of transparent, free-swimming Annelida, having set<ae/ only in the cephalic appendages.</def><br/
+\'d8<hw>Gym`no*co"pa</hw> <pr>(j<icr/m`n<osl/*k<omac/"p<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>gymno`s</grk> naked + <grk>kw`ph</grk> an oar.]</ety> <fld>(Zool.)</fld> <def>A group of transparent, free-swimming Annelida, having set<ae/ only in the cephalic appendages.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gymnocyte</ent><br/
@@ -25594,15 +25594,15 @@ Of <qex>gymnic</qex> artists, wrestlers, riders, runners?</q> <rj><qau>Milton.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gymnoglossa</ent><br/
-||<hw>Gym`no*glos"sa</hw> <pr>(j<icr/m`n<osl/*gl<ocr/s"s<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>gymno`s</grk> naked + <grk>glw^ssa</grk> tongue.]</ety> <fld>(Zool.)</fld> <def>A division of gastropods in which the odontophore is without teeth.</def></p>
+\'d8<hw>Gym`no*glos"sa</hw> <pr>(j<icr/m`n<osl/*gl<ocr/s"s<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>gymno`s</grk> naked + <grk>glw^ssa</grk> tongue.]</ety> <fld>(Zool.)</fld> <def>A division of gastropods in which the odontophore is without teeth.</def></p>
 
 <p><ent>Gymnolaemata</ent><br/
 <ent>Gymnolaema</ent><br/
-<mhw>{ ||<hw>Gym`no*l<ae/"ma</hw> <pr>(j<icr/m`n<osl/*l<emac/"m<adot/)</pr>, ||<hw>Gym`no*l<ae/"ma*ta</hw> <pr>(j<icr/m`n<osl/*m<adot/*t<adot/)</pr>, }</mhw> <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>gymno`s</grk> naked + <grk>laimo`s</grk> the throat.]</ety> <fld>(Zool.)</fld> <def>An order of Bryozoa, having no epistome.</def><br/
+<mhw>{ \'d8<hw>Gym`no*l<ae/"ma</hw> <pr>(j<icr/m`n<osl/*l<emac/"m<adot/)</pr>, \'d8<hw>Gym`no*l<ae/"ma*ta</hw> <pr>(j<icr/m`n<osl/*m<adot/*t<adot/)</pr>, }</mhw> <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>gymno`s</grk> naked + <grk>laimo`s</grk> the throat.]</ety> <fld>(Zool.)</fld> <def>An order of Bryozoa, having no epistome.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gymnonoti</ent><br/
-||<hw>Gym`no*no"ti</hw> <pr>(j<icr/m`n<osl/*n<omac/"t<imac/)</pr>, <pos>n. pl.</pos> <ety>[NL.  fr. Gr. <grk>gymno`s</grk> naked + <grk>nw^tos</grk> the back.]</ety> <fld>(Zool.)</fld> <def>The order of fishes which includes the Gymnotus or electrical eel.  The dorsal fin is wanting.</def><br/
+\'d8<hw>Gym`no*no"ti</hw> <pr>(j<icr/m`n<osl/*n<omac/"t<imac/)</pr>, <pos>n. pl.</pos> <ety>[NL.  fr. Gr. <grk>gymno`s</grk> naked + <grk>nw^tos</grk> the back.]</ety> <fld>(Zool.)</fld> <def>The order of fishes which includes the Gymnotus or electrical eel.  The dorsal fin is wanting.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gymnopaedic</ent><br/
@@ -25610,11 +25610,11 @@ Of <qex>gymnic</qex> artists, wrestlers, riders, runners?</q> <rj><qau>Milton.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gymnophiona</ent><br/
-||<hw>Gym`no*phi"o*na</hw> <pr>(j<icr/m`n<osl/*f<imac/"<osl/*n<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>gymno`s</grk> naked + <grk>'ofio`neos</grk>  serpentlike.]</ety> <fld>(Zool.)</fld> <def>An order of Amphibia, having a long, annulated, snakelike body. See <er>Ophiomorpha</er>.</def><br/
+\'d8<hw>Gym`no*phi"o*na</hw> <pr>(j<icr/m`n<osl/*f<imac/"<osl/*n<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>gymno`s</grk> naked + <grk>'ofio`neos</grk>  serpentlike.]</ety> <fld>(Zool.)</fld> <def>An order of Amphibia, having a long, annulated, snakelike body. See <er>Ophiomorpha</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gymnophthalmata</ent><br/
-||<hw>Gym`noph*thal"ma*ta</hw> <pr>(j<icr/m`n<ocr/f*th<acr/l"m<adot/*t<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>gymno`s</grk> naked + <grk>'ofqalmo`s</grk> the eye.]</ety> <fld>(Zool.)</fld> <def>A group of acalephs, including the naked-eyed medus<ae/; the hydromedus<ae/. Most of them are known to be the free-swimming progeny (gonophores) of hydroids.</def><br/
+\'d8<hw>Gym`noph*thal"ma*ta</hw> <pr>(j<icr/m`n<ocr/f*th<acr/l"m<adot/*t<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>gymno`s</grk> naked + <grk>'ofqalmo`s</grk> the eye.]</ety> <fld>(Zool.)</fld> <def>A group of acalephs, including the naked-eyed medus<ae/; the hydromedus<ae/. Most of them are known to be the free-swimming progeny (gonophores) of hydroids.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gymnoplast</ent><br/
@@ -25626,7 +25626,7 @@ Of <qex>gymnic</qex> artists, wrestlers, riders, runners?</q> <rj><qau>Milton.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gymnosomata</ent><br/
-||<hw>Gym`no*so"ma*ta</hw> <pr>(j<icr/m"n<osl/*s<omac/"m<adot/*t<adot/ <or/ j<icr/m"n<osl/*s<ocr/m"<adot/*t<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>gymno`s</grk> naked + <grk>sw^ma</grk>, <grk>sw`matos</grk>, the body.]</ety> <fld>(Zool.)</fld> <def>One of the orders of Pteropoda.  They have no shell.</def><br/
+\'d8<hw>Gym`no*so"ma*ta</hw> <pr>(j<icr/m"n<osl/*s<omac/"m<adot/*t<adot/ <or/ j<icr/m"n<osl/*s<ocr/m"<adot/*t<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>gymno`s</grk> naked + <grk>sw^ma</grk>, <grk>sw`matos</grk>, the body.]</ety> <fld>(Zool.)</fld> <def>One of the orders of Pteropoda.  They have no shell.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gymnosophist</ent><br/
@@ -25646,11 +25646,11 @@ Of <qex>gymnic</qex> artists, wrestlers, riders, runners?</q> <rj><qau>Milton.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gymnotoka</ent><br/
-||<hw>Gym*not"o*ka</hw> <pr>(j<icr/m*n<ocr/t"<osl/*k<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>gymno`s</grk> naked + <grk>to`kos</grk> a bringing forth.]</ety> <fld>(Zool.)</fld> <def>The Athecata.</def><br/
+\'d8<hw>Gym*not"o*ka</hw> <pr>(j<icr/m*n<ocr/t"<osl/*k<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>gymno`s</grk> naked + <grk>to`kos</grk> a bringing forth.]</ety> <fld>(Zool.)</fld> <def>The Athecata.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gymnotus</ent><br/
-||<hw>Gym*no"tus</hw> <pr>(j<icr/m*n<omac/"t<ucr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>gymno`s</grk> naked + <grk>nw^tos</grk> the back: cf.  F. <ets>gymnote</ets>.]</ety> <fld>(Zool.)</fld> <def>A genus of South American fresh-water fishes, including the <spn>Gymnotus electricus</spn>, or electric eel.  It has a greenish, eel-like body, and is possessed of electric power.</def><br/
+\'d8<hw>Gym*no"tus</hw> <pr>(j<icr/m*n<omac/"t<ucr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>gymno`s</grk> naked + <grk>nw^tos</grk> the back: cf.  F. <ets>gymnote</ets>.]</ety> <fld>(Zool.)</fld> <def>A genus of South American fresh-water fishes, including the <spn>Gymnotus electricus</spn>, or electric eel.  It has a greenish, eel-like body, and is possessed of electric power.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>One fearful shock, fearful but momentary, like that from the electric blow of the <qex>gymnotus</qex>.</q> <rj><qau>De Quincey.</qau></rj><br/
@@ -25662,7 +25662,7 @@ Of <qex>gymnic</qex> artists, wrestlers, riders, runners?</q> <rj><qau>Milton.</
 
 <p><ent>Gynaecium</ent><br/
 <ent>Gynaeceum</ent><br/
-<mhw>{ ||<hw>Gyn`<ae/*ce"um</hw> <pr>(j<icr/n`<esl/*s<emac/"<ucr/m)</pr>, ||<hw>Gyn`<ae/*ci"um</hw> <pr>(j<icr/n`<esl/*s<imac/"<ucr/m)</pr>, }</mhw> <pos>n.</pos> <ety>[L., fr. Gr. <grk>gynaikei^on</grk> women's apartments, fr. <grk>gynh`</grk> a woman.]</ety> <def>That part of a large house, among the ancients, exclusively appropriated to women.</def> <altsp>[Written also <asp>gyneceum</asp>, <asp>gynecium</asp>.]</altsp>  <rj><au>Tennyson.</au></rj><br/
+<mhw>{ \'d8<hw>Gyn`<ae/*ce"um</hw> <pr>(j<icr/n`<esl/*s<emac/"<ucr/m)</pr>, \'d8<hw>Gyn`<ae/*ci"um</hw> <pr>(j<icr/n`<esl/*s<imac/"<ucr/m)</pr>, }</mhw> <pos>n.</pos> <ety>[L., fr. Gr. <grk>gynaikei^on</grk> women's apartments, fr. <grk>gynh`</grk> a woman.]</ety> <def>That part of a large house, among the ancients, exclusively appropriated to women.</def> <altsp>[Written also <asp>gyneceum</asp>, <asp>gynecium</asp>.]</altsp>  <rj><au>Tennyson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gynaecian</ent><br/
@@ -25689,7 +25689,7 @@ Of <qex>gymnic</qex> artists, wrestlers, riders, runners?</q> <rj><qau>Milton.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gynandria</ent><br/
-||<hw>Gy*nan"dri*a</hw> <pr>(j<icr/*n<acr/n"dr<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Gynandrian</er>.]</ety> <fld>(Bot.)</fld> <def>A class of plants in the Linn<ae/an system, whose stamens grow out of, or are united with, the pistil.</def></p>
+\'d8<hw>Gy*nan"dri*a</hw> <pr>(j<icr/*n<acr/n"dr<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Gynandrian</er>.]</ety> <fld>(Bot.)</fld> <def>A class of plants in the Linn<ae/an system, whose stamens grow out of, or are united with, the pistil.</def></p>
 
 <p><ent>Gynandrous</ent><br/
 <ent>Gynandrian</ent><br/
@@ -25717,7 +25717,7 @@ Of <qex>gymnic</qex> artists, wrestlers, riders, runners?</q> <rj><qau>Milton.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gyneceum</ent><br/
-||<hw>Gyn`e*ce"um</hw> <pr>(j<icr/n`<esl/*s<emac/"<ucr/m)</pr>, <pos>n.</pos> <def>See <er>Gyn<ae/ceum</er>.</def><br/
+\'d8<hw>Gyn`e*ce"um</hw> <pr>(j<icr/n`<esl/*s<emac/"<ucr/m)</pr>, <pos>n.</pos> <def>See <er>Gyn<ae/ceum</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gynecian</ent><br/
@@ -25748,7 +25748,7 @@ Of <qex>gymnic</qex> artists, wrestlers, riders, runners?</q> <rj><qau>Milton.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gynephobia</ent><br/
-||<hw>Gyn`e*pho"bi*a</hw> <pr>(j<icr/n`<esl/*f<omac/"b<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>gynh`</grk> a woman + <grk>fo`bos</grk> fear.]</ety> <def>Hatred of women; repugnance to the society of women.</def>  <rj><au>Holmes.</au></rj><br/
+\'d8<hw>Gyn`e*pho"bi*a</hw> <pr>(j<icr/n`<esl/*f<omac/"b<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>gynh`</grk> a woman + <grk>fo`bos</grk> fear.]</ety> <def>Hatred of women; repugnance to the society of women.</def>  <rj><au>Holmes.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gynne</ent><br/
@@ -25775,7 +25775,7 @@ Of <qex>gymnic</qex> artists, wrestlers, riders, runners?</q> <rj><qau>Milton.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gynoecium</ent><br/
-||<hw>Gy*n<oe/"ci*um</hw> <pr>(j<icr/*n<emac/"s<icr/*<ucr/m <or/ -sh<icr/*<ucr/m)</pr>, <pos>n.</pos> <ety>[NL., fr.  Gr. <grk>gynh`</grk> a woman + <grk>o'i^kos</grk> house.]</ety> <fld>(Bot.)</fld> <def>The pistils of a flower, taken collectively. See <xex>Illust.</xex> of <er>Carpophore</er>.</def><br/
+\'d8<hw>Gy*n<oe/"ci*um</hw> <pr>(j<icr/*n<emac/"s<icr/*<ucr/m <or/ -sh<icr/*<ucr/m)</pr>, <pos>n.</pos> <ety>[NL., fr.  Gr. <grk>gynh`</grk> a woman + <grk>o'i^kos</grk> house.]</ety> <fld>(Bot.)</fld> <def>The pistils of a flower, taken collectively. See <xex>Illust.</xex> of <er>Carpophore</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gynophore</ent><br/
@@ -25873,7 +25873,7 @@ Beguiled me to the very heart of loss.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gyracanthus</ent><br/
-||<hw>Gyr`a*can"thus</hw> <pr>(j<icr/r`<adot/*k<acr/n"th<ucr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>gyro`s</grk> round + <grk>'a`kanqa</grk> spine.]</ety> <fld>(Paleon.)</fld> <def>A genus of fossil fishes, found in Devonian and carboniferous strata;  -- so named from their round, sculptured spines.</def><br/
+\'d8<hw>Gyr`a*can"thus</hw> <pr>(j<icr/r`<adot/*k<acr/n"th<ucr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>gyro`s</grk> round + <grk>'a`kanqa</grk> spine.]</ety> <fld>(Paleon.)</fld> <def>A genus of fossil fishes, found in Devonian and carboniferous strata;  -- so named from their round, sculptured spines.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gyral</ent><br/
@@ -25934,7 +25934,7 @@ Beguiled me to the very heart of loss.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gyrencephala</ent><br/
-||<hw>Gyr`en*ceph"a*la</hw> <pr>(j<icr/r`<ecr/n*s<ecr/f"<adot/*l<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL.  fr. Gr. <grk>gyro`s</grk> round + <grk>'egke`falos</grk> the brain.]</ety> <fld>(Zool.)</fld> <def>The higher orders of Mammalia, in which the cerebrum is convoluted.</def> -- <wordforms><wf>Gyr`en*ceph"a*lous</wf> <pr>(j<icr/r`<ecr/n*s<ecr/f"<adot/*l<ucr/s)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>Gyr`en*ceph"a*la</hw> <pr>(j<icr/r`<ecr/n*s<ecr/f"<adot/*l<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL.  fr. Gr. <grk>gyro`s</grk> round + <grk>'egke`falos</grk> the brain.]</ety> <fld>(Zool.)</fld> <def>The higher orders of Mammalia, in which the cerebrum is convoluted.</def> -- <wordforms><wf>Gyr`en*ceph"a*lous</wf> <pr>(j<icr/r`<ecr/n*s<ecr/f"<adot/*l<ucr/s)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gyrfalcon</ent><br/
@@ -25942,7 +25942,7 @@ Beguiled me to the very heart of loss.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gyri</ent><br/
-||<hw>Gy"ri</hw> <pr>(j<imac/"r<imac/)</pr>, <pos>n. pl.</pos> <def>See <er>Gyrus</er>.</def><br/
+\'d8<hw>Gy"ri</hw> <pr>(j<imac/"r<imac/)</pr>, <pos>n. pl.</pos> <def>See <er>Gyrus</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gyrland</ent><br/
@@ -25952,7 +25952,7 @@ Beguiled me to the very heart of loss.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>Their hair loose and flowing, <qex>gyrlanded</qex> with sea grass.</q> <rj><qau>B. Jonson.</qau></rj></p>
 
 <p><ent>Gyrodus</ent><br/
-||<hw>Gyr"o*dus</hw> <pr>(j<icr/r"<osl/*d<ucr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>gyro`s</grk> round + <grk>'odoy`s</grk> tooth.]</ety> <fld>(Paleon.)</fld> <def>A genus of extinct o<oum/litic fishes, having rounded teeth in several rows adapted for crushing.</def><br/
+\'d8<hw>Gyr"o*dus</hw> <pr>(j<icr/r"<osl/*d<ucr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>gyro`s</grk> round + <grk>'odoy`s</grk> tooth.]</ety> <fld>(Paleon.)</fld> <def>A genus of extinct o<oum/litic fishes, having rounded teeth in several rows adapted for crushing.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gyrogonite</ent><br/
@@ -25970,11 +25970,11 @@ Beguiled me to the very heart of loss.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gyrolepis</ent><br/
-||<hw>Gy*rol"e*pis</hw> <pr>(j<icr/*r<ocr/l"<esl/*p<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>gyro`s</grk> round + <grk>lepi`s</grk> scale.]</ety> <fld>(Paleon.)</fld> <def>A genus of ganoid fishes, found in strata of the new red sandstone, and the lias bone beds.</def>  <rj><au>Agassiz.</au></rj><br/
+\'d8<hw>Gy*rol"e*pis</hw> <pr>(j<icr/*r<ocr/l"<esl/*p<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>gyro`s</grk> round + <grk>lepi`s</grk> scale.]</ety> <fld>(Paleon.)</fld> <def>A genus of ganoid fishes, found in strata of the new red sandstone, and the lias bone beds.</def>  <rj><au>Agassiz.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gyroma</ent><br/
-||<hw>Gy*ro"ma</hw> <pr>(j<isl/*r<omac/"m<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>gyroy^n</grk> to round, bend, fr. <grk>gyro`s</grk> round.]</ety> <def>A turning round.</def> <mark>[R.]</mark><br/
+\'d8<hw>Gy*ro"ma</hw> <pr>(j<isl/*r<omac/"m<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>gyroy^n</grk> to round, bend, fr. <grk>gyro`s</grk> round.]</ety> <def>A turning round.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gyromancy</ent><br/
@@ -26021,7 +26021,7 @@ Beguiled me to the very heart of loss.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gyrus</ent><br/
-||<hw>Gy"rus</hw> <pr>(j<imac/"r<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gyri</plw> <pr>(j<imac/"r<imac/)</pr>.</plu> <ety>[L. See <er>Gyre</er>, <pos>n.</pos>]</ety> <def>A convoluted ridge between grooves; a convolution; <as>as, the <ex>gyri</ex> of the brain; the <ex>gyri</ex> of brain coral</as>.  See <er>Brain</er>.</def><br/
+\'d8<hw>Gy"rus</hw> <pr>(j<imac/"r<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gyri</plw> <pr>(j<imac/"r<imac/)</pr>.</plu> <ety>[L. See <er>Gyre</er>, <pos>n.</pos>]</ety> <def>A convoluted ridge between grooves; a convolution; <as>as, the <ex>gyri</ex> of the brain; the <ex>gyri</ex> of brain coral</as>.  See <er>Brain</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gyse</ent><br/

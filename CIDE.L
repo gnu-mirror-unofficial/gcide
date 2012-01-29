@@ -142,7 +142,7 @@ knowledge base should contact:
 [<source>PJC</source>]</p>
 
 <p><ent>Labarum</ent><br/
-||<hw>Lab"a*rum</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Labara</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <def>The standard adopted by the Emperor Constantine after his conversion to Christianity. It is described as a pike bearing a silk banner hanging from a crosspiece, and surmounted by a golden crown. It bore a monogram of the first two letters (<CHI/<RHO/) (which appear like the English letters X and P), of the name of Christ in its Greek form. Later, the name was given to various modifications of this standard.</def>
+\'d8<hw>Lab"a*rum</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Labara</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <def>The standard adopted by the Emperor Constantine after his conversion to Christianity. It is described as a pike bearing a silk banner hanging from a crosspiece, and surmounted by a golden crown. It bore a monogram of the first two letters (<CHI/<RHO/) (which appear like the English letters X and P), of the name of Christ in its Greek form. Later, the name was given to various modifications of this standard.</def>
 <-- Illustration of monogram, an X (Greek CHI) superimposed on a lengthened P (Greek RHO) --><br/
 [<source>1913 Webster</source>]</p>
 
@@ -198,7 +198,7 @@ knowledge base should contact:
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Labellum</ent><br/
-||<hw>La*bel"lum</hw> <pr>(l<adot/*b<ecr/l"l<ucr/m)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Labella</plw> <pr>(l<adot/*b<ecr/l"l<adot/)</pr>, E. <plw>Labellums</plw> <pr>(l<adot/*b<ecr/l"l<ucr/mz)</pr>.</plu> <ety>[L., dim. of <ets>labrum</ets> lip.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>The lower or apparently anterior petal of an orchidaceous flower, often of a very curious shape.</def><br/
+\'d8<hw>La*bel"lum</hw> <pr>(l<adot/*b<ecr/l"l<ucr/m)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Labella</plw> <pr>(l<adot/*b<ecr/l"l<adot/)</pr>, E. <plw>Labellums</plw> <pr>(l<adot/*b<ecr/l"l<ucr/mz)</pr>.</plu> <ety>[L., dim. of <ets>labrum</ets> lip.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>The lower or apparently anterior petal of an orchidaceous flower, often of a very curious shape.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>A small appendage beneath the upper lip or labrum of certain insects.</def><br/
@@ -209,7 +209,7 @@ knowledge base should contact:
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Labia</ent><br/
-||<hw>La"bi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>See <er>Labium</er>.</def><br/
+\'d8<hw>La"bi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>See <er>Labium</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Labial</ent><br/
@@ -321,11 +321,11 @@ knowledge base should contact:
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Labipalpus</ent><br/
-||<hw>La`bi*pal"pus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Labipalpi</plw> <pr>(<?/)</pr>.</plu> <ety>[NL. See <er>Labium</er>, and <er>Palpus</er>.]</ety> <fld>(Zool.)</fld> <def>One of the labial palpi of an insect. See <xex>Illust.</xex> under <er>Labium</er>.</def><br/
+\'d8<hw>La`bi*pal"pus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Labipalpi</plw> <pr>(<?/)</pr>.</plu> <ety>[NL. See <er>Labium</er>, and <er>Palpus</er>.]</ety> <fld>(Zool.)</fld> <def>One of the labial palpi of an insect. See <xex>Illust.</xex> under <er>Labium</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Labium</ent><br/
-||<hw>La"bi*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Labia</plw> <pr>(#)</pr>, E. <plw>Labiums</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <sn>1.</sn> <def>A lip, or liplike organ.</def><br/
+\'d8<hw>La"bi*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Labia</plw> <pr>(#)</pr>, E. <plw>Labiums</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <sn>1.</sn> <def>A lip, or liplike organ.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The lip of an organ pipe.</def><br/
@@ -560,14 +560,14 @@ This garden.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Labrum</ent><br/
-||<hw>La"brum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Labra</plw> <pr>(#)</pr>, E. <plw>Labrums</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <sn>1.</sn> <def>A lip or edge, as of a basin.</def><br/
+\'d8<hw>La"brum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Labra</plw> <pr>(#)</pr>, E. <plw>Labrums</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <sn>1.</sn> <def>A lip or edge, as of a basin.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <sd>(a)</sd> <def>An organ in insects and crustaceans covering the upper part of the mouth, and serving as an upper lip. See <xex>Illust.</xex> of <er>Hymenoptera</er>.</def> <sd>(b)</sd> <def>The external margin of the aperture of a shell. See <er>Univalve</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Labrus</ent><br/
-||<hw>La"brus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Labri</plw> <pr>(-br<imac/)</pr>.</plu> <ety>[L., a sort of fish.]</ety> <fld>(Zool.)</fld> <def>A genus of marine fishes, including the wrasses of Europe. See <er>Wrasse</er>.</def><br/
+\'d8<hw>La"brus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Labri</plw> <pr>(-br<imac/)</pr>.</plu> <ety>[L., a sort of fish.]</ety> <fld>(Zool.)</fld> <def>A genus of marine fishes, including the wrasses of Europe. See <er>Wrasse</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laburnic</ent><br/
@@ -640,7 +640,7 @@ In <qex>labyrinth</qex> of many a round self-rolled.</q> <rj><qau>Milton.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Labyrinthici</ent><br/
-||<hw>Lab`y*rin"thi*ci</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Labyrinth</er>.]</ety> <fld>(Zool.)</fld> <def>An order of teleostean fishes, including the Anabas, or climbing perch, and other allied fishes.</def><br/
+\'d8<hw>Lab`y*rin"thi*ci</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Labyrinth</er>.]</ety> <fld>(Zool.)</fld> <def>An order of teleostean fishes, including the Anabas, or climbing perch, and other allied fishes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ They have, connected with the gill chamber, a special cavity in which a labyrinthiform membrane is arranged so as to retain water to supply the gills while the fish leaves the water and travels about on land, or even climbs trees.</note><br/
@@ -663,12 +663,12 @@ In <qex>labyrinth</qex> of many a round self-rolled.</q> <rj><qau>Milton.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Labyrinthodonta</ent><br/
-||<hw>Lab`y*rin`tho*don"ta</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL. See <er>Labyrinthodon</er>.]</ety> <fld>(Paleon.)</fld> <def>An extinct order of Amphibia, including the typical genus <gen>Labyrinthodon</gen>, and many other allied forms, from the Carboniferous, Permian, and Triassic formations. By recent writers they are divided into two or more orders. See <er>Stegocephala</er>.</def><br/
+\'d8<hw>Lab`y*rin`tho*don"ta</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL. See <er>Labyrinthodon</er>.]</ety> <fld>(Paleon.)</fld> <def>An extinct order of Amphibia, including the typical genus <gen>Labyrinthodon</gen>, and many other allied forms, from the Carboniferous, Permian, and Triassic formations. By recent writers they are divided into two or more orders. See <er>Stegocephala</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lakh</ent><br/
 <ent>Lac</ent><br/
-<mhw>{ <hw>Lac</hw> <pr>(l<acr/k)</pr>, ||<hw>Lakh</hw> <pr>(l<aum/k)</pr> }</mhw>, <pos>n.</pos> <ety>[Hind. <ets>lak</ets>, <ets>l<amac/kh</ets>, <ets>l<amac/ksh</ets>, Skr. <ets>laksha</ets> a mark, sign, lakh.]</ety> <def>One hundred thousand; also, a vaguely great number; <as>as, a <ex>lac</ex> of rupees</as>.</def> <altsp>[Written also <asp>lack</asp>.]</altsp> <mark>[East Indies]</mark><br/
+<mhw>{ <hw>Lac</hw> <pr>(l<acr/k)</pr>, \'d8<hw>Lakh</hw> <pr>(l<aum/k)</pr> }</mhw>, <pos>n.</pos> <ety>[Hind. <ets>lak</ets>, <ets>l<amac/kh</ets>, <ets>l<amac/ksh</ets>, Skr. <ets>laksha</ets> a mark, sign, lakh.]</ety> <def>One hundred thousand; also, a vaguely great number; <as>as, a <ex>lac</ex> of rupees</as>.</def> <altsp>[Written also <asp>lack</asp>.]</altsp> <mark>[East Indies]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lac</ent><br/
@@ -854,7 +854,7 @@ Himself he tied.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Lacertilia</ent><br/
-||<hw>Lac`er*til"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>lacertus</ets> a lizard.]</ety> <fld>(Zool.)</fld> <def>An order of Reptilia, which includes the lizards.</def><br/
+\'d8<hw>Lac`er*til"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>lacertus</ets> a lizard.]</ety> <fld>(Zool.)</fld> <def>An order of Reptilia, which includes the lizards.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ They are closely related to the snakes, and like the latter, usually have the body covered with scales or granules. They usually have eyelids, and most of then have well-formed legs; but in some groups (amphisb<ae/na, glass-snake, etc.) the legs are absent and the body is serpentlike. None are venomous, unless <gen>Heloderma</gen> be an exception. The order includes the chameleons, the <gen>Cionocrania</gen>, or typical lizards, and the amphisb<ae/nas. See <er>Amphisb<ae/na</er>, <er>Gecko</er>, <er>Gila monster</er>, and <er>Lizard</er>.</note><br/
@@ -873,7 +873,7 @@ Himself he tied.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lacertus</ent><br/
-||<hw>La*cer"tus</hw> <pr>(l<adot/*s<etil/r"t<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lacerti</plw> <pr>(-t<imac/)</pr>.</plu> <ety>[L., the upper arm.]</ety> <fld>(Anat.)</fld> <def>A bundle or fascicle of muscular fibers.</def><br/
+\'d8<hw>La*cer"tus</hw> <pr>(l<adot/*s<etil/r"t<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lacerti</plw> <pr>(-t<imac/)</pr>.</plu> <ety>[L., the upper arm.]</ety> <fld>(Anat.)</fld> <def>A bundle or fascicle of muscular fibers.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lacewing</ent><br/
@@ -897,7 +897,7 @@ Himself he tied.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lachrymae Christi</ent><br/
-||<hw>Lach"ry*m<ae/ Chris"ti</hw> <pr>(?)</pr> <pos>n.</pos> <ety>[L., lit., Christ's tears.]</ety> <def>A rich, sweet, red Neapolitan wine.</def><br/
+\'d8<hw>Lach"ry*m<ae/ Chris"ti</hw> <pr>(?)</pr> <pos>n.</pos> <ety>[L., lit., Christ's tears.]</ety> <def>A rich, sweet, red Neapolitan wine.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lachrymal</ent><br/
@@ -1003,7 +1003,7 @@ Himself he tied.</q> <rj><qau>Spenser.</qau></rj><br/
 
 <p><ent>Lacinula</ent><br/
 <ent>Lacinulaa</ent><br/
-||<hw>La*cin"u*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lacinul<ae/</plw> <pr>(#)</pr>, E. <plw>Lacinulas</plw> <pr>(#)</pr>.</plu> <ety>[NL.]</ety> <fld>(Bot.)</fld> <def>A diminutive lacinia.</def><br/
+\'d8<hw>La*cin"u*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lacinul<ae/</plw> <pr>(#)</pr>, E. <plw>Lacinulas</plw> <pr>(#)</pr>.</plu> <ety>[NL.]</ety> <fld>(Bot.)</fld> <def>A diminutive lacinia.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lack</ent><br/
@@ -1212,7 +1212,7 @@ I think it <qex>lacks</qex> of twelve.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Lacrimoso</ent><br/
-||<hw>La`cri*mo"so</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It. See <er>Lachrymose</er>.]</ety> <fld>(Mus.)</fld> <def>Plaintive; -- a term applied to a mournful or pathetic movement or style.</def>  <rj><au>Moore.</au></rj><br/
+\'d8<hw>La`cri*mo"so</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It. See <er>Lachrymose</er>.]</ety> <fld>(Mus.)</fld> <def>Plaintive; -- a term applied to a mournful or pathetic movement or style.</def>  <rj><au>Moore.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lacrosse</ent><br/
@@ -1414,11 +1414,11 @@ I think it <qex>lacks</qex> of twelve.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Lactuca</ent><br/
-||<hw>Lac*tu"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., lettuce. See <er>Lettuce</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of composite herbs, several of which are cultivated for salad; lettuce.</def><br/
+\'d8<hw>Lac*tu"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., lettuce. See <er>Lettuce</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of composite herbs, several of which are cultivated for salad; lettuce.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lactucarium</ent><br/
-||<hw>Lac`tu*ca"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>lactuca</ets> lettuce.]</ety> <def>The inspissated juice of the common lettuce, sometimes used as a substitute for opium.</def><br/
+\'d8<hw>Lac`tu*ca"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>lactuca</ets> lettuce.]</ety> <def>The inspissated juice of the common lettuce, sometimes used as a substitute for opium.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lactucic</ent><br/
@@ -1443,7 +1443,7 @@ I think it <qex>lacks</qex> of twelve.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Lacuna</ent><br/
 <ent>Lacunae</ent><br/
-||<hw>La*cu"na</hw> <pr>(l<adot/*k<umac/"n<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Lacun<ae/</plw> <pr>(l<adot/*k<umac/"n<ae/)</pr>; E. <plw>Lacunas</plw> <pr>(l<adot/*k<umac/"n<adot/z)</pr>.</plu> <ety>[L., ditch, pit, lake, orig., anything hollow. See <er>Lagoon</er>.]</ety> <sn>1.</sn> <def>A small opening; a small pit or depression; a small blank space; a gap or vacancy; a hiatus.</def><br/
+\'d8<hw>La*cu"na</hw> <pr>(l<adot/*k<umac/"n<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Lacun<ae/</plw> <pr>(l<adot/*k<umac/"n<ae/)</pr>; E. <plw>Lacunas</plw> <pr>(l<adot/*k<umac/"n<adot/z)</pr>.</plu> <ety>[L., ditch, pit, lake, orig., anything hollow. See <er>Lagoon</er>.]</ety> <sn>1.</sn> <def>A small opening; a small pit or depression; a small blank space; a gap or vacancy; a hiatus.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Biol.)</fld> <def>A small opening; a small depression or cavity; a space, as a vacant space between the cells of plants, or one of the spaces left among the tissues of the lower animals, which serve in place of vessels for the circulation of the body fluids, or the cavity or sac, usually of very small size, in a mucous membrane.</def><br/
@@ -1907,7 +1907,7 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laelaps</ent><br/
-||<hw>L<ae/"laps</hw> <pr>(l<emac/"l<acr/ps)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>lai^laps</grk> a dark, furious storm.]</ety> <fld>(Paleon.)</fld> <def>A genus of huge, carnivorous, dinosaurian reptiles from the Cretaceous formation of the United States.  They had very large hind legs and tail, and are supposed to have been bipedal.  Some of the species were about eighteen feet high.</def><br/
+\'d8<hw>L<ae/"laps</hw> <pr>(l<emac/"l<acr/ps)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>lai^laps</grk> a dark, furious storm.]</ety> <fld>(Paleon.)</fld> <def>A genus of huge, carnivorous, dinosaurian reptiles from the Cretaceous formation of the United States.  They had very large hind legs and tail, and are supposed to have been bipedal.  Some of the species were about eighteen feet high.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laemmergeyer</ent><br/
@@ -1919,7 +1919,7 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laemodipoda</ent><br/
-||<hw>L<ae/`mo*dip"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>lai`mos</grk> throat + <grk>di`s</grk> twice + <grk>poy`s</grk>, <grk>podo`s</grk>, foot.]</ety> <fld>(Zool.)</fld> <def>A division of amphipod Crustacea, in which the abdomen is small or rudimentary and the legs are often reduced to five pairs.  The whale louse, or <gen>Cyamus</gen>, and <gen>Caprella</gen> are examples.</def><br/
+\'d8<hw>L<ae/`mo*dip"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>lai`mos</grk> throat + <grk>di`s</grk> twice + <grk>poy`s</grk>, <grk>podo`s</grk>, foot.]</ety> <fld>(Zool.)</fld> <def>A division of amphipod Crustacea, in which the abdomen is small or rudimentary and the legs are often reduced to five pairs.  The whale louse, or <gen>Cyamus</gen>, and <gen>Caprella</gen> are examples.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laemodipodous</ent><br/
@@ -2032,7 +2032,7 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 
 <p><ent>Lagena</ent><br/
 <ent>Lagenae</ent><br/
-||<hw>La*ge"na</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Lagen<ae/</plw> <pr>(#)</pr>, E. <plw>Lagenas</plw> <pr>(#)</pr>.</plu> <ety>[L., a flask; cf. Gr. <?/, <?/.]</ety> <fld>(Anat.)</fld> <def>The terminal part of the cochlea in birds and most reptiles; an appendage of the sacculus, corresponding to the cochlea, in fishes and amphibians.</def><br/
+\'d8<hw>La*ge"na</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Lagen<ae/</plw> <pr>(#)</pr>, E. <plw>Lagenas</plw> <pr>(#)</pr>.</plu> <ety>[L., a flask; cf. Gr. <?/, <?/.]</ety> <fld>(Anat.)</fld> <def>The terminal part of the cochlea in birds and most reptiles; an appendage of the sacculus, corresponding to the cochlea, in fishes and amphibians.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lagenian</ent><br/
@@ -2106,7 +2106,7 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lagomorpha</ent><br/
-||<hw>Lag`o*mor"pha</hw> <pr>(l<acr/g`<osl/*m<ocir/r"f<adot/)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>lagw`s</grk> a hare + <grk>morfh`</grk> form.]</ety> <fld>(Zool.)</fld> <def>an order of rodent-like mammals, comprising the hares, rabbits, and pikas. They have four incisors in the upper jaw. Called also <altname>Duplicidentata</altname>.  They were formerly classified together with the rodents, but the <ord>Rodentia</ord> and <ord>Lagomorpha</ord> are now classed as separate orders.</def><br/
+\'d8<hw>Lag`o*mor"pha</hw> <pr>(l<acr/g`<osl/*m<ocir/r"f<adot/)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>lagw`s</grk> a hare + <grk>morfh`</grk> form.]</ety> <fld>(Zool.)</fld> <def>an order of rodent-like mammals, comprising the hares, rabbits, and pikas. They have four incisors in the upper jaw. Called also <altname>Duplicidentata</altname>.  They were formerly classified together with the rodents, but the <ord>Rodentia</ord> and <ord>Lagomorpha</ord> are now classed as separate orders.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>lagoon</ent><br/
@@ -2121,7 +2121,7 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 
 <p><ent>Lagophthalmos</ent><br/
 <ent>Lagophthalmia</ent><br/
-<mhw>{ ||<hw>Lag`oph*thal"mi*a</hw> <pr>(?)</pr>,   ||<hw>Lag`oph*thal"mos</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>lagophtalmia</ets>, fr. Gr. <grk>lagw`s</grk> hare + <grk>'ofqalmo`s</grk> eye; -- so called from the notion that a hare sleeps with his eyes open.]</ety> <fld>(Med.)</fld> <def>A morbid condition in which the eye stands wide open, giving a peculiar staring appearance.</def><br/
+<mhw>{ \'d8<hw>Lag`oph*thal"mi*a</hw> <pr>(?)</pr>,   \'d8<hw>Lag`oph*thal"mos</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>lagophtalmia</ets>, fr. Gr. <grk>lagw`s</grk> hare + <grk>'ofqalmo`s</grk> eye; -- so called from the notion that a hare sleeps with his eyes open.]</ety> <fld>(Med.)</fld> <def>A morbid condition in which the eye stands wide open, giving a peculiar staring appearance.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lagopous</ent><br/
@@ -2144,7 +2144,7 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Lagthing</ent><br/
-||<hw>Lag"thing</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Norw. <ets>lagting</ets>, <ets>lagthing</ets>; <ets>lag</ets> company, society (akin to E. <ets>law</ets>, <ets>lay</ets>) + <ets>ting</ets>, <ets>thing</ets>, parliament. See <er>Thing</er>.]</ety> <def>See <er>Legislatature</er>, below.</def><br/
+\'d8<hw>Lag"thing</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Norw. <ets>lagting</ets>, <ets>lagthing</ets>; <ets>lag</ets> company, society (akin to E. <ets>law</ets>, <ets>lay</ets>) + <ets>ting</ets>, <ets>thing</ets>, parliament. See <er>Thing</er>.]</ety> <def>See <er>Legislatature</er>, below.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Lagune</ent><br/
@@ -2219,7 +2219,7 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laissez faire</ent><br/
-||<hw>Lais`sez" faire"</hw> <pr>(?)</pr> <pos>n.</pos> <ety>[F., let alone.]</ety> <def>Noninterference; -- an axiom of some political economists, deprecating interference of government by attempts to foster or regulate commerce, manufactures, etc., by bounty or by restriction; <as>as, the doctrine of <ex>laissez faire</ex>; <ex>the laissez faire</ex> system of government.</as></def><br/
+\'d8<hw>Lais`sez" faire"</hw> <pr>(?)</pr> <pos>n.</pos> <ety>[F., let alone.]</ety> <def>Noninterference; -- an axiom of some political economists, deprecating interference of government by attempts to foster or regulate commerce, manufactures, etc., by bounty or by restriction; <as>as, the doctrine of <ex>laissez faire</ex>; <ex>the laissez faire</ex> system of government.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laity</ent><br/
@@ -2236,7 +2236,7 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lakao</ent><br/
-||<hw>La*ka"o</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Sap green.</def> <mark>[China]</mark><br/
+\'d8<hw>La*ka"o</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Sap green.</def> <mark>[China]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lake</ent><br/
@@ -2295,7 +2295,7 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lakh</ent><br/
-||<hw>Lakh</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Lac</er>, one hundred thousand.</def><br/
+\'d8<hw>Lakh</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Lac</er>, one hundred thousand.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lakin</ent><br/
@@ -2425,7 +2425,7 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lambda</ent><br/
-||<hw>Lamb"da</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>la`mbda</grk>.]</ety> <sn>1.</sn> <def>The name of the Greek letter <LAMBDA/, <lambda/, corresponding with the English letter L, l.</def><br/
+\'d8<hw>Lamb"da</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>la`mbda</grk>.]</ety> <sn>1.</sn> <def>The name of the Greek letter <LAMBDA/, <lambda/, corresponding with the English letter L, l.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Anat.)</fld> <def>The point of junction of the sagittal and lambdoid sutures of the skull.</def><br/
@@ -2578,7 +2578,7 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 
 <p><ent>Lamellibranchiata</ent><br/
 <ent>Lamellibranchia</ent><br/
-<mhw>{ ||<hw>La*mel`li*bran"chi*a</hw> <pr>(?)</pr>, ||<hw>La*mel`li*bran`chi*a"ta</hw> <pr>(?)</pr>, }</mhw> <pos>n. pl.</pos> <ety>[NL. See <er>lamella</er>, and <er>Branchia</er>, <er>Branchiate</er>.]</ety> <fld>(Zool.)</fld> <def>An earlier name for the class of <isa><phylum>Mollusca</phylum></isa> including all those that have bivalve shells, as the clams, oysters, mussels, etc., now called <altname><class>Pelecypoda</class></altname> or <altname><class>Bivalvia</class></altname>.</def><br/
+<mhw>{ \'d8<hw>La*mel`li*bran"chi*a</hw> <pr>(?)</pr>, \'d8<hw>La*mel`li*bran`chi*a"ta</hw> <pr>(?)</pr>, }</mhw> <pos>n. pl.</pos> <ety>[NL. See <er>lamella</er>, and <er>Branchia</er>, <er>Branchiate</er>.]</ety> <fld>(Zool.)</fld> <def>An earlier name for the class of <isa><phylum>Mollusca</phylum></isa> including all those that have bivalve shells, as the clams, oysters, mussels, etc., now called <altname><class>Pelecypoda</class></altname> or <altname><class>Bivalvia</class></altname>.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><note><hand/ They usually have two (rarely but one) flat, lamelliform gills on each side of the body. They have an imperfectly developed head, concealed within the shell, whence they are called <altname><ord>Acephala</ord></altname>. Called also <altname>Conchifera</altname>, and <altname>Pelecypoda</altname>.  See <er>Bivalve</er>.</note><br/
@@ -2593,7 +2593,7 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lamellicornia</ent><br/
-||<hw>La*mel`li*cor"ni*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Lamellicorn</er>.]</ety> <fld>(Zool.)</fld> <def>A group of lamellicorn, plant-eating beetles; -- called also <altname>Lamellicornes</altname>.</def><br/
+\'d8<hw>La*mel`li*cor"ni*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Lamellicorn</er>.]</ety> <fld>(Zool.)</fld> <def>A group of lamellicorn, plant-eating beetles; -- called also <altname>Lamellicornes</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lamelliferous</ent><br/
@@ -2609,7 +2609,7 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lamellirostres</ent><br/
-||<hw>La*mel`li*ros"tres</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Lamella</er>, and <er>Rostrum</er>.]</ety> <fld>(Zool.)</fld> <def>A group of birds embracing the Anseres and flamingoes, in which the bill is lamellate.</def><br/
+\'d8<hw>La*mel`li*ros"tres</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Lamella</er>, and <er>Rostrum</er>.]</ety> <fld>(Zool.)</fld> <def>A group of birds embracing the Anseres and flamingoes, in which the bill is lamellate.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lamellose</ent><br/
@@ -2706,7 +2706,7 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lametta</ent><br/
-||<hw>La*met"ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. It. <ets>lametta</ets>, dim. of <ets>lama</ets> a thin plate.]</ety> <def>Foil or wire made of gold, silver, or brass.</def>  <rj><au>De Colange.</au></rj><br/
+\'d8<hw>La*met"ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. It. <ets>lametta</ets>, dim. of <ets>lama</ets> a thin plate.]</ety> <def>Foil or wire made of gold, silver, or brass.</def>  <rj><au>De Colange.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lamia</ent><br/
@@ -2741,7 +2741,7 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laminaria</ent><br/
-||<hw>Lam`i*na"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Lamina</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of great seaweeds with long and broad fronds; kelp, or devil's apron. The fronds commonly grow in clusters, and are sometimes from thirty to fifty feet in length. See <xex>Illust.</xex> of <er>Kelp</er>.</def><br/
+\'d8<hw>Lam`i*na"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Lamina</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of great seaweeds with long and broad fronds; kelp, or devil's apron. The fronds commonly grow in clusters, and are sometimes from thirty to fifty feet in length. See <xex>Illust.</xex> of <er>Kelp</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laminarian</ent><br/
@@ -2804,7 +2804,7 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laminitis</ent><br/
-||<hw>Lam`i*ni"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Lamina</er>, and <er>-itis</er>.]</ety> <fld>(Far.)</fld> <def>Inflammation of the lamin<ae/ or fleshy plates along the coffin bone of a horse; founder.</def>  <rj><au>Youatt.</au></rj><br/
+\'d8<hw>Lam`i*ni"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Lamina</er>, and <er>-itis</er>.]</ety> <fld>(Far.)</fld> <def>Inflammation of the lamin<ae/ or fleshy plates along the coffin bone of a horse; founder.</def>  <rj><au>Youatt.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lamish</ent><br/
@@ -2831,7 +2831,7 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Lamnunguia</ent><br/
-||<hw>Lam*nun"gui*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>lamina</ets> a scale + <ets>unguis</ets> a nail.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Hyracoidea</er>.</def><br/
+\'d8<hw>Lam*nun"gui*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>lamina</ets> a scale + <ets>unguis</ets> a nail.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Hyracoidea</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lamp</ent><br/
@@ -3014,7 +3014,7 @@ And grieved to find herself decayed so soon.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lampyris</ent><br/
-||<hw>Lam*py"ris</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., glowworm, Gr. (<?/).]</ety> <fld>(Zool.)</fld> <def>A genus of coleopterous insects, including the glowworms.</def><br/
+\'d8<hw>Lam*py"ris</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., glowworm, Gr. (<?/).]</ety> <fld>(Zool.)</fld> <def>A genus of coleopterous insects, including the glowworms.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>LAN</ent><br/
@@ -3343,7 +3343,7 @@ The king himself divulged, the <qex>land</qex> believed.</q> <rj><qau>Dryden.</q
 
 <p><ent>Landtrost</ent><br/
 <ent>Landdrost</ent><br/
-<mhw>||<hw>Land"drost`</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>-drosten</plw>  <pr>(#)</pr></plu>. Sometimes incorrectly <hw>Landtrost</hw></mhw>. <ety>[D., fr. <ets>land</ets> land + <ets>drost</ets> a kind of official; akin to G. <ets>truchsess</ets>.]</ety> <mark>(In South Africa)</mark> <sd>(a)</sd> <def>A chief magistrate in rural districts. He was replaced in 1827 by <ldquo/resident magistrates.<rdquo/</def> <sd>(b)</sd> <def>The president of the Heemraad.</def><br/
+<mhw>\'d8<hw>Land"drost`</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>-drosten</plw>  <pr>(#)</pr></plu>. Sometimes incorrectly <hw>Landtrost</hw></mhw>. <ety>[D., fr. <ets>land</ets> land + <ets>drost</ets> a kind of official; akin to G. <ets>truchsess</ets>.]</ety> <mark>(In South Africa)</mark> <sd>(a)</sd> <def>A chief magistrate in rural districts. He was replaced in 1827 by <ldquo/resident magistrates.<rdquo/</def> <sd>(b)</sd> <def>The president of the Heemraad.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Landed</ent><br/
@@ -3612,11 +3612,11 @@ Whilst the <qex>landskip</qex> round it measures.</q> <rj><qau>Milton.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Landsthing</ent><br/
-||<hw>Lands"thing`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Dan. <ets>landsthing</ets>, <ets>landsting</ets>, fr. <ets>land</ets> land + <ets>thing</ets>, <ets>ting</ets>, parliament. See <er>Land</er>; <er>Thing</er>.]</ety> <fld>(Denmark.)</fld> <def>See <er>Legislature</er>, below.</def><br/
+\'d8<hw>Lands"thing`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Dan. <ets>landsthing</ets>, <ets>landsting</ets>, fr. <ets>land</ets> land + <ets>thing</ets>, <ets>ting</ets>, parliament. See <er>Land</er>; <er>Thing</er>.]</ety> <fld>(Denmark.)</fld> <def>See <er>Legislature</er>, below.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Landstorm</ent><br/
-||<hw>Land"storm`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sw.]</ety> <def>See <er>Varnpligtige</er>.</def><br/
+\'d8<hw>Land"storm`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sw.]</ety> <def>See <er>Varnpligtige</er>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Landstreight</ent><br/
@@ -3624,11 +3624,11 @@ Whilst the <qex>landskip</qex> round it measures.</q> <rj><qau>Milton.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Landsturm</ent><br/
-||<hw>Land"sturm`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G. See <er>Land</er>; <er>Storm</er>.]</ety> <mark>[In Germany and other European nations, and Japan:]</mark> <sd>(a)</sd> <def>A general levy in time of war.</def> <sd>(b)</sd> <def>The forces called out on such levy, composed of all men liable to service who are not in the army, navy, or Landwehr; the last line of defense, supposed to be called out only in case of invasion or other grave emergency. See <er>Army organization</er>, above.</def><br/
+\'d8<hw>Land"sturm`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G. See <er>Land</er>; <er>Storm</er>.]</ety> <mark>[In Germany and other European nations, and Japan:]</mark> <sd>(a)</sd> <def>A general levy in time of war.</def> <sd>(b)</sd> <def>The forces called out on such levy, composed of all men liable to service who are not in the army, navy, or Landwehr; the last line of defense, supposed to be called out only in case of invasion or other grave emergency. See <er>Army organization</er>, above.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Landtag</ent><br/
-||<hw>Land"tag`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G. See <er>Land</er>; <er>Day</er>.]</ety> <fld>(Prussia.)</fld> <def>The diet or legislative body; <as>as, the <ex>Landtag</ex> of Prussia</as>.  See <er>Legislature</er>, below.</def><br/
+\'d8<hw>Land"tag`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G. See <er>Land</er>; <er>Day</er>.]</ety> <fld>(Prussia.)</fld> <def>The diet or legislative body; <as>as, the <ex>Landtag</ex> of Prussia</as>.  See <er>Legislature</er>, below.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Landwaiter</ent><br/
@@ -3640,7 +3640,7 @@ Whilst the <qex>landskip</qex> round it measures.</q> <rj><qau>Milton.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Landwehr</ent><br/
-||<hw>Land"wehr`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., fr. <ets>land</ets> land, country + <ets>wehr</ets> defense.]</ety> <def>That part of the army, in Germany and Austria, which has completed the usual military service and is exempt from duty in time of peace, except that it is called out occasionally for drill.</def><br/
+\'d8<hw>Land"wehr`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., fr. <ets>land</ets> land, country + <ets>wehr</ets> defense.]</ety> <def>That part of the army, in Germany and Austria, which has completed the usual military service and is exempt from duty in time of peace, except that it is called out occasionally for drill.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lane</ent><br/
@@ -3775,15 +3775,15 @@ Whilst the <qex>landskip</qex> round it measures.</q> <rj><qau>Milton.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Langue d'oc</ent><br/
-||<hw>Langue` d'oc"</hw> <pr>(?)</pr> <pos>n.</pos> <ety>[F., language of <ets>oc</ets> yes.]</ety> <def>The dialect, closely akin to French, formerly spoken south of the Loire (in which the word for <ldquo/yes<rdquo/ was <tr>oc</tr>); Proven<cced/al.</def><br/
+\'d8<hw>Langue` d'oc"</hw> <pr>(?)</pr> <pos>n.</pos> <ety>[F., language of <ets>oc</ets> yes.]</ety> <def>The dialect, closely akin to French, formerly spoken south of the Loire (in which the word for <ldquo/yes<rdquo/ was <tr>oc</tr>); Proven<cced/al.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Langue d'oil</ent><br/
-||<hw>Langue` d'o<ium/l"</hw> <pr>(?)</pr>. <ety>[F., language of <ets>o<ium/l</ets> yes.]</ety> <def>The dialect formerly spoken north of the Loire (in which the word for <ldquo/yes<rdquo/ was <tr>oil</tr>, F. <xex>oui</xex>).</def><br/
+\'d8<hw>Langue` d'o<ium/l"</hw> <pr>(?)</pr>. <ety>[F., language of <ets>o<ium/l</ets> yes.]</ety> <def>The dialect formerly spoken north of the Loire (in which the word for <ldquo/yes<rdquo/ was <tr>oil</tr>, F. <xex>oui</xex>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Languente</ent><br/
-||<hw>Lan*guen"te</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[It., p. pr. of <ets>languire</ets>. See <er>Languish</er>.]</ety> <fld>(Mus.)</fld> <def>In a languishing manner; pathetically.</def><br/
+\'d8<hw>Lan*guen"te</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[It., p. pr. of <ets>languire</ets>. See <er>Languish</er>.]</ety> <fld>(Mus.)</fld> <def>In a languishing manner; pathetically.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Languet</ent><br/
@@ -4042,7 +4042,7 @@ The sting from pain.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><-- p. 829 --></p>
 
 <p><ent>Lanseh</ent><br/
-||<hw>Lan"seh</hw> <pr>(l<adot/n"s<asl/)</pr>, <pos>n.</pos> <def>The small, yellow to whitish brown berrylike fruit of an East Indian tree (<spn>Lansium domesticum</spn>).  It has a fleshy pulp, with an agreeable tart subacid taste.</def>  <rj><au>Balfour.</au></rj><br/
+\'d8<hw>Lan"seh</hw> <pr>(l<adot/n"s<asl/)</pr>, <pos>n.</pos> <def>The small, yellow to whitish brown berrylike fruit of an East Indian tree (<spn>Lansium domesticum</spn>).  It has a fleshy pulp, with an agreeable tart subacid taste.</def>  <rj><au>Balfour.</au></rj><br/
 <syn><b>Syn. --</b> lansah, lansa, lansat, lanset.</syn><br/
 [<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 
@@ -4165,7 +4165,7 @@ The sting from pain.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lanugo</ent><br/
-||<hw>La*nu"go</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Lanuginose</er>.]</ety> <fld>(Anat.)</fld> <def>The soft woolly hair which covers most parts of the mammal fetus, and in man is shed before or soon after birth.</def><br/
+\'d8<hw>La*nu"go</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Lanuginose</er>.]</ety> <fld>(Anat.)</fld> <def>The soft woolly hair which covers most parts of the mammal fetus, and in man is shed before or soon after birth.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lanyard</ent><br/
@@ -4452,11 +4452,11 @@ And the wild water <qex>lapping</qex> on the crag.</q> <rj><qau>Tennyson.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lapilli</ent><br/
-||<hw>La*pil"li</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L. <ets>lapillus</ets> a little stone, dim. of <ets>lapis</ets> stone.]</ety> <fld>(Min.)</fld> <def>Volcanic ashes, consisting of small, angular, stony fragments or particles.</def><br/
+\'d8<hw>La*pil"li</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L. <ets>lapillus</ets> a little stone, dim. of <ets>lapis</ets> stone.]</ety> <fld>(Min.)</fld> <def>Volcanic ashes, consisting of small, angular, stony fragments or particles.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lapis</ent><br/
-||<hw>La"pis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lapides</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <def>A stone.</def><br/
+\'d8<hw>La"pis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lapides</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <def>A stone.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Lapis calaminaris</b></col> <pr>(<?/)</pr> <pos>n.</pos> <ety>[NL.]</ety> <fld>(Min.)</fld> <cd>Calamine.</cd> -- <col><b>Lapis infernalis</b></col> <pr>(<?/)</pr> <pos>n.</pos> <ety>[L.]</ety> <cd>Fused nitrate of silver; lunar caustic.</cd></cs><br/
@@ -4817,7 +4817,7 @@ To <qex>lard</qex> with wit thy hungry Epsom prose.</q> <rj><qau>Dryden.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lares</ent><br/
-||<hw>La"res</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>See 1st <er>Lar</er>.</def><br/
+\'d8<hw>La"res</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>See 1st <er>Lar</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Large</ent><br/
@@ -4930,7 +4930,7 @@ To <qex>lard</qex> with wit thy hungry Epsom prose.</q> <rj><qau>Dryden.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Larghetto</ent><br/
-||<hw>Lar*ghet"to</hw> <pr>(?)</pr>, <pos>a. & adv.</pos> <ety>[It., dim. of <ets>largo</ets> largo.]</ety> <fld>(Mus.)</fld> <def>Somewhat slow or slowly, but not so slowly as <contr>largo</contr>, and rather more so than <contr>andante</contr>.</def><br/
+\'d8<hw>Lar*ghet"to</hw> <pr>(?)</pr>, <pos>a. & adv.</pos> <ety>[It., dim. of <ets>largo</ets> largo.]</ety> <fld>(Mus.)</fld> <def>Somewhat slow or slowly, but not so slowly as <contr>largo</contr>, and rather more so than <contr>andante</contr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Largifical</ent><br/
@@ -4954,7 +4954,7 @@ To <qex>lard</qex> with wit thy hungry Epsom prose.</q> <rj><qau>Dryden.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Largo</ent><br/
-||<hw>Lar"go</hw> <pr>(?)</pr>, <pos>a. & adv.</pos> <ety>[It., large, L. <ets>largus</ets>, See <er>Large</er>.]</ety> <fld>(Mus.)</fld> <def>Slow or slowly; -- more so than <contr>adagio</contr>; next in slowness to <contr>grave</contr>, which is also weighty and solemn.</def> -- <def2><pos>n.</pos> <def>A movement or piece in <ex>largo</ex> time.</def></def2><br/
+\'d8<hw>Lar"go</hw> <pr>(?)</pr>, <pos>a. & adv.</pos> <ety>[It., large, L. <ets>largus</ets>, See <er>Large</er>.]</ety> <fld>(Mus.)</fld> <def>Slow or slowly; -- more so than <contr>adagio</contr>; next in slowness to <contr>grave</contr>, which is also weighty and solemn.</def> -- <def2><pos>n.</pos> <def>A movement or piece in <ex>largo</ex> time.</def></def2><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lari</ent><br/
@@ -5077,7 +5077,7 @@ To <qex>lard</qex> with wit thy hungry Epsom prose.</q> <rj><qau>Dryden.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Larvalia</ent><br/
-||<hw>Lar*va"li*a</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL. See <er>Larval</er>.]</ety> <fld>(Zool.)</fld> <def>An order of <subphylum>Tunicata</subphylum>, including <gen>Appendicularia</gen>, and allied genera; -- so called because certain larval features are retained by them through life. Called also <altname>Copelata</altname>. See <er>Appendicularia</er>.</def><br/
+\'d8<hw>Lar*va"li*a</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL. See <er>Larval</er>.]</ety> <fld>(Zool.)</fld> <def>An order of <subphylum>Tunicata</subphylum>, including <gen>Appendicularia</gen>, and allied genera; -- so called because certain larval features are retained by them through life. Called also <altname>Copelata</altname>. See <er>Appendicularia</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Larvate</ent><br/
@@ -5117,11 +5117,11 @@ To <qex>lard</qex> with wit thy hungry Epsom prose.</q> <rj><qau>Dryden.</qau></
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Laryngismus</ent><br/
-||<hw>Lar`yn*gis"mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>laryggismo`s</grk> a croaking. See <er>Larynx</er>.]</ety> <fld>(Med.)</fld> <def>A spasmodic state of the glottis, giving rise to contraction or closure of the opening.</def><br/
+\'d8<hw>Lar`yn*gis"mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>laryggismo`s</grk> a croaking. See <er>Larynx</er>.]</ety> <fld>(Med.)</fld> <def>A spasmodic state of the glottis, giving rise to contraction or closure of the opening.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laryngitis</ent><br/
-||<hw>Lar`yn*gi"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Larynx</er>, and <er>-tis</er>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the larynx.</def><br/
+\'d8<hw>Lar`yn*gi"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Larynx</er>, and <er>-tis</er>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the larynx.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laryngograph</ent><br/
@@ -5732,7 +5732,7 @@ Were in a mask ?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Later</ent><br/
-||<hw>La"ter</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lateres</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <def>A brick or tile.</def>  <rj><au>Knight.</au></rj><br/
+\'d8<hw>La"ter</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lateres</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <def>A brick or tile.</def>  <rj><au>Knight.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Later</ent><br/
@@ -5807,7 +5807,7 @@ Were in a mask ?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lates</ent><br/
-||<hw>La"tes</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a fish of the Nile.]</ety> <fld>(Zool.)</fld> <def>A genus of large percoid fishes, of which one species (<spn>Lates Niloticus</spn>) inhabits the Nile, and another (<spn>Lates calcarifer</spn>) is found in the Ganges and other Indian rivers. They are valued as food fishes.</def><br/
+\'d8<hw>La"tes</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a fish of the Nile.]</ety> <fld>(Zool.)</fld> <def>A genus of large percoid fishes, of which one species (<spn>Lates Niloticus</spn>) inhabits the Nile, and another (<spn>Lates calcarifer</spn>) is found in the Ganges and other Indian rivers. They are valued as food fishes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Latescence</ent><br/
@@ -5827,7 +5827,7 @@ Were in a mask ?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Latex</ent><br/
-||<hw>La"tex</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A milky or colored juice in certain plants in cavities (called <xex>latex cells</xex> or <xex>latex tubes</xex>). It contains the peculiar principles of the plants, whether aromatic, bitter, or acid, and in many instances yields caoutchouc upon coagulation.  The lattex of the India rubber plant produces the rubber of commerce on coagulation.</def><br/
+\'d8<hw>La"tex</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A milky or colored juice in certain plants in cavities (called <xex>latex cells</xex> or <xex>latex tubes</xex>). It contains the peculiar principles of the plants, whether aromatic, bitter, or acid, and in many instances yields caoutchouc upon coagulation.  The lattex of the India rubber plant produces the rubber of commerce on coagulation.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Chem.)</fld> <def>Any aqueous emulsion of finely divided rubber or plastic particles, especially such an emulsion used as a base for paint; <as>as, a <ex>latex</ex> paint</as>.</def><br/
@@ -5925,7 +5925,7 @@ Were in a mask ?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Latibulum</ent><br/
-||<hw>La*tib"u*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Latibula</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <def>A concealed hiding place; a burrow; a lair; a hole.</def><br/
+\'d8<hw>La*tib"u*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Latibula</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <def>A concealed hiding place; a burrow; a lair; a hole.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laticiferous</ent><br/
@@ -5950,7 +5950,7 @@ Were in a mask ?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Latigo</ent><br/
-||<hw>La"ti*go</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. <ets>l<aacute/tigo</ets>.]</ety> <def>A strap for tightening a saddle girth.</def> <mark>[Western U. S. & Sp. Amer.]</mark><br/
+\'d8<hw>La"ti*go</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. <ets>l<aacute/tigo</ets>.]</ety> <def>A strap for tightening a saddle girth.</def> <mark>[Western U. S. & Sp. Amer.]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Latigo halter</ent><br/
@@ -6090,7 +6090,7 @@ Were in a mask ?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Latirostres</ent><br/
-||<hw>Lat`i*ros"tres</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>latus</ets> broad + <ets>rostrum</ets> beak.]</ety> <fld>(Zool.)</fld> <def>The broad-billed singing birds, such as the swallows, and their allies.</def><br/
+\'d8<hw>Lat`i*ros"tres</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>latus</ets> broad + <ets>rostrum</ets> beak.]</ety> <fld>(Zool.)</fld> <def>The broad-billed singing birds, such as the swallows, and their allies.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Latish</ent><br/
@@ -6110,7 +6110,7 @@ Were in a mask ?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Latitat</ent><br/
-||<hw>Lat"i*tat</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., he lies hid.]</ety> <fld>(O. Eng. Law)</fld> <def>A writ based upon the presumption that the person summoned was hiding.</def>  <rj><au>Blackstone.</au></rj><br/
+\'d8<hw>Lat"i*tat</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., he lies hid.]</ety> <fld>(O. Eng. Law)</fld> <def>A writ based upon the presumption that the person summoned was hiding.</def>  <rj><au>Blackstone.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Latitation</ent><br/
@@ -6220,7 +6220,7 @@ Were in a mask ?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Latria</ent><br/
-||<hw>La*tri"a</hw> <pr>(l<adot/*tr<imac/"<adot/; 277)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>latrei`a</grk>, fr. <grk>latrey`ein</grk> to serve, fr. <grk>la`tris</grk> servant.]</ety> <def>The highest kind of worship, or that paid to God; -- distinguished by the Roman Catholics from <contr>dulia</contr>, or the inferior worship paid to saints.</def><br/
+\'d8<hw>La*tri"a</hw> <pr>(l<adot/*tr<imac/"<adot/; 277)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>latrei`a</grk>, fr. <grk>latrey`ein</grk> to serve, fr. <grk>la`tris</grk> servant.]</ety> <def>The highest kind of worship, or that paid to God; -- distinguished by the Roman Catholics from <contr>dulia</contr>, or the inferior worship paid to saints.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Latrine</ent><br/
@@ -6347,7 +6347,7 @@ Were in a mask ?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Latus rectum</ent><br/
-||<hw>La"tus rec"tum</hw> <pr>(?)</pr> <pos>n.</pos> <ety>[L., the right side.]</ety> <fld>(Conic Sections)</fld> <def>The line drawn through a focus of a conic section parallel to the directrix and terminated both ways by the curve. It is the parameter of the principal axis. See <er>Focus</er>, and <er>Parameter</er>.</def><br/
+\'d8<hw>La"tus rec"tum</hw> <pr>(?)</pr> <pos>n.</pos> <ety>[L., the right side.]</ety> <fld>(Conic Sections)</fld> <def>The line drawn through a focus of a conic section parallel to the directrix and terminated both ways by the curve. It is the parameter of the principal axis. See <er>Focus</er>, and <er>Parameter</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laud</ent><br/
@@ -6424,7 +6424,7 @@ Were in a mask ?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laudator</ent><br/
-||<hw>Lau*da"tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <sn>1.</sn> <def>One who lauds.</def><br/
+\'d8<hw>Lau*da"tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <sn>1.</sn> <def>One who lauds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Law)</fld> <def>An arbitrator.</def> <mark>[Obs.]</mark>  <rj><au>Cowell.</au></rj><br/
@@ -6844,7 +6844,7 @@ And rolled on levers, <qex>launched</qex> her in the deep.</q> <rj><qau>Pope.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laurus</ent><br/
-||<hw>Lau"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., laurel.]</ety> <fld>(Bot.)</fld> <def>A genus of trees including, according to modern authors, only the true laurel (<spn>Laurus nobilis</spn>), and the larger <spn>Laurus Canariensis</spn> of Madeira and the Canary Islands. Formerly the sassafras, the camphor tree, the cinnamon tree, and several other aromatic trees and shrubs, were also referred to the genus <gen>Laurus</gen>.</def><br/
+\'d8<hw>Lau"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., laurel.]</ety> <fld>(Bot.)</fld> <def>A genus of trees including, according to modern authors, only the true laurel (<spn>Laurus nobilis</spn>), and the larger <spn>Laurus Canariensis</spn> of Madeira and the Canary Islands. Formerly the sassafras, the camphor tree, the cinnamon tree, and several other aromatic trees and shrubs, were also referred to the genus <gen>Laurus</gen>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laus</ent><br/
@@ -6852,7 +6852,7 @@ And rolled on levers, <qex>launched</qex> her in the deep.</q> <rj><qau>Pope.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lautverschiebung</ent><br/
-||<hw>Laut"ver*schie`bung</hw> <pr>(lout"f<ecr/r*sh<emac/`b<oocr/ng)</pr>, <pos>n.</pos>; <plu>pl. <plw>Lautverschiebungen</plw> <pr>(lout"f<ecr/r*sh<emac/`b<oocr/ng*<eit/n)</pr></plu>. <ety>[G.; <ets>laut</ets> sound + <ets>verschiebung</ets> shifting.]</ety> <fld>(Philol.)</fld> <sd>(a)</sd> <def>The regular changes which the primitive Indo-European stops, or mute consonants, underwent in the Teutonic languages, probably as early as the 3d century <sc>b. c.</sc> , often called the <altname>first Lautverschiebung</altname>, <altname>sound shifting</altname>, or <altname>consonant shifting</altname>.</def> <sd>(b)</sd> <def>A somewhat similar set of changes taking place in the High German dialects (less fully in modern literary German) from the 6th to the 8th century, known as the <altname>second Lautverschiebung</altname>, the results of which form the striking differences between High German and The Low German Languages. The statement of these changes is commonly regarded as forming part of <er>Grimm's law</er>, because included in it as originally framed.</def><br/
+\'d8<hw>Laut"ver*schie`bung</hw> <pr>(lout"f<ecr/r*sh<emac/`b<oocr/ng)</pr>, <pos>n.</pos>; <plu>pl. <plw>Lautverschiebungen</plw> <pr>(lout"f<ecr/r*sh<emac/`b<oocr/ng*<eit/n)</pr></plu>. <ety>[G.; <ets>laut</ets> sound + <ets>verschiebung</ets> shifting.]</ety> <fld>(Philol.)</fld> <sd>(a)</sd> <def>The regular changes which the primitive Indo-European stops, or mute consonants, underwent in the Teutonic languages, probably as early as the 3d century <sc>b. c.</sc> , often called the <altname>first Lautverschiebung</altname>, <altname>sound shifting</altname>, or <altname>consonant shifting</altname>.</def> <sd>(b)</sd> <def>A somewhat similar set of changes taking place in the High German dialects (less fully in modern literary German) from the 6th to the 8th century, known as the <altname>second Lautverschiebung</altname>, the results of which form the striking differences between High German and The Low German Languages. The statement of these changes is commonly regarded as forming part of <er>Grimm's law</er>, because included in it as originally framed.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>lav</ent><br/
@@ -7039,7 +7039,7 @@ And rolled on levers, <qex>launched</qex> her in the deep.</q> <rj><qau>Pope.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lavoesium</ent><br/
-||<hw>La*v<oe/"si*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. <persfn><etsep>Lavoisier</etsep></persfn>, the celebrated French chemist.]</ety> <fld>(Chem.)</fld> <def>A supposed new metallic element, which was said to have been discovered in pyrites, and some other minerals, and to be of a silver-white color, and malleable.  It is not currently (1998) a recognized element.</def><br/
+\'d8<hw>La*v<oe/"si*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. <persfn><etsep>Lavoisier</etsep></persfn>, the celebrated French chemist.]</ety> <fld>(Chem.)</fld> <def>A supposed new metallic element, which was said to have been discovered in pyrites, and some other minerals, and to be of a silver-white color, and malleable.  It is not currently (1998) a recognized element.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Lavolta</ent><br/
@@ -7371,7 +7371,7 @@ Sits empress, crowning good, repressing ill.</q> <rj><qau>Sir W. Jones.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laxator</ent><br/
-||<hw>Lax*a"tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>laxare</ets>, <ets>laxatum</ets>, to loosen.]</ety> <fld>(Anat.)</fld> <def>That which loosens; -- esp., a muscle which by its contraction loosens some part.</def><br/
+\'d8<hw>Lax*a"tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>laxare</ets>, <ets>laxatum</ets>, to loosen.]</ety> <fld>(Anat.)</fld> <def>That which loosens; -- esp., a muscle which by its contraction loosens some part.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laxity</ent><br/
@@ -9168,7 +9168,7 @@ That <qex>leaves</qex> the print of blood where'er it walks.</q> <rj><qau>Shak.<
 [<source>PJC</source>]</p>
 
 <p><ent>Lectica</ent><br/
-||<hw>Lec*ti"ca</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lectic<ae/</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Rom. Antiq.)</fld> <def>A kind of litter or portable couch.</def><br/
+\'d8<hw>Lec*ti"ca</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lectic<ae/</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Rom. Antiq.)</fld> <def>A kind of litter or portable couch.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lection</ent><br/
@@ -9232,7 +9232,7 @@ That <qex>leaves</qex> the print of blood where'er it walks.</q> <rj><qau>Shak.<
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lecythis</ent><br/
-||<hw>Lec"y*this</hw> <pr>(l<ecr/s"<icr/*th<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. 3 an oil flask.]</ety> <fld>(Bot.)</fld> <def>A genus of gigantic trees, chiefly Brazilian, of the order <ord>Myrtace<ae/</ord>, having woody capsules opening by an apical lid. <spn>Lecythis Zabucajo</spn> yields the delicious sapucaia nuts. <spn>Lecythis Ollaria</spn> produces the monkey-pots, its capsules. Its bark separates into thin sheets, like paper, used by the natives for cigarette wrappers.</def><br/
+\'d8<hw>Lec"y*this</hw> <pr>(l<ecr/s"<icr/*th<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. 3 an oil flask.]</ety> <fld>(Bot.)</fld> <def>A genus of gigantic trees, chiefly Brazilian, of the order <ord>Myrtace<ae/</ord>, having woody capsules opening by an apical lid. <spn>Lecythis Zabucajo</spn> yields the delicious sapucaia nuts. <spn>Lecythis Ollaria</spn> produces the monkey-pots, its capsules. Its bark separates into thin sheets, like paper, used by the natives for cigarette wrappers.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Led</ent><br/
@@ -9849,15 +9849,15 @@ Eyed them askance.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Legato</ent><br/
-||<hw>Le*ga"to</hw> <pr>(l<asl/*g<aum/"t<osl/)</pr>, <pos>a.</pos> <ety>[It., tied, joined, fr. <ets>legare</ets> to tie, bind, L. <ets>ligare</ets>.]</ety> <fld>(Mus.)</fld> <def>Connected; tied; -- a term used when successive tones are to be produced in a closely connected, smoothly gliding manner. It is often indicated by a <xex>tie</xex>, thus <?/, <?/, or <?/, <?/, written over or under the notes to be so performed; -- opposed to <contr>staccato</contr>.</def><-- music notation: slur down, slur up, legato down, legato up. Use graphic? --><br/
+\'d8<hw>Le*ga"to</hw> <pr>(l<asl/*g<aum/"t<osl/)</pr>, <pos>a.</pos> <ety>[It., tied, joined, fr. <ets>legare</ets> to tie, bind, L. <ets>ligare</ets>.]</ety> <fld>(Mus.)</fld> <def>Connected; tied; -- a term used when successive tones are to be produced in a closely connected, smoothly gliding manner. It is often indicated by a <xex>tie</xex>, thus <?/, <?/, or <?/, <?/, written over or under the notes to be so performed; -- opposed to <contr>staccato</contr>.</def><-- music notation: slur down, slur up, legato down, legato up. Use graphic? --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Legator</ent><br/
-||<hw>Leg`a*tor"</hw> <pr>(l<ecr/g`<adot/*t<ocir/r")</pr>, <pos>n.</pos> <ety>[L., fr. <ets>legare</ets>: cf. OF. <ets>legateur</ets>. See <er>Legacy</er>.]</ety> <fld>(Law)</fld> <def>A testator; one who bequeaths a legacy.</def> <rj><au>Dryden.</au></rj><br/
+\'d8<hw>Leg`a*tor"</hw> <pr>(l<ecr/g`<adot/*t<ocir/r")</pr>, <pos>n.</pos> <ety>[L., fr. <ets>legare</ets>: cf. OF. <ets>legateur</ets>. See <er>Legacy</er>.]</ety> <fld>(Law)</fld> <def>A testator; one who bequeaths a legacy.</def> <rj><au>Dryden.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Legatura</ent><br/
-||<hw>Le`ga*tu"ra</hw> <pr>(l<asl/`g<adot/*t<oomac/"r<adot/)</pr>, <pos>n.</pos> <ety>[It. See <er>Ligature</er>.]</ety> <fld>(Mus.)</fld> <def>A tie or brace; a syncopation.</def><br/
+\'d8<hw>Le`ga*tu"ra</hw> <pr>(l<asl/`g<adot/*t<oomac/"r<adot/)</pr>, <pos>n.</pos> <ety>[It. See <er>Ligature</er>.]</ety> <fld>(Mus.)</fld> <def>A tie or brace; a syncopation.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Legature</ent><br/
@@ -9976,7 +9976,7 @@ Read, whilst you arm you.</q> <rj><qau>Fairfax.</qau></rj><br/
 
 <p><ent>Leggiero</ent><br/
 <ent>Leggiadro</ent><br/
-<mhw>{ ||<hw>Leg`gi*a"dro</hw> <pr>(l<asl/d`j<esl/*<aum/"dr<osl/)</pr>, ||<hw>Leg`gi*e"ro</hw> <pr>(l<asl/d`j<esl/*<asl/"r<osl/)</pr>, }</mhw> <pos>a. & adv.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Light or graceful; in a light, delicate, and brisk style.</def><br/
+<mhw>{ \'d8<hw>Leg`gi*a"dro</hw> <pr>(l<asl/d`j<esl/*<aum/"dr<osl/)</pr>, \'d8<hw>Leg`gi*e"ro</hw> <pr>(l<asl/d`j<esl/*<asl/"r<osl/)</pr>, }</mhw> <pos>a. & adv.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Light or graceful; in a light, delicate, and brisk style.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leggin</ent><br/
@@ -10297,7 +10297,7 @@ Nothing is <qex>legible</qex> but the name alone.</q> <rj><qau>Longfellow.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Legumen</ent><br/
-||<hw>Le*gu"men</hw> <pr>(l<esl/*g<umac/"m<ecr/n)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Legumina</plw> <pr>(-m<icr/*n<adot/)</pr>, E. <plw>Legumens</plw> <pr>(-m<ecr/nz)</pr>.</plu> <ety>[L.]</ety> <def>Same as <er>Legume</er>.</def><br/
+\'d8<hw>Le*gu"men</hw> <pr>(l<esl/*g<umac/"m<ecr/n)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Legumina</plw> <pr>(-m<icr/*n<adot/)</pr>, E. <plw>Legumens</plw> <pr>(-m<ecr/nz)</pr>.</plu> <ety>[L.]</ety> <def>Same as <er>Legume</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Legumin</ent><br/
@@ -10335,7 +10335,7 @@ Nothing is <qex>legible</qex> but the name alone.</q> <rj><qau>Longfellow.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leiotrichi</ent><br/
-||<hw>Lei*ot"ri*chi</hw> <pr>(-k<imac/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>lei^os</grk> smooth + <grk>qri`x</grk>, <grk>tricho`s</grk>, hair.]</ety> <fld>(Anthropol.)</fld> <def>The division of mankind which embraces the smooth-haired races.</def><br/
+\'d8<hw>Lei*ot"ri*chi</hw> <pr>(-k<imac/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>lei^os</grk> smooth + <grk>qri`x</grk>, <grk>tricho`s</grk>, hair.]</ety> <fld>(Anthropol.)</fld> <def>The division of mankind which embraces the smooth-haired races.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leiotrichous</ent><br/
@@ -10343,7 +10343,7 @@ Nothing is <qex>legible</qex> but the name alone.</q> <rj><qau>Longfellow.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leipoa</ent><br/
-||<hw>Lei*po"a</hw> <pr>(l<isl/*p<omac/"<adot/)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A genus of Australian gallinaceous birds including but a single species (<spn>Leipoa ocellata</spn>), about the size of a turkey. Its color is variegated, brown, black, white, and gray. Called also <altname>native pheasant</altname>.</def><br/
+\'d8<hw>Lei*po"a</hw> <pr>(l<isl/*p<omac/"<adot/)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A genus of Australian gallinaceous birds including but a single species (<spn>Leipoa ocellata</spn>), about the size of a turkey. Its color is variegated, brown, black, white, and gray. Called also <altname>native pheasant</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ It makes large mounds of sand and vegetable material, in which its eggs are laid to be hatched by the heat of the decomposing mass.</note><br/
@@ -10406,7 +10406,7 @@ Nothing is <qex>legible</qex> but the name alone.</q> <rj><qau>Longfellow.</qau>
 
 <p><ent>Leitmotiv</ent><br/
 <ent>Leitmotif</ent><br/
-<mhw><hw>Leit"mo*tif"</hw>, ||<hw>Leit"mo*tiv"</hw></mhw> <pr>(l<imac/t"m<osl/*t<esl/f")</pr>, <pos>n.</pos> <ety>[G., leading motive.]</ety> <sn>1.</sn> <fld>(Mus.)</fld> <def>a guiding theme; in Wagnerian opera, a marked melodic phrase or short musical passage which always accompanies the reappearance of a certain person, situation, abstract idea, or allusion in the course of the play; a sort of musical label.  Also called <cref>Leading motive</cref>.</def><br/
+<mhw><hw>Leit"mo*tif"</hw>, \'d8<hw>Leit"mo*tiv"</hw></mhw> <pr>(l<imac/t"m<osl/*t<esl/f")</pr>, <pos>n.</pos> <ety>[G., leading motive.]</ety> <sn>1.</sn> <fld>(Mus.)</fld> <def>a guiding theme; in Wagnerian opera, a marked melodic phrase or short musical passage which always accompanies the reappearance of a certain person, situation, abstract idea, or allusion in the course of the play; a sort of musical label.  Also called <cref>Leading motive</cref>.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><sn>2.</sn> <def>a recurring theme in the activities of a person or group.</def><br/
@@ -10502,7 +10502,7 @@ Nothing is <qex>legible</qex> but the name alone.</q> <rj><qau>Longfellow.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lemniscus</ent><br/
-||<hw>Lem*nis"cus</hw> <pr>(l<ecr/m*n<icr/s"k<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it></plu> <plw>Lemnisci</plw> <pr>(-s<imac/)</pr> <pos>n.</pos><ety>[L. See <er>Lemniscata</er>.]</ety> <fld>(Zool.)</fld> <def>One of two oval bodies hanging from the interior walls of the body in the Acanthocephala.</def><br/
+\'d8<hw>Lem*nis"cus</hw> <pr>(l<ecr/m*n<icr/s"k<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it></plu> <plw>Lemnisci</plw> <pr>(-s<imac/)</pr> <pos>n.</pos><ety>[L. See <er>Lemniscata</er>.]</ety> <fld>(Zool.)</fld> <def>One of two oval bodies hanging from the interior walls of the body in the Acanthocephala.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lemon</ent><br/
@@ -10542,7 +10542,7 @@ Nothing is <qex>legible</qex> but the name alone.</q> <rj><qau>Longfellow.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lemures</ent><br/
-||<hw>Lem"u*res</hw> <pr>(l<ecr/m"<usl/*r<emac/z; E. l<emac/"m<umac/rz)</pr>, <pos>n. pl.</pos> <ety>[L. See <er>Lemur</er>.]</ety> <def>Spirits or ghosts of the departed; specters.</def><br/
+\'d8<hw>Lem"u*res</hw> <pr>(l<ecr/m"<usl/*r<emac/z; E. l<emac/"m<umac/rz)</pr>, <pos>n. pl.</pos> <ety>[L. See <er>Lemur</er>.]</ety> <def>Spirits or ghosts of the departed; specters.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The Lars and <qex>Lemures</qex> moan with midnight plaint.</q> <rj><qau>Milton.</qau></rj><br/
@@ -10566,11 +10566,11 @@ Nothing is <qex>legible</qex> but the name alone.</q> <rj><qau>Longfellow.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lemuroidea</ent><br/
-||<hw>Lem`u*roi"de*a</hw> <pr>(l<ecr/m`<usl/*roi"d<esl/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Lemur</er>, and <er>-oid</er>.]</ety> <fld>(Zool.)</fld> <def>A suborder of primates, including the lemurs, the aye-aye, and allied species.</def> <altsp>[Written also <asp>Lemuroida</asp>.]</altsp><br/
+\'d8<hw>Lem`u*roi"de*a</hw> <pr>(l<ecr/m`<usl/*roi"d<esl/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Lemur</er>, and <er>-oid</er>.]</ety> <fld>(Zool.)</fld> <def>A suborder of primates, including the lemurs, the aye-aye, and allied species.</def> <altsp>[Written also <asp>Lemuroida</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lena</ent><br/
-||<hw>Le"na</hw> <pr>(l<emac/"n<adot/)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>A procuress.</def> <rj><au>J. Webster.</au></rj><br/
+\'d8<hw>Le"na</hw> <pr>(l<emac/"n<adot/)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>A procuress.</def> <rj><au>J. Webster.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lenard rays</ent><br/
@@ -10857,11 +10857,11 @@ With <qex>length</qex> of days, and every day like this.</q> <rj><qau>Dryden.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lentamente</ent><br/
-||<hw>Len`ta*men"te</hw> <pr>(l<asl/n`t<adot/*m<asl/n"t<asl/; E. l<ecr/n`t<adot/*m<ecr/n"t<esl/)</pr>, <pos>adv.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Slowly; in slow time.</def><br/
+\'d8<hw>Len`ta*men"te</hw> <pr>(l<asl/n`t<adot/*m<asl/n"t<asl/; E. l<ecr/n`t<adot/*m<ecr/n"t<esl/)</pr>, <pos>adv.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Slowly; in slow time.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lentando</ent><br/
-||<hw>Len*tan"do</hw> <pr>(l<asl/n*t<aum/n"d<osl/; E. l<ecr/n*t<acr/n"d<osl/)</pr>, <pos>a.</pos> <ety>[It., p. pr. of <ets>lentare</ets> to make slow. See <er>Lent</er>, <pos>a.</pos>]</ety> <fld>(Mus.)</fld> <def>Slackening; retarding. Same as <er>Rallentando</er>.</def><br/
+\'d8<hw>Len*tan"do</hw> <pr>(l<asl/n*t<aum/n"d<osl/; E. l<ecr/n*t<acr/n"d<osl/)</pr>, <pos>a.</pos> <ety>[It., p. pr. of <ets>lentare</ets> to make slow. See <er>Lent</er>, <pos>a.</pos>]</ety> <fld>(Mus.)</fld> <def>Slackening; retarding. Same as <er>Rallentando</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lenten</ent><br/
@@ -10899,7 +10899,7 @@ And with a <qex>Lenten</qex> salad cooled her blood.</q> <rj><qau>Dryden.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lenticula</ent><br/
-||<hw>Len*tic"u*la</hw> <pr>(l<ecr/n*t<icr/k"<usl/*l<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Lenticulas</plw> <pr>(-l<adot/z)</pr>, L. <plw>Lenticul<ae/</plw> <pr>(-l<emac/)</pr>.</plu> <ety>[L. See <er>Lenticel</er>.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>A kind of eruption upon the skin; lentigo; freckle.</def><br/
+\'d8<hw>Len*tic"u*la</hw> <pr>(l<ecr/n*t<icr/k"<usl/*l<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Lenticulas</plw> <pr>(-l<adot/z)</pr>, L. <plw>Lenticul<ae/</plw> <pr>(-l<emac/)</pr>.</plu> <ety>[L. See <er>Lenticel</er>.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>A kind of eruption upon the skin; lentigo; freckle.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Opt.)</fld> <def>A lens of small size.</def><br/
@@ -10929,7 +10929,7 @@ And with a <qex>Lenten</qex> salad cooled her blood.</q> <rj><qau>Dryden.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lentigo</ent><br/
-||<hw>Len*ti"go</hw> <pr>(l<ecr/n*t<imac/"g<osl/)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>lens</ets>, <ets>lentis</ets>, lentil.]</ety> <fld>(Med.)</fld> <def>A freckly eruption on the skin; freckles.</def><br/
+\'d8<hw>Len*ti"go</hw> <pr>(l<ecr/n*t<imac/"g<osl/)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>lens</ets>, <ets>lentis</ets>, lentil.]</ety> <fld>(Med.)</fld> <def>A freckly eruption on the skin; freckles.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lentil</ent><br/
@@ -10961,7 +10961,7 @@ And with a <qex>Lenten</qex> salad cooled her blood.</q> <rj><qau>Dryden.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lento</ent><br/
-||<hw>Len"to</hw> <pr>(l<asl/n"t<osl/; E. l<ecr/n"t<osl/)</pr>, <pos>a. & adv.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Slow; in slow time; slowly; -- rarely written <altname>lente</altname>.</def><br/
+\'d8<hw>Len"to</hw> <pr>(l<asl/n"t<osl/; E. l<ecr/n"t<osl/)</pr>, <pos>a. & adv.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Slow; in slow time; slowly; -- rarely written <altname>lente</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lentoid</ent><br/
@@ -10969,7 +10969,7 @@ And with a <qex>Lenten</qex> salad cooled her blood.</q> <rj><qau>Dryden.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lentor</ent><br/
-||<hw>Len"tor</hw> <pr>(-t<ocr/r)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>lentus</ets> pliant, tough, slow. See <er>Lent</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <def>Tenacity; viscidity, as of fluids.</def><br/
+\'d8<hw>Len"tor</hw> <pr>(-t<ocr/r)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>lentus</ets> pliant, tough, slow. See <er>Lent</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <def>Tenacity; viscidity, as of fluids.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Slowness; delay; sluggishness.</def> <au>Arbuthnot.</au><br/
@@ -10984,14 +10984,14 @@ And with a <qex>Lenten</qex> salad cooled her blood.</q> <rj><qau>Dryden.</qau><
 
 <p><ent>L'envoy</ent><br/
 <ent>L'envoi</ent><br/
-<mhw>||<hw>L'en`voi"</hw>, <it>or</it> <hw>L'en`voy"</hw> <pr>(l<aum/n`vw<aum/")</pr></mhw>, <pos>n.</pos> <ety>[F. <ets>le</ets> the + <ets>envoi</ets> a sending. See <er>Envoy</er>.]</ety> <sn>1.</sn> <def>One or more detached verses at the end of a literary composition, serving to convey the moral, or to address the poem to a particular person; -- orig. employed in old French poetry.</def> <rj><au>Shak.</au></rj><br/
+<mhw>\'d8<hw>L'en`voi"</hw>, <it>or</it> <hw>L'en`voy"</hw> <pr>(l<aum/n`vw<aum/")</pr></mhw>, <pos>n.</pos> <ety>[F. <ets>le</ets> the + <ets>envoi</ets> a sending. See <er>Envoy</er>.]</ety> <sn>1.</sn> <def>One or more detached verses at the end of a literary composition, serving to convey the moral, or to address the poem to a particular person; -- orig. employed in old French poetry.</def> <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A conclusion; a result.</def> <rj><au>Massinger.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leo</ent><br/
-||<hw>Le"o</hw> <pr>(l<emac/"<omac/)</pr>, <pos>n.</pos> <ety>[L. See <er>Lion</er>.]</ety> <fld>(Astron.)</fld> <sn>1.</sn> <def>The Lion, the fifth sign of the zodiac, marked thus [<Leo/] in almanacs.</def><br/
+\'d8<hw>Le"o</hw> <pr>(l<emac/"<omac/)</pr>, <pos>n.</pos> <ety>[L. See <er>Lion</er>.]</ety> <fld>(Astron.)</fld> <sn>1.</sn> <def>The Lion, the fifth sign of the zodiac, marked thus [<Leo/] in almanacs.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A northern constellation east of Cancer, containing the bright star Regulus at the end of the handle of the Sickle.</def><br/
@@ -11109,7 +11109,7 @@ And with a <qex>Lenten</qex> salad cooled her blood.</q> <rj><qau>Dryden.</qau><
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Lepas</ent><br/
-||<hw>Le"pas</hw> <pr>(l<emac/"p<acr/s)</pr>, <pos>n.</pos> <ety>[L., a limpet, fr. Gr. <grk>lepa`s</grk>.]</ety> <fld>(Zool.)</fld> <def>Any one of various species of <gen>Lepas</gen>, a genus of pedunculated barnacles found attached to floating timber, bottoms of ships, Gulf weed, etc.; -- called also <altname>goose barnacle</altname>. See <er>Barnacle</er>.</def><br/
+\'d8<hw>Le"pas</hw> <pr>(l<emac/"p<acr/s)</pr>, <pos>n.</pos> <ety>[L., a limpet, fr. Gr. <grk>lepa`s</grk>.]</ety> <fld>(Zool.)</fld> <def>Any one of various species of <gen>Lepas</gen>, a genus of pedunculated barnacles found attached to floating timber, bottoms of ships, Gulf weed, etc.; -- called also <altname>goose barnacle</altname>. See <er>Barnacle</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leper</ent><br/
@@ -11153,7 +11153,7 @@ And with a <qex>Lenten</qex> salad cooled her blood.</q> <rj><qau>Dryden.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lepidodendron</ent><br/
-||<hw>Lep`i*do*den"dron</hw> <pr>(-dr<ocr/n)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>lepi`s</grk> <grk>-i`dos</grk>, a scale + <grk>de`ndron</grk> tree.]</ety> <fld>(Paleon.)</fld> <def>A genus of fossil trees of the Devonian and Carboniferous ages, having the exterior marked with scars, mostly in quincunx order, produced by the separation of the leafstalks.</def><br/
+\'d8<hw>Lep`i*do*den"dron</hw> <pr>(-dr<ocr/n)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>lepi`s</grk> <grk>-i`dos</grk>, a scale + <grk>de`ndron</grk> tree.]</ety> <fld>(Paleon.)</fld> <def>A genus of fossil trees of the Devonian and Carboniferous ages, having the exterior marked with scars, mostly in quincunx order, produced by the separation of the leafstalks.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lepidoganoid</ent><br/
@@ -11173,7 +11173,7 @@ And with a <qex>Lenten</qex> salad cooled her blood.</q> <rj><qau>Dryden.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lepidoptera</ent><br/
-||<hw>Lep`i*dop"te*ra</hw> <pr>(-d<ocr/p"t<esl/*r<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>lepi`s</grk> <grk>-i`dos</grk>, a scale + <grk>ptero`n</grk> a feather, wing.]</ety> <fld>(Zool.)</fld> <def>An order of insects, which includes the butterflies and moths. They have broad wings, covered with minute overlapping scales, usually brightly colored.</def><br/
+\'d8<hw>Lep`i*dop"te*ra</hw> <pr>(-d<ocr/p"t<esl/*r<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>lepi`s</grk> <grk>-i`dos</grk>, a scale + <grk>ptero`n</grk> a feather, wing.]</ety> <fld>(Zool.)</fld> <def>An order of insects, which includes the butterflies and moths. They have broad wings, covered with minute overlapping scales, usually brightly colored.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ They have a tubular proboscis, or haustellum, formed by the two slender maxill<ae/. The labial palpi are usually large, and the proboscis, when not in use, can be coiled up spirally between them. The mandibles are rudimentary. The larv<ae/, called <stage>caterpillars</stage>, are often brightly colored, and they commonly feed on leaves. The adults feed chiefly on the honey of flowers.</note><br/
@@ -11207,7 +11207,7 @@ And with a <qex>Lenten</qex> salad cooled her blood.</q> <rj><qau>Dryden.</qau><
 [<source>PJC</source>]</p>
 
 <p><ent>Lepidosauria</ent><br/
-||<hw>Lep`i*do*sau"ri*a</hw> <pr>(-d<osl/*s<add/"r<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>lepi`s</grk> <grk>-i`dos</grk>, a scale + <grk>say^ros</grk> a lizard.]</ety> <fld>(Zool.)</fld> <def>A division of reptiles, including the serpents and lizards; the Plagiotremata.</def><br/
+\'d8<hw>Lep`i*do*sau"ri*a</hw> <pr>(-d<osl/*s<add/"r<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>lepi`s</grk> <grk>-i`dos</grk>, a scale + <grk>say^ros</grk> a lizard.]</ety> <fld>(Zool.)</fld> <def>A division of reptiles, including the serpents and lizards; the Plagiotremata.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lepidosiren</ent><br/
@@ -11224,7 +11224,7 @@ And with a <qex>Lenten</qex> salad cooled her blood.</q> <rj><qau>Dryden.</qau><
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Lepisma</ent><br/
-||<hw>Le*pis"ma</hw> <pr>(l<esl/*p<icr/z"m<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>le`pisma</grk> peel, fr. <grk>lepi`s</grk> <grk>-i`dos</grk>, a scale.]</ety> <fld>(Zool.)</fld> <def>A genus of wingless thysanurous insects having an elongated flattened body, covered with shining scales and terminated by seven unequal bristles. A common species (<spn>Lepisma saccharina</spn>) is found in houses, and often injures books and furniture; it feeds on starch and eats sized paper and starched clothes. Called also <altname>shiner</altname>, <altname>silverfish</altname>, <altname>silver witch</altname>, <altname>silver moth</altname>, and <altname>furniture bug</altname>.</def><br/
+\'d8<hw>Le*pis"ma</hw> <pr>(l<esl/*p<icr/z"m<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>le`pisma</grk> peel, fr. <grk>lepi`s</grk> <grk>-i`dos</grk>, a scale.]</ety> <fld>(Zool.)</fld> <def>A genus of wingless thysanurous insects having an elongated flattened body, covered with shining scales and terminated by seven unequal bristles. A common species (<spn>Lepisma saccharina</spn>) is found in houses, and often injures books and furniture; it feeds on starch and eats sized paper and starched clothes. Called also <altname>shiner</altname>, <altname>silverfish</altname>, <altname>silver witch</altname>, <altname>silver moth</altname>, and <altname>furniture bug</altname>.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Lepismoid</ent><br/
@@ -11261,7 +11261,7 @@ And with a <qex>Lenten</qex> salad cooled her blood.</q> <rj><qau>Dryden.</qau><
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Lepra</ent><br/
-||<hw>Le"pra</hw> <pr>(l<emac/"pr<adot/)</pr>, <pos>n.</pos> <ety>[L. See <er>Leper</er>.]</ety> <fld>(Med.)</fld> <def>Leprosy.</def><br/
+\'d8<hw>Le"pra</hw> <pr>(l<emac/"pr<adot/)</pr>, <pos>n.</pos> <ety>[L. See <er>Leper</er>.]</ety> <fld>(Med.)</fld> <def>Leprosy.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The term <xex>lepra</xex> was formerly given to various skin diseases, the leprosy of modern authors being <stype>Lepra Arabum</stype>. See <er>Leprosy</er>.</note><br/
@@ -11314,7 +11314,7 @@ And with a <qex>Lenten</qex> salad cooled her blood.</q> <rj><qau>Dryden.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leptocardia</ent><br/
-||<hw>Lep`to*car"di*a</hw> <pr>(l<ecr/p`t<osl/*k<aum/r"d<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>lepto`s</grk> small + <grk>kardi`a</grk> the heart.]</ety> <fld>(Zool.)</fld> <def>The lowest class of Vertebrata, including only the Amphioxus. The heart is represented only by a simple pulsating vessel. The blood is colorless; the brain, renal organs, and limbs are wanting, and the backbone is represented only by a simple, unsegmented notochord. See <er>Amphioxus</er>.</def> <altsp>[Written also <asp>Leptocardii</asp>.]</altsp><br/
+\'d8<hw>Lep`to*car"di*a</hw> <pr>(l<ecr/p`t<osl/*k<aum/r"d<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>lepto`s</grk> small + <grk>kardi`a</grk> the heart.]</ety> <fld>(Zool.)</fld> <def>The lowest class of Vertebrata, including only the Amphioxus. The heart is represented only by a simple pulsating vessel. The blood is colorless; the brain, renal organs, and limbs are wanting, and the backbone is represented only by a simple, unsegmented notochord. See <er>Amphioxus</er>.</def> <altsp>[Written also <asp>Leptocardii</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leptocardian</ent><br/
@@ -11354,7 +11354,7 @@ And with a <qex>Lenten</qex> salad cooled her blood.</q> <rj><qau>Dryden.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leptomeningitis</ent><br/
-||<hw>Lep`to*men`in*gi"tis</hw> <pr>(l<ecr/p`t<osl/*m<ecr/n`<icr/n*j<imac/"t<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>lepto`s</grk> small + <ets>meningitis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the <xex>pia mater</xex> or of the arachnoid membrane.</def><br/
+\'d8<hw>Lep`to*men`in*gi"tis</hw> <pr>(l<ecr/p`t<osl/*m<ecr/n`<icr/n*j<imac/"t<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>lepto`s</grk> small + <ets>meningitis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the <xex>pia mater</xex> or of the arachnoid membrane.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>lepton</ent><br/
@@ -11376,19 +11376,19 @@ And with a <qex>Lenten</qex> salad cooled her blood.</q> <rj><qau>Dryden.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leptostraca</ent><br/
-||<hw>Lep*tos"tra*ca</hw> <pr>(l<ecr/p*t<ocr/s"tr<adot/*k<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>lepto`s</grk> thin, slender + <grk>'o`strakon</grk> shell of a testacean.]</ety> <fld>(Zool.)</fld> <def>An order of Crustacea, including Nebalia and allied forms.</def><br/
+\'d8<hw>Lep*tos"tra*ca</hw> <pr>(l<ecr/p*t<ocr/s"tr<adot/*k<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>lepto`s</grk> thin, slender + <grk>'o`strakon</grk> shell of a testacean.]</ety> <fld>(Zool.)</fld> <def>An order of Crustacea, including Nebalia and allied forms.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leptothrix</ent><br/
-||<hw>Lep"to*thrix</hw> <pr>(l<ecr/p"t<osl/*thr<icr/ks)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>lepto`s</grk> small + <grk>qri`x</grk> hair.]</ety> <fld>(Biol.)</fld> <def>A genus of bacteria, characterized by having their filaments very long, slender, and indistinctly articulated.</def><br/
+\'d8<hw>Lep"to*thrix</hw> <pr>(l<ecr/p"t<osl/*thr<icr/ks)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>lepto`s</grk> small + <grk>qri`x</grk> hair.]</ety> <fld>(Biol.)</fld> <def>A genus of bacteria, characterized by having their filaments very long, slender, and indistinctly articulated.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leptothrix</ent><br/
-||<hw>Lep"to*thrix</hw>, <pos>a.</pos> <ety>[See <er>Leptothrix</er>, <pos>n.</pos> ]</ety> <fld>(Biol.)</fld> <def>Having the form of a little chain; -- applied to bacteria when, as in multiplication by fission, they form a chain of filiform individuals.</def><br/
+\'d8<hw>Lep"to*thrix</hw>, <pos>a.</pos> <ety>[See <er>Leptothrix</er>, <pos>n.</pos> ]</ety> <fld>(Biol.)</fld> <def>Having the form of a little chain; -- applied to bacteria when, as in multiplication by fission, they form a chain of filiform individuals.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leptus</ent><br/
-||<hw>Lep"tus</hw> <pr>(l<ecr/p"t<ucr/s)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>lepto`s</grk> thin, small.]</ety> <fld>(Zool.)</fld> <def>The six-legged young, or larva, of certain mites; -- sometimes used as a generic name. See <cref>Harvest mite</cref>, under <er>Harvest</er>.</def><br/
+\'d8<hw>Lep"tus</hw> <pr>(l<ecr/p"t<ucr/s)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>lepto`s</grk> thin, small.]</ety> <fld>(Zool.)</fld> <def>The six-legged young, or larva, of certain mites; -- sometimes used as a generic name. See <cref>Harvest mite</cref>, under <er>Harvest</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leptynite</ent><br/
@@ -11426,14 +11426,14 @@ And with a <qex>Lenten</qex> salad cooled her blood.</q> <rj><qau>Dryden.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lernaea</ent><br/
-||<hw>Ler*n<ae/"a</hw> <pr>(l<etil/r*n<emac/"<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>Lernaeus</ets> Lern<ae/an, fr. <ets>Lerna</ets>, Gr. <grk>Le`rnh</grk>, a forest and marsh near Argos, the mythological abode of the hydra.]</ety> <fld>(Zool.)</fld> <def>A Linn<ae/an genus of parasitic Entomostraca, -- the same as the family <fam>Lern<ae/id<ae/</fam>.</def><br/
+\'d8<hw>Ler*n<ae/"a</hw> <pr>(l<etil/r*n<emac/"<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>Lernaeus</ets> Lern<ae/an, fr. <ets>Lerna</ets>, Gr. <grk>Le`rnh</grk>, a forest and marsh near Argos, the mythological abode of the hydra.]</ety> <fld>(Zool.)</fld> <def>A Linn<ae/an genus of parasitic Entomostraca, -- the same as the family <fam>Lern<ae/id<ae/</fam>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The genus is restricted by modern Zoologists to a limited number of species similar to <spn>Lern<ae/a branchialis</spn> found on the gills of the cod.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lernaeacea</ent><br/
-||<hw>Ler`n<ae/*a"ce*a</hw> <pr>(l<etil/r`n<esl/*<amac/"sh<esl/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Lern<ae/a</er>.]</ety> <fld>(Zool.)</fld> <def>A suborder of copepod Crustacea, including a large number of remarkable forms, mostly parasitic on fishes. The young, however, are active and swim freely. See <xex>Illustration</xex> in Appendix.</def><br/
+\'d8<hw>Ler`n<ae/*a"ce*a</hw> <pr>(l<etil/r`n<esl/*<amac/"sh<esl/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Lern<ae/a</er>.]</ety> <fld>(Zool.)</fld> <def>A suborder of copepod Crustacea, including a large number of remarkable forms, mostly parasitic on fishes. The young, however, are active and swim freely. See <xex>Illustration</xex> in Appendix.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lernean</ent><br/
@@ -11442,7 +11442,7 @@ And with a <qex>Lenten</qex> salad cooled her blood.</q> <rj><qau>Dryden.</qau><
 
 <p><ent>Lerot</ent><br/
 <ent>lerot</ent><br/
-<mhw><hw>lerot</hw>, ||<hw>L<eacute/`rot"</hw></mhw> <pr>(l<asl/`r<osl/")</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Zool.)</fld> <def>A small rodent (<spn>Eliomys nitela</spn>) of Europe and Northern Africa, allied to the dormouse.</def><br/
+<mhw><hw>lerot</hw>, \'d8<hw>L<eacute/`rot"</hw></mhw> <pr>(l<asl/`r<osl/")</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Zool.)</fld> <def>A small rodent (<spn>Eliomys nitela</spn>) of Europe and Northern Africa, allied to the dormouse.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Les</ent><br/
@@ -11667,7 +11667,7 @@ Doth <qex>lesson</qex> happier men, and shame at least the bad.</q> <rj><qau>Byr
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lester</ent><br/
-||<hw>Les"ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pg., prob. fr. Fr. <ets>l'est</ets> the east.]</ety> <fld>(Meteor.)</fld> <def>A dry sirocco in the Madeira Islands.</def><br/
+\'d8<hw>Les"ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pg., prob. fr. Fr. <ets>l'est</ets> the east.]</ety> <fld>(Meteor.)</fld> <def>A dry sirocco in the Madeira Islands.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>-let</ent><br/
@@ -12053,7 +12053,7 @@ But to her mother Nature all her care she <qex>lets</qex>.</q> <rj><qau>Spenser.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leucadendron</ent><br/
-||<hw>Leu`ca*den"dron</hw> <pr>(l<umac/`k<adot/*d<ecr/n"dr<ocr/n)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>leyko`s</grk> white + <grk>de`ndron</grk> tree.]</ety> <fld>(Bot.)</fld> <def>A genus of evergreen shrubs from the Cape of Good Hope, having handsome foliage. <spn>Leucadendron argenteum</spn> is the <stype>silverboom</stype> of the colonists.</def><br/
+\'d8<hw>Leu`ca*den"dron</hw> <pr>(l<umac/`k<adot/*d<ecr/n"dr<ocr/n)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>leyko`s</grk> white + <grk>de`ndron</grk> tree.]</ety> <fld>(Bot.)</fld> <def>A genus of evergreen shrubs from the Cape of Good Hope, having handsome foliage. <spn>Leucadendron argenteum</spn> is the <stype>silverboom</stype> of the colonists.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leucaniline</ent><br/
@@ -12061,7 +12061,7 @@ But to her mother Nature all her care she <qex>lets</qex>.</q> <rj><qau>Spenser.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leuchaemia</ent><br/
-||<hw>Leu*ch<ae/"mi*a</hw> <pr>(l<usl/*k<emac/"m<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>leyko`s</grk> white + <grk>a"i^ma</grk> blood.]</ety> <fld>(Med.)</fld> <def>See <er>Leukemia</er>.</def> <altsp>[Written also <asp>leukemia</asp>, <asp>leukaemia</asp>,a nd <asp>leucemia</asp>.]</altsp><br/
+\'d8<hw>Leu*ch<ae/"mi*a</hw> <pr>(l<usl/*k<emac/"m<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>leyko`s</grk> white + <grk>a"i^ma</grk> blood.]</ety> <fld>(Med.)</fld> <def>See <er>Leukemia</er>.</def> <altsp>[Written also <asp>leukemia</asp>, <asp>leukaemia</asp>,a nd <asp>leucemia</asp>.]</altsp><br/
 -- <wordforms><wf>Leu*ch<ae/m"ic</wf> <pr>(l<usl/*k<ecr/m"<icr/k)</pr>, <pos>a.</pos>  <altsp>[Written also <asp>leukemic</asp> and <asp>leukaemic</asp>.]</altsp></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
@@ -12112,7 +12112,7 @@ But to her mother Nature all her care she <qex>lets</qex>.</q> <rj><qau>Spenser.
 
 <p><ent>Leucocythemia</ent><br/
 <ent>Leucocythaemia</ent><br/
-<mhw>{ ||<hw>Leu`co*cy*th<ae/"mi*a</hw> ||<hw>Leu`co*cy*the"mi*a</hw> } </mhw> <pr>(l<umac/`k<osl/*s<isl/*th<emac/"m<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>leyko`s</grk> white + <grk>ky`tos</grk> a hollow vessel + <grk>a"i^ma</grk> blood.]</ety> <fld>(Med.)</fld> <def>Same as <er>leukemia</er>.</def><br/
+<mhw>{ \'d8<hw>Leu`co*cy*th<ae/"mi*a</hw> \'d8<hw>Leu`co*cy*the"mi*a</hw> } </mhw> <pr>(l<umac/`k<osl/*s<isl/*th<emac/"m<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>leyko`s</grk> white + <grk>ky`tos</grk> a hollow vessel + <grk>a"i^ma</grk> blood.]</ety> <fld>(Med.)</fld> <def>Same as <er>leukemia</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leucocytogenesis</ent><br/
@@ -12132,7 +12132,7 @@ But to her mother Nature all her care she <qex>lets</qex>.</q> <rj><qau>Spenser.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leucoma</ent><br/
-||<hw>Leu*co"ma</hw> <pr>(l<usl/*k<omac/"m<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ley`kwma</grk>, fr. <grk>leyko`s</grk> white.]</ety> <fld>(Med.)</fld> <def>A white opacity in the cornea of the eye; -- called also <altname>albugo</altname>.</def><br/
+\'d8<hw>Leu*co"ma</hw> <pr>(l<usl/*k<omac/"m<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ley`kwma</grk>, fr. <grk>leyko`s</grk> white.]</ety> <fld>(Med.)</fld> <def>A white opacity in the cornea of the eye; -- called also <altname>albugo</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leucomaine</ent><br/
@@ -12181,7 +12181,7 @@ But to her mother Nature all her care she <qex>lets</qex>.</q> <rj><qau>Spenser.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leucoryx</ent><br/
-||<hw>Leu"co*ryx</hw> <pr>(l<umac/"k<osl/*r<icr/ks)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>leyko`s</grk> + <grk>'o`ryx</grk> a kind of gazelle.]</ety> <fld>(Zool.)</fld> <def>A large antelope of North Africa (<spn>Oryx leucoryx</spn>), allied to the gemsbok.</def><br/
+\'d8<hw>Leu"co*ryx</hw> <pr>(l<umac/"k<osl/*r<icr/ks)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>leyko`s</grk> + <grk>'o`ryx</grk> a kind of gazelle.]</ety> <fld>(Zool.)</fld> <def>A large antelope of North Africa (<spn>Oryx leucoryx</spn>), allied to the gemsbok.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leucoscope</ent><br/
@@ -12223,7 +12223,7 @@ But to her mother Nature all her care she <qex>lets</qex>.</q> <rj><qau>Spenser.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Levana</ent><br/
-||<hw>Le*va"na</hw> <pr>(l<esl/*v<amac/"n<adot/)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>levare</ets> to raise.]</ety> <fld>(Rom. Myth.)</fld> <def>A goddess who protected newborn infants.</def><br/
+\'d8<hw>Le*va"na</hw> <pr>(l<esl/*v<amac/"n<adot/)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>levare</ets> to raise.]</ety> <fld>(Rom. Myth.)</fld> <def>A goddess who protected newborn infants.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Levant</ent><br/
@@ -12270,7 +12270,7 @@ But to her mother Nature all her care she <qex>lets</qex>.</q> <rj><qau>Spenser.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Levari facias</ent><br/
-||<hw>Le*va`ri fa"ci*as</hw> <pr>(l<esl/*v<amac/`r<isl/ f<amac/"sh<icr/*<acr/s)</pr> <pos>n.</pos> <ety>[Law L., cause to be levied.]</ety> <def>A writ of execution at common law.</def><br/
+\'d8<hw>Le*va`ri fa"ci*as</hw> <pr>(l<esl/*v<amac/`r<isl/ f<amac/"sh<icr/*<acr/s)</pr> <pos>n.</pos> <ety>[Law L., cause to be levied.]</ety> <def>A writ of execution at common law.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Levation</ent><br/
@@ -12308,7 +12308,7 @@ But to her mother Nature all her care she <qex>lets</qex>.</q> <rj><qau>Spenser.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leveche</ent><br/
-||<hw>Le*ve"che</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. Cf. <er>Lebeccio</er>.]</ety> <fld>(Meteor.)</fld> <def>A dry sirocco of Spain.</def><br/
+\'d8<hw>Le*ve"che</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. Cf. <er>Lebeccio</er>.]</ety> <fld>(Meteor.)</fld> <def>A dry sirocco of Spain.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Levee</ent><br/
@@ -12337,7 +12337,7 @@ But to her mother Nature all her care she <qex>lets</qex>.</q> <rj><qau>Spenser.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Levee en masse</ent><br/
-||<hw>Le*v<eacute/e" en` masse"</hw> <pr>(l<eit/*v<asl/" <aum/N` m<adot/s")</pr> <pos>n.</pos> <ety>[F.]</ety> <def>See <cref>Levy in mass</cref>, under <er>Levy</er>, <pos>n.</pos></def><br/
+\'d8<hw>Le*v<eacute/e" en` masse"</hw> <pr>(l<eit/*v<asl/" <aum/N` m<adot/s")</pr> <pos>n.</pos> <ety>[F.]</ety> <def>See <cref>Levy in mass</cref>, under <er>Levy</er>, <pos>n.</pos></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leveful</ent><br/
@@ -12640,7 +12640,7 @@ As <qex>levels</qex> with her breeding.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Levirostres</ent><br/
-||<hw>Lev`i*ros"tres</hw> <pr>(-r<ocr/s"tr<emac/z)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>levis</ets> light + <ets>rostrum</ets> beak.]</ety> <fld>(Zool.)</fld> <def>A group of birds, including the hornbills, kingfishers, and related forms.</def><br/
+\'d8<hw>Lev`i*ros"tres</hw> <pr>(-r<ocr/s"tr<emac/z)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>levis</ets> light + <ets>rostrum</ets> beak.]</ety> <fld>(Zool.)</fld> <def>A group of birds, including the hornbills, kingfishers, and related forms.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Levitate</ent><br/
@@ -12867,7 +12867,7 @@ To mock the <qex>lewd</qex>, as learn'd in this as they.</q> <rj><qau>Sir. J. Da
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lex</ent><br/
-||<hw>Lex</hw> <pr>(l<ecr/ks)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Leges</plw> <pr>(l<emac/"j<emac/z)</pr>.</plu> <ety>[L. See <er>Legal</er>.]</ety> <def>Law; <as>as, <ex>lex talionis</ex>, the law of retaliation; <ex>lex terr<ae/</ex>, the law of the land; <ex>lex fori</ex>, the law of the forum or court; <ex>lex loci</ex>, the law of the place; <ex>lex mercatoria</ex>, the law or custom of merchants.</as></def><br/
+\'d8<hw>Lex</hw> <pr>(l<ecr/ks)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Leges</plw> <pr>(l<emac/"j<emac/z)</pr>.</plu> <ety>[L. See <er>Legal</er>.]</ety> <def>Law; <as>as, <ex>lex talionis</ex>, the law of retaliation; <ex>lex terr<ae/</ex>, the law of the land; <ex>lex fori</ex>, the law of the forum or court; <ex>lex loci</ex>, the law of the place; <ex>lex mercatoria</ex>, the law or custom of merchants.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>lexical</ent><br/
@@ -13095,7 +13095,7 @@ To mock the <qex>lewd</qex>, as learn'd in this as they.</q> <rj><qau>Sir. J. Da
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Liard</ent><br/
-||<hw>Liard</hw> <pr>(ly<aum/r)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A French copper coin of one fourth the value of a sou.</def><br/
+\'d8<hw>Liard</hw> <pr>(ly<aum/r)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A French copper coin of one fourth the value of a sou.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lias</ent><br/
@@ -13197,7 +13197,7 @@ To mock the <qex>lewd</qex>, as learn'd in this as they.</q> <rj><qau>Sir. J. Da
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Li bella</ent><br/
-||<hw>Li *bel"la</hw> <pr>(l<isl/*b<ecr/l"l<adot/)</pr>, <pos>n.</pos> <ety>[L., dim. of <ets>libra</ets> balance. See <er>Level</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>A small balance.</def><br/
+\'d8<hw>Li *bel"la</hw> <pr>(l<isl/*b<ecr/l"l<adot/)</pr>, <pos>n.</pos> <ety>[L., dim. of <ets>libra</ets> balance. See <er>Level</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>A small balance.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A level, or leveling instrument.</def><br/
@@ -13220,7 +13220,7 @@ To mock the <qex>lewd</qex>, as learn'd in this as they.</q> <rj><qau>Sir. J. Da
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Liber</ent><br/
-||<hw>Li"ber</hw> <pr>(l<imac/"b<etil/r)</pr>, <pos>n.</pos> <ety>[L. See <er>Libel</er>.]</ety> <fld>(Bot.)</fld> <def>The inner bark of plants, lying next to the wood. It usually contains a large proportion of woody, fibrous cells, and is, therefore, the part from which the fiber of the plant is obtained, as that of hemp, etc.</def><br/
+\'d8<hw>Li"ber</hw> <pr>(l<imac/"b<etil/r)</pr>, <pos>n.</pos> <ety>[L. See <er>Libel</er>.]</ety> <fld>(Bot.)</fld> <def>The inner bark of plants, lying next to the wood. It usually contains a large proportion of woody, fibrous cells, and is, therefore, the part from which the fiber of the plant is obtained, as that of hemp, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Liber cells</b></col>, <cd>elongated woody cells found in the liber.</cd></cs><br/
@@ -13539,7 +13539,7 @@ Himself the primrose path of dalliance treads.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Libra</ent><br/
 <ent>Librae</ent><br/
-||<hw>Li"bra</hw> <pr>(l<imac/"br<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Libr<ae/</plw> <pr>(l<imac/"br<emac/)</pr>.</plu> <ety>[L., a balance.]</ety> <fld>(Astron.)</fld> <sd>(a)</sd> <def>The Balance; the seventh sign in the zodiac, which the sun enters at the autumnal equinox in September, marked thus <libra/ in almanacs, etc.</def> <sd>(b )</sd> <def>A southern constellation between Virgo and Scorpio.</def><br/
+\'d8<hw>Li"bra</hw> <pr>(l<imac/"br<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Libr<ae/</plw> <pr>(l<imac/"br<emac/)</pr>.</plu> <ety>[L., a balance.]</ety> <fld>(Astron.)</fld> <sd>(a)</sd> <def>The Balance; the seventh sign in the zodiac, which the sun enters at the autumnal equinox in September, marked thus <libra/ in almanacs, etc.</def> <sd>(b )</sd> <def>A southern constellation between Virgo and Scorpio.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Libral</ent><br/
@@ -14078,18 +14078,18 @@ Himself the primrose path of dalliance treads.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Lied</ent><br/
-||<hw>Lied</hw> <pr>(l<emac/t)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lieder</plw> <pr>(l<emac/"d<etil/r)</pr>.</plu> <ety>[G.]</ety> <fld>(Mus.)</fld> <def>A lay; a German song.  It differs from the French <contr>chanson</contr>, and the Italian <contr>canzone</contr>, all three being national.</def><br/
+\'d8<hw>Lied</hw> <pr>(l<emac/t)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lieder</plw> <pr>(l<emac/"d<etil/r)</pr>.</plu> <ety>[G.]</ety> <fld>(Mus.)</fld> <def>A lay; a German song.  It differs from the French <contr>chanson</contr>, and the Italian <contr>canzone</contr>, all three being national.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The German <qex>Lied</qex> is perhaps the most faithful reflection of the national sentiment.</q> <rj><qau>Grove.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Liederkranz</ent><br/
-||<hw>Lie"der*kranz</hw>, <pos>n.</pos> <ety>[G. See <ets>Lied</ets>, and <ets>Grants</ets>.]</ety> <fld>(Mus.)</fld> <def>Lit., wreath of songs; -- used as the title of a group of songs, and esp. as the common name for German vocal clubs of men.</def><br/
+\'d8<hw>Lie"der*kranz</hw>, <pos>n.</pos> <ety>[G. See <ets>Lied</ets>, and <ets>Grants</ets>.]</ety> <fld>(Mus.)</fld> <def>Lit., wreath of songs; -- used as the title of a group of songs, and esp. as the common name for German vocal clubs of men.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Liedertafel</ent><br/
-||<hw>Lie"der*ta`fel</hw> <pr>(l<emac/"d<etil/r*t<aum/`f'l)</pr>, <pos>n.</pos> <ety>[G., lit., a song table.]</ety> <fld>(Mus.)</fld> <def>A popular name for any society or club which meets for the practice of male part songs.</def><br/
+\'d8<hw>Lie"der*ta`fel</hw> <pr>(l<emac/"d<etil/r*t<aum/`f'l)</pr>, <pos>n.</pos> <ety>[G., lit., a song table.]</ety> <fld>(Mus.)</fld> <def>A popular name for any society or club which meets for the practice of male part songs.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lief</ent><br/
@@ -14206,7 +14206,7 @@ And he, he reverenced his <qex>liege</qex> lady there.</q> <rj><qau>Tennyson.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lienculus</ent><br/
-||<hw>Li*en"cu*lus</hw> <pr>(l<isl/*<ecr/<nsm/"k<usl/*l<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lienculi</plw> <pr>(l<isl/*<ecr/<nsm/"k<usl/*l<imac/)</pr>.</plu> <ety>[NL., dim. of L. <ets>lien</ets> the spleen.]</ety> <fld>(Anat.)</fld> <def>One of the small nodules sometimes found in the neighborhood of the spleen; an accessory or supplementary spleen.</def><br/
+\'d8<hw>Li*en"cu*lus</hw> <pr>(l<isl/*<ecr/<nsm/"k<usl/*l<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lienculi</plw> <pr>(l<isl/*<ecr/<nsm/"k<usl/*l<imac/)</pr>.</plu> <ety>[NL., dim. of L. <ets>lien</ets> the spleen.]</ety> <fld>(Anat.)</fld> <def>One of the small nodules sometimes found in the neighborhood of the spleen; an accessory or supplementary spleen.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lieno-intestinal</ent><br/
@@ -15510,11 +15510,11 @@ Touched <qex>lightly</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lignum rhodium</ent><br/
-||<hw>Lig"num rho"di*um</hw> <pr>(l<icr/g"n<ucr/m r<omac/"d<icr/*<ucr/m)</pr>. <ety>[NL., fr. L. <ets>lignum</ets> wood + Gr. <grk>"ro`don</grk> a rose.]</ety> <fld>(Bot.)</fld> <def>The fragrant wood of several shrubs and trees, especially of species of <gen>Rhodorhiza</gen> from the Canary Islands, and of the West Indian <spn>Amyris balsamifera</spn>.</def><br/
+\'d8<hw>Lig"num rho"di*um</hw> <pr>(l<icr/g"n<ucr/m r<omac/"d<icr/*<ucr/m)</pr>. <ety>[NL., fr. L. <ets>lignum</ets> wood + Gr. <grk>"ro`don</grk> a rose.]</ety> <fld>(Bot.)</fld> <def>The fragrant wood of several shrubs and trees, especially of species of <gen>Rhodorhiza</gen> from the Canary Islands, and of the West Indian <spn>Amyris balsamifera</spn>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lignum-vitae</ent><br/
-||<hw>Lig"num-vi"tae</hw> <pr>(l<icr/g"n<ucr/m v<imac/"t<emac/)</pr>, <pos>n.</pos> <ety>[L., wood of life; <ets>lignum</ets> wood + <ets>vita</ets>, genitive <ets>vit<ae/</ets>, life.]</ety> <fld>(Bot.)</fld> <def>A tree (<spn>Guaiacum officinale</spn>) found in the warm latitudes of America, from which the <prod>guaiacum</prod> of medicine is procured. Its wood is very hard and heavy, and is used for various mechanical purposes, as for the wheels of ships' blocks, cogs, bearings, and the like. See <er>Guaiacum</er>.</def><br/
+\'d8<hw>Lig"num-vi"tae</hw> <pr>(l<icr/g"n<ucr/m v<imac/"t<emac/)</pr>, <pos>n.</pos> <ety>[L., wood of life; <ets>lignum</ets> wood + <ets>vita</ets>, genitive <ets>vit<ae/</ets>, life.]</ety> <fld>(Bot.)</fld> <def>A tree (<spn>Guaiacum officinale</spn>) found in the warm latitudes of America, from which the <prod>guaiacum</prod> of medicine is procured. Its wood is very hard and heavy, and is used for various mechanical purposes, as for the wheels of ships' blocks, cogs, bearings, and the like. See <er>Guaiacum</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ In New Zealand the <spn>Metrosideros buxifolia</spn> is called lignum-vit<ae/, and in Australia a species of <gen>Acacia</gen>. The bastard lignum-vit<ae/ is a West Indian tree (<spn>Sarcomphalus laurinus</spn>).</note><br/
@@ -15532,7 +15532,7 @@ Touched <qex>lightly</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Ligula</ent><br/
 <ent>Ligulae</ent><br/
-||<hw>Lig"u*la</hw> <pr>(l<icr/g"<usl/*l<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Ligul<ae/</plw> <pr>(-l<emac/)</pr>, E. <plw>Ligulas</plw> <pr>(-l<adot/z)</pr>.</plu> <ety>[L., a little tongue. See <er>Ligule</er>.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>See <er>Ligule</er>.</def><br/
+\'d8<hw>Lig"u*la</hw> <pr>(l<icr/g"<usl/*l<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Ligul<ae/</plw> <pr>(-l<emac/)</pr>, E. <plw>Ligulas</plw> <pr>(-l<adot/z)</pr>.</plu> <ety>[L., a little tongue. See <er>Ligule</er>.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>See <er>Ligule</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <sd>(a)</sd> <def>The central process, or front edge, of the labium of insects. It sometimes serves as a tongue or proboscis, as in bees.</def> <see>[See <xex>Illust.</xex>  under <er>Labium</er>, and <er>Hymenoptera</er>.]</see> <sd>(b)</sd> <def>A tongue-shaped lobe of the parapodia of annelids. See <er>Parapodium</er>.</def><br/
@@ -15825,7 +15825,7 @@ By any <qex>likelihood</qex> he showed to-day ?</q> <rj><qau>Shak.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Likin</ent><br/
-||<hw>Li"kin`</hw>, <pos>n.</pos> <altsp>[Written also <asp>lekin</asp>.]</altsp> <ety>[ Chin. <ets>li kin</ets>; <ets>li</ets> the thousandth part of a tael + <ets>kin</ets> money.]</ety> <def>A Chinese provincial tax levied at many inland stations upon imports or articles in transit.</def><br/
+\'d8<hw>Li"kin`</hw>, <pos>n.</pos> <altsp>[Written also <asp>lekin</asp>.]</altsp> <ety>[ Chin. <ets>li kin</ets>; <ets>li</ets> the thousandth part of a tael + <ets>kin</ets> money.]</ety> <def>A Chinese provincial tax levied at many inland stations upon imports or articles in transit.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q><ldquo/<qex>Likin</qex>,<rdquo/ which used to be regarded as illegal, as one of the many, <ldquo/squeezes<rdquo/ imposed by the mandarins, is, in Jamieson's opinion, just as legal as any other form of taxation.</q>  <rj><qau>A. R. Colquhoun.</qau></rj><br/
@@ -16033,11 +16033,11 @@ By violet-hooded doctors.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Limacina</ent><br/
-||<hw>Lim`a*ci"na</hw> <pr>(l<icr/m`<adot/*s<imac/"n<adot/)</pr>, <pos>n.</pos> <ety>[NL., From L. <ets>limax</ets>, <ets>limacis</ets>, a slug.]</ety> <fld>(Zool.)</fld> <def>A genus of small spiral pteropods, common in the Arctic and Antarctic seas. It contributes to the food of the right whales.</def><br/
+\'d8<hw>Lim`a*ci"na</hw> <pr>(l<icr/m`<adot/*s<imac/"n<adot/)</pr>, <pos>n.</pos> <ety>[NL., From L. <ets>limax</ets>, <ets>limacis</ets>, a slug.]</ety> <fld>(Zool.)</fld> <def>A genus of small spiral pteropods, common in the Arctic and Antarctic seas. It contributes to the food of the right whales.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Limacon</ent><br/
-||<hw>Li`ma`<cced/on"</hw> <pr>(l<esl/`m<adot/`s<ocir/N")</pr>, <pos>n.</pos> <ety>[F. <ets>lima<cced/on</ets>, lit., a snail.]</ety> <fld>(Geom.)</fld> <def>A curve of the fourth degree, invented by Pascal. Its polar equation is <mathex>r = a cos <theta/ + b</mathex>.</def><br/
+\'d8<hw>Li`ma`<cced/on"</hw> <pr>(l<esl/`m<adot/`s<ocir/N")</pr>, <pos>n.</pos> <ety>[F. <ets>lima<cced/on</ets>, lit., a snail.]</ety> <fld>(Geom.)</fld> <def>A curve of the fourth degree, invented by Pascal. Its polar equation is <mathex>r = a cos <theta/ + b</mathex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Limaille</ent><br/
@@ -16060,7 +16060,7 @@ By violet-hooded doctors.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Limax</ent><br/
-||<hw>Li"max</hw> <pr>(l<imac/"m<acr/ks)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Zool.)</fld> <def>A genus of airbreathing mollusks, including the common garden slugs. They have a small rudimentary shell. The breathing pore is on the right side of the neck. Several species are troublesome in gardens. See <er>Slug</er>.</def><br/
+\'d8<hw>Li"max</hw> <pr>(l<imac/"m<acr/ks)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Zool.)</fld> <def>A genus of airbreathing mollusks, including the common garden slugs. They have a small rudimentary shell. The breathing pore is on the right side of the neck. Several species are troublesome in gardens. See <er>Slug</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Limb</ent><br/
@@ -16338,7 +16338,7 @@ Was what sent her papa to Uganda.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Limicolae</ent><br/
-||<hw>Li*mic"o*l<ae/</hw> <pr>(l<isl/*m<icr/k"<osl/*l<emac/)</pr>, <pos>n. pl.</pos> <ety>[L. <ets>limicola</ets> a dweller in the mud; <ets>limus</ets> mud + <ets>colere</ets> to dwell.]</ety> <fld>(Zool.)</fld> <def>A group of shore birds, embracing the plovers, sandpipers, snipe, curlew, etc.; the Grall<ae/.</def><br/
+\'d8<hw>Li*mic"o*l<ae/</hw> <pr>(l<isl/*m<icr/k"<osl/*l<emac/)</pr>, <pos>n. pl.</pos> <ety>[L. <ets>limicola</ets> a dweller in the mud; <ets>limus</ets> mud + <ets>colere</ets> to dwell.]</ety> <fld>(Zool.)</fld> <def>A group of shore birds, embracing the plovers, sandpipers, snipe, curlew, etc.; the Grall<ae/.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Limicoline</ent><br/
@@ -16553,7 +16553,7 @@ Endue you with the people's voice.</q> <rj><qau>Shak.</qau></rj><br/
 <p><-- p. 855 pr=VMG --></p>
 
 <p><ent>Limnaea</ent><br/
-||<hw>Lim*n<ae/"a</hw> <pr>(l<icr/m*n<emac/"<adot/)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <grk>limnai^os</grk> pertaining to a marsh, fr. <grk>li`mh</grk> a marsh.]</ety> <fld>(Zool.)</fld> <def>A genus of fresh-water air-breathing mollusks, abundant in ponds and streams; -- called also <altname>pond snail</altname>.</def> <altsp>[Written also <asp>Lymn<ae/a</asp>.]</altsp><br/
+\'d8<hw>Lim*n<ae/"a</hw> <pr>(l<icr/m*n<emac/"<adot/)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <grk>limnai^os</grk> pertaining to a marsh, fr. <grk>li`mh</grk> a marsh.]</ety> <fld>(Zool.)</fld> <def>A genus of fresh-water air-breathing mollusks, abundant in ponds and streams; -- called also <altname>pond snail</altname>.</def> <altsp>[Written also <asp>Lymn<ae/a</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Limner</ent><br/
@@ -16612,7 +16612,7 @@ Endue you with the people's voice.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Limosis</ent><br/
-||<hw>Li*mo"sis</hw> <pr>(l<isl/*m<omac/"s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>limo`s</grk> hunger.]</ety> <fld>(Med.)</fld> <def>A ravenous appetite caused by disease; excessive and morbid hunger.</def><br/
+\'d8<hw>Li*mo"sis</hw> <pr>(l<isl/*m<omac/"s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>limo`s</grk> hunger.]</ety> <fld>(Med.)</fld> <def>A ravenous appetite caused by disease; excessive and morbid hunger.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Limous</ent><br/
@@ -16722,7 +16722,7 @@ Endue you with the people's voice.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Limu</ent><br/
-||<hw>Li"mu</hw> <pr>(l<emac/"m<oomac/)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>The Hawaiian name for seaweeds. Over sixty kinds are used as food, and have species names, as <spn>Limu Lipoa</spn>, <spn>Limu palawai</spn>, etc.</def><br/
+\'d8<hw>Li"mu</hw> <pr>(l<emac/"m<oomac/)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>The Hawaiian name for seaweeds. Over sixty kinds are used as food, and have species names, as <spn>Limu Lipoa</spn>, <spn>Limu palawai</spn>, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Limule</ent><br/
@@ -16730,14 +16730,14 @@ Endue you with the people's voice.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Limuloidea</ent><br/
-||<hw>Lim`u*loi"de*a</hw> <pr>(l<icr/m`<usl/*loi"d<esl/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Limulus</er>, and <er>-oid</er>.]</ety> <fld>(Zool.)</fld> <def>An order of <class>Merostomata</class>, including among living animals the genus <gen>Limulus</gen>, with various allied fossil genera, mostly of the Carboniferous period. Called also <altname><ord>Xiphosura</ord></altname>.</def><br/
+\'d8<hw>Lim`u*loi"de*a</hw> <pr>(l<icr/m`<usl/*loi"d<esl/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Limulus</er>, and <er>-oid</er>.]</ety> <fld>(Zool.)</fld> <def>An order of <class>Merostomata</class>, including among living animals the genus <gen>Limulus</gen>, with various allied fossil genera, mostly of the Carboniferous period. Called also <altname><ord>Xiphosura</ord></altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ There are six pairs of leglike organs, surrounding the mouth, most of which terminate in claws; those of the first pair (probably mandibles) are the smallest; the others have the basal joints thickened and spinose, to serve as jaws, while the terminal joints serve as legs. This group is intermediate, in some characteristics, between crustaceans and certain arachnids (scorpions), but the respiration is by means of lamellate gills borne upon the five posterior abdominal appendages, which are flat and united in pairs by their inner edges, and are protected by the lidlike anterior pair, which also bear the genital orifices.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Limulus</ent><br/
-||<hw>Lim"u*lus</hw> <pr>(l<icr/m"<usl/*l<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Limuli</plw> <pr>(-l<imac/)</pr>.</plu> <ety>[L., dim. of <ets>limus</ets> sidelong, askance.]</ety> <fld>(Zool.)</fld> <def>The only existing genus of Merostomata. It includes only a few species from the East Indies, and one (<spn>Limulus polyphemus</spn>) from the Atlantic coast of North America. Called also <altname>Molucca crab</altname>, <altname>king crab</altname>, <altname>horseshoe crab</altname>, and <altname>horsefoot</altname>.</def><br/
+\'d8<hw>Lim"u*lus</hw> <pr>(l<icr/m"<usl/*l<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Limuli</plw> <pr>(-l<imac/)</pr>.</plu> <ety>[L., dim. of <ets>limus</ets> sidelong, askance.]</ety> <fld>(Zool.)</fld> <def>The only existing genus of Merostomata. It includes only a few species from the East Indies, and one (<spn>Limulus polyphemus</spn>) from the Atlantic coast of North America. Called also <altname>Molucca crab</altname>, <altname>king crab</altname>, <altname>horseshoe crab</altname>, and <altname>horsefoot</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Limy</ent><br/
@@ -16792,7 +16792,7 @@ Endue you with the people's voice.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Linchi</ent><br/
-||<hw>Lin"chi</hw> <pr>(l<icr/n"ch<icr/)</pr>, <pos>n.</pos> <ety>[Native Chinese name.]</ety> <fld>(Zool.)</fld> <def>An esculent swallow.</def><br/
+\'d8<hw>Lin"chi</hw> <pr>(l<icr/n"ch<icr/)</pr>, <pos>n.</pos> <ety>[Native Chinese name.]</ety> <fld>(Zool.)</fld> <def>An esculent swallow.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Linchpin</ent><br/
@@ -16841,7 +16841,7 @@ Endue you with the people's voice.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Lindia</ent><br/
-||<hw>Lin"di*a</hw> <pr>(l<icr/n"d<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A peculiar genus of rotifers, remarkable for the absence of ciliated disks. By some Zoologists it is thought to be like the ancestral form of the Arthropoda.</def><br/
+\'d8<hw>Lin"di*a</hw> <pr>(l<icr/n"d<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A peculiar genus of rotifers, remarkable for the absence of ciliated disks. By some Zoologists it is thought to be like the ancestral form of the Arthropoda.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lindiform</ent><br/
@@ -17294,7 +17294,7 @@ In all his <qex>lineaments</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Lingam</ent><br/
 <ent>Linga</ent><br/
-<mhw>{ ||<hw>Lin"ga</hw> <pr>(l<icr/<nsm/"g<adot/)</pr>, <hw>Lin"gam</hw> <pr>(l<icr/<nsm/"g<acr/m)</pr>, }</mhw> <pos>n.</pos> <ety>[Skr. <ets>li<ndot/ga</ets>.]</ety> <def>The phallic symbol under which Siva is principally worshiped in his character of the creative and reproductive power.</def>  <rj><au>Whitworth. E. Arnold.</au></rj><br/
+<mhw>{ \'d8<hw>Lin"ga</hw> <pr>(l<icr/<nsm/"g<adot/)</pr>, <hw>Lin"gam</hw> <pr>(l<icr/<nsm/"g<acr/m)</pr>, }</mhw> <pos>n.</pos> <ety>[Skr. <ets>li<ndot/ga</ets>.]</ety> <def>The phallic symbol under which Siva is principally worshiped in his character of the creative and reproductive power.</def>  <rj><au>Whitworth. E. Arnold.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ling-bird</ent><br/
@@ -17352,7 +17352,7 @@ In all his <qex>lineaments</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lingerie</ent><br/
-||<hw>Lin`ge*rie"</hw> <pr>(l<acr/N`zh<eit/`r<esl/")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Linen goods collectively; linen underwear or nightclothes, esp. of women; the clothing of linen and cotton with its lace, etc., worn by a women.</def><br/
+\'d8<hw>Lin`ge*rie"</hw> <pr>(l<acr/N`zh<eit/`r<esl/")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Linen goods collectively; linen underwear or nightclothes, esp. of women; the clothing of linen and cotton with its lace, etc., worn by a women.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Lingering</ent><br/
@@ -17395,7 +17395,7 @@ In all his <qex>lineaments</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Lingua</ent><br/
 <ent>Linguae</ent><br/
-||<hw>Lin"gua</hw> <pr>(l<icr/<nsm/"gw<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lingu<ae/</plw> <pr>(l<icr/<nsm/"gw<emac/)</pr>.</plu> <ety>[L., the tongue.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A tongue.</def> <sd>(b)</sd> <def>A median process of the labium, at the under side of the mouth in insects, and serving as a tongue.</def><br/
+\'d8<hw>Lin"gua</hw> <pr>(l<icr/<nsm/"gw<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lingu<ae/</plw> <pr>(l<icr/<nsm/"gw<emac/)</pr>.</plu> <ety>[L., the tongue.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A tongue.</def> <sd>(b)</sd> <def>A median process of the labium, at the under side of the mouth in insects, and serving as a tongue.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Linguacious</ent><br/
@@ -17439,11 +17439,11 @@ In all his <qex>lineaments</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Linguatulida</ent><br/
-||<hw>Lin`gua*tu"li*da</hw> <pr>(l<icr/<nsm/`gw<adot/*t<umac/"l<icr/*d<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>lingua</ets> tongue.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Linguatulina</er>.</def><br/
+\'d8<hw>Lin`gua*tu"li*da</hw> <pr>(l<icr/<nsm/`gw<adot/*t<umac/"l<icr/*d<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>lingua</ets> tongue.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Linguatulina</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Linguatulina</ent><br/
-||<hw>Lin*guat`u*li"na</hw> <pr>(l<icr/<nsm/*gw<acr/t`<usl/*l<imac/"n<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>lingua</ets> tongue.]</ety> <fld>(Zool.)</fld> <def>An order of wormlike, degraded, parasitic arachnids. They have two pairs of retractile hooks, near the mouth. Called also <altname>Pentastomida</altname>.</def><br/
+\'d8<hw>Lin*guat`u*li"na</hw> <pr>(l<icr/<nsm/*gw<acr/t`<usl/*l<imac/"n<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>lingua</ets> tongue.]</ety> <fld>(Zool.)</fld> <def>An order of wormlike, degraded, parasitic arachnids. They have two pairs of retractile hooks, near the mouth. Called also <altname>Pentastomida</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The adults of some species inhabit the nostrils and nasal sinuses of dogs and other carnivores. The young, after being swallowed by sheep, rabbits, etc., find their way to the lungs and liver and become encysted. These, when eaten by carnivores, develop into the adult forms.</note><br/
@@ -17486,7 +17486,7 @@ He's a rare <qex>linguist</qex>.</q> <rj><qau>J. Webster.</qau></rj><br/
 
 <p><ent>lingula</ent><br/
 <ent>lingulae</ent><br/
-||<hw>lin"gu*la</hw> <pr>(l<icr/<nsm/"g<usl/*l<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>lin"gu*l<ae/</plw> <pr>(l<icr/<nsm/"g<usl/*l<emac/)</pr>.</plu> <ety>[L., a little tongue.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>A tonguelike process or part.</def><br/
+\'d8<hw>lin"gu*la</hw> <pr>(l<icr/<nsm/"g<usl/*l<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>lin"gu*l<ae/</plw> <pr>(l<icr/<nsm/"g<usl/*l<emac/)</pr>.</plu> <ety>[L., a little tongue.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>A tonguelike process or part.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>Any one of numerous species of brachiopod shells belonging to the genus <gen>Lingula</gen>, and related genera. See <er>Brachiopoda</er>, and <xex>Illustration</xex> in Appendix.</def><br/
@@ -17657,7 +17657,7 @@ One common Maker bound me to the kind.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>Century Dict. 1906</source>]</p>
 
 <p><ent>Linnaea borealis</ent><br/
-||<hw>Lin*n<ae/"a bo`re*a"lis</hw> <pr>(l<icr/n*n<emac/"<adot/ b<omac/`r<esl/*<amac/"l<icr/s)</pr> <pos>n.</pos> <ety>[NL. <ets>Linnaeus</ets> Linn<ae/an + L. <ets>borealis</ets> northern.]</ety> <fld>(Bot.)</fld> <def>The twin flower which grows in cold northern climates.</def><br/
+\'d8<hw>Lin*n<ae/"a bo`re*a"lis</hw> <pr>(l<icr/n*n<emac/"<adot/ b<omac/`r<esl/*<amac/"l<icr/s)</pr> <pos>n.</pos> <ety>[NL. <ets>Linnaeus</ets> Linn<ae/an + L. <ets>borealis</ets> northern.]</ety> <fld>(Bot.)</fld> <def>The twin flower which grows in cold northern climates.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Linnaean</ent><br/
@@ -17760,7 +17760,7 @@ One common Maker bound me to the kind.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Linum</ent><br/
-||<hw>Li"num</hw> <pr>(l<imac/"n<ucr/m)</pr>, <pos>n.</pos> <ety>[L., flax.]</ety> <fld>(Bot.)</fld> <def>A genus of herbaceous plants including the flax (<spn>Linum usitatissimum</spn>).</def><br/
+\'d8<hw>Li"num</hw> <pr>(l<imac/"n<ucr/m)</pr>, <pos>n.</pos> <ety>[L., flax.]</ety> <fld>(Bot.)</fld> <def>A genus of herbaceous plants including the flax (<spn>Linum usitatissimum</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lion</ent><br/
@@ -17908,7 +17908,7 @@ Have <qex>lipped</qex> and trembled kissing.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>lipaemia</ent><br/
 <ent>lipemia</ent><br/
-||<hw>Li*p<ae/"mi*a</hw> <pr>(l<icr/*p<emac/"m<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>li`pos</grk> fat + <grk>a"i^ma</grk> blood.]</ety> <fld>(Med.)</fld> <def>A condition in which fat occurs in the blood.</def><br/
+\'d8<hw>Li*p<ae/"mi*a</hw> <pr>(l<icr/*p<emac/"m<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>li`pos</grk> fat + <grk>a"i^ma</grk> blood.]</ety> <fld>(Med.)</fld> <def>A condition in which fat occurs in the blood.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lipans</ent><br/
@@ -17987,7 +17987,7 @@ Have <qex>lipped</qex> and trembled kissing.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lipocephala</ent><br/
-||<hw>Lip`o*ceph"a*la</hw> <pr>(l<icr/p`<osl/*s<ecr/f"<adot/*l<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>lei`pesqai</grk> to be lacking + <grk>kefalh`</grk> head.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Lamellibranchia</er>.</def><br/
+\'d8<hw>Lip`o*ceph"a*la</hw> <pr>(l<icr/p`<osl/*s<ecr/f"<adot/*l<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>lei`pesqai</grk> to be lacking + <grk>kefalh`</grk> head.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Lamellibranchia</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lipochrin</ent><br/
@@ -18011,7 +18011,7 @@ Have <qex>lipped</qex> and trembled kissing.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Lipoma</ent><br/
-||<hw>Li*po"ma</hw> <pr>(l<icr/*p<omac/"m<adot/)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>li`pos</grk> fat + <ets>-oma</ets>.]</ety> <fld>(Med.)</fld> <def>A tumor consisting of fat or adipose tissue.</def> -- <wordforms><wf>Li*pom"a*tous</wf> <pr>(-p<ocr/m"<adot/*t<ucr/s)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>Li*po"ma</hw> <pr>(l<icr/*p<omac/"m<adot/)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>li`pos</grk> fat + <ets>-oma</ets>.]</ety> <fld>(Med.)</fld> <def>A tumor consisting of fat or adipose tissue.</def> -- <wordforms><wf>Li*pom"a*tous</wf> <pr>(-p<ocr/m"<adot/*t<ucr/s)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>lipophilic</ent><br/
@@ -18141,7 +18141,7 @@ Have <qex>lipped</qex> and trembled kissing.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Liqueur</ent><br/
-||<hw>Li`queur"</hw> <pr>(l<esl/`k<etil/r")</pr>, <pos>n.</pos> <ety>[F. See <er>Liquor</er>.]</ety> <def>An aromatic alcoholic cordial.</def><br/
+\'d8<hw>Li`queur"</hw> <pr>(l<esl/`k<etil/r")</pr>, <pos>n.</pos> <ety>[F. See <er>Liquor</er>.]</ety> <def>An aromatic alcoholic cordial.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Some <xex>liqueurs</xex> are prepared by infusing certain woods, fruits, or flowers, in either water or alcohol, and adding sugar, etc. Others are distilled from aromatic or flavoring agents.</note><br/
@@ -18330,11 +18330,11 @@ Have <qex>lipped</qex> and trembled kissing.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lira</ent><br/
-||<hw>Li"ra</hw> <pr>(l<emac/"r<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lire</plw> <pr>(l<emac/"r<asl/)</pr>.</plu> <ety>[It., fr. L. <ets>libra</ets> the Roman pound.  Cf. <er>Livre</er>.]</ety> <def>An Italian coin equivalent in value to the French franc.</def><br/
+\'d8<hw>Li"ra</hw> <pr>(l<emac/"r<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lire</plw> <pr>(l<emac/"r<asl/)</pr>.</plu> <ety>[It., fr. L. <ets>libra</ets> the Roman pound.  Cf. <er>Livre</er>.]</ety> <def>An Italian coin equivalent in value to the French franc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lirella</ent><br/
-||<hw>Li*rel"la</hw> <pr>(l<isl/*r<ecr/l"l<adot/)</pr>, <pos>n.</pos> <ety>[NL., dim. of L. <ets>lira</ets> a furrow.]</ety> <fld>(Bot.)</fld> <def>A linear apothecium furrowed along the middle; the fruit of certain lichens.</def><br/
+\'d8<hw>Li*rel"la</hw> <pr>(l<isl/*r<ecr/l"l<adot/)</pr>, <pos>n.</pos> <ety>[NL., dim. of L. <ets>lira</ets> a furrow.]</ety> <fld>(Bot.)</fld> <def>A linear apothecium furrowed along the middle; the fruit of certain lichens.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lirelliform</ent><br/
@@ -18342,7 +18342,7 @@ Have <qex>lipped</qex> and trembled kissing.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Liriodendron</ent><br/
-||<hw>Lir`i*o*den"dron</hw> <pr>(l<icr/r`<icr/*<osl/*d<ecr/n"dr<ocr/n)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Liriodendra</plw> <pr>(-dr<adot/)</pr>.</plu> <ety>[NL., fr. Gr. <grk>lei`rion</grk> lily + <grk>de`ndron</grk> tree.]</ety> <fld>(Bot.)</fld> <def>A genus of large and very beautiful trees of North America, having smooth, shining leaves, and handsome, tuliplike flowers; tulip tree; whitewood; -- called also <altname>canoewood</altname>. <spn>Liriodendron tulipifera</spn> is the only extant species, but there were several others in the Cretaceous epoch.</def><br/
+\'d8<hw>Lir`i*o*den"dron</hw> <pr>(l<icr/r`<icr/*<osl/*d<ecr/n"dr<ocr/n)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Liriodendra</plw> <pr>(-dr<adot/)</pr>.</plu> <ety>[NL., fr. Gr. <grk>lei`rion</grk> lily + <grk>de`ndron</grk> tree.]</ety> <fld>(Bot.)</fld> <def>A genus of large and very beautiful trees of North America, having smooth, shining leaves, and handsome, tuliplike flowers; tulip tree; whitewood; -- called also <altname>canoewood</altname>. <spn>Liriodendron tulipifera</spn> is the only extant species, but there were several others in the Cretaceous epoch.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Liripipe</ent><br/
@@ -18439,7 +18439,7 @@ I <qex>lisped</qex> in numbers, for the numbers came.</q> <rj><qau>Pope.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lissencephala</ent><br/
-||<hw>Lis`sen*ceph"a*la</hw> <pr>(l<icr/s`s<ecr/n*s<ecr/f"<adot/*l<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>lisso`s</grk> smooth + <grk>'egke`falos</grk> the brain.]</ety> <fld>(Zool.)</fld> <def>A general name for all those placental mammals that have a brain with few or no cerebral convolutions, as Rodentia, Insectivora, etc.</def><br/
+\'d8<hw>Lis`sen*ceph"a*la</hw> <pr>(l<icr/s`s<ecr/n*s<ecr/f"<adot/*l<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>lisso`s</grk> smooth + <grk>'egke`falos</grk> the brain.]</ety> <fld>(Zool.)</fld> <def>A general name for all those placental mammals that have a brain with few or no cerebral convolutions, as Rodentia, Insectivora, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lissome</ent><br/
@@ -18835,14 +18835,14 @@ Of all our fortunes.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Literati</ent><br/
-||<hw>Lit`e*ra"ti</hw> <pr>(l<icr/t`<esl/*r<aum/"t<emac/; l<icr/t`<esl/*r<amac/"t<imac/)</pr>, <pos>n. pl.</pos> <ety>[See <er>Literatus</er>.]</ety> <def>Learned or literary men. See <er>Literatus</er>.</def><br/
+\'d8<hw>Lit`e*ra"ti</hw> <pr>(l<icr/t`<esl/*r<aum/"t<emac/; l<icr/t`<esl/*r<amac/"t<imac/)</pr>, <pos>n. pl.</pos> <ety>[See <er>Literatus</er>.]</ety> <def>Learned or literary men. See <er>Literatus</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Shakespearean commentators, and other <qex>literati</qex>.</q> <rj><qau>Craik.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Literatim</ent><br/
-||<hw>Lit`e*ra"tim</hw> <pr>(l<icr/t`<esl/*r<aum/"t<icr/m)</pr>, <pos>adv.</pos> <ety>[LL., fr. L. <ets>littera</ets>, <ets>litera</ets>, letter.]</ety> <def>Letter for letter.</def><br/
+\'d8<hw>Lit`e*ra"tim</hw> <pr>(l<icr/t`<esl/*r<aum/"t<icr/m)</pr>, <pos>adv.</pos> <ety>[LL., fr. L. <ets>littera</ets>, <ets>litera</ets>, letter.]</ety> <def>Letter for letter.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Literation</ent><br/
@@ -18887,7 +18887,7 @@ Of all our fortunes.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Literatus</ent><br/
-||<hw>Lit`e*ra"tus</hw> <pr>(l<icr/t`<esl/*r<aum/"t<ucr/s; l<icr/t`<esl/*r<amac/"t<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Literati</plw> <pr>(l<icr/t`<esl/*r<aum/"t<emac/; l<icr/t`<esl/*r<amac/"t<imac/)</pr>.</plu> <ety>[L. <ets>litteratus</ets>, <ets>literatus</ets>.]</ety> <def>A learned man; a man acquainted with literature; -- chiefly used in the <xex>plural</xex>.</def><br/
+\'d8<hw>Lit`e*ra"tus</hw> <pr>(l<icr/t`<esl/*r<aum/"t<ucr/s; l<icr/t`<esl/*r<amac/"t<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Literati</plw> <pr>(l<icr/t`<esl/*r<aum/"t<emac/; l<icr/t`<esl/*r<amac/"t<imac/)</pr>.</plu> <ety>[L. <ets>litteratus</ets>, <ets>literatus</ets>.]</ety> <def>A learned man; a man acquainted with literature; -- chiefly used in the <xex>plural</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Now we are to consider that our bright ideal of a <qex>literatus</qex> may chance to be maimed.</q> <rj><qau>De Quincey.</qau></rj><br/
@@ -18908,7 +18908,7 @@ Of all our fortunes.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>lithaemia</ent><br/
 <ent>lithemia</ent><br/
-||<hw>li*th<ae/"mi*a</hw> <pr>(l<isl/*th<emac/"m<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>li`qos</grk> stone + <grk>a"i^ma</grk> blood.]</ety> <fld>(Med.)</fld> <def>A condition in which uric (lithic) acid is present in the blood.</def><br/
+\'d8<hw>li*th<ae/"mi*a</hw> <pr>(l<isl/*th<emac/"m<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>li`qos</grk> stone + <grk>a"i^ma</grk> blood.]</ety> <fld>(Med.)</fld> <def>A condition in which uric (lithic) acid is present in the blood.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lithagogue</ent><br/
@@ -18920,7 +18920,7 @@ Of all our fortunes.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lithargyrum</ent><br/
-||<hw>Li*thar"gy*rum</hw> <pr>(l<icr/*th<aum/r"j<icr/*r<ucr/m)</pr>, <pos>n.</pos> <ety>[NL. See <er>Litharge</er>.]</ety> <fld>(Old Chem.)</fld> <def>Crystallized litharge, obtained by fusion in the form of fine yellow scales.</def><br/
+\'d8<hw>Li*thar"gy*rum</hw> <pr>(l<icr/*th<aum/r"j<icr/*r<ucr/m)</pr>, <pos>n.</pos> <ety>[NL. See <er>Litharge</er>.]</ety> <fld>(Old Chem.)</fld> <def>Crystallized litharge, obtained by fusion in the form of fine yellow scales.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lithate</ent><br/
@@ -18985,7 +18985,7 @@ Of all our fortunes.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lithiasis</ent><br/
-||<hw>Li*thi"a*sis</hw> <pr>(l<icr/*th<imac/"<adot/*s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>liqi`asis</grk>, fr. <grk>li`qos</grk> stone.]</ety> <fld>(Med.)</fld> <def>The formation of stony concretions or calculi in any part of the body, especially in the bladder and urinary passages.</def>  <rj><au>Dunglison.</au></rj><br/
+\'d8<hw>Li*thi"a*sis</hw> <pr>(l<icr/*th<imac/"<adot/*s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>liqi`asis</grk>, fr. <grk>li`qos</grk> stone.]</ety> <fld>(Med.)</fld> <def>The formation of stony concretions or calculi in any part of the body, especially in the bladder and urinary passages.</def>  <rj><au>Dunglison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lithic</ent><br/
@@ -19056,7 +19056,7 @@ Of all our fortunes.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lithodomus</ent><br/
-||<hw>Li*thod"o*mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Lithodome</er>.]</ety> <fld>(Zool.)</fld> <def>A genus of elongated bivalve shells, allied to the mussels, and remarkable for their ability to bore holes for shelter, in solid limestone, shells, etc. Called also <altname>Lithophagus</altname>.</def><br/
+\'d8<hw>Li*thod"o*mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Lithodome</er>.]</ety> <fld>(Zool.)</fld> <def>A genus of elongated bivalve shells, allied to the mussels, and remarkable for their ability to bore holes for shelter, in solid limestone, shells, etc. Called also <altname>Lithophagus</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ These holes are at first very small and shallow, but are enlarged with the growth of the shell, sometimes becoming two or three inches deep and nearly an inch diameter.</note><br/
@@ -19067,7 +19067,7 @@ Of all our fortunes.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lithofracteur</ent><br/
-||<hw>Lith`o*frac"teur</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <grk>li`qos</grk> stone + L. <ets>frangere</ets>, <ets>fractum</ets>, to break.]</ety> <def>An explosive compound of nitroglycerin. See <er>Nitroglycerin</er>.</def><br/
+\'d8<hw>Lith`o*frac"teur</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <grk>li`qos</grk> stone + L. <ets>frangere</ets>, <ets>fractum</ets>, to break.]</ety> <def>An explosive compound of nitroglycerin. See <er>Nitroglycerin</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lithogenesy</ent><br/
@@ -19431,7 +19431,7 @@ Distinguished acres of <qex>litigious</qex> grounds.</q> <rj><qau>Dryden.</qau><
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Litotes</ent><br/
-||<hw>Li"to*tes</hw> <pr>(l<imac/"t<osl/*t<emac/z)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>lito`ths</grk>, from <grk>lito`s</grk> plain, simple.]</ety> <fld>(Rhet.)</fld> <def>A diminution or softening of statement for the sake of avoiding censure or increasing the effect by contrast with the moderation shown in the form of expression; a form of <isa>understatement</isa>; <as>as, <ldquo/ a citizen of no mean city,<rdquo/ that is, of an illustrious city; or, <ldquo/not bad<rdquo/, meaning <ldquo/good<rdquo/</as>.</def><br/
+\'d8<hw>Li"to*tes</hw> <pr>(l<imac/"t<osl/*t<emac/z)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>lito`ths</grk>, from <grk>lito`s</grk> plain, simple.]</ety> <fld>(Rhet.)</fld> <def>A diminution or softening of statement for the sake of avoiding censure or increasing the effect by contrast with the moderation shown in the form of expression; a form of <isa>understatement</isa>; <as>as, <ldquo/ a citizen of no mean city,<rdquo/ that is, of an illustrious city; or, <ldquo/not bad<rdquo/, meaning <ldquo/good<rdquo/</as>.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Litraneter</ent><br/
@@ -19521,7 +19521,7 @@ Where he and his horse <qex>littered</qex>.</q> <rj><qau>Habington.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Litterateur</ent><br/
-||<hw>Lit`te`ra`teur"</hw> <pr>(l<esl/`t<asl/`r<adot/`t<etil/r")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>One who occupies himself with literature; a literary man; a literatus.</def> <ldquo/ Befriended by one kind-hearted <xex>litt<eacute/rateur</xex> after another.<rdquo/  <rj><au>C. Kingsley.</au></rj><br/
+\'d8<hw>Lit`te`ra`teur"</hw> <pr>(l<esl/`t<asl/`r<adot/`t<etil/r")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>One who occupies himself with literature; a literary man; a literatus.</def> <ldquo/ Befriended by one kind-hearted <xex>litt<eacute/rateur</xex> after another.<rdquo/  <rj><au>C. Kingsley.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>litter-bearer</ent><br/
@@ -19669,7 +19669,7 @@ Because their natures are <qex>little</qex>.</q> <rj><qau>Tennyson.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Littorina</ent><br/
-||<hw>Lit"to*ri"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Littoral</er>.]</ety> <fld>(Zool.)</fld> <def>A genus of small pectinibranch mollusks, having thick spiral shells, abundant between tides on nearly all rocky seacoasts. They feed on seaweeds. The common periwinkle is a well-known example. See <er>Periwinkle</er>.</def><br/
+\'d8<hw>Lit"to*ri"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Littoral</er>.]</ety> <fld>(Zool.)</fld> <def>A genus of small pectinibranch mollusks, having thick spiral shells, abundant between tides on nearly all rocky seacoasts. They feed on seaweeds. The common periwinkle is a well-known example. See <er>Periwinkle</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Littress</ent><br/
@@ -19725,7 +19725,7 @@ Because their natures are <qex>little</qex>.</q> <rj><qau>Tennyson.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lituus</ent><br/
-||<hw>Lit"u*us</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Litui</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <sn>1.</sn> <fld>(Rom. Antig.)</fld> <sd>(a)</sd> <def>A curved staff used by the augurs in quartering the heavens.</def> <sd>(b)</sd> <def>An instrument of martial music; a kind of trumpet of a somewhat curved form and shrill note.</def><br/
+\'d8<hw>Lit"u*us</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Litui</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <sn>1.</sn> <fld>(Rom. Antig.)</fld> <sd>(a)</sd> <def>A curved staff used by the augurs in quartering the heavens.</def> <sd>(b)</sd> <def>An instrument of martial music; a kind of trumpet of a somewhat curved form and shrill note.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Math.)</fld> <def>A spiral whose polar equation is <mathex>r<exp>2</exp><theta/ = a</mathex>; that is, a curve the square of whose radius vector varies inversely as the angle which the radius vector makes with a given line.</def><br/
@@ -20262,11 +20262,11 @@ Had in her sober <qex>livery</qex> all things clad.</q> <rj><qau>Milton.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Livor</ent><br/
-||<hw>Li"vor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Malignity.</def> <mark>[R.]</mark>  <rj><au>Burton.</au></rj><br/
+\'d8<hw>Li"vor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Malignity.</def> <mark>[R.]</mark>  <rj><au>Burton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Livraison</ent><br/
-||<hw>Li`vrai`son"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. L. <ets>liberatio</ets> a setting free, in LL., a delivering up. See <er>Liberation</er>.]</ety> <def>A part of a book or literary composition printed and delivered by itself; a number; a part.</def><br/
+\'d8<hw>Li`vrai`son"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. L. <ets>liberatio</ets> a setting free, in LL., a delivering up. See <er>Liberation</er>.]</ety> <def>A part of a book or literary composition printed and delivered by itself; a number; a part.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Livre</ent><br/
@@ -20316,7 +20316,7 @@ Had in her sober <qex>livery</qex> all things clad.</q> <rj><qau>Milton.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Liza</ent><br/
-||<hw>Li"za</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The American white mullet (<spn>Mugil curema</spn>).</def><br/
+\'d8<hw>Li"za</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The American white mullet (<spn>Mugil curema</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lizard</ent><br/
@@ -20360,7 +20360,7 @@ Had in her sober <qex>livery</qex> all things clad.</q> <rj><qau>Milton.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Llanero</ent><br/
-||<hw>Lla*ne"ro</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. Amer.]</ety> <def>One of the inhabitants of the llanos of South America.</def><br/
+\'d8<hw>Lla*ne"ro</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. Amer.]</ety> <def>One of the inhabitants of the llanos of South America.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Llano</ent><br/
@@ -20899,7 +20899,7 @@ Your majesty <qex>loads</qex> our house.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lobosa</ent><br/
-||<hw>Lo*bo"sa</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Lobe</er>.]</ety> <fld>(Zool.)</fld> <def>An order of Rhizopoda, in which the pseudopodia are thick and irregular in form, as in the <it>Am<oe/ba</it>.</def><br/
+\'d8<hw>Lo*bo"sa</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Lobe</er>.]</ety> <fld>(Zool.)</fld> <def>An order of Rhizopoda, in which the pseudopodia are thick and irregular in form, as in the <it>Am<oe/ba</it>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lobotes</ent><br/
@@ -21011,7 +21011,7 @@ A <qex>local</qex> habitation and a name.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Locale</ent><br/
-||<hw>Lo`cale"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>local</ets>.]</ety> <sn>1.</sn> <def>A place, spot, or location.</def><br/
+\'d8<hw>Lo`cale"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>local</ets>.]</ety> <sn>1.</sn> <def>A place, spot, or location.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A principle, practice, form of speech, or other thing of local use, or limited to a locality.</def><br/
@@ -21166,7 +21166,7 @@ and dimension, and that they have nothing to do with grosser <qex>locality</qex>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lochia</ent><br/
-||<hw>Lo*chi"a</hw> <pr>(l<omac/"k<icr/*<adot/ <it>or</it> l<osl/*k<imac/"<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <?/, pl., fr. <?/ belonging to childbirth, <?/ a lying in, childbirth.]</ety> <fld>(Med.)</fld> <def>The discharge from the womb and vagina which follows childbirth.</def><br/
+\'d8<hw>Lo*chi"a</hw> <pr>(l<omac/"k<icr/*<adot/ <it>or</it> l<osl/*k<imac/"<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <?/, pl., fr. <?/ belonging to childbirth, <?/ a lying in, childbirth.]</ety> <fld>(Med.)</fld> <def>The discharge from the womb and vagina which follows childbirth.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lochial</ent><br/
@@ -21369,7 +21369,7 @@ and dimension, and that they have nothing to do with grosser <qex>locality</qex>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Loco</ent><br/
-||<hw>Lo"co</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>A direction in written or printed music to return to the proper pitch after having played an octave higher.</def><br/
+\'d8<hw>Lo"co</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>A direction in written or printed music to return to the proper pitch after having played an octave higher.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Loco</ent><br/
@@ -21484,7 +21484,7 @@ and dimension, and that they have nothing to do with grosser <qex>locality</qex>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Locum tenens</ent><br/
-||<hw>Lo"cum te"nens</hw> <pr>(?)</pr> <pos>n.</pos> <ety>[L., holding the place; <ets>locus</ets> place + <ets>tenens</ets>, p. pr. of <ets>tenere</ets> to hold.  Cf. <er>Lieutenant</er>.]</ety> <def>A substitute or deputy; one filling an office for a time.</def><br/
+\'d8<hw>Lo"cum te"nens</hw> <pr>(?)</pr> <pos>n.</pos> <ety>[L., holding the place; <ets>locus</ets> place + <ets>tenens</ets>, p. pr. of <ets>tenere</ets> to hold.  Cf. <er>Lieutenant</er>.]</ety> <def>A substitute or deputy; one filling an office for a time.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Locus</ent><br/
@@ -21996,7 +21996,7 @@ Hence, the logarithm of any given number is the exponent of a power to which ano
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Loggia</ent><br/
-||<hw>Log"gia</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. See <er>Lodge</er>.]</ety> <fld>(Arch.)</fld> <def>A roofed open gallery. It differs from a <contr>veranda</contr> in being more architectural, and in forming more decidedly a part of the main edifice to which it is attached; from a <contr>porch</contr>, in being intended not for entrance but for an out-of-door sitting-room.</def><br/
+\'d8<hw>Log"gia</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. See <er>Lodge</er>.]</ety> <fld>(Arch.)</fld> <def>A roofed open gallery. It differs from a <contr>veranda</contr> in being more architectural, and in forming more decidedly a part of the main edifice to which it is attached; from a <contr>porch</contr>, in being intended not for entrance but for an out-of-door sitting-room.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Logging</ent><br/
@@ -22148,7 +22148,7 @@ Hence, the logarithm of any given number is the exponent of a power to which ano
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Logos</ent><br/
-||<hw>Log"os</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>lo`gos</grk> the word or form which expresses a thought, also, the thought, fr. <?/ to speak.]</ety> <sn>1.</sn> <def>A word; reason; speech.</def>  <rj><au>H. Bushell.</au></rj><br/
+\'d8<hw>Log"os</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>lo`gos</grk> the word or form which expresses a thought, also, the thought, fr. <?/ to speak.]</ety> <sn>1.</sn> <def>A word; reason; speech.</def>  <rj><au>H. Bushell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The divine Word; Christ.</def><br/
@@ -22224,7 +22224,7 @@ Hence, the logarithm of any given number is the exponent of a power to which ano
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Loir</ent><br/
-||<hw>Loir</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. L. <ets>glis</ets>, <ets>gliris</ets>.]</ety> <fld>(Zool.)</fld> <def>A large European dormouse (<spn>Myoxus glis</spn>).</def><br/
+\'d8<hw>Loir</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. L. <ets>glis</ets>, <ets>gliris</ets>.]</ety> <fld>(Zool.)</fld> <def>A large European dormouse (<spn>Myoxus glis</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Loire</ent><br/
@@ -22269,7 +22269,7 @@ Hence, the logarithm of any given number is the exponent of a power to which ano
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lokao</ent><br/
-||<hw>Lo*ka"o</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A green vegetable dye imported from China.</def><br/
+\'d8<hw>Lo*ka"o</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A green vegetable dye imported from China.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Loke</ent><br/
@@ -22281,7 +22281,7 @@ Hence, the logarithm of any given number is the exponent of a power to which ano
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Loligo</ent><br/
-||<hw>Lo*li"go</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., cuttle fish.]</ety> <fld>(Zool.)</fld> <def>A genus of cephalopods, including numerous species of squids, common on the coasts of America and Europe. They are much used for fish bait.</def><br/
+\'d8<hw>Lo*li"go</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., cuttle fish.]</ety> <fld>(Zool.)</fld> <def>A genus of cephalopods, including numerous species of squids, common on the coasts of America and Europe. They are much used for fish bait.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lolium</ent><br/
@@ -22351,7 +22351,7 @@ With <qex>lolling</qex> tongue, lay fawning at thy feet.</q> <rj><qau>Dryden.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>loma</ent><br/
-||<hw>lo"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>lomata</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/, <?/, a fringe.]</ety> <fld>(Zool.)</fld> <def>A lobe; a membranous fringe or flap.</def><br/
+\'d8<hw>lo"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>lomata</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/, <?/, a fringe.]</ety> <fld>(Zool.)</fld> <def>A lobe; a membranous fringe or flap.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>lomatia</ent><br/
@@ -22814,7 +22814,7 @@ Against the tournament, which is not <qex>long</qex>.</q> <rj><qau>Spenser.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Longicornia</ent><br/
-||<hw>Lon`gi*cor"ni*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>longus</ets> long + <ets>cornu</ets> horn.]</ety> <fld>(Zool.)</fld> <def>A division of beetles, including a large number of species, in which the antenn<ae/ are very long.  Most of them, while in the larval state, bore into the wood or beneath the bark of trees, and some species are very destructive to fruit and shade trees. See <stype>Apple borer</stype>, under <er>Apple</er>, and <stype>Locust beetle</stype>, under <er>Locust</er>.</def><br/
+\'d8<hw>Lon`gi*cor"ni*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>longus</ets> long + <ets>cornu</ets> horn.]</ety> <fld>(Zool.)</fld> <def>A division of beetles, including a large number of species, in which the antenn<ae/ are very long.  Most of them, while in the larval state, bore into the wood or beneath the bark of trees, and some species are very destructive to fruit and shade trees. See <stype>Apple borer</stype>, under <er>Apple</er>, and <stype>Locust beetle</stype>, under <er>Locust</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Longilateral</ent><br/
@@ -22864,7 +22864,7 @@ immortal <qex>longings</qex> in me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Longipennes</ent><br/
-||<hw>Lon`gi*pen"nes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from L. <ets>longus</ets> long + <ets>penna</ets> wing.]</ety> <fld>(Zool.)</fld> <def>A group of longwinged sea birds, including the gulls, petrels, etc.</def><br/
+\'d8<hw>Lon`gi*pen"nes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from L. <ets>longus</ets> long + <ets>penna</ets> wing.]</ety> <fld>(Zool.)</fld> <def>A group of longwinged sea birds, including the gulls, petrels, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Longipennine</ent><br/
@@ -22880,7 +22880,7 @@ immortal <qex>longings</qex> in me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Longirostres</ent><br/
-||<hw>Lon`gi*ros"tres</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>longus</ets> long + <ets>rostrum</ets> beak.]</ety> <fld>(Zool.)</fld> <def>A group of birds characterized by having long slender bills, as the sandpipers, curlews, and ibises. It is now regarded as an artificial division.</def><br/
+\'d8<hw>Lon`gi*ros"tres</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>longus</ets> long + <ets>rostrum</ets> beak.]</ety> <fld>(Zool.)</fld> <def>A group of birds characterized by having long slender bills, as the sandpipers, curlews, and ibises. It is now regarded as an artificial division.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Longish</ent><br/
@@ -23876,7 +23876,7 @@ The eye of Reason may pry in upon us.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lophiomys</ent><br/
-||<hw>Lo*phi"o*mys</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>lofia`</grk> a mane, bristly ridge + <grk>my^s</grk> a mouse.]</ety> <fld>(Zool.)</fld> <def>A very singular rodent (<spn>Lophiomys Imhausi</spn>) of Northeastern Africa. It is the only known representative of a special family (<fam>Lophiomyid<ae/</fam>), remarkable for the structure of the skull. It has handlike feet, and the hair is peculiar in structure and arrangement.</def><br/
+\'d8<hw>Lo*phi"o*mys</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>lofia`</grk> a mane, bristly ridge + <grk>my^s</grk> a mouse.]</ety> <fld>(Zool.)</fld> <def>A very singular rodent (<spn>Lophiomys Imhausi</spn>) of Northeastern Africa. It is the only known representative of a special family (<fam>Lophiomyid<ae/</fam>), remarkable for the structure of the skull. It has handlike feet, and the hair is peculiar in structure and arrangement.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lophobranch</ent><br/
@@ -23888,7 +23888,7 @@ The eye of Reason may pry in upon us.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lophobranchii</ent><br/
-||<hw>Loph`o*bran"chi*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>lo`fos</grk> a crest or tuft + <grk>bra`gchion</grk> gill.]</ety> <fld>(Zool.)</fld> <def>An order of teleostean fishes, having the gills arranged in tufts on the branchial arches, as the Hippocampus and pipefishes.</def><br/
+\'d8<hw>Loph`o*bran"chi*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>lo`fos</grk> a crest or tuft + <grk>bra`gchion</grk> gill.]</ety> <fld>(Zool.)</fld> <def>An order of teleostean fishes, having the gills arranged in tufts on the branchial arches, as the Hippocampus and pipefishes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lophophore</ent><br/
@@ -23896,11 +23896,11 @@ The eye of Reason may pry in upon us.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lophopoda</ent><br/
-||<hw>Lo*phop"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>lo`fos</grk> a crest or tuft + <ets>-poda</ets>.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Phylactolemata</er>.</def><br/
+\'d8<hw>Lo*phop"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>lo`fos</grk> a crest or tuft + <ets>-poda</ets>.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Phylactolemata</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lophosteon</ent><br/
-||<hw>Lo*phos"te*on</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Lophostea</plw> <pr>(#)</pr>, E. <plw>Lophosteons</plw> <pr>(#)</pr>.</plu> <ety>[NL., from Gr. <grk>lo`fos</grk> a crest + <?/ a bone.]</ety> <fld>(Anat.)</fld> <def>The central keel-bearing part of the sternum in birds.</def><br/
+\'d8<hw>Lo*phos"te*on</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Lophostea</plw> <pr>(#)</pr>, E. <plw>Lophosteons</plw> <pr>(#)</pr>.</plu> <ety>[NL., from Gr. <grk>lo`fos</grk> a crest + <?/ a bone.]</ety> <fld>(Anat.)</fld> <def>The central keel-bearing part of the sternum in birds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Loppard</ent><br/
@@ -24136,7 +24136,7 @@ And presence, <qex>lordlier</qex> than before.</q> <rj><qau>Tennyson.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lordosis</ent><br/
-||<hw>Lor*do"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ , fr. <?/ bent so as to be convex in front.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>A curvature of the spine forwards, usually in the lumbar region.</def> <sd>(b)</sd> <def>Any abnormal curvature of the bones.</def><br/
+\'d8<hw>Lor*do"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ , fr. <?/ bent so as to be convex in front.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>A curvature of the spine forwards, usually in the lumbar region.</def> <sd>(b)</sd> <def>Any abnormal curvature of the bones.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lords and Ladies</ent><br/
@@ -24210,7 +24210,7 @@ My quondam barber.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Lorette</ent><br/
-||<hw>Lo`rette"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>In France, a name for a woman who is supported by her lovers, and devotes herself to idleness, show, and pleasure; -- so called from the church of Notre Dame de <etsep>Lorette</etsep>, in Paris, near which many of them resided.</def><br/
+\'d8<hw>Lo`rette"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>In France, a name for a woman who is supported by her lovers, and devotes herself to idleness, show, and pleasure; -- so called from the church of Notre Dame de <etsep>Lorette</etsep>, in Paris, near which many of them resided.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lorettine</ent><br/
@@ -24236,7 +24236,7 @@ My quondam barber.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Loricata</ent><br/
-||<hw>Lor`i*ca"ta</hw> <pr>(l<ocr/r`<icr/*k<amac/"t<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Loricate</er>.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A suborder of edentates, covered with bony plates, including the armadillos.</def> <sd>(b)</sd> <def>The crocodilia.</def><br/
+\'d8<hw>Lor`i*ca"ta</hw> <pr>(l<ocr/r`<icr/*k<amac/"t<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Loricate</er>.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A suborder of edentates, covered with bony plates, including the armadillos.</def> <sd>(b)</sd> <def>The crocodilia.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 870 --></p>
@@ -24647,11 +24647,11 @@ The <qex>lot</qex> of man -- to suffer and to die.</q> <rj><qau>Pope.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lotong</ent><br/
-||<hw>Lo*tong"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Malay <ets>l<umac/tong</ets>.]</ety> <fld>(Zool.)</fld> <def>An East Indian monkey (<spn>Semnopithecus femoralis</spn>).</def><br/
+\'d8<hw>Lo*tong"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Malay <ets>l<umac/tong</ets>.]</ety> <fld>(Zool.)</fld> <def>An East Indian monkey (<spn>Semnopithecus femoralis</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lotophagi</ent><br/
-||<hw>Lo*toph"a*gi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., fr. Gr. <?/; <?/ the lotus + <?/ to eat.]</ety> <fld>(Class. Myth.)</fld> <def>A people visited by Ulysses in his wanderings. They subsisted on the lotus. See <er>Lotus</er> <sd>(b)</sd>, and <er>Lotus-eater</er>.</def><br/
+\'d8<hw>Lo*toph"a*gi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., fr. Gr. <?/; <?/ the lotus + <?/ to eat.]</ety> <fld>(Class. Myth.)</fld> <def>A people visited by Ulysses in his wanderings. They subsisted on the lotus. See <er>Lotus</er> <sd>(b)</sd>, and <er>Lotus-eater</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lotos</ent><br/
@@ -24702,7 +24702,7 @@ The <qex>lot</qex> of man -- to suffer and to die.</q> <rj><qau>Pope.</qau></rj>
 [<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
 <p><ent>Louchettes</ent><br/
-||<hw>Lou*chettes"</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[F.]</ety> <def>Goggles intended to rectify strabismus by permitting vision only directly in front.</def>  <rj><au>Knight.</au></rj><br/
+\'d8<hw>Lou*chettes"</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[F.]</ety> <def>Goggles intended to rectify strabismus by permitting vision only directly in front.</def>  <rj><au>Knight.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Loud</ent><br/
@@ -24820,7 +24820,7 @@ The <qex>lot</qex> of man -- to suffer and to die.</q> <rj><qau>Pope.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Loup-cervier</ent><br/
-||<hw>Loup"-cer`vier"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.  Cf. <er>Lusern</er>.]</ety> <fld>(Zool.)</fld> <def>The Canada lynx. See <er>Lynx</er>.</def><br/
+\'d8<hw>Loup"-cer`vier"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.  Cf. <er>Lusern</er>.]</ety> <fld>(Zool.)</fld> <def>The Canada lynx. See <er>Lynx</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>loupe</ent><br/
@@ -24828,7 +24828,7 @@ The <qex>lot</qex> of man -- to suffer and to die.</q> <rj><qau>Pope.</qau></rj>
 [<source>PJC</source>]</p>
 
 <p><ent>Loup-garou</ent><br/
-||<hw>Loup`-ga`rou"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Loups-garous</plw> <pr>(#)</pr></plu>. <ety>[F., fr. <ets>loup</ets> wolf + a Teutonic word akin to E. <ets>werewolf</ets>.]</ety> <def>A werewolf; a lycanthrope.</def><br/
+\'d8<hw>Loup`-ga`rou"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Loups-garous</plw> <pr>(#)</pr></plu>. <ety>[F., fr. <ets>loup</ets> wolf + a Teutonic word akin to E. <ets>werewolf</ets>.]</ety> <def>A werewolf; a lycanthrope.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><q>The superstition of the <qex>loup-garou</qex>, or werewolf, belongs to the folklore of most modern nations, and has its reflex in the story of <ldquo/Little Red Riding-hood<rdquo/ and others.</q>  <rj><qau>Brinton.</qau></rj><br/
@@ -24839,7 +24839,7 @@ The <qex>lot</qex> of man -- to suffer and to die.</q> <rj><qau>Pope.</qau></rj>
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Loup-loup</ent><br/
-||<hw>Loup`-loup"</hw> <pr>(l<oomac/`l<oomac/")</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Zool.)</fld> <def>The Pomeranian or Spitz dog.</def><br/
+\'d8<hw>Loup`-loup"</hw> <pr>(l<oomac/`l<oomac/")</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Zool.)</fld> <def>The Pomeranian or Spitz dog.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Loups</ent><br/
@@ -24847,7 +24847,7 @@ The <qex>lot</qex> of man -- to suffer and to die.</q> <rj><qau>Pope.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lour</ent><br/
-||<hw>Lour</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>An Asiatic sardine (<spn>Clupea Neohowii</spn>), valued for its oil.</def><br/
+\'d8<hw>Lour</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>An Asiatic sardine (<spn>Clupea Neohowii</spn>), valued for its oil.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Louri</ent><br/
@@ -24924,7 +24924,7 @@ The <qex>lot</qex> of man -- to suffer and to die.</q> <rj><qau>Pope.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Loutou</ent><br/
-||<hw>Lou*tou"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native names.]</ety> <fld>(Zool.)</fld> <def>A crested black monkey (<spn>Semnopithecus maurus</spn>) of Java.</def><br/
+\'d8<hw>Lou*tou"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native names.]</ety> <fld>(Zool.)</fld> <def>A crested black monkey (<spn>Semnopithecus maurus</spn>) of Java.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Louvre</ent><br/
@@ -26152,7 +26152,7 @@ The various movements of this nice machine.</q> <rj><qau>Young.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lucarne</ent><br/
-||<hw>Lu`carne"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. L. <ets>lucerna</ets> a lamp. See <er>Luthern</er>.]</ety> <fld>(Arch.)</fld> <def>A dormer window.</def><br/
+\'d8<hw>Lu`carne"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. L. <ets>lucerna</ets> a lamp. See <er>Luthern</er>.]</ety> <fld>(Arch.)</fld> <def>A dormer window.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lucchese</ent><br/
@@ -26205,7 +26205,7 @@ I know to chase.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lucernaria</ent><br/
-||<hw>Lu`cer*na"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>lucerna</ets> a lamp.]</ety> <fld>(Zool.)</fld> <def>A genus of acalephs, having a bell-shaped body with eight groups of short tentacles around the margin.  It attaches itself by a sucker at the base of the pedicel.</def><br/
+\'d8<hw>Lu`cer*na"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>lucerna</ets> a lamp.]</ety> <fld>(Zool.)</fld> <def>A genus of acalephs, having a bell-shaped body with eight groups of short tentacles around the margin.  It attaches itself by a sucker at the base of the pedicel.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lucernarian</ent><br/
@@ -26213,7 +26213,7 @@ I know to chase.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lucernarida</ent><br/
-||<hw>Lu`cer*nar"i*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Lucernaria</er>.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A division of acalephs, including <gen>Lucernaria</gen> and allied genera; -- called also <altname>Calycozoa</altname>.</def> <sd>(b)</sd> <def>A more extensive group of acalephs, including both the true Lucernarida and the Discophora.</def><br/
+\'d8<hw>Lu`cer*nar"i*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Lucernaria</er>.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A division of acalephs, including <gen>Lucernaria</gen> and allied genera; -- called also <altname>Calycozoa</altname>.</def> <sd>(b)</sd> <def>A more extensive group of acalephs, including both the true Lucernarida and the Discophora.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lucerne</ent><br/
@@ -26482,7 +26482,7 @@ He beats thee 'gainst the odds.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lucuma</ent><br/
-||<hw>Lu*cu"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>An American genus of sapotaceous trees bearing sweet and edible fruits.</def><br/
+\'d8<hw>Lu*cu"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>An American genus of sapotaceous trees bearing sweet and edible fruits.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ <spn>Lucuma mammosum</spn> is called <xex>natural marmalade</xex> in the West Indies; <spn>Lucuma Caimito</spn>, of Peru, furnishes a delicious fruit called <prod>lucuma</prod> and <prod>caimito</prod>.</note><br/
@@ -26535,7 +26535,7 @@ He beats thee 'gainst the odds.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lues</ent><br/
-||<hw>Lu"es</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Med.)</fld> <sn>1.</sn> <def>Disease, especially of a contagious kind.</def> <mark>[archaic]</mark> <br/
+\'d8<hw>Lu"es</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Med.)</fld> <sn>1.</sn> <def>Disease, especially of a contagious kind.</def> <mark>[archaic]</mark> <br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>syphilis; -- called also <altname>Lues venerea</altname>.</def><br/
@@ -26745,7 +26745,7 @@ To <qex>lull</qex> the daughters of necessity.</q> <rj><qau>Milton.</qau></rj><b
 
 <p><ent>Lumachella</ent><br/
 <ent>Lumachel</ent><br/
-<mhw>{ <hw>Lu"ma*chel</hw> <pr>(?)</pr>, ||<hw>Lu`ma*chel"la</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[F. <ets>lumachelle</ets>, It. <ets>lumachella</ets>, fr. <ets>lamachella</ets> a little snail, dim. of <ets>lumaca</ets> a snail, fr. L. <ets>limax</ets>, <ets>-acis</ets>.]</ety> <fld>(Min.)</fld> <def>A grayish brown limestone, containing fossil shells, which reflect a beautiful play of colors. It is also called <altname>fire marble</altname>, from its fiery reflections.</def><br/
+<mhw>{ <hw>Lu"ma*chel</hw> <pr>(?)</pr>, \'d8<hw>Lu`ma*chel"la</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[F. <ets>lumachelle</ets>, It. <ets>lumachella</ets>, fr. <ets>lamachella</ets> a little snail, dim. of <ets>lumaca</ets> a snail, fr. L. <ets>limax</ets>, <ets>-acis</ets>.]</ety> <fld>(Min.)</fld> <def>A grayish brown limestone, containing fossil shells, which reflect a beautiful play of colors. It is also called <altname>fire marble</altname>, from its fiery reflections.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lumbaginous</ent><br/
@@ -26845,11 +26845,11 @@ To <qex>lull</qex> the daughters of necessity.</q> <rj><qau>Milton.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lumbricus</ent><br/
-||<hw>Lum"bri*cus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Lumbric</er>.]</ety> <fld>(Zool.)</fld> <def>A genus of annelids, belonging to the Oligoch<ae/ta, and including the common earthworms. See <er>Earthworm</er>.</def><br/
+\'d8<hw>Lum"bri*cus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Lumbric</er>.]</ety> <fld>(Zool.)</fld> <def>A genus of annelids, belonging to the Oligoch<ae/ta, and including the common earthworms. See <er>Earthworm</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lumen</ent><br/
-||<hw>Lu"men</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. L. <plw>Lumina</plw> <pr>(#)</pr>, E. <plw>Lumens</plw> <pr>(#)</pr></plu>. <ety>[L., light, an opening for light.]</ety> <sn>1.</sn> <fld>(Photom.)</fld> <sd>(a)</sd> <def>A unit of illumination, being the amount of illumination of a unit area of spherical surface, due to a light of unit intensity placed at the center of the sphere.</def> <sd>(b)</sd> <def>A unit of light flux, being the flux through one square meter of surface the illumination of which is uniform and of unit brightness.</def><br/
+\'d8<hw>Lu"men</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. L. <plw>Lumina</plw> <pr>(#)</pr>, E. <plw>Lumens</plw> <pr>(#)</pr></plu>. <ety>[L., light, an opening for light.]</ety> <sn>1.</sn> <fld>(Photom.)</fld> <sd>(a)</sd> <def>A unit of illumination, being the amount of illumination of a unit area of spherical surface, due to a light of unit intensity placed at the center of the sphere.</def> <sd>(b)</sd> <def>A unit of light flux, being the flux through one square meter of surface the illumination of which is uniform and of unit brightness.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <fld>(Biol.)</fld> <def>An opening, space, or cavity, esp. a tubular cavity; a vacuole.</def><br/
@@ -27040,7 +27040,7 @@ Dispenses light from far.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Luna</ent><br/
-||<hw>Lu"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.; akin to <ets>lucere</ets> to shine. See <er>Light</er>, <pos>n.</pos>, and cf. <er>Lune</er>.]</ety> <sn>1.</sn> <def>The moon.</def><br/
+\'d8<hw>Lu"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.; akin to <ets>lucere</ets> to shine. See <er>Light</er>, <pos>n.</pos>, and cf. <er>Lune</er>.]</ety> <sn>1.</sn> <def>The moon.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Alchemy)</fld> <def>Silver.</def><br/
@@ -27285,7 +27285,7 @@ like chanticleer.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lungoor</ent><br/
-||<hw>Lun"goor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets>lang<umac/r</ets>.]</ety> <fld>(Zool.)</fld> <def>A long-tailed monkey (<spn>Semnopithecus schislaceus</spn>), from the mountainous districts of India.</def><br/
+\'d8<hw>Lun"goor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets>lang<umac/r</ets>.]</ety> <fld>(Zool.)</fld> <def>A long-tailed monkey (<spn>Semnopithecus schislaceus</spn>), from the mountainous districts of India.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>lung-power</ent><br/
@@ -27338,7 +27338,7 @@ like chanticleer.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><ent>Lunula</ent><br/
 <ent>Lunulae</ent><br/
-||<hw>Lu"nu*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lunul<ae/</plw> <pr>(#)</pr>.</plu> <ety>[L., prop., a little moon. See <er>Lunule</er>.]</ety> <fld>(Anat. & Zool.)</fld> <def>Same as <er>Lunule</er>.</def><br/
+\'d8<hw>Lu"nu*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lunul<ae/</plw> <pr>(#)</pr>.</plu> <ety>[L., prop., a little moon. See <er>Lunule</er>.]</ety> <fld>(Anat. & Zool.)</fld> <def>Same as <er>Lunule</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lunular</ent><br/
@@ -27381,7 +27381,7 @@ like chanticleer.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lupercalia</ent><br/
-||<hw>Lu`per*ca"li*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L. <ets>luperealis</ets>, fr. <ets>Lupercus</ets> the Lycean Pan, so called fr. <ets>lupus</ets> a wolf, because he kept off the wolves.]</ety> <fld>(Rom. Antiq.)</fld> <def>A feast of the Romans in honor of <persfn>Lupercus</persfn>, or Pan.</def><br/
+\'d8<hw>Lu`per*ca"li*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L. <ets>luperealis</ets>, fr. <ets>Lupercus</ets> the Lycean Pan, so called fr. <ets>lupus</ets> a wolf, because he kept off the wolves.]</ety> <fld>(Rom. Antiq.)</fld> <def>A feast of the Romans in honor of <persfn>Lupercus</persfn>, or Pan.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lupine</ent><br/
@@ -27428,7 +27428,7 @@ like chanticleer.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lupus</ent><br/
-||<hw>Lu"pus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a wolf. See <er>Wolf</er>.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>originally, a cutaneous disease with the appearance of the skin having been gnawed, and occurring under two distinct forms.  Now used as a generic term for over ten distinguishable diseases having visible cutaneous symptoms.</def><br/
+\'d8<hw>Lu"pus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a wolf. See <er>Wolf</er>.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>originally, a cutaneous disease with the appearance of the skin having been gnawed, and occurring under two distinct forms.  Now used as a generic term for over ten distinguishable diseases having visible cutaneous symptoms.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><note><hand/ <stype>Lupus erythematosus</stype> is characterized by an eruption of red patches, which become incrusted, leaving superficial scars. <stype>Lupus vulgaris</stype> is marked by the development of nodules which often ulcerate deeply and produce great deformity. Prior to 1900 the latter was often confounded with cancer, and some varieties of cancer were included under Lupus.  <stype>Systemic lupus erythematosus</stype> is an inflammatory connective tissue disease occurring mostly in women, characterized by skin rash, fever, and arthritic symptoms, and often accompanied by hemolytic anemia, inflammation of the pericardium, glomerular lesions, and hyperglobulinemia; the condition shows positive in the LE cell test. <au>[Stedman]</au></note>br/
@@ -27923,7 +27923,7 @@ In all its <qex>luster</qex>, to the noonday sky.</q> <rj><qau>Addison.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lusus naturae</ent><br/
-||<hw>Lu"sus na*tu"r<ae/</hw> <pr>(?)</pr> <pos>n.</pos> <ety>[L., fr. <ets>lusus</ets> sport + <ets>naturae</ets>, gen. of <ets>natura</ets> nature.]</ety> <def>Sport or freak of nature; a deformed or unnatural production.</def><br/
+\'d8<hw>Lu"sus na*tu"r<ae/</hw> <pr>(?)</pr> <pos>n.</pos> <ety>[L., fr. <ets>lusus</ets> sport + <ets>naturae</ets>, gen. of <ets>natura</ets> nature.]</ety> <def>Sport or freak of nature; a deformed or unnatural production.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lutanist</ent><br/
@@ -28133,7 +28133,7 @@ That <qex>lute</qex> and flute fantastic tenderness.</q> <rj><qau>Tennyson.</qau
 <hw>Luxe</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>luxus</ets>: cf. F. <ets>luxe</ets>.]</ety> <def>Luxury.</def> <mark>[Obs.]</mark>  <rj><au>Shenstone.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs>||<col><b><Eacute/dition de luxe</b></col> <pr>(<?/)</pr> <pos>n.</pos> <ety>[F.]</ety> <fld>(Printing)</fld> <cd>A sumptuous edition as regards paper, illustrations, binding, etc.</cd></cs><br/
+<p><cs>\'d8<col><b><Eacute/dition de luxe</b></col> <pr>(<?/)</pr> <pos>n.</pos> <ety>[F.]</ety> <fld>(Printing)</fld> <cd>A sumptuous edition as regards paper, illustrations, binding, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Luxembourger</ent><br/
@@ -28320,7 +28320,7 @@ That <qex>lute</qex> and flute fantastic tenderness.</q> <rj><qau>Tennyson.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lycanthropia</ent><br/
-||<hw>Ly`can*thro"pi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>See <er>Lycanthropy</er>, 2.</def><br/
+\'d8<hw>Ly`can*thro"pi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>See <er>Lycanthropy</er>, 2.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lycanthropic</ent><br/
@@ -28344,7 +28344,7 @@ That <qex>lute</qex> and flute fantastic tenderness.</q> <rj><qau>Tennyson.</qau
 
 <p><ent>Lycee</ent><br/
 <ent>lycee</ent><br/
-<mhw><hw>lycee</hw>, ||<hw>Ly`c<eacute/e"</hw></mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. Cf. <er>Lyceum</er>.]</ety> <def>A French lyceum, or secondary school for students intermediate between elementary school and college, supported by the French government, for preparing students for the university.</def><br/
+<mhw><hw>lycee</hw>, \'d8<hw>Ly`c<eacute/e"</hw></mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. Cf. <er>Lyceum</er>.]</ety> <def>A French lyceum, or secondary school for students intermediate between elementary school and college, supported by the French government, for preparing students for the university.</def><br/
 <syn><b>Syn. --</b> secondary school, lyceum, Gymnasium, middle school.</syn><br/
 [<source>Webster 1913 Suppl.</source> + <source>WordNet 1.5</source>]</p>
 
@@ -28374,7 +28374,7 @@ That <qex>lute</qex> and flute fantastic tenderness.</q> <rj><qau>Tennyson.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lychnis</ent><br/
-||<hw>Lych"nis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a kind of red flower, Gr. <grk>lychni`s</grk>; cf. <grk>ly`chnos</grk> a lamp.]</ety> <fld>(Bot.)</fld> <def>A genus of Old World plants belonging to the Pink family (<fam>Caryophyllace<ae/</fam>).  Most of the species have brilliantly colored flowers and cottony leaves, which may have anciently served as wicks for lamps.  The botanical name is in common use for the garden species.  The corn cockle (<spn>Lychnis Githago</spn>) is a common weed in wheat fields.</def><br/
+\'d8<hw>Lych"nis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a kind of red flower, Gr. <grk>lychni`s</grk>; cf. <grk>ly`chnos</grk> a lamp.]</ety> <fld>(Bot.)</fld> <def>A genus of Old World plants belonging to the Pink family (<fam>Caryophyllace<ae/</fam>).  Most of the species have brilliantly colored flowers and cottony leaves, which may have anciently served as wicks for lamps.  The botanical name is in common use for the garden species.  The corn cockle (<spn>Lychnis Githago</spn>) is a common weed in wheat fields.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lychnobite</ent><br/
@@ -28405,7 +28405,7 @@ That <qex>lute</qex> and flute fantastic tenderness.</q> <rj><qau>Tennyson.</qau
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Lycoperdon</ent><br/
-||<hw>Ly`co*per"don</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL., from Gr. <?/ wolf + <?/ to break wind.]</ety> <fld>(Bot.)</fld> <def>A genus of fungi, remarkable for the great quantity of spores, forming a fine dust, which is thrown out like smoke when the plant is compressed or burst; puffball.</def><br/
+\'d8<hw>Ly`co*per"don</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL., from Gr. <?/ wolf + <?/ to break wind.]</ety> <fld>(Bot.)</fld> <def>A genus of fungi, remarkable for the great quantity of spores, forming a fine dust, which is thrown out like smoke when the plant is compressed or burst; puffball.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lycopersicum</ent><br/
@@ -28509,7 +28509,7 @@ Soon he soothed his soul to pleasures.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lyencephala</ent><br/
-||<hw>Ly`en*ceph"a*la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ to loose + <?/ the brain.]</ety> <fld>(Zool.)</fld> <def>A group of Mammalia, including the marsupials and monotremes; -- so called because the corpus callosum is rudimentary.</def><br/
+\'d8<hw>Ly`en*ceph"a*la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ to loose + <?/ the brain.]</ety> <fld>(Zool.)</fld> <def>A group of Mammalia, including the marsupials and monotremes; -- so called because the corpus callosum is rudimentary.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lyencephalous</ent><br/
@@ -28617,15 +28617,15 @@ Nothing of earthly mixture might distain.</q> <rj><qau>Trench.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lymphadenitis</ent><br/
-||<hw>Lym`pha*de*ni"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Lymph</er>, and <er>Adenitis</er>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the lymphatic glands; -- called also <altname>lymphitis</altname>.</def><br/
+\'d8<hw>Lym`pha*de*ni"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Lymph</er>, and <er>Adenitis</er>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the lymphatic glands; -- called also <altname>lymphitis</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lymphadenoma</ent><br/
-||<hw>Lym`pha*de*no"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Lymph</er>, <er>Aden-</er>, and <er>-oma</er>.]</ety> <fld>(Med.)</fld> <def>See <er>Lymphoma</er>.</def><br/
+\'d8<hw>Lym`pha*de*no"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Lymph</er>, <er>Aden-</er>, and <er>-oma</er>.]</ety> <fld>(Med.)</fld> <def>See <er>Lymphoma</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lymphangeitis</ent><br/
-||<hw>Lym*phan`ge*i"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from L. <ets>lympha</ets> lymph + Gr. <?/ vessel + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the lymphatic vessels.</def> <altsp>[Written also <asp>lymphangitis</asp>.]</altsp><br/
+\'d8<hw>Lym*phan`ge*i"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from L. <ets>lympha</ets> lymph + Gr. <?/ vessel + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the lymphatic vessels.</def> <altsp>[Written also <asp>lymphangitis</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lymphangial</ent><br/
@@ -28655,7 +28655,7 @@ Nothing of earthly mixture might distain.</q> <rj><qau>Trench.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lymphitis</ent><br/
-||<hw>Lym*phi"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Med.)</fld> <def>See <er>Lymphadenitis</er>.</def><br/
+\'d8<hw>Lym*phi"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Med.)</fld> <def>See <er>Lymphadenitis</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lymph node</ent><br/
@@ -28675,7 +28675,7 @@ Nothing of earthly mixture might distain.</q> <rj><qau>Trench.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lymphoma</ent><br/
-||<hw>Lym*pho"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Lymph</er>, and <er>-oma</er>.]</ety> <fld>(Med.)</fld> <def>A tumor having a structure resembling that of a lymphatic gland; -- called also <altname>lymphadenoma</altname>.</def><br/
+\'d8<hw>Lym*pho"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Lymph</er>, and <er>-oma</er>.]</ety> <fld>(Med.)</fld> <def>A tumor having a structure resembling that of a lymphatic gland; -- called also <altname>lymphadenoma</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Malignant lymphoma</b></col>, <cd>a fatal disease characterized by the formation in various parts of the body of new growths resembling lymphatic glands in structure.</cd></cs><br/
@@ -28765,11 +28765,11 @@ Nothing of earthly mixture might distain.</q> <rj><qau>Trench.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Lyopomata</ent><br/
-||<hw>Ly`o*po"ma*ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ to loose + <?/, <?/, a lid.]</ety> <fld>(Zool.)</fld> <def>An order of brachiopods, in which the valves of shell are not articulated by a hinge.  It includes the Lingula, Discina, and allied forms.</def> <altsp>[Written also <asp>Lyopoma</asp>.]</altsp><br/
+\'d8<hw>Ly`o*po"ma*ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ to loose + <?/, <?/, a lid.]</ety> <fld>(Zool.)</fld> <def>An order of brachiopods, in which the valves of shell are not articulated by a hinge.  It includes the Lingula, Discina, and allied forms.</def> <altsp>[Written also <asp>Lyopoma</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lyra</ent><br/
-||<hw>Ly"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>lyra</ets>, Gr. <?/. See <er>Lyre</er>.]</ety> <sn>1.</sn> <fld>(Astron.)</fld> <def>A northern constellation, the Harp, containing a white star of the first magnitude, called <member>Alpha Lyr<ae/</member>, or <member>Vega</member>.</def><br/
+\'d8<hw>Ly"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>lyra</ets>, Gr. <?/. See <er>Lyre</er>.]</ety> <sn>1.</sn> <fld>(Astron.)</fld> <def>A northern constellation, the Harp, containing a white star of the first magnitude, called <member>Alpha Lyr<ae/</member>, or <member>Vega</member>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Anat.)</fld> <def>The middle portion of the ventral surface of the fornix of the brain; -- so called from the arrangement of the lines with which it is marked in the human brain.</def><br/
@@ -28888,14 +28888,14 @@ Nothing of earthly mixture might distain.</q> <rj><qau>Trench.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lysis</ent><br/
-||<hw>Ly"sis</hw> <pr>(l<imac/"s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ly`sis</grk>.]</ety> <fld>(Med.)</fld> <def>The resolution or favorable termination of a disease, coming on gradually and not marked by abrupt change.</def><br/
+\'d8<hw>Ly"sis</hw> <pr>(l<imac/"s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ly`sis</grk>.]</ety> <fld>(Med.)</fld> <def>The resolution or favorable termination of a disease, coming on gradually and not marked by abrupt change.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ It is usually contrasted with <xex>crisis</xex>, in which the improvement is sudden and marked; as, pneumonia ends by <xex>crisis</xex>, typhoid fever by <xex>lysis</xex>.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lyssa</ent><br/
-||<hw>Lys"sa</hw> <pr>(l<icr/s"s<adot/)</pr>, <pos>n.</pos> <ety>[NL. See <er>Lytta</er>.]</ety> <fld>(Med.)</fld> <def>Hydrophobia.</def><br/
+\'d8<hw>Lys"sa</hw> <pr>(l<icr/s"s<adot/)</pr>, <pos>n.</pos> <ety>[NL. See <er>Lytta</er>.]</ety> <fld>(Med.)</fld> <def>Hydrophobia.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The plural (<xex>Lyss<ae/</xex>) has been used to signify the pustules supposed to be developed under the tongue in hydrophobia.</note><br/
@@ -28919,6 +28919,6 @@ Nothing of earthly mixture might distain.</q> <rj><qau>Trench.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lytta</ent><br/
-||<hw>Lyt"ta</hw> <pr>(l<icr/t"t<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lytt<ae/</plw> <pr>(-t<emac/)</pr>.</plu> <ety>[L., a worm said to grow under the tongue of dogs, and to cause canine madness, fr. Gr. <grk>ly`tta</grk>, <grk>ly`ssa</grk>, lit., madness.]</ety> <fld>(Anat.)</fld> <def>A fibrous and muscular band lying within the longitudinal axis of the tongue in many mammals, as the dog.</def><br/
+\'d8<hw>Lyt"ta</hw> <pr>(l<icr/t"t<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lytt<ae/</plw> <pr>(-t<emac/)</pr>.</plu> <ety>[L., a worm said to grow under the tongue of dogs, and to cause canine madness, fr. Gr. <grk>ly`tta</grk>, <grk>ly`ssa</grk>, lit., madness.]</ety> <fld>(Anat.)</fld> <def>A fibrous and muscular band lying within the longitudinal axis of the tongue in many mammals, as the dog.</def><br/
 [<source>1913 Webster</source>]</p>
 

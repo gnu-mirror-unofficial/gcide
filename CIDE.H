@@ -96,11 +96,11 @@ knowledge base should contact:
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Habeas corpus</ent><br/
-||<hw>Ha"be*as cor"pus</hw> <pr>(h<amac/"b<esl/*<acr/s k<ocir/r"p<ucr/s)</pr>. <ety>[L. you may have the body.]</ety> <fld>(Law)</fld> <def>A writ having for its object to bring a party before a court or judge; especially, one to inquire into the cause of a person's imprisonment or detention by another, with the view to protect the right to personal liberty; also, one to bring a prisoner into court to testify in a pending trial.</def>  <rj><au>Bouvier.</au></rj><br/
+\'d8<hw>Ha"be*as cor"pus</hw> <pr>(h<amac/"b<esl/*<acr/s k<ocir/r"p<ucr/s)</pr>. <ety>[L. you may have the body.]</ety> <fld>(Law)</fld> <def>A writ having for its object to bring a party before a court or judge; especially, one to inquire into the cause of a person's imprisonment or detention by another, with the view to protect the right to personal liberty; also, one to bring a prisoner into court to testify in a pending trial.</def>  <rj><au>Bouvier.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Habendum</ent><br/
-||<hw>Ha*ben"dum</hw> <pr>(h<adot/*b<ecr/n"d<ucr/m)</pr>, <pos>n.</pos> <ety>[L., that must be had.]</ety> <fld>(Law)</fld> <def>That part of a deed which follows the part called the <xex>premises</xex>, and determines the extent of the interest or estate granted; -- so called because it begins with the word <ex>Habendum</ex>.</def>  <rj><au>Kent.</au></rj><br/
+\'d8<hw>Ha*ben"dum</hw> <pr>(h<adot/*b<ecr/n"d<ucr/m)</pr>, <pos>n.</pos> <ety>[L., that must be had.]</ety> <fld>(Law)</fld> <def>That part of a deed which follows the part called the <xex>premises</xex>, and determines the extent of the interest or estate granted; -- so called because it begins with the word <ex>Habendum</ex>.</def>  <rj><au>Kent.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haberdash</ent><br/
@@ -368,7 +368,7 @@ Consent, or <qex>custom</qex></q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Habitue</ent><br/
-||<hw>Ha`bi`tu`<eacute/"</hw> <pr>(<adot/`b<esl/`t<usdot/`<asl/")</pr>, <pos>n.</pos> <ety>[F., p. p. of <ets>habituer</ets>. See <er>Habituate</er>.]</ety> <def>One who habitually frequents a place; <as>as, an <ex>habitu<eacute/</ex> of a theater</as>.</def><br/
+\'d8<hw>Ha`bi`tu`<eacute/"</hw> <pr>(<adot/`b<esl/`t<usdot/`<asl/")</pr>, <pos>n.</pos> <ety>[F., p. p. of <ets>habituer</ets>. See <er>Habituate</er>.]</ety> <def>One who habitually frequents a place; <as>as, an <ex>habitu<eacute/</ex> of a theater</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Habiture</ent><br/
@@ -376,7 +376,7 @@ Consent, or <qex>custom</qex></q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Habitus</ent><br/
-||<hw>Hab"i*tus</hw> <pr>(h<acr/b"<icr/*t<ucr/s)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Zool.)</fld> <def>Habitude; mode of life; general appearance.</def><br/
+\'d8<hw>Hab"i*tus</hw> <pr>(h<acr/b"<icr/*t<ucr/s)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Zool.)</fld> <def>Habitude; mode of life; general appearance.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hable</ent><br/
@@ -392,7 +392,7 @@ Consent, or <qex>custom</qex></q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hacienda</ent><br/
-||<hw>Ha`ci*en"da</hw> <pr>(<aum/`th<esl/*<asl/n"d<adot/ <it>or</it>  h<aum/`s<icr/*<ecr/n"d<adot/)</pr>, <pos>n.</pos> <ety>[Sp., fr. OSp. <ets>facienda</ets> employment, estate, fr. L. <ets>facienda</ets>, pl. of <ets>faciendum</ets> what is to be done, fr. <ets>facere</ets> to do. See <er>Fact</er>.]</ety> <sn>1.</sn> <def>A large estate where work of any kind is done, as agriculture, manufacturing, mining, or raising of animals; a cultivated farm, with a good house, in distinction from a farming establishment with rude huts for herdsmen, etc.; -- a word used in Spanish-American regions.</def><br/
+\'d8<hw>Ha`ci*en"da</hw> <pr>(<aum/`th<esl/*<asl/n"d<adot/ <it>or</it>  h<aum/`s<icr/*<ecr/n"d<adot/)</pr>, <pos>n.</pos> <ety>[Sp., fr. OSp. <ets>facienda</ets> employment, estate, fr. L. <ets>facienda</ets>, pl. of <ets>faciendum</ets> what is to be done, fr. <ets>facere</ets> to do. See <er>Fact</er>.]</ety> <sn>1.</sn> <def>A large estate where work of any kind is done, as agriculture, manufacturing, mining, or raising of animals; a cultivated farm, with a good house, in distinction from a farming establishment with rude huts for herdsmen, etc.; -- a word used in Spanish-American regions.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The main residence of a hacienda{1}.</def><br/
@@ -721,7 +721,7 @@ Than such a Roman.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hadj</ent><br/
-||<hw>Hadj</hw> <pr>(h<acr/j)</pr>, <pos>n.</pos> <ety>[Ar. <ets>hajj</ets>, fr. <ets>hajja</ets> to set out, walk, go on a pilgrimage.]</ety> <def>The pilgrimage to Mecca, performed by Muslims.  It is the duty of Moslems to make a journey to Mecca at least once ina lifetime, or if that is not possible, three journeys to one of the alternate sacred sites.</def> <altsp>[Also spelled <asp>haj</asp> and <asp>hajj</asp>.]</altsp><br/
+\'d8<hw>Hadj</hw> <pr>(h<acr/j)</pr>, <pos>n.</pos> <ety>[Ar. <ets>hajj</ets>, fr. <ets>hajja</ets> to set out, walk, go on a pilgrimage.]</ety> <def>The pilgrimage to Mecca, performed by Muslims.  It is the duty of Moslems to make a journey to Mecca at least once ina lifetime, or if that is not possible, three journeys to one of the alternate sacred sites.</def> <altsp>[Also spelled <asp>haj</asp> and <asp>hajj</asp>.]</altsp><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Hadji</ent><br/
@@ -746,7 +746,7 @@ Than such a Roman.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Hadrosaurus</ent><br/
-||<hw>Had`ro*sau"rus</hw> <pr>(h<acr/d`r<osl/*s<add/"r<ucr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"adro`s</grk> thick + <grk>say^ros</grk> lizard.]</ety> <fld>(Paleon.)</fld> <def>An American herbivorous dinosaur of great size, allied to the iguanodon.  It is found in the Cretaceous formation.</def><br/
+\'d8<hw>Had`ro*sau"rus</hw> <pr>(h<acr/d`r<osl/*s<add/"r<ucr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"adro`s</grk> thick + <grk>say^ros</grk> lizard.]</ety> <fld>(Paleon.)</fld> <def>An American herbivorous dinosaur of great size, allied to the iguanodon.  It is found in the Cretaceous formation.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haecceity</ent><br/
@@ -826,7 +826,7 @@ Than such a Roman.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haemapophysis</ent><br/
-||<hw>Haem`a*poph"y*sis</hw> <pr>(-p<ocr/f"<icr/*s<icr/s)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>Same as <er>Hemapophysis</er>.</def> -- <wordforms><wf>Haem`a*po*phys"i*al</wf> <pr>(-p<osl/*f<icr/z"<icr/*<ait/l)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>Haem`a*poph"y*sis</hw> <pr>(-p<ocr/f"<icr/*s<icr/s)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>Same as <er>Hemapophysis</er>.</def> -- <wordforms><wf>Haem`a*po*phys"i*al</wf> <pr>(-p<osl/*f<icr/z"<icr/*<ait/l)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haemastatics</ent><br/
@@ -881,7 +881,7 @@ Than such a Roman.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haematocrya</ent><br/
-||<hw>Haem`a*toc"ry*a</hw> <pr>(t<ocr/k"r<icr/*<adot/)</pr>, <pos>n. pl.</pos> <fld>(Zool.)</fld> <def>The cold-blooded vertebrates. Same as <er>Hematocrya</er>.</def><br/
+\'d8<hw>Haem`a*toc"ry*a</hw> <pr>(t<ocr/k"r<icr/*<adot/)</pr>, <pos>n. pl.</pos> <fld>(Zool.)</fld> <def>The cold-blooded vertebrates. Same as <er>Hematocrya</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haematocryal</ent><br/
@@ -933,7 +933,7 @@ Than such a Roman.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haematolysis</ent><br/
-||<hw>Haem`a*tol"y*sis</hw> <pr>(h<ecr/m`<adot/*t<ocr/l"<icr/*s<icr/s <it>or</it> h<ecr/`m<adot/-)</pr>, <pos>n.</pos> <ety>[NL.; <ets>haemato-</ets> + Gr. <grk>ly`sis</grk> a loosing, dissolving, fr. <grk>ly`ein</grk> to loose, dissolve.]</ety> <fld>(Physiol.)</fld> <def>Dissolution of the red blood corpuscles with diminished coagulability of the blood; haemolysis.</def> -- <wordforms><wf>Haem`a*to*lyt"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>Haem`a*tol"y*sis</hw> <pr>(h<ecr/m`<adot/*t<ocr/l"<icr/*s<icr/s <it>or</it> h<ecr/`m<adot/-)</pr>, <pos>n.</pos> <ety>[NL.; <ets>haemato-</ets> + Gr. <grk>ly`sis</grk> a loosing, dissolving, fr. <grk>ly`ein</grk> to loose, dissolve.]</ety> <fld>(Physiol.)</fld> <def>Dissolution of the red blood corpuscles with diminished coagulability of the blood; haemolysis.</def> -- <wordforms><wf>Haem`a*to*lyt"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Haematometer</ent><br/
@@ -941,7 +941,7 @@ Than such a Roman.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haematophilina</ent><br/
-||<hw>Haem`a*to*phi*li"na</hw> <pr>(-t<osl/*f<icr/*l<imac/"n<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>a"i^ma</grk>, <grk>a"i`matos</grk>, blood + <grk>filei^n</grk> to love.]</ety> <fld>(Zool.)</fld> <def>A division of <ord>Chiroptera</ord>, including the bloodsucking bats. See <er>Vampire</er>.</def><br/
+\'d8<hw>Haem`a*to*phi*li"na</hw> <pr>(-t<osl/*f<icr/*l<imac/"n<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>a"i^ma</grk>, <grk>a"i`matos</grk>, blood + <grk>filei^n</grk> to love.]</ety> <fld>(Zool.)</fld> <def>A division of <ord>Chiroptera</ord>, including the bloodsucking bats. See <er>Vampire</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haematoplast</ent><br/
@@ -969,11 +969,11 @@ Than such a Roman.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haematosis</ent><br/
-||<hw>Haem`a*to"sis</hw>, <pos>n.</pos> <def>Same as <er>Hematosis</er>.</def><br/
+\'d8<hw>Haem`a*to"sis</hw>, <pos>n.</pos> <def>Same as <er>Hematosis</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haematotherma</ent><br/
-||<hw>Haem`a*to*ther"ma</hw> <pr>(h<ecr/m`<adot/*t<osl/*th<etil/r"m<adot/ <or/ h<emac/`m<adot/-)</pr>, <pos>n. pl.</pos> <fld>(Zool.)</fld> <def>Same as <er>Hematotherma</er>.</def><br/
+\'d8<hw>Haem`a*to*ther"ma</hw> <pr>(h<ecr/m`<adot/*t<osl/*th<etil/r"m<adot/ <or/ h<emac/`m<adot/-)</pr>, <pos>n. pl.</pos> <fld>(Zool.)</fld> <def>Same as <er>Hematotherma</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haematothermal</ent><br/
@@ -989,11 +989,11 @@ Than such a Roman.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haematoxylon</ent><br/
-||<hw>Haem`a*tox"y*lon</hw> <pr>(-l<ocr/n)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>a"i^ma</grk> blood + <grk>xy`lon</grk> wood.]</ety> <fld>(Bot.)</fld> <def>A genus of leguminous plants containing but a single species, the <spn>Haematoxylon Campechianum</spn> or logwood tree, native in Yucatan.</def><br/
+\'d8<hw>Haem`a*tox"y*lon</hw> <pr>(-l<ocr/n)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>a"i^ma</grk> blood + <grk>xy`lon</grk> wood.]</ety> <fld>(Bot.)</fld> <def>A genus of leguminous plants containing but a single species, the <spn>Haematoxylon Campechianum</spn> or logwood tree, native in Yucatan.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haematozoon</ent><br/
-||<hw>Haem`a*to*zo"on</hw> <pr>(-t<osl/*z<omac/"<ocr/n)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Haematozoa</plw> <pr>(-<adot/)</pr>.</plu> <ety>[NL., fr. Gr. <grk>a"i^ma</grk>, <grk>a"i`matos</grk>, blood + <grk>zw^,on</grk> animal.]</ety> <fld>(Zool.)</fld> <def>A parasite inhabiting the blood</def>; esp.: <sd>(a)</sd> <def>Certain species of nematodes of the genus <gen>Filaria</gen>, sometimes found in the blood of man, the horse, the dog, etc.</def> <sd>(b)</sd> <def>The trematode, <spn>Bilharzia haematobia</spn>, which infests the inhabitants of Egypt and other parts of Africa, often causing death.</def><br/
+\'d8<hw>Haem`a*to*zo"on</hw> <pr>(-t<osl/*z<omac/"<ocr/n)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Haematozoa</plw> <pr>(-<adot/)</pr>.</plu> <ety>[NL., fr. Gr. <grk>a"i^ma</grk>, <grk>a"i`matos</grk>, blood + <grk>zw^,on</grk> animal.]</ety> <fld>(Zool.)</fld> <def>A parasite inhabiting the blood</def>; esp.: <sd>(a)</sd> <def>Certain species of nematodes of the genus <gen>Filaria</gen>, sometimes found in the blood of man, the horse, the dog, etc.</def> <sd>(b)</sd> <def>The trematode, <spn>Bilharzia haematobia</spn>, which infests the inhabitants of Egypt and other parts of Africa, often causing death.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haemic</ent><br/
@@ -1025,7 +1025,7 @@ Than such a Roman.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haemocytolysis</ent><br/
-||<hw>Haem`o*cy*tol"y*sis</hw> <pr>(-s<isl/*t<ocr/l"<icr/*s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>a"i^ma</grk> blood + <grk>ky`tos</grk> hollow vessel + <grk>ly`ein</grk> to loosen, dissolve.]</ety> <fld>(Physiol.)</fld> <def>See <er>Haemocytotrypsis</er>.</def><br/
+\'d8<hw>Haem`o*cy*tol"y*sis</hw> <pr>(-s<isl/*t<ocr/l"<icr/*s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>a"i^ma</grk> blood + <grk>ky`tos</grk> hollow vessel + <grk>ly`ein</grk> to loosen, dissolve.]</ety> <fld>(Physiol.)</fld> <def>See <er>Haemocytotrypsis</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haemocytometer</ent><br/
@@ -1033,7 +1033,7 @@ Than such a Roman.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haemocytotrypsis</ent><br/
-||<hw>Haem`o*cy`to*tryp"sis</hw> <pr>(-s<imac/`t<osl/*tr<icr/p"s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>a"i^ma</grk> blood + <grk>ky`tos</grk> hollow vessel + <grk>tri`bein</grk> to rub, grind.]</ety> <fld>(Physiol.)</fld> <def>A breaking up of the blood corpuscles, as by pressure, in distinction from solution of the corpuscles, or <contr>haemocytolysis</contr>.</def><br/
+\'d8<hw>Haem`o*cy`to*tryp"sis</hw> <pr>(-s<imac/`t<osl/*tr<icr/p"s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>a"i^ma</grk> blood + <grk>ky`tos</grk> hollow vessel + <grk>tri`bein</grk> to rub, grind.]</ety> <fld>(Physiol.)</fld> <def>A breaking up of the blood corpuscles, as by pressure, in distinction from solution of the corpuscles, or <contr>haemocytolysis</contr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haemodromograph</ent><br/
@@ -1065,7 +1065,7 @@ Than such a Roman.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Haemolytic</ent><br/
 <ent>Haemolysis</ent><br/
-<mhw>||<hw>Hae*mol"y*sis</hw> <pr>(h<esl/*m<ocr/l"<icr/*s<icr/s)</pr>, <pos>n.</pos>, <hw>Haem`o*lyt"ic</hw> <pr>(h<ecr/m`<osl/*l<icr/t"*<icr/c <it>or</it> h<emac/`m<osl/-)</pr></mhw>, <pos>a.</pos> <fld>(Physiol.)</fld> <def>Same as <er>Haematolysis</er>, <er>Haematolytic</er>.</def><br/
+<mhw>\'d8<hw>Hae*mol"y*sis</hw> <pr>(h<esl/*m<ocr/l"<icr/*s<icr/s)</pr>, <pos>n.</pos>, <hw>Haem`o*lyt"ic</hw> <pr>(h<ecr/m`<osl/*l<icr/t"*<icr/c <it>or</it> h<emac/`m<osl/-)</pr></mhw>, <pos>a.</pos> <fld>(Physiol.)</fld> <def>Same as <er>Haematolysis</er>, <er>Haematolytic</er>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Haemomanometer</ent><br/
@@ -1288,7 +1288,7 @@ Comes to him, where in gore he lay insteeped.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hagiographa</ent><br/
-||<hw>Ha`gi*og"ra*pha</hw> <pr>(h<acr/`g<esl/*<ocr/g"r<adot/*f<adot/ <it>or</it> h<amac/`j<icr/*<ocr/g"r<adot/*f<adot/)</pr>, <pos>n. pl.</pos> <ety>[L., fr. Gr. <grk>"agio`grafa</grk> (sc. <grk>bibli`a</grk>), fr. <grk>"agio`grafos</grk> written by inspiration; <grk>"a`gios</grk> sacred, holy + <grk>gra`fein</grk> to write.]</ety> <sn>1.</sn> <def>The last of the three Jewish divisions of the Old Testament, comprising Psalms, Proverbs, Job, Canticles, Ruth, Lamentations, Ecclesiastes, Esther, Daniel, Ezra, Nehemiah, and Chronicles, or that portion of the Old Testament not contained in the Law (<contr>Tora</contr>) and the Prophets (<contr>Nevi'im</contr>) -- it is also called in Hebrew the <altname>Ketuvim</altname>.  Together with the Tora and Nevi'im, it comprises the Hebrew Bible, which is called in Hebrew the <er>Tanach</er>, a vocalization of the first letters of its three parts.</def><br/
+\'d8<hw>Ha`gi*og"ra*pha</hw> <pr>(h<acr/`g<esl/*<ocr/g"r<adot/*f<adot/ <it>or</it> h<amac/`j<icr/*<ocr/g"r<adot/*f<adot/)</pr>, <pos>n. pl.</pos> <ety>[L., fr. Gr. <grk>"agio`grafa</grk> (sc. <grk>bibli`a</grk>), fr. <grk>"agio`grafos</grk> written by inspiration; <grk>"a`gios</grk> sacred, holy + <grk>gra`fein</grk> to write.]</ety> <sn>1.</sn> <def>The last of the three Jewish divisions of the Old Testament, comprising Psalms, Proverbs, Job, Canticles, Ruth, Lamentations, Ecclesiastes, Esther, Daniel, Ezra, Nehemiah, and Chronicles, or that portion of the Old Testament not contained in the Law (<contr>Tora</contr>) and the Prophets (<contr>Nevi'im</contr>) -- it is also called in Hebrew the <altname>Ketuvim</altname>.  Together with the Tora and Nevi'im, it comprises the Hebrew Bible, which is called in Hebrew the <er>Tanach</er>, a vocalization of the first letters of its three parts.</def><br/
 [<source>1913 Webster</source> + <source>RP</source>]</p>
 
 <p><sn>2.</sn> <fld>(R. C. Ch.)</fld> <def>The lives of the saints.</def>  <rj><au>Brande & C.</au></rj><br/
@@ -1380,11 +1380,11 @@ Comes to him, where in gore he lay insteeped.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haik</ent><br/
-||<hw>Haik</hw> <pr>(h<amac/k; Ar. h<aum/*<esl/k)</pr>, <pos>n.</pos> <ety>[Ar. <ets>h<amac/<ium/k</ets>, fr. <ets>h<amac/ka</ets> to weave.]</ety> <def>A large piece of woolen or cotton cloth worn by Arabs as an outer garment.</def> <altsp>[Written also <asp>hyke</asp>.]</altsp>  <rj><au>Heyse.</au></rj><br/
+\'d8<hw>Haik</hw> <pr>(h<amac/k; Ar. h<aum/*<esl/k)</pr>, <pos>n.</pos> <ety>[Ar. <ets>h<amac/<ium/k</ets>, fr. <ets>h<amac/ka</ets> to weave.]</ety> <def>A large piece of woolen or cotton cloth worn by Arabs as an outer garment.</def> <altsp>[Written also <asp>hyke</asp>.]</altsp>  <rj><au>Heyse.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haikal</ent><br/
-||<hw>Hai"kal</hw> <pr>(h<imac/"k<ait/l)</pr>, <pos>n.</pos> <def>The central chapel of the three forming the sanctuary of a Coptic church. It contains the high altar, and is usually closed by an embroidered curtain.</def><br/
+\'d8<hw>Hai"kal</hw> <pr>(h<imac/"k<ait/l)</pr>, <pos>n.</pos> <def>The central chapel of the three forming the sanctuary of a Coptic church. It contains the high altar, and is usually closed by an embroidered curtain.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haikwan</ent><br/
@@ -1717,11 +1717,11 @@ Comes to him, where in gore he lay insteeped.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hakim</ent><br/
-||<hw>Ha*kim"</hw> <pr>(h<adot/*k<emac/m")</pr>, <pos>n.</pos> <ety>[Ar. <ets>hak<imac/m</ets>.]</ety> <def>A wise man; a physician, esp. a Muslim.</def> <mark>[India]</mark><br/
+\'d8<hw>Ha*kim"</hw> <pr>(h<adot/*k<emac/m")</pr>, <pos>n.</pos> <ety>[Ar. <ets>hak<imac/m</ets>.]</ety> <def>A wise man; a physician, esp. a Muslim.</def> <mark>[India]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hakim</ent><br/
-||<hw>Ha"kim</hw> <pr>(h<aum/"k<emac/m)</pr>, <pos>n.</pos> <ety>[Ar. <ets>h<amac/kim</ets>.]</ety> <def>A Muslim title for a ruler; a judge.</def> <mark>[India]</mark><br/
+\'d8<hw>Ha"kim</hw> <pr>(h<aum/"k<emac/m)</pr>, <pos>n.</pos> <ety>[Ar. <ets>h<amac/kim</ets>.]</ety> <def>A Muslim title for a ruler; a judge.</def> <mark>[India]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hal</ent><br/
@@ -1805,7 +1805,7 @@ As <qex>halcyons</qex> brooding on a winter sea.</q> <rj><qau>Dryden.</qau></rj>
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Halesia</ent><br/
-||<hw>Ha*le"si*a</hw> <pr>(h<adot/*l<emac/"zh<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Bot.)</fld> <def>A genus of American shrubs containing several species, called <altname>snowdrop trees</altname>, or silver-bell trees. They have showy, white flowers, drooping on slender pedicels.</def><br/
+\'d8<hw>Ha*le"si*a</hw> <pr>(h<adot/*l<emac/"zh<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Bot.)</fld> <def>A genus of American shrubs containing several species, called <altname>snowdrop trees</altname>, or silver-bell trees. They have showy, white flowers, drooping on slender pedicels.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Half</ent><br/
@@ -2210,11 +2210,11 @@ In rhombs, and wedges, and <qex>half-moons</qex>, and wings.</q> <rj><qau>Milton
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Halichondriae</ent><br/
-||<hw>Hal`i*chon"dri*ae</hw> <pr>(h<acr/l`<icr/*k<ocr/n"dr<icr/*<emac/)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>"a`ls</grk>, <grk>"alo`s</grk>, sea + <grk>cho`ndros</grk> cartilage.]</ety> <fld>(Zool.)</fld> <def>An order of sponges, having simple siliceous spicules and keratose fibers; -- called also <altname>Keratosilicoidea</altname>.</def><br/
+\'d8<hw>Hal`i*chon"dri*ae</hw> <pr>(h<acr/l`<icr/*k<ocr/n"dr<icr/*<emac/)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>"a`ls</grk>, <grk>"alo`s</grk>, sea + <grk>cho`ndros</grk> cartilage.]</ety> <fld>(Zool.)</fld> <def>An order of sponges, having simple siliceous spicules and keratose fibers; -- called also <altname>Keratosilicoidea</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Halicore</ent><br/
-||<hw>Hal"i*core</hw> <pr>(h<acr/l"<icr/*k<omac/r; L. h<adot/*l<icr/k"<osl/*r<emac/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"a`ls</grk> sea + <grk>ko`rh</grk> maiden.]</ety> <def>Same as <er>Dugong</er>.</def><br/
+\'d8<hw>Hal"i*core</hw> <pr>(h<acr/l"<icr/*k<omac/r; L. h<adot/*l<icr/k"<osl/*r<emac/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"a`ls</grk> sea + <grk>ko`rh</grk> maiden.]</ety> <def>Same as <er>Dugong</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Halidom</ent><br/
@@ -2258,7 +2258,7 @@ In rhombs, and wedges, and <qex>half-moons</qex>, and wings.</q> <rj><qau>Milton
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Haliotis</ent><br/
-||<hw>Ha`li*o"tis</hw> <pr>(h<amac/`l<icr/*<omac/"t<icr/s <or/ h<acr/l`<icr/-)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <grk>"a`ls</grk> sea + <grk>o'y^s</grk>, <grk>'wto`s</grk>, ear.]</ety> <fld>(Zool.)</fld> <def>A genus of marine shells; the ear-shells. See <er>Abalone</er>.</def><br/
+\'d8<hw>Ha`li*o"tis</hw> <pr>(h<amac/`l<icr/*<omac/"t<icr/s <or/ h<acr/l`<icr/-)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <grk>"a`ls</grk> sea + <grk>o'y^s</grk>, <grk>'wto`s</grk>, ear.]</ety> <fld>(Zool.)</fld> <def>A genus of marine shells; the ear-shells. See <er>Abalone</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haliotoid</ent><br/
@@ -2266,7 +2266,7 @@ In rhombs, and wedges, and <qex>half-moons</qex>, and wings.</q> <rj><qau>Milton
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Halisauria</ent><br/
-||<hw>Hal`i*sau"ri*a</hw> <pr>(h<acr/l`<icr/*s<add/"r<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"a`ls</grk>, <grk>"alo`s</grk>, sea + <grk>say^ros</grk>.]</ety> <fld>(Paleon.)</fld> <def>The Enaliosauria.</def><br/
+\'d8<hw>Hal`i*sau"ri*a</hw> <pr>(h<acr/l`<icr/*s<add/"r<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"a`ls</grk>, <grk>"alo`s</grk>, sea + <grk>say^ros</grk>.]</ety> <fld>(Paleon.)</fld> <def>The Enaliosauria.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Halite</ent><br/
@@ -2484,7 +2484,7 @@ Some far off <qex>halloo</qex> break the silent air.</q> <rj><qau>Milton.</qau><
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Hallux</ent><br/
-||<hw>Hal"lux</hw> <pr>(h<acr/l"l<ucr/ks)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>hallex</ets>, <ets>allex</ets>.]</ety> <fld>(Anat.)</fld> <def>The first, or preaxial, digit of the hind limb, corresponding to the pollux in the fore limb; the great toe; the hind toe of birds.</def><br/
+\'d8<hw>Hal"lux</hw> <pr>(h<acr/l"l<ucr/ks)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>hallex</ets>, <ets>allex</ets>.]</ety> <fld>(Anat.)</fld> <def>The first, or preaxial, digit of the hind limb, corresponding to the pollux in the fore limb; the great toe; the hind toe of birds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>hallway</ent><br/
@@ -2497,7 +2497,7 @@ Some far off <qex>halloo</qex> break the silent air.</q> <rj><qau>Milton.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Halma</ent><br/
-||<hw>Hal"ma</hw> <pr>(h<acr/l"m<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"a`lma</grk>, fr. <grk>"a`llesqai</grk> to leap.]</ety> <fld>(Greek Antiq.)</fld> <def>The long jump, with weights in the hands, -- the most important of the exercises of the Pentathlon.</def><br/
+\'d8<hw>Hal"ma</hw> <pr>(h<acr/l"m<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"a`lma</grk>, fr. <grk>"a`llesqai</grk> to leap.]</ety> <fld>(Greek Antiq.)</fld> <def>The long jump, with weights in the hands, -- the most important of the exercises of the Pentathlon.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Halma</ent><br/
@@ -2564,7 +2564,7 @@ That <qex>haloed</qex> round his saintly brow.</q> <rj><qau>Southey.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Halones</ent><br/
-||<hw>Ha*lo"nes</hw> <pr>(h<adot/*l<omac/"n<emac/z)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"a`lwn</grk>, <grk>"a`lwnos</grk>, a halo.]</ety> <fld>(Biol.)</fld> <def>Alternating transparent and opaque white rings which are seen outside the blastoderm, on the surface of the developing egg of the hen and other birds.</def><br/
+\'d8<hw>Ha*lo"nes</hw> <pr>(h<adot/*l<omac/"n<emac/z)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"a`lwn</grk>, <grk>"a`lwnos</grk>, a halo.]</ety> <fld>(Biol.)</fld> <def>Alternating transparent and opaque white rings which are seen outside the blastoderm, on the surface of the developing egg of the hen and other birds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Halophyte</ent><br/
@@ -2695,7 +2695,7 @@ With good opinion of the law.</q> <rj><qau>Trumbull.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Halteres</ent><br/
-||<hw>Hal*te"res</hw> <pr>(h<acr/l*t<emac/"r<emac/z)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"alth^res</grk> weights used in jumping, fr. <grk>"a`llesqai</grk> to leap.]</ety> <fld>(Zool.)</fld> <def>Balancers; the rudimentary hind wings of Diptera.</def><br/
+\'d8<hw>Hal*te"res</hw> <pr>(h<acr/l*t<emac/"r<emac/z)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"alth^res</grk> weights used in jumping, fr. <grk>"a`llesqai</grk> to leap.]</ety> <fld>(Zool.)</fld> <def>Balancers; the rudimentary hind wings of Diptera.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Halter-sack</ent><br/
@@ -2753,7 +2753,7 @@ From the twin soul that <qex>halves</qex> their own.</q> <rj><qau>M. Arnold.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Halysites</ent><br/
-||<hw>Hal`y*si"tes</hw> <pr>(h<acr/l`<icr/*s<imac/"t<emac/z)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"a`lysis</grk> a chain.]</ety> <fld>(Paleon.)</fld> <def>A genus of Silurian fossil corals; the chain corals. See <cref>Chain coral</cref>, under <er>Chain</er>.</def><br/
+\'d8<hw>Hal`y*si"tes</hw> <pr>(h<acr/l`<icr/*s<imac/"t<emac/z)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"a`lysis</grk> a chain.]</ety> <fld>(Paleon.)</fld> <def>A genus of Silurian fossil corals; the chain corals. See <cref>Chain coral</cref>, under <er>Chain</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ham</ent><br/
@@ -2798,11 +2798,11 @@ From the twin soul that <qex>halves</qex> their own.</q> <rj><qau>M. Arnold.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hamadryas</ent><br/
-||<hw>Ha*ma"dry*as</hw> <pr>(h<adot/*m<amac/"dr<icr/*<acr/s)</pr>, <pos>n.</pos> <ety>[L., a hamadryad. See <er>Hamadryad</er>.]</ety> <fld>(Zool.)</fld> <def>The sacred baboon of Egypt (<spn>Cynocephalus Hamadryas</spn>).</def><br/
+\'d8<hw>Ha*ma"dry*as</hw> <pr>(h<adot/*m<amac/"dr<icr/*<acr/s)</pr>, <pos>n.</pos> <ety>[L., a hamadryad. See <er>Hamadryad</er>.]</ety> <fld>(Zool.)</fld> <def>The sacred baboon of Egypt (<spn>Cynocephalus Hamadryas</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hamal</ent><br/
-||<hw>Ha*mal"</hw> <pr>(h<adot/*m<aum/l")</pr>, <pos>n.</pos> <altsp>[Written also <asp>hammal</asp>, <asp>hummaul</asp>, <asp>hamaul</asp>, <asp>khamal</asp>, etc.]</altsp> <ety>[Turk. & Ar. <ets>hamm<amac/l</ets>, fr. Ar. <ets>hamala</ets> to carry.]</ety> <def>In Turkey and other Oriental countries, a porter or burden bearer; specif., in Western India, a palanquin bearer.</def><br/
+\'d8<hw>Ha*mal"</hw> <pr>(h<adot/*m<aum/l")</pr>, <pos>n.</pos> <altsp>[Written also <asp>hammal</asp>, <asp>hummaul</asp>, <asp>hamaul</asp>, <asp>khamal</asp>, etc.]</altsp> <ety>[Turk. & Ar. <ets>hamm<amac/l</ets>, fr. Ar. <ets>hamala</ets> to carry.]</ety> <def>In Turkey and other Oriental countries, a porter or burden bearer; specif., in Western India, a palanquin bearer.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Hamamelidaceae</ent><br/
@@ -2838,7 +2838,7 @@ From the twin soul that <qex>halves</qex> their own.</q> <rj><qau>M. Arnold.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hamatum</ent><br/
-||<hw>Ha*ma"tum</hw> <pr>(h<adot/*m<amac/"t<ucr/m)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>hamatus</ets> hooked.]</ety> <fld>(Anat.)</fld> <def>See <er>Unciform</er>.</def><br/
+\'d8<hw>Ha*ma"tum</hw> <pr>(h<adot/*m<amac/"t<ucr/m)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>hamatus</ets> hooked.]</ety> <fld>(Anat.)</fld> <def>See <er>Unciform</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hamble</ent><br/
@@ -2894,7 +2894,7 @@ From the twin soul that <qex>halves</qex> their own.</q> <rj><qau>M. Arnold.</qa
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Haminura</ent><br/
-||<hw>Ham`i*nu"ra</hw> <pr>(h<acr/m`<icr/*n<umac/"r<adot/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A large edible river fish (<spn>Erythrinus macrodon</spn>) of Guiana.</def><br/
+\'d8<hw>Ham`i*nu"ra</hw> <pr>(h<acr/m`<icr/*n<umac/"r<adot/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A large edible river fish (<spn>Erythrinus macrodon</spn>) of Guiana.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hamite</ent><br/
@@ -3032,7 +3032,7 @@ From the twin soul that <qex>halves</qex> their own.</q> <rj><qau>M. Arnold.</qa
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Hammochrysos</ent><br/
-||<hw>Ham`mo*chry"sos</hw> <pr>(h<acr/m`m<osl/*kr<imac/"s<ocr/s)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>"ammo`chrysos</grk>; <grk>"a`mmos</grk>, <grk>'a`mmos</grk>, sand + <grk>chryso`s</grk> gold.]</ety> <def>A stone with spangles of gold color in it.</def><br/
+\'d8<hw>Ham`mo*chry"sos</hw> <pr>(h<acr/m`m<osl/*kr<imac/"s<ocr/s)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>"ammo`chrysos</grk>; <grk>"a`mmos</grk>, <grk>'a`mmos</grk>, sand + <grk>chryso`s</grk> gold.]</ety> <def>A stone with spangles of gold color in it.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hammock</ent><br/
@@ -3113,7 +3113,7 @@ From the twin soul that <qex>halves</qex> their own.</q> <rj><qau>M. Arnold.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hamulus</ent><br/
-||<hw>Ham"u*lus</hw> <pr>(-l<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hamuli</plw> <pr>(-l<imac/)</pr>.</plu> <ety>[L., a little hook.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>A hook, or hooklike process.</def><br/
+\'d8<hw>Ham"u*lus</hw> <pr>(-l<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hamuli</plw> <pr>(-l<imac/)</pr>.</plu> <ety>[L., a little hook.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>A hook, or hooklike process.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>A hooked barbicel of a feather.</def><br/
@@ -4323,7 +4323,7 @@ Some Cupid kills with arrows, some with traps.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Haphtarah</ent><br/
-||<hw>Haph*ta"rah</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>-taroth</plw> <pr>(#)</pr></plu>. <ety>[Heb. <ets>hapht<amac/r<amac/h</ets>, prop., valedictory, fr. <ets>p<amac/tar</ets> to depart.]</ety> <def>One of the lessons from the Nebiim (or Prophets) read in the Jewish synagogue on Sabbaths, feast days, fasts, and the ninth of Ab, at the end of the service, after the parashoth, or lessons from the Law. Such a practice is evidenced in Luke iv.17 and Acts xiii.15.</def><br/
+\'d8<hw>Haph*ta"rah</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>-taroth</plw> <pr>(#)</pr></plu>. <ety>[Heb. <ets>hapht<amac/r<amac/h</ets>, prop., valedictory, fr. <ets>p<amac/tar</ets> to depart.]</ety> <def>One of the lessons from the Nebiim (or Prophets) read in the Jewish synagogue on Sabbaths, feast days, fasts, and the ninth of Ab, at the end of the service, after the parashoth, or lessons from the Law. Such a practice is evidenced in Luke iv.17 and Acts xiii.15.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Hapless</ent><br/
@@ -4339,7 +4339,7 @@ Some Cupid kills with arrows, some with traps.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Haplomi</ent><br/
-||<hw>Ha*plo"mi</hw> <pr>(h<adot/*pl<omac/"m<imac/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"aplo`os</grk> simple + <grk>'w^mos</grk> shoulder.]</ety> <fld>(Zool.)</fld> <def>An order of freshwater fishes, including the true pikes, cyprinodonts, and blindfishes.</def><br/
+\'d8<hw>Ha*plo"mi</hw> <pr>(h<adot/*pl<omac/"m<imac/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"aplo`os</grk> simple + <grk>'w^mos</grk> shoulder.]</ety> <fld>(Zool.)</fld> <def>An order of freshwater fishes, including the true pikes, cyprinodonts, and blindfishes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>haplosporidian</ent><br/
@@ -4476,7 +4476,7 @@ The fool is <qex>happy</qex> that he knows no more.</q> <rj><qau>Pope.</qau></rj
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Hapuku</ent><br/
-||<hw>Ha*pu"ku</hw> <pr>(h<adot/*p<oomac/"k<oomac/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A large and valuable food fish (<spn>Polyprion prognathus</spn>) of New Zealand. It sometimes weighs one hundred pounds or more.</def><br/
+\'d8<hw>Ha*pu"ku</hw> <pr>(h<adot/*p<oomac/"k<oomac/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A large and valuable food fish (<spn>Polyprion prognathus</spn>) of New Zealand. It sometimes weighs one hundred pounds or more.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haquebut</ent><br/
@@ -5756,7 +5756,7 @@ Not what he knew I was.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Harpa</ent><br/
-||<hw>Har"pa</hw> <pr>(h<aum/r"p<adot/)</pr>, <pos>n.</pos> <ety>[L., harp.]</ety> <fld>(Zool.)</fld> <def>A genus of marine univalve shells; the harp shells; -- so called from the form of the shells, and their ornamental ribs.</def><br/
+\'d8<hw>Har"pa</hw> <pr>(h<aum/r"p<adot/)</pr>, <pos>n.</pos> <ety>[L., harp.]</ety> <fld>(Zool.)</fld> <def>A genus of marine univalve shells; the harp shells; -- so called from the form of the shells, and their ornamental ribs.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Harpagon</ent><br/
@@ -6731,7 +6731,7 @@ His rival's conquest.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hatteria</ent><br/
-||<hw>Hat*te"ri*a</hw> <pr>(h<acr/t*t<emac/"r<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A New Zealand lizard, which, in anatomical character, differs widely from all other existing lizards.  It is the only living representative of the order <ord>Rhynchocephala</ord>, of which many Mesozoic fossil species are known; -- called also <altname>Sphenodon</altname>, <altname>tuatara</altname>, and <altname>Tuatera</altname>.</def><br/
+\'d8<hw>Hat*te"ri*a</hw> <pr>(h<acr/t*t<emac/"r<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A New Zealand lizard, which, in anatomical character, differs widely from all other existing lizards.  It is the only living representative of the order <ord>Rhynchocephala</ord>, of which many Mesozoic fossil species are known; -- called also <altname>Sphenodon</altname>, <altname>tuatara</altname>, and <altname>Tuatera</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hatting</ent><br/
@@ -6739,7 +6739,7 @@ His rival's conquest.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hatti-sherif</ent><br/
-||<hw>Hat"ti-sher`if</hw> <pr>(h<acr/t"t<icr/*sh<ecr/r`<icr/f <or/ h<aum/t"t<emac/*sh<asl/*r<emac/f")</pr>, <pos>n.</pos> <ety>[Turk., fr. Ar. <ets>khatt</ets> a writing + <ets>sher<imac/f</ets> noble.]</ety> <def>A irrevocable Turkish decree countersigned by the sultan.</def><br/
+\'d8<hw>Hat"ti-sher`if</hw> <pr>(h<acr/t"t<icr/*sh<ecr/r`<icr/f <or/ h<aum/t"t<emac/*sh<asl/*r<emac/f")</pr>, <pos>n.</pos> <ety>[Turk., fr. Ar. <ets>khatt</ets> a writing + <ets>sher<imac/f</ets> noble.]</ety> <def>A irrevocable Turkish decree countersigned by the sultan.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hattree</ent><br/
@@ -7017,7 +7017,7 @@ Are <qex>haunted</qex> houses.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haustellata</ent><br/
-||<hw>Haus`tel*la"ta</hw> <pr>(h<add/s`t<ecr/l*l<amac/"t<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. <ets>haustellum</ets>, fr. L. <ets>haurire</ets>, <ets>haustum</ets>, to draw water, to swallow. See <er>Exhaust</er>.]</ety> <fld>(Zool.)</fld> <def>An artificial division of insects, including all those with a sucking proboscis.</def><br/
+\'d8<hw>Haus`tel*la"ta</hw> <pr>(h<add/s`t<ecr/l*l<amac/"t<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. <ets>haustellum</ets>, fr. L. <ets>haurire</ets>, <ets>haustum</ets>, to draw water, to swallow. See <er>Exhaust</er>.]</ety> <fld>(Zool.)</fld> <def>An artificial division of insects, including all those with a sucking proboscis.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haustellate</ent><br/
@@ -7025,11 +7025,11 @@ Are <qex>haunted</qex> houses.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haustellum</ent><br/
-||<hw>Haus*tel"lum</hw> <pr>(h<add/s*t<ecr/l"l<ucr/m)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Haustella</plw> <pr>(-l<adot/)</pr>.</plu> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>The sucking proboscis of various insects. See <er>Lepidoptera</er>, and <er>Diptera</er>.</def><br/
+\'d8<hw>Haus*tel"lum</hw> <pr>(h<add/s*t<ecr/l"l<ucr/m)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Haustella</plw> <pr>(-l<adot/)</pr>.</plu> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>The sucking proboscis of various insects. See <er>Lepidoptera</er>, and <er>Diptera</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haustorium</ent><br/
-||<hw>Haus*to"ri*um</hw> <pr>(h<add/s*t<omac/"r<icr/*<ucr/m)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Haustoria</plw> <pr>(h<add/s*t<omac/"r<icr/*<adot/)</pr>.</plu> <ety>[LL., a well, fr. L. <ets>haurire</ets>, <ets>haustum</ets>, to drink.]</ety> <fld>(Bot.)</fld> <def>One of the suckerlike rootlets of such plants as the dodder and ivy.</def>  <rj><au>R. Brown.</au></rj><br/
+\'d8<hw>Haus*to"ri*um</hw> <pr>(h<add/s*t<omac/"r<icr/*<ucr/m)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Haustoria</plw> <pr>(h<add/s*t<omac/"r<icr/*<adot/)</pr>.</plu> <ety>[LL., a well, fr. L. <ets>haurire</ets>, <ets>haustum</ets>, to drink.]</ety> <fld>(Bot.)</fld> <def>One of the suckerlike rootlets of such plants as the dodder and ivy.</def>  <rj><au>R. Brown.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haut</ent><br/
@@ -7055,15 +7055,15 @@ Are <qex>haunted</qex> houses.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hauteur</ent><br/
-||<hw>Hau`teur"</hw> <pr>(h<omac/`t<etil/r")</pr>, <pos>n.</pos> <ety>[F., fr. <ets>haut</ets> high. See <er>Haughty</er>.]</ety> <def>Haughty manner or spirit; haughtiness; pride; arrogance.</def><br/
+\'d8<hw>Hau`teur"</hw> <pr>(h<omac/`t<etil/r")</pr>, <pos>n.</pos> <ety>[F., fr. <ets>haut</ets> high. See <er>Haughty</er>.]</ety> <def>Haughty manner or spirit; haughtiness; pride; arrogance.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hautgout</ent><br/
-||<hw>Haut`go<ucir/t"</hw> <pr>(h<omac/`g<oomac/")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>High relish or flavor; high seasoning.</def><br/
+\'d8<hw>Haut`go<ucir/t"</hw> <pr>(h<omac/`g<oomac/")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>High relish or flavor; high seasoning.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hautpas</ent><br/
-||<hw>Haut`pas"</hw> <pr>(h<omac/`p<aum/")</pr>, <pos>n.</pos> <ety>[F. <ets>haut</ets> high + <ets>pas</ets> step.]</ety> <def>A raised part of the floor of a large room; a platform for a raised table or throne. See <er>Dais</er>.</def><br/
+\'d8<hw>Haut`pas"</hw> <pr>(h<omac/`p<aum/")</pr>, <pos>n.</pos> <ety>[F. <ets>haut</ets> high + <ets>pas</ets> step.]</ety> <def>A raised part of the floor of a large room; a platform for a raised table or throne. See <er>Dais</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 675 pr=JMD --></p>
@@ -7244,7 +7244,7 @@ Are <qex>haunted</qex> houses.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Havildar</ent><br/
-||<hw>Hav`il*dar"</hw> <pr>(h<acr/v`<icr/l*d<aum/r")</pr>, <pos>n.</pos> <def>In the British Indian armies, a noncommissioned officer of native soldiers, corresponding to a sergeant.</def><br/
+\'d8<hw>Hav`il*dar"</hw> <pr>(h<acr/v`<icr/l*d<aum/r")</pr>, <pos>n.</pos> <def>In the British Indian armies, a noncommissioned officer of native soldiers, corresponding to a sergeant.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Havildar major</b></col>, <cd>a native sergeant major in the East Indian army.</cd></cs><br/
@@ -10157,7 +10157,7 @@ Is <qex>heavened</qex> in the hush of purple hills.</q> <rj><qau>G. Massey.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hectocotylus</ent><br/
-||<hw>Hec`to*cot"y*lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hectocotyli</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ a hundred + <?/ a hollow vessel.]</ety> <fld>(Zool.)</fld> <def>One of the arms of the male of most kinds of cephalopods, which is specially modified in various ways to effect the fertilization of the eggs. In a special sense, the greatly modified arm of Argonauta and allied genera, which, after receiving the spermatophores, becomes detached from the male, and attaches itself to the female for reproductive purposes.</def><br/
+\'d8<hw>Hec`to*cot"y*lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hectocotyli</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ a hundred + <?/ a hollow vessel.]</ety> <fld>(Zool.)</fld> <def>One of the arms of the male of most kinds of cephalopods, which is specially modified in various ways to effect the fertilization of the eggs. In a special sense, the greatly modified arm of Argonauta and allied genera, which, after receiving the spermatophores, becomes detached from the male, and attaches itself to the female for reproductive purposes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>hectogram</ent><br/
@@ -10639,7 +10639,7 @@ With violent <qex>hefts</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heft</ent><br/
-||<hw>Heft</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>G. pl.</it> <plw>Hefte</plw> <pr>(#)</pr></plu>. <ety>[G.]</ety> <def>A number of sheets of paper fastened together, as for a notebook; also, a part of a serial publication.</def></p>
+\'d8<hw>Heft</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>G. pl.</it> <plw>Hefte</plw> <pr>(#)</pr></plu>. <ety>[G.]</ety> <def>A number of sheets of paper fastened together, as for a notebook; also, a part of a serial publication.</def></p>
 
 <p><q>The size of <ldquo/<qex>hefts</qex><rdquo/ will depend on the material requiring attention, and the annual volume is to cost  about 15 marks.</q>  <rj><qau>The Nation.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -10884,7 +10884,7 @@ The honored <qex>heirlooms</qex> of his ancestors.</q> <rj><qau>Moir.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Helamys</ent><br/
-||<hw>Hel*a*mys</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ fawn + <?/ mouse.]</ety> <fld>(Zool.)</fld> <def>See <cref>Jumping hare</cref>, under <er>Hare</er>.</def><br/
+\'d8<hw>Hel*a*mys</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ fawn + <?/ mouse.]</ety> <fld>(Zool.)</fld> <def>See <cref>Jumping hare</cref>, under <er>Hare</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Helcoplasty</ent><br/
@@ -10944,7 +10944,7 @@ The honored <qex>heirlooms</qex> of his ancestors.</q> <rj><qau>Moir.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Helianthoidea</ent><br/
-||<hw>He`li*an"thoi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>helianthes</ets> sunflower + <ets>-oid</ets>.]</ety> <fld>(Zool.)</fld> <def>An order of Anthozoa; the Actinaria.</def><br/
+\'d8<hw>He`li*an"thoi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>helianthes</ets> sunflower + <ets>-oid</ets>.]</ety> <fld>(Zool.)</fld> <def>An order of Anthozoa; the Actinaria.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>helianthus</ent><br/
@@ -10957,7 +10957,7 @@ The honored <qex>heirlooms</qex> of his ancestors.</q> <rj><qau>Moir.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Helichrysum</ent><br/
-||<hw>Hel`i*chry"sum</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L., the marigold, fr. Gr. <?/ a kind of plant.]</ety> <fld>(Bot.)</fld> <def>A genus of composite plants, with shining, commonly white or yellow, or sometimes reddish, radiated involucres, which are often called <ldquo/everlasting flowers.<rdquo/</def><br/
+\'d8<hw>Hel`i*chry"sum</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L., the marigold, fr. Gr. <?/ a kind of plant.]</ety> <fld>(Bot.)</fld> <def>A genus of composite plants, with shining, commonly white or yellow, or sometimes reddish, radiated involucres, which are often called <ldquo/everlasting flowers.<rdquo/</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heliciform</ent><br/
@@ -11006,7 +11006,7 @@ A thousand rills their mazy progress take.</q> <rj><qau>Gray.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heliconia</ent><br/
-||<hw>Hel`i*co"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Helicon</er>.]</ety> <fld>(Zool.)</fld> <def>One of numerous species of <gen>Heliconius</gen>, a genus of tropical American butterflies.  The wings are usually black, marked with green, crimson, and white.</def><br/
+\'d8<hw>Hel`i*co"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Helicon</er>.]</ety> <fld>(Zool.)</fld> <def>One of numerous species of <gen>Heliconius</gen>, a genus of tropical American butterflies.  The wings are usually black, marked with green, crimson, and white.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heliconian</ent><br/
@@ -11029,7 +11029,7 @@ A thousand rills their mazy progress take.</q> <rj><qau>Gray.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Helicotrema</ent><br/
-||<hw>Hel`i*co"tre"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"e`lix</grk>, <grk>"e`likos</grk>, a helix + <?/ a hole.]</ety> <fld>(Anat.)</fld> <def>The opening by which the two scalae communicate at the top of the cochlea of the ear.</def><br/
+\'d8<hw>Hel`i*co"tre"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"e`lix</grk>, <grk>"e`likos</grk>, a helix + <?/ a hole.]</ety> <fld>(Anat.)</fld> <def>The opening by which the two scalae communicate at the top of the cochlea of the ear.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Helio-</ent><br/
@@ -11137,7 +11137,7 @@ A thousand rills their mazy progress take.</q> <rj><qau>Gray.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heliopora</ent><br/
-||<hw>He`li*op"o*ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ the sun + <?/ a passage, pore.]</ety> <fld>(Zool.)</fld> <def>An East Indian stony coral now known to belong to the Alcyonaria; -- called also <altname>blue coral</altname>.</def><br/
+\'d8<hw>He`li*op"o*ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ the sun + <?/ a passage, pore.]</ety> <fld>(Zool.)</fld> <def>An East Indian stony coral now known to belong to the Alcyonaria; -- called also <altname>blue coral</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Helioscope</ent><br/
@@ -11522,14 +11522,14 @@ Are seen in glittering ranks.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Helminthes</ent><br/
-||<hw>Hel*min"thes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/, <?/, a worm.]</ety> <fld>(Zool.)</fld> <def>One of the grand divisions or branches of the animal kingdom. It is a large group including a vast number of species, most of which are parasitic. Called also <altname>Enthelminthes</altname>, <altname>Enthelmintha</altname>.</def><br/
+\'d8<hw>Hel*min"thes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/, <?/, a worm.]</ety> <fld>(Zool.)</fld> <def>One of the grand divisions or branches of the animal kingdom. It is a large group including a vast number of species, most of which are parasitic. Called also <altname>Enthelminthes</altname>, <altname>Enthelmintha</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The following classes are included, with others of less importance: Cestoidea (tapeworms), Trematodea (flukes, etc.), Turbellaria (planarians), Acanthocephala (thornheads), Nematoidea (roundworms, trichina, gordius), Nemertina (nemerteans). See <er>Plathelminthes</er>, and <er>Nemathelminthes</er>.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Helminthiasis</ent><br/
-||<hw>Hel`min*thi"a*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ to suffer from worms, fr. <?/, <?/, a worm.]</ety> <fld>(Med.)</fld> <def>A disease in which worms are present in some part of the body.</def><br/
+\'d8<hw>Hel`min*thi"a*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ to suffer from worms, fr. <?/, <?/, a worm.]</ety> <fld>(Med.)</fld> <def>A disease in which worms are present in some part of the body.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Helminthic</ent><br/
@@ -11880,7 +11880,7 @@ Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hemapophysis</ent><br/
-||<hw>Hem`a*poph"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hemapophyses</plw> .</plu> <ety>[NL. See <er>Haema-</er>, and <er>Apophysis</er>.]</ety> <fld>(Anat.)</fld> <def>The second element in each half of a hemal arch, corresponding to the sternal part of a rib.</def> <au>Owen.</au> -- <wordforms><wf>Hem`a*po*phys"i*al</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms></p>
+\'d8<hw>Hem`a*poph"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hemapophyses</plw> .</plu> <ety>[NL. See <er>Haema-</er>, and <er>Apophysis</er>.]</ety> <fld>(Anat.)</fld> <def>The second element in each half of a hemal arch, corresponding to the sternal part of a rib.</def> <au>Owen.</au> -- <wordforms><wf>Hem`a*po*phys"i*al</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms></p>
 
 <p><ent>Hemastatical</ent><br/
 <ent>Hemastatic</ent><br/
@@ -11900,7 +11900,7 @@ Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hematemesis</ent><br/
-||<hw>Hem`a*tem"e*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>a"i^ma</grk>, <grk>a"i`matos</grk>, blood + <?/ a vomiting, fr. <?/ to vomit.]</ety> <fld>(Med.)</fld> <def>A vomiting of blood.</def><br/
+\'d8<hw>Hem`a*tem"e*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>a"i^ma</grk>, <grk>a"i`matos</grk>, blood + <?/ a vomiting, fr. <?/ to vomit.]</ety> <fld>(Med.)</fld> <def>A vomiting of blood.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hematherm</ent><br/
@@ -11959,7 +11959,7 @@ Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hematocrya</ent><br/
-||<hw>Hem`a*toc"ry*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>a"i^ma</grk>, <grk>a"i`matos</grk>, blood + <grk>kry`os</grk> cold.]</ety> <fld>(Zool.)</fld> <def>The cold-blooded vertebrates, that is, all but the mammals and birds; -- the antithesis to <contr>Hematotherma</contr>.</def><br/
+\'d8<hw>Hem`a*toc"ry*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>a"i^ma</grk>, <grk>a"i`matos</grk>, blood + <grk>kry`os</grk> cold.]</ety> <fld>(Zool.)</fld> <def>The cold-blooded vertebrates, that is, all but the mammals and birds; -- the antithesis to <contr>Hematotherma</contr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hematocrystallin</ent><br/
@@ -11984,11 +11984,11 @@ Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Hematoma</ent><br/
-||<hw>Hem`a*to"ma</hw> <pr>(h<emac/`m<adot/*t<omac/"m<adot/ <it>or</it> h<ecr/m`<adot/*t<omac/"m<adot/)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hema-</er>, and <er>-oma</er>.]</ety> <fld>(Med.)</fld> <def>A localised leakage of blood from the blood vessels into nearby tissues, usually confined within a tissue or organ; especially, a local swelling produced by an effusion of blood beneath the skin, which may clot and discolor the affected area.</def><br/
+\'d8<hw>Hem`a*to"ma</hw> <pr>(h<emac/`m<adot/*t<omac/"m<adot/ <it>or</it> h<ecr/m`<adot/*t<omac/"m<adot/)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hema-</er>, and <er>-oma</er>.]</ety> <fld>(Med.)</fld> <def>A localised leakage of blood from the blood vessels into nearby tissues, usually confined within a tissue or organ; especially, a local swelling produced by an effusion of blood beneath the skin, which may clot and discolor the affected area.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hematophilia</ent><br/
-||<hw>Hem`a*to*phil"i*a</hw> <pr>(h<emac/`m<adot/*t<osl/*f<icr/l"<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>a"i^ma</grk>, <grk>a"i`matos</grk>, blood + <grk>filei^n</grk> to love.]</ety> <fld>(Med.)</fld> <def>Same as <er>hemophilia</er>; -- an obsolete term.</def> <mark>[Obs.]</mark><br/
+\'d8<hw>Hem`a*to*phil"i*a</hw> <pr>(h<emac/`m<adot/*t<osl/*f<icr/l"<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>a"i^ma</grk>, <grk>a"i`matos</grk>, blood + <grk>filei^n</grk> to love.]</ety> <fld>(Med.)</fld> <def>Same as <er>hemophilia</er>; -- an obsolete term.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Hematosin</ent><br/
@@ -11996,11 +11996,11 @@ Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hematosis</ent><br/
-||<hw>Hem`a*to"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>a"ima`twsis</grk>.]</ety> <fld>(Physiol.)</fld> <sd>(a)</sd> <def>Sanguification; the conversion of chyle into blood.</def> <sd>(b)</sd> <def>The arterialization of the blood in the lungs; the formation of blood in general; haematogenesis.</def><br/
+\'d8<hw>Hem`a*to"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>a"ima`twsis</grk>.]</ety> <fld>(Physiol.)</fld> <sd>(a)</sd> <def>Sanguification; the conversion of chyle into blood.</def> <sd>(b)</sd> <def>The arterialization of the blood in the lungs; the formation of blood in general; haematogenesis.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hematotherma</ent><br/
-||<hw>Hem`a*to*ther"ma</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>a"i^ma</grk>, <grk>a"i`matos</grk>, blood + <grk>thermo`s</grk> warm.]</ety> <fld>(Zool.)</fld> <def>The warm-blooded vertebrates, comprising the mammals and birds; -- the antithesis to <contr>hematocrya</contr>.</def><br/
+\'d8<hw>Hem`a*to*ther"ma</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>a"i^ma</grk>, <grk>a"i`matos</grk>, blood + <grk>thermo`s</grk> warm.]</ety> <fld>(Zool.)</fld> <def>The warm-blooded vertebrates, comprising the mammals and birds; -- the antithesis to <contr>hematocrya</contr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hematothermal</ent><br/
@@ -12012,7 +12012,7 @@ Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hematuria</ent><br/
-||<hw>Hem`a*tu"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hema-</er>, and <er>Urine</er>.]</ety> <fld>(Med.)</fld> <def>Passage of urine mingled with blood; blood in the urine.</def><br/
+\'d8<hw>Hem`a*tu"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hema-</er>, and <er>Urine</er>.]</ety> <fld>(Med.)</fld> <def>Passage of urine mingled with blood; blood in the urine.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hemautography</ent><br/
@@ -12020,11 +12020,11 @@ Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj><br/
 
 <p><ent>Hemelytrum</ent><br/
 <ent>Hemelytron</ent><br/
-<mhw>{ ||<hw>Hem*el"y*tron</hw> <pr>(? <or/ ?)</pr>, ||<hw>Hem*el"y*trum</hw> <pr>(-tr<ucr/m cf. <er>Elytron</er>, 277)</pr>, }</mhw>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hemelytra</plw> <pr>(<?/)</pr>.</plu> <ety>[NL. See <er>Hemi</er>, and <er>Elytron</er>.]</ety> <fld>(Zool.)</fld> <def>One of the partially thickened anterior wings of certain insects, as of many Hemiptera, the earwigs, etc.</def><br/
+<mhw>{ \'d8<hw>Hem*el"y*tron</hw> <pr>(? <or/ ?)</pr>, \'d8<hw>Hem*el"y*trum</hw> <pr>(-tr<ucr/m cf. <er>Elytron</er>, 277)</pr>, }</mhw>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hemelytra</plw> <pr>(<?/)</pr>.</plu> <ety>[NL. See <er>Hemi</er>, and <er>Elytron</er>.]</ety> <fld>(Zool.)</fld> <def>One of the partially thickened anterior wings of certain insects, as of many Hemiptera, the earwigs, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hemeralopia</ent><br/
-||<hw>Hem`e*ra*lo"pi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, the opposite of <?/; <?/ day + <?/ of <?/. See <er>Nyctalopia</er>.]</ety> <fld>(Med.)</fld> <def>A disease of the eyes, in consequence of which a person can see clearly or without pain only by daylight or a strong artificial light; day sight.</def><br/
+\'d8<hw>Hem`e*ra*lo"pi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, the opposite of <?/; <?/ day + <?/ of <?/. See <er>Nyctalopia</er>.]</ety> <fld>(Med.)</fld> <def>A disease of the eyes, in consequence of which a person can see clearly or without pain only by daylight or a strong artificial light; day sight.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Some writers (as Quain) use the word in the opposite sense, <it>i. e.</it>, day blindness. See <er>Nyctalopia</er>.</note><br/
@@ -12049,7 +12049,7 @@ Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Hemerocallis</ent><br/
-||<hw>Hem`e*ro*cal"lis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/; <?/ day + <grk>ka`llos</grk> beauty.]</ety> <fld>(Bot.)</fld> <def>A genus of plants, some species of which are cultivated for their beautiful flowers; day lily.</def><br/
+\'d8<hw>Hem`e*ro*cal"lis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/; <?/ day + <grk>ka`llos</grk> beauty.]</ety> <fld>(Bot.)</fld> <def>A genus of plants, some species of which are cultivated for their beautiful flowers; day lily.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hemi-</ent><br/
@@ -12065,15 +12065,15 @@ Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hemianaesthesia</ent><br/
-||<hw>Hem`i*an`aes*the"si*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Hemi-</ets> + <ets>anaesthesia</ets>.]</ety> <fld>(Med.)</fld> <def>Anaesthesia upon one side of the body.</def><br/
+\'d8<hw>Hem`i*an`aes*the"si*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Hemi-</ets> + <ets>anaesthesia</ets>.]</ety> <fld>(Med.)</fld> <def>Anaesthesia upon one side of the body.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hemibranchi</ent><br/
-||<hw>Hem`i*bran"chi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Hemi-</er>, and <er>Branchia</er>.]</ety> <fld>(Zool.)</fld> <def>An order of fishes having an incomplete or reduced branchial apparatus. It includes the sticklebacks, the flutemouths, and Fistularia.</def><br/
+\'d8<hw>Hem`i*bran"chi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Hemi-</er>, and <er>Branchia</er>.]</ety> <fld>(Zool.)</fld> <def>An order of fishes having an incomplete or reduced branchial apparatus. It includes the sticklebacks, the flutemouths, and Fistularia.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hemicardia</ent><br/
-||<hw>Hem`i*car"di*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hemi-</er>, and <er>Cardia</er>.]</ety> <fld>(Anat.)</fld> <def>A lateral half of the heart, either the right or left.</def>  <rj><au>B. G. Wilder.</au></rj><br/
+\'d8<hw>Hem`i*car"di*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hemi-</er>, and <er>Cardia</er>.]</ety> <fld>(Anat.)</fld> <def>A lateral half of the heart, either the right or left.</def>  <rj><au>B. G. Wilder.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hemicarp</ent><br/
@@ -12081,7 +12081,7 @@ Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hemicerebrum</ent><br/
-||<hw>Hem`i*cer"e*brum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Hemi-</ets> + <ets>cerebrum</ets>.]</ety> <fld>(Anat.)</fld> <def>A lateral half of the cerebrum.</def>  <rj><au>Wilder.</au></rj><br/
+\'d8<hw>Hem`i*cer"e*brum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Hemi-</ets> + <ets>cerebrum</ets>.]</ety> <fld>(Anat.)</fld> <def>A lateral half of the cerebrum.</def>  <rj><au>Wilder.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hemicollin</ent><br/
@@ -12089,7 +12089,7 @@ Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hemicrania</ent><br/
-||<hw>Hem`i*cra"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.: cf. F. <ets>h<eacute/micr<acir/nie</ets>. See <er>Cranium</er>, and <er>Megrim</er>.]</ety> <fld>(Med.)</fld> <def>A pain that affects only one side of the head.</def><br/
+\'d8<hw>Hem`i*cra"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.: cf. F. <ets>h<eacute/micr<acir/nie</ets>. See <er>Cranium</er>, and <er>Megrim</er>.]</ety> <fld>(Med.)</fld> <def>A pain that affects only one side of the head.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hemicrany</ent><br/
@@ -12149,7 +12149,7 @@ Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hemimetabola</ent><br/
-||<hw>Hem`i*me*tab"o*la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Hemi-</er>, and <er>Metabola</er>.]</ety> <fld>(Zool.)</fld> <def>Those insects which have an incomplete metamorphosis.</def><br/
+\'d8<hw>Hem`i*me*tab"o*la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Hemi-</er>, and <er>Metabola</er>.]</ety> <fld>(Zool.)</fld> <def>Those insects which have an incomplete metamorphosis.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hemimetabolic</ent><br/
@@ -12168,18 +12168,18 @@ Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hemina</ent><br/
-||<hw>He*mi"na</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Heminae</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/.]</ety> <sn>1.</sn> <fld>(Rom. Antiq.)</fld> <def>A measure of half a sextary.</def>  <rj><au>Arbuthnot.</au></rj><br/
+\'d8<hw>He*mi"na</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Heminae</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/.]</ety> <sn>1.</sn> <fld>(Rom. Antiq.)</fld> <def>A measure of half a sextary.</def>  <rj><au>Arbuthnot.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Med.)</fld> <def>A measure equal to about ten fluid ounces.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hemionus</ent><br/
-||<hw>He*mi"o*nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a half ass, a mule.]</ety> <fld>(Zool.)</fld> <def>A wild ass found in Tibet; the kiang.</def>  <rj><au>Darwin.</au></rj></p>
+\'d8<hw>He*mi"o*nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a half ass, a mule.]</ety> <fld>(Zool.)</fld> <def>A wild ass found in Tibet; the kiang.</def>  <rj><au>Darwin.</au></rj></p>
 
 <p><ent>Hemiopsia</ent><br/
 <ent>Hemiopia</ent><br/
-<mhw>{ ||<hw>Hem`i*o"pi*a</hw> <pr>(?)</pr>, <hw>Hem`i*op"si*a</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL., fr. Gr. <?/ half + Gr. <?/ sight.]</ety> <fld>(Med.)</fld> <def>A defect of vision in consequence of which a person sees but half of an object looked at.</def><br/
+<mhw>{ \'d8<hw>Hem`i*o"pi*a</hw> <pr>(?)</pr>, <hw>Hem`i*op"si*a</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL., fr. Gr. <?/ half + Gr. <?/ sight.]</ety> <fld>(Med.)</fld> <def>A defect of vision in consequence of which a person sees but half of an object looked at.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hemiorthotype</ent><br/
@@ -12194,7 +12194,7 @@ Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hemiplegia</ent><br/
-||<hw>Hem`i*ple"gi*a</hw> <pr>(?)</pr>, <pos>n.</pos><ety>[NL., fr. Gr. <?/; <?/ half + <?/ a stroke; cf. F. <ets>h<eacute/miplagie</ets>.]</ety> <fld>(Med.)</fld> <def>A palsy that affects one side only of the body.</def> -- <wordforms><wf>Hem`i"pleg"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>Hem`i*ple"gi*a</hw> <pr>(?)</pr>, <pos>n.</pos><ety>[NL., fr. Gr. <?/; <?/ half + <?/ a stroke; cf. F. <ets>h<eacute/miplagie</ets>.]</ety> <fld>(Med.)</fld> <def>A palsy that affects one side only of the body.</def> -- <wordforms><wf>Hem`i"pleg"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hemiplegy</ent><br/
@@ -12214,7 +12214,7 @@ Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hemiptera</ent><br/
-||<hw>He*mip"te*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ half + <?/ wing, fr. <?/ to fly.]</ety> <fld>(Zool.)</fld> <def>An order of hexapod insects having a jointed proboscis, including four sharp stylets (mandibles and maxillae), for piercing. In many of the species (Heteroptera) the front wings are partially coriaceous, and different from the others.</def><br/
+\'d8<hw>He*mip"te*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ half + <?/ wing, fr. <?/ to fly.]</ety> <fld>(Zool.)</fld> <def>An order of hexapod insects having a jointed proboscis, including four sharp stylets (mandibles and maxillae), for piercing. In many of the species (Heteroptera) the front wings are partially coriaceous, and different from the others.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ They are divided into the <xex>Heteroptera</xex>, including the squash bug, soldier bug, bedbug, etc.; the <xex>Homoptera</xex>, including the cicadas, cuckoo spits, plant lice, scale insects, etc.; the <xex>Thysanoptera</xex>, including the thrips, and, according to most recent writers, the <xex>Pediculina</xex> or true lice.</note></p>
@@ -12364,7 +12364,7 @@ Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Hemophilia</ent><br/
-||<hw>Hem`o*phil"i*a</hw> <pr>(h<emac/`m<adot/*f<icr/l"<icr/*<adot/ <it>or</it>  h<ecr/m`<adot/*f<icr/l"<icr/*<adot/)</pr>, <pos>n.</pos>  <ety>[NL., fr. Gr. <grk>a"i^ma</grk>, blood + <grk>filei^n</grk> to love.]</ety> <fld>(Med.)</fld> <def>A condition characterized by a tendency to profuse and uncontrollable hemorrhage from the slightest wounds; it is caused by an absence or abnormality of a clotting factor in the blood, and is a recessive genetic disease linked to the X-chromosome, and therefore usually occurs only in males; there are several specific forms.  It may be treated by administering purified clotting factor.  It was formerly termed <altname>Hematophilia</altname>.</def><br/
+\'d8<hw>Hem`o*phil"i*a</hw> <pr>(h<emac/`m<adot/*f<icr/l"<icr/*<adot/ <it>or</it>  h<ecr/m`<adot/*f<icr/l"<icr/*<adot/)</pr>, <pos>n.</pos>  <ety>[NL., fr. Gr. <grk>a"i^ma</grk>, blood + <grk>filei^n</grk> to love.]</ety> <fld>(Med.)</fld> <def>A condition characterized by a tendency to profuse and uncontrollable hemorrhage from the slightest wounds; it is caused by an absence or abnormality of a clotting factor in the blood, and is a recessive genetic disease linked to the X-chromosome, and therefore usually occurs only in males; there are several specific forms.  It may be treated by administering purified clotting factor.  It was formerly termed <altname>Hematophilia</altname>.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>hemophiliac</ent><br/
@@ -12728,7 +12728,7 @@ On bookes and on learning he it spente.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Hepar</ent><br/
-||<hw>He"par</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>hepar</ets>, <ets>hepatis</ets>, the liver, Gr. <?/.]</ety> <sn>1.</sn> <fld>(Old Chem.)</fld> <def>Liver of sulphur; a substance of a liver-brown color, sometimes used in medicine. It is formed by fusing sulphur with carbonates of the alkalies (esp. potassium), and consists essentially of alkaline sulphides. Called also <altname>hepar sulphuris</altname> <pr>(<?/)</pr>.</def><br/
+\'d8<hw>He"par</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>hepar</ets>, <ets>hepatis</ets>, the liver, Gr. <?/.]</ety> <sn>1.</sn> <fld>(Old Chem.)</fld> <def>Liver of sulphur; a substance of a liver-brown color, sometimes used in medicine. It is formed by fusing sulphur with carbonates of the alkalies (esp. potassium), and consists essentially of alkaline sulphides. Called also <altname>hepar sulphuris</altname> <pr>(<?/)</pr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Any substance resembling hepar proper, in appearance; specifically, in homeopathy, calcium sulphide, called also <altname>hepar sulphuris calcareum</altname> (<?/).</def><br/
@@ -12751,7 +12751,7 @@ On bookes and on learning he it spente.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hepatica</ent><br/
-||<hw>He*pat"i*ca</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hepaticae</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Hepatic</er>. So called in allusion to the shape of the lobed leaves or fronds.]</ety><br/
+\'d8<hw>He*pat"i*ca</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hepaticae</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Hepatic</er>. So called in allusion to the shape of the lobed leaves or fronds.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <fld>(Bot.)</fld> <def>A genus of pretty spring flowers closely related to Anemone; squirrel cup.</def><br/
@@ -12769,7 +12769,7 @@ On bookes and on learning he it spente.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hepatitis</ent><br/
-||<hw>Hep`a*ti"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, <?/, liver + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the liver.</def><br/
+\'d8<hw>Hep`a*ti"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, <?/, liver + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the liver.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hepatization</ent><br/
@@ -12868,7 +12868,7 @@ On bookes and on learning he it spente.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heptagynia</ent><br/
-||<hw>Hep`ta*gyn"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"epta`</grk> seven + <?/ woman, female: cf. F. <ets>heptagunie</ets>.]</ety> <fld>(Bot.)</fld> <def>A Linnaean order of plants having seven pistils.</def></p>
+\'d8<hw>Hep`ta*gyn"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"epta`</grk> seven + <?/ woman, female: cf. F. <ets>heptagunie</ets>.]</ety> <fld>(Bot.)</fld> <def>A Linnaean order of plants having seven pistils.</def></p>
 
 <p><ent>Heptagynous</ent><br/
 <ent>Heptagynian</ent><br/
@@ -12884,7 +12884,7 @@ On bookes and on learning he it spente.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heptandria</ent><br/
-||<hw>Hep*tan"dri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"epta`</grk> seven + <?/, <?/, man, male: cf. F. <ets>heptandrie</ets>.]</ety> <fld>(Bot.)</fld> <def>A Linnaean class of plants having seven stamens.</def></p>
+\'d8<hw>Hep*tan"dri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"epta`</grk> seven + <?/, <?/, man, male: cf. F. <ets>heptandrie</ets>.]</ety> <fld>(Bot.)</fld> <def>A Linnaean class of plants having seven stamens.</def></p>
 
 <p><ent>Heptandrous</ent><br/
 <ent>Heptandrian</ent><br/
@@ -13170,7 +13170,7 @@ Grazing the tender <qex>herb</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Herbivora</ent><br/
-||<hw>Her*biv"o*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>herba</ets> herb + <ets>vorare</ets> to devour.]</ety> <fld>(Zool.)</fld> <def>An extensive division of Mammalia. It formerly included the Proboscidea, Hyracoidea, Perissodactyla, and Artiodactyla, but by later writers it is generally restricted to the two latter groups (Ungulata). They feed almost exclusively upon vegetation.</def><br/
+\'d8<hw>Her*biv"o*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>herba</ets> herb + <ets>vorare</ets> to devour.]</ety> <fld>(Zool.)</fld> <def>An extensive division of Mammalia. It formerly included the Proboscidea, Hyracoidea, Perissodactyla, and Artiodactyla, but by later writers it is generally restricted to the two latter groups (Ungulata). They feed almost exclusively upon vegetation.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Herbivore</ent><br/
@@ -13716,7 +13716,7 @@ Their fathers handed down</q> <rj><qau>Southey.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Herma</ent><br/
-||<hw>Her"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hermae</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <def>See <er>Hermes</er>, <sn>2.</sn></def><br/
+\'d8<hw>Her"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hermae</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <def>See <er>Hermes</er>, <sn>2.</sn></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hermaphrodeity</ent><br/
@@ -13908,7 +13908,7 @@ Remote from all the pleasures of the world.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Herodiones</ent><br/
-||<hw>He*ro`di*o"nes</hw> <pr>(h<esl/*r<omac/`d<icr/*<omac/"n<emac/z)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'erwdio`s</grk> a heron.]</ety> <fld>(Zool.)</fld> <def>A division of wading birds, including the herons, storks, and allied forms.  Called also <altname>Herodii</altname>.</def> -- <wordforms><wf>He*ro`di*o"nine</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>He*ro`di*o"nes</hw> <pr>(h<esl/*r<omac/`d<icr/*<omac/"n<emac/z)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'erwdio`s</grk> a heron.]</ety> <fld>(Zool.)</fld> <def>A division of wading birds, including the herons, storks, and allied forms.  Called also <altname>Herodii</altname>.</def> -- <wordforms><wf>He*ro`di*o"nine</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heroess</ent><br/
@@ -14056,7 +14056,7 @@ Remote from all the pleasures of the world.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Herr</ent><br/
-||<hw>Herr</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A title of respect given to gentlemen in Germany, equivalent to the English <sig>Mister</sig>.</def><br/
+\'d8<hw>Herr</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A title of respect given to gentlemen in Germany, equivalent to the English <sig>Mister</sig>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Herrenvolk</ent><br/
@@ -14065,7 +14065,7 @@ Remote from all the pleasures of the world.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Herrenhaus</ent><br/
-||<hw>Her"ren*haus`</hw> <pr>(h<ecr/r"r<eit/n*hous`)</pr>, <pos>n.</pos> <ety>[G., House of Lords.]</ety> <def>See <er>Legislature</er>, <xex>Austria</xex>, <xex>Prussia</xex>.</def><br/
+\'d8<hw>Her"ren*haus`</hw> <pr>(h<ecr/r"r<eit/n*hous`)</pr>, <pos>n.</pos> <ety>[G., House of Lords.]</ety> <def>See <er>Legislature</er>, <xex>Austria</xex>, <xex>Prussia</xex>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Herring</ent><br/
@@ -14158,7 +14158,7 @@ Remote from all the pleasures of the world.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Herzog</ent><br/
-||<hw>Her"zog</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., akin to AS. <ets>heretoga</ets>, lit., army leader. See <er>Harry</er>, and <er>Duke</er>.]</ety> <def>A member of the highest rank of nobility in Germany and Austria, corresponding to the British duke.</def><br/
+\'d8<hw>Her"zog</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., akin to AS. <ets>heretoga</ets>, lit., army leader. See <er>Harry</er>, and <er>Duke</er>.]</ety> <def>A member of the highest rank of nobility in Germany and Austria, corresponding to the British duke.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Hesitancy</ent><br/
@@ -14263,7 +14263,7 @@ Remote from all the pleasures of the world.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hesperides</ent><br/
-||<hw>Hes*per"i*des</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., fr. Gr. <?/.]</ety><br/
+\'d8<hw>Hes*per"i*des</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., fr. Gr. <?/.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <fld>(Class. Myth.)</fld> <def>The daughters of Hesperus, or Night (brother of Atlas), and fabled possessors of a garden producing golden apples, in Africa, at the western extremity of the known world. To slay the guarding dragon and get some of these apples was one of the labors of Hercules. Called also <altname>Atlantides</altname>.</def><br/
@@ -14281,15 +14281,15 @@ Still climbing trees in the <qex>Hesperides</qex>?</q> <rj><qau>Shak.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hesperidium</ent><br/
-||<hw>Hes`pe*rid"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. So called in allusion to the golden apples of the Hesperides. See <er>Hesperides</er>.]</ety> <fld>(Bot.)</fld> <def>A large berry with a thick rind, as a lemon or an orange.</def><br/
+\'d8<hw>Hes`pe*rid"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. So called in allusion to the golden apples of the Hesperides. See <er>Hesperides</er>.]</ety> <fld>(Bot.)</fld> <def>A large berry with a thick rind, as a lemon or an orange.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hesperornis</ent><br/
-||<hw>Hes`pe*ror"nis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ western + <?/, <?/, a bird.]</ety> <fld>(Paleon.)</fld> <def>A genus of large, extinct, wingless birds from the Cretaceous deposits of Kansas, belonging to the Odontornithes. They had teeth, and were essentially carnivorous swimming ostriches. Several species are known. See <xex>Illust.</xex> in Append.</def><br/
+\'d8<hw>Hes`pe*ror"nis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ western + <?/, <?/, a bird.]</ety> <fld>(Paleon.)</fld> <def>A genus of large, extinct, wingless birds from the Cretaceous deposits of Kansas, belonging to the Odontornithes. They had teeth, and were essentially carnivorous swimming ostriches. Several species are known. See <xex>Illust.</xex> in Append.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hesperus</ent><br/
-||<hw>Hes"pe*rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Hesper</er>.]</ety> <sn>1.</sn> <def>Venus when she is the evening star; Hesper.</def><br/
+\'d8<hw>Hes"pe*rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Hesper</er>.]</ety> <sn>1.</sn> <def>Venus when she is the evening star; Hesper.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Evening.</def> <mark>[Poetic]</mark><br/
@@ -14342,7 +14342,7 @@ Of <qex>Hesperus</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Hetaira</ent><br/
 <ent>Hetaera</ent><br/
-<mhw>{ ||<hw>He*tae"ra</hw> <pr>(?)</pr>, ||<hw>He*tai"ra</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos>; <plu>pl. <plw>-rae</plw> <pr>(#)</pr></plu>. <ety>[NL. See <er>Hetairism</er>.]</ety> <fld>(Gr. Antiq.)</fld> <def>A female paramour; a mistress, concubine, or harlot.</def> -- <wordforms><wf>He*tae"ric</wf>, <wf>He*tai"ric</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+<mhw>{ \'d8<hw>He*tae"ra</hw> <pr>(?)</pr>, \'d8<hw>He*tai"ra</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos>; <plu>pl. <plw>-rae</plw> <pr>(#)</pr></plu>. <ety>[NL. See <er>Hetairism</er>.]</ety> <fld>(Gr. Antiq.)</fld> <def>A female paramour; a mistress, concubine, or harlot.</def> -- <wordforms><wf>He*tae"ric</wf>, <wf>He*tai"ric</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Hetarism</ent><br/
@@ -14370,7 +14370,7 @@ Of <qex>Hesperus</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heterauxesis</ent><br/
-||<hw>Het`e*raux*e"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ the other + <?/ growth.]</ety> <fld>(Bot.)</fld> <def>Unequal growth of a cell, or of a part of a plant.</def><br/
+\'d8<hw>Het`e*raux*e"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ the other + <?/ growth.]</ety> <fld>(Bot.)</fld> <def>Unequal growth of a cell, or of a part of a plant.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hetero-</ent><br/
@@ -14390,7 +14390,7 @@ Of <qex>Hesperus</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heterocera</ent><br/
-||<hw>Het`e*roc"e*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ other + <?/ horn.]</ety> <fld>(Zool.)</fld> <def>A division of Lepidoptera, including the moths, and hawk moths, which have the antenn<ae/ variable in form.</def><br/
+\'d8<hw>Het`e*roc"e*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ other + <?/ horn.]</ety> <fld>(Zool.)</fld> <def>A division of Lepidoptera, including the moths, and hawk moths, which have the antenn<ae/ variable in form.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heterocercal</ent><br/
@@ -14439,7 +14439,7 @@ Of <qex>Hesperus</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heterodactylae</ent><br/
-||<hw>Het`e*ro*dac"ty*l<ae/</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ other + <?/ a finger.]</ety> <fld>(Zool.)</fld> <def>A group of birds including the trogons.</def><br/
+\'d8<hw>Het`e*ro*dac"ty*l<ae/</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ other + <?/ a finger.]</ety> <fld>(Zool.)</fld> <def>A group of birds including the trogons.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heterodactylous</ent><br/
@@ -14587,7 +14587,7 @@ Of <qex>Hesperus</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heteromera</ent><br/
-||<hw>Het`e*rom"e*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ other + <?/ part.]</ety> <fld>(Zool.)</fld> <def>A division of Coleoptera, having heteromerous tarsi.</def><br/
+\'d8<hw>Het`e*rom"e*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ other + <?/ part.]</ety> <fld>(Zool.)</fld> <def>A division of Coleoptera, having heteromerous tarsi.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heteromerous</ent><br/
@@ -14613,11 +14613,11 @@ Of <qex>Hesperus</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heteromyaria</ent><br/
-||<hw>Het`e*ro*my*a"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ other + <?/ a muscle.]</ety> <fld>(Zool.)</fld> <def>A division of bivalve shells, including the marine mussels, in which the two adductor muscles are very unequal. See <er>Dreissena</er>, and <xex>Illust.</xex> under <er>Byssus</er>.</def><br/
+\'d8<hw>Het`e*ro*my*a"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ other + <?/ a muscle.]</ety> <fld>(Zool.)</fld> <def>A division of bivalve shells, including the marine mussels, in which the two adductor muscles are very unequal. See <er>Dreissena</er>, and <xex>Illust.</xex> under <er>Byssus</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heteronereis</ent><br/
-||<hw>Het`e*ro*ne*re"is</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hetero-</er>, and <er>Nereis</er>.]</ety> <fld>(Zool.)</fld> <def>A free-swimming, dimorphic, sexual form of certain species of Nereis.</def><br/
+\'d8<hw>Het`e*ro*ne*re"is</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hetero-</er>, and <er>Nereis</er>.]</ety> <fld>(Zool.)</fld> <def>A free-swimming, dimorphic, sexual form of certain species of Nereis.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ In this state the head and its appendages are changed in form, the eyes become very large; more or less of the parapodia are highly modified by the development of finlike lobes, and branchial lamell<ae/, and their set<ae/ become longer and bladelike.</note><br/
@@ -14669,7 +14669,7 @@ Of <qex>Hesperus</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heterophagi</ent><br/
-||<hw>Het`e*roph"a*gi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ other + <?/ to eat.]</ety> <fld>(Zool.)</fld> <def>Altrices.</def><br/
+\'d8<hw>Het`e*roph"a*gi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ other + <?/ to eat.]</ety> <fld>(Zool.)</fld> <def>Altrices.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heterophemist</ent><br/
@@ -14701,7 +14701,7 @@ Of <qex>Hesperus</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heteropoda</ent><br/
-||<hw>Het`e*rop"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ other + <ets>-poda</ets>.]</ety> <fld>(Zool.)</fld> <def>An order of pelagic Gastropoda, having the foot developed into a median fin. Some of the species are naked; others, as <gen>Carinaria</gen> and <gen>Atlanta</gen>, have thin glassy shells.</def><br/
+\'d8<hw>Het`e*rop"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ other + <ets>-poda</ets>.]</ety> <fld>(Zool.)</fld> <def>An order of pelagic Gastropoda, having the foot developed into a median fin. Some of the species are naked; others, as <gen>Carinaria</gen> and <gen>Atlanta</gen>, have thin glassy shells.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heteropodous</ent><br/
@@ -14713,7 +14713,7 @@ Of <qex>Hesperus</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heteroptera</ent><br/
-||<hw>Het`e*rop"te*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <?/ other + <?/ a wing.]</ety> <fld>(Zool.)</fld> <def>A suborder of Hemiptera, in which the base of the anterior wings is thickened. See <er>Hemiptera</er>.</def><br/
+\'d8<hw>Het`e*rop"te*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <?/ other + <?/ a wing.]</ety> <fld>(Zool.)</fld> <def>A suborder of Hemiptera, in which the base of the anterior wings is thickened. See <er>Hemiptera</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heteroptics</ent><br/
@@ -14725,11 +14725,11 @@ Of <qex>Hesperus</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heterosis</ent><br/
-||<hw>Het`e*ro"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ alteration, fr. <?/ other, different.]</ety> <fld>(Rhet.)</fld> <def>A figure of speech by which one form of a noun, verb, or pronoun, and the like, is used for another, as in the sentence: <ldquo/What is life to such as <xex>me</xex>?<rdquo/</def>  <rj><au>Aytoun.</au></rj><br/
+\'d8<hw>Het`e*ro"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ alteration, fr. <?/ other, different.]</ety> <fld>(Rhet.)</fld> <def>A figure of speech by which one form of a noun, verb, or pronoun, and the like, is used for another, as in the sentence: <ldquo/What is life to such as <xex>me</xex>?<rdquo/</def>  <rj><au>Aytoun.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heterosomati</ent><br/
-||<hw>Het`e*ro*so"ma*ti</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ other + <?/, <?/, body.]</ety> <fld>(Zool.)</fld> <def>An order of fishes, comprising the flounders, halibut, sole, etc., having the body and head asymmetrical, with both eyes on one side. Called also <altname>Heterosomata</altname>, <altname>Heterosomi</altname>.</def></p>
+\'d8<hw>Het`e*ro*so"ma*ti</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ other + <?/, <?/, body.]</ety> <fld>(Zool.)</fld> <def>An order of fishes, comprising the flounders, halibut, sole, etc., having the body and head asymmetrical, with both eyes on one side. Called also <altname>Heterosomata</altname>, <altname>Heterosomi</altname>.</def></p>
 
 <p><ent>Heterosporous</ent><br/
 <ent>Heterosporic</ent><br/
@@ -14762,7 +14762,7 @@ Of <qex>Hesperus</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><-- p. 691 --></p>
 
 <p><ent>Heterotricha</ent><br/
-||<hw>Het`e*rot"ri*cha</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ other + <?/, gen. <?/, a hair.]</ety> <fld>(Zool.)</fld> <def>A division of ciliated Infusoria, having fine cilia all over the body, and a circle of larger ones around the anterior end.</def></p>
+\'d8<hw>Het`e*rot"ri*cha</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ other + <?/, gen. <?/, a hair.]</ety> <fld>(Zool.)</fld> <def>A division of ciliated Infusoria, having fine cilia all over the body, and a circle of larger ones around the anterior end.</def></p>
 
 <p><ent>Heterotropous</ent><br/
 <ent>Heterotropal</ent><br/
@@ -14911,7 +14911,7 @@ Of <qex>Hesperus</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hexactinia</ent><br/
-||<hw>Hex`ac*tin"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Hex-</er>, and <er>Actinia</er>.]</ety> <fld>(Zool.)</fld> <def>The Anthozoa.</def><br/
+\'d8<hw>Hex`ac*tin"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Hex-</er>, and <er>Actinia</er>.]</ety> <fld>(Zool.)</fld> <def>The Anthozoa.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hexad</ent><br/
@@ -14957,7 +14957,7 @@ Of <qex>Hesperus</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Hexagynia</ent><br/
-||<hw>Hex`a*gyn"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"e`x</grk> six + <grk>gynh^</grk> a woman, female: cf. F. <ets>hexagynie</ets>.]</ety> <fld>(Bot.)</fld> <def>A Linn<ae/an order of plants having six pistils.</def></p>
+\'d8<hw>Hex`a*gyn"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"e`x</grk> six + <grk>gynh^</grk> a woman, female: cf. F. <ets>hexagynie</ets>.]</ety> <fld>(Bot.)</fld> <def>A Linn<ae/an order of plants having six pistils.</def></p>
 
 <p><ent>Hexagynous</ent><br/
 <ent>Hexagynian</ent><br/
@@ -15013,7 +15013,7 @@ Nothing be- | fore and | nothing be- | hind but the | sky and the | ocean.</q> <
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hexandria</ent><br/
-||<hw>Hex*an"dri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"e`x</grk> six + <?/, <?/, a man, male: cf. F. <ets>hexandrie</ets>.]</ety> <fld>(Bot.)</fld> <def>A Linn<ae/an class of plants having six stamens.</def></p>
+\'d8<hw>Hex*an"dri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"e`x</grk> six + <?/, <?/, a man, male: cf. F. <ets>hexandrie</ets>.]</ety> <fld>(Bot.)</fld> <def>A Linn<ae/an class of plants having six stamens.</def></p>
 
 <p><ent>Hex-androus</ent><br/
 <ent>Hexandrian</ent><br/
@@ -15037,7 +15037,7 @@ Nothing be- | fore and | nothing be- | hind but the | sky and the | ocean.</q> <
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hexapla</ent><br/
-||<hw>Hex"a*pla</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>Etym. <pos>pl.</pos>, but syntactically <pos>sing.</pos></ety> <ety>[NL., fr. Gr. <?/, fr. <?/, contr. <?/, sixfold.]</ety> <def>A collection of the Holy Scriptures in six languages or six versions in parallel columns; particularly, the edition of the Old Testament published by Origen, in the 3d century.</def><br/
+\'d8<hw>Hex"a*pla</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>Etym. <pos>pl.</pos>, but syntactically <pos>sing.</pos></ety> <ety>[NL., fr. Gr. <?/, fr. <?/, contr. <?/, sixfold.]</ety> <def>A collection of the Holy Scriptures in six languages or six versions in parallel columns; particularly, the edition of the Old Testament published by Origen, in the 3d century.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hexapod</ent><br/
@@ -15045,7 +15045,7 @@ Nothing be- | fore and | nothing be- | hind but the | sky and the | ocean.</q> <
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hexapoda</ent><br/
-||<hw>Hex*ap"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"e`x</grk> six + <ets>-poda</ets>.]</ety> <fld>(Zool.)</fld> <def>The true, or six-legged, insects; insects other than myriapods and arachnids.</def><br/
+\'d8<hw>Hex*ap"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"e`x</grk> six + <ets>-poda</ets>.]</ety> <fld>(Zool.)</fld> <def>The true, or six-legged, insects; insects other than myriapods and arachnids.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The Hexapoda have the head, thorax, and abdomen differentiated, and are mostly winged. They have three pairs of mouth organs, viz., mandibles, maxill<ae/, and the second maxill<ae/ or labial palpi; three pairs of thoracic legs; and abdominal legs, which are present only in some of the lowest forms, and in the larval state of some of the higher ones. Many (the Metabola) undergo a complete metamorphosis, having larv<ae/ (known as maggots, grubs, caterpillars) very unlike the adult, and pass through a quiescent pupa state in which no food is taken; others (the Hemimetabola) have larv<ae/ much like the adult, expert in lacking wings, and an active pupa, in which rudimentary wings appear. See <er>Insecta</er>.
@@ -15061,7 +15061,7 @@ Nothing be- | fore and | nothing be- | hind but the | sky and the | ocean.</q> <
 
 <p><ent>Hexastichon</ent><br/
 <ent>Hexastich</ent><br/
-<mhw>{ <hw>Hex"a*stich</hw> <pr>(?)</pr>, ||<hw>Hex*as"ti*chon</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>hexastichus</ets> of six rows, lines, or verses, Gr. <?/; <grk>"e`x</grk> six + <grk>sti`chos</grk> row, line, verse.]</ety> <def>A poem consisting of six verses or lines.</def><br/
+<mhw>{ <hw>Hex"a*stich</hw> <pr>(?)</pr>, \'d8<hw>Hex*as"ti*chon</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>hexastichus</ets> of six rows, lines, or verses, Gr. <?/; <grk>"e`x</grk> six + <grk>sti`chos</grk> row, line, verse.]</ety> <def>A poem consisting of six verses or lines.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hexastyle</ent><br/
@@ -15199,7 +15199,7 @@ Nothing be- | fore and | nothing be- | hind but the | sky and the | ocean.</q> <
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hibernaculum</ent><br/
-||<hw>Hi`ber*nac"u*lum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Hibernacle</er>.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A winter bud, in which the rudimentary foliage or flower, as of most trees and shrubs in the temperate zone, is protected by closely overlapping scales.</def><br/
+\'d8<hw>Hi`ber*nac"u*lum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Hibernacle</er>.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A winter bud, in which the rudimentary foliage or flower, as of most trees and shrubs in the temperate zone, is protected by closely overlapping scales.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>A little case in which certain insects pass the winter.</def><br/
@@ -15460,7 +15460,7 @@ Where truth is <qex>hid</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hidrosis</ent><br/
-||<hw>Hi*dro"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also, but incorrectly, <asp>idrosis</asp>.]</altsp> <ety>[NL., fr. Gr. <?/ to sweat, <?/ sweat.]</ety> <sn>1.</sn> <fld>(Physiol.)</fld> <def>Excretion of sweat; perspiration.</def><br/
+\'d8<hw>Hi*dro"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also, but incorrectly, <asp>idrosis</asp>.]</altsp> <ety>[NL., fr. Gr. <?/ to sweat, <?/ sweat.]</ety> <sn>1.</sn> <fld>(Physiol.)</fld> <def>Excretion of sweat; perspiration.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <fld>(Med.)</fld> <def>Excessive perspiration; also, any skin disease characterized by abnormal perspiration.</def><br/
@@ -15490,7 +15490,7 @@ Where truth is <qex>hid</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hierapicra</ent><br/
-||<hw>Hi"e*ra*pi"cra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"iero`s</grk> sacred + <?/ bitter.]</ety> <fld>(med.)</fld> <def>A warming cathartic medicine, made of aloes and canella bark.</def>  <rj><au>Dunglison.</au></rj><br/
+\'d8<hw>Hi"e*ra*pi"cra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"iero`s</grk> sacred + <?/ bitter.]</ety> <fld>(med.)</fld> <def>A warming cathartic medicine, made of aloes and canella bark.</def>  <rj><au>Dunglison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hierarch</ent><br/
@@ -15629,14 +15629,14 @@ Of <qex>hierarchies</qex>, of orders, and degrees.</q> <rj><qau>Milton.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hieromnemon</ent><br/
-||<hw>Hi`e*rom*ne"mon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/; <grk>"iero`s</grk> sacred + <?/ mindful, fr. <?/ to think on, remember.]</ety> <fld>(Gr. Antiq.)</fld> <sn>1.</sn> <def>The sacred secretary or recorder sent by each state belonging to the Amphictyonic Council, along with the deputy or minister.</def>  <rj><au>Liddel & Scott.</au></rj><br/
+\'d8<hw>Hi`e*rom*ne"mon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/; <grk>"iero`s</grk> sacred + <?/ mindful, fr. <?/ to think on, remember.]</ety> <fld>(Gr. Antiq.)</fld> <sn>1.</sn> <def>The sacred secretary or recorder sent by each state belonging to the Amphictyonic Council, along with the deputy or minister.</def>  <rj><au>Liddel & Scott.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A magistrate who had charge of religious matters, as at Byzantium.</def>  <rj><au>Liddel & Scott.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hieron</ent><br/
-||<hw>Hi"er*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>"iero`n</grk>.]</ety> <def>A consecrated place; esp., a temple.</def><br/
+\'d8<hw>Hi"er*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>"iero`n</grk>.]</ety> <def>A consecrated place; esp., a temple.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hieronymite</ent><br/
@@ -15660,7 +15660,7 @@ Of <qex>hierarchies</qex>, of orders, and degrees.</q> <rj><qau>Milton.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hierotheca</ent><br/
-||<hw>Hi`er*o*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>-c<ae/</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/; <grk>"iero`s</grk> sacred + <?/ chest.]</ety> <def>A receptacle for sacred objects.</def><br/
+\'d8<hw>Hi`er*o*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>-c<ae/</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/; <grk>"iero`s</grk> sacred + <?/ chest.]</ety> <def>A receptacle for sacred objects.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hierourgy</ent><br/
@@ -16564,7 +16564,7 @@ Seem objects of indifferent weight.</q> <rj><qau>Sir W. Scott.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hilus</ent><br/
-||<hw>Hi"lus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Anat.)</fld> <def>Same as <er>Hilum</er>, 2.</def><br/
+\'d8<hw>Hi"lus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Anat.)</fld> <def>Same as <er>Hilum</er>, 2.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Him</ent><br/
@@ -17073,7 +17073,7 @@ Is common.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hipparion</ent><br/
-||<hw>Hip*pa"ri*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a pony, dim. of <?/ a horse.]</ety> <fld>(Paleon.)</fld> <def>An extinct genus of Tertiary mammals allied to the horse, but three-toed, having on each foot a small lateral hoof on each side of the main central one. It is believed to be one of the ancestral genera of the Horse family.</def></p>
+\'d8<hw>Hip*pa"ri*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a pony, dim. of <?/ a horse.]</ety> <fld>(Paleon.)</fld> <def>An extinct genus of Tertiary mammals allied to the horse, but three-toed, having on each foot a small lateral hoof on each side of the main central one. It is believed to be one of the ancestral genera of the Horse family.</def></p>
 
 <p><ent>hippeastrum</ent><br/
 <hw>hippeastrum</hw> <pos>n.</pos> <def>An amaryllis of tropical America (<spn>Hippeastrum puniceum</spn>) often cultivated as a houseplant for its showy white to red flowers.</def><br/
@@ -17107,7 +17107,7 @@ Is common.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Hippobosca</ent><br/
-||<hw>Hip`po*bos"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"i`ppos</grk> horse + <?/ to feed.]</ety> <fld>(Zool.)</fld> <def>A genus of dipterous insects including the horsefly or horse tick.</def> -- <wordforms><wf>Hip`po*bos"can</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>Hip`po*bos"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"i`ppos</grk> horse + <?/ to feed.]</ety> <fld>(Zool.)</fld> <def>A genus of dipterous insects including the horsefly or horse tick.</def> -- <wordforms><wf>Hip`po*bos"can</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hippoboscidae</ent><br/
@@ -17397,7 +17397,7 @@ Is common.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hirudinea</ent><br/
-||<hw>Hir`u*din"e*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>hirudo</ets>, <ets>hirudinis</ets>, a leech.]</ety> <fld>(Zool.)</fld> <def>An order of Annelida, including the leeches; -- called also <altname>Hirudinei</altname>.</def><br/
+\'d8<hw>Hir`u*din"e*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>hirudo</ets>, <ets>hirudinis</ets>, a leech.]</ety> <fld>(Zool.)</fld> <def>An order of Annelida, including the leeches; -- called also <altname>Hirudinei</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>hirudinean</ent><br/
@@ -17411,7 +17411,7 @@ Is common.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Hirudo</ent><br/
-||<hw>Hi*ru"do</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a leech.]</ety> <fld>(Zool.)</fld> <def>A genus of leeches, including the common medicinal leech. See <er>Leech</er>.</def><br/
+\'d8<hw>Hi*ru"do</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a leech.]</ety> <fld>(Zool.)</fld> <def>A genus of leeches, including the common medicinal leech. See <er>Leech</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hirundine</ent><br/
@@ -17419,7 +17419,7 @@ Is common.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hirundo</ent><br/
-||<hw>Hi*run"do</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., swallow.]</ety> <fld>(Zool.)</fld> <def>A genus of birds including the swallows and martins.</def><br/
+\'d8<hw>Hi*run"do</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., swallow.]</ety> <fld>(Zool.)</fld> <def>A genus of birds including the swallows and martins.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>His</ent><br/
@@ -17592,7 +17592,7 @@ Of public scorn.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Histolysis</ent><br/
-||<hw>His*tol"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"isto`s</grk> tissue + <?/ to loosen, dissolve.]</ety> <fld>(Biol.)</fld> <def>The decay and dissolution of the organic tissues and of the blood.</def><br/
+\'d8<hw>His*tol"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"isto`s</grk> tissue + <?/ to loosen, dissolve.]</ety> <fld>(Biol.)</fld> <def>The decay and dissolution of the organic tissues and of the blood.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Histolytic</ent><br/
@@ -17667,7 +17667,7 @@ Of public scorn.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Historiette</ent><br/
-||<hw>His`to*ri*ette"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., dim. of <ets>histoire</ets> a history.]</ety> <def>Historical narration on a small scale; a brief recital; a story.</def>  <rj><au>Emerson.</au></rj><br/
+\'d8<hw>His`to*ri*ette"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., dim. of <ets>histoire</ets> a history.]</ety> <def>Historical narration on a small scale; a brief recital; a story.</def>  <rj><au>Emerson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Historify</ent><br/
@@ -19665,15 +19665,15 @@ Upon the barren <qex>hollows</qex>.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Holmia</ent><br/
-||<hw>Hol"mi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Chem.)</fld> <def>An oxide of holmium.</def><br/
+\'d8<hw>Hol"mi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Chem.)</fld> <def>An oxide of holmium.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Holmium</ent><br/
-||<hw>Hol"mi*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Stock<ets>holm</ets>.]</ety> <fld>(Chem.)</fld> <def>A rare element of atomic number 67 said to be contained in gadolinite.  Chemical symbol Ho. Atomic weight 164.93.  Valence +3.  It was detected by spectral absorption bands in 1878 by the <persfn>Delafontaine</persfn> and <persfn>Soret</persfn>, who called it "Element X".  Later the Swedish chemist <persfn>Cleve</persfn> independently discovered it in erbia, and named it after his native city Stockholm.  The first preparation of pure Holmia, the yellow oxide, was not made until 1911.</def> <au>HCP61</au> -- <wordforms><wf>Hol"mic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>Hol"mi*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Stock<ets>holm</ets>.]</ety> <fld>(Chem.)</fld> <def>A rare element of atomic number 67 said to be contained in gadolinite.  Chemical symbol Ho. Atomic weight 164.93.  Valence +3.  It was detected by spectral absorption bands in 1878 by the <persfn>Delafontaine</persfn> and <persfn>Soret</persfn>, who called it "Element X".  Later the Swedish chemist <persfn>Cleve</persfn> independently discovered it in erbia, and named it after his native city Stockholm.  The first preparation of pure Holmia, the yellow oxide, was not made until 1911.</def> <au>HCP61</au> -- <wordforms><wf>Hol"mic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Holmos</ent><br/
-||<hw>Hol"mos</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr.<?/.]</ety> <fld>(Greek & Etrus. Antiq.)</fld> <def>A name given to a vase having a rounded body</def>; esp.: <sd>(a)</sd> <def>A closed vessel of nearly spherical form on a high stem or pedestal.</def> <au>Fairholt.</au> <sd>(b)</sd> <def>A drinking cup having a foot and stem.</def><br/
+\'d8<hw>Hol"mos</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr.<?/.]</ety> <fld>(Greek & Etrus. Antiq.)</fld> <def>A name given to a vase having a rounded body</def>; esp.: <sd>(a)</sd> <def>A closed vessel of nearly spherical form on a high stem or pedestal.</def> <au>Fairholt.</au> <sd>(b)</sd> <def>A drinking cup having a foot and stem.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Holo-</ent><br/
@@ -19718,7 +19718,7 @@ Upon the barren <qex>hollows</qex>.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Holocephali</ent><br/
-||<hw>Hol`o*ceph"a*li</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>"o`los</grk> whole + <grk>kefalh`</grk> head.]</ety> <fld>(Zool.)</fld> <def>An order of elasmobranch fishes, including, among living species, only the chim<ae/ras; -- called also <altname>Holocephala</altname>. See <er>Chim<ae/ra</er>; also <xex>Illustration</xex> in Appendix.</def><br/
+\'d8<hw>Hol`o*ceph"a*li</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>"o`los</grk> whole + <grk>kefalh`</grk> head.]</ety> <fld>(Zool.)</fld> <def>An order of elasmobranch fishes, including, among living species, only the chim<ae/ras; -- called also <altname>Holocephala</altname>. See <er>Chim<ae/ra</er>; also <xex>Illustration</xex> in Appendix.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Holocryptic</ent><br/
@@ -19768,7 +19768,7 @@ Upon the barren <qex>hollows</qex>.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Holometabola</ent><br/
-||<hw>Hol`o*me*tab"o*la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Holo-</er>, and <er>Metabola</er>.]</ety> <fld>(Zool.)</fld> <def>Those insects which have a complete metamorphosis; metabola.</def><br/
+\'d8<hw>Hol`o*me*tab"o*la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Holo-</er>, and <er>Metabola</er>.]</ety> <fld>(Zool.)</fld> <def>Those insects which have a complete metamorphosis; metabola.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Holometabolic</ent><br/
@@ -19816,7 +19816,7 @@ Upon the barren <qex>hollows</qex>.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Holostei</ent><br/
-||<hw>Ho*los"te*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"o`los</grk> whole + <?/ a bone.]</ety> <fld>(Zool.)</fld> <def>An extensive division of ganoids, including the gar pike, bowfin, etc.; the bony ganoids. See <xex>Illustration</xex> in Appendix.</def><br/
+\'d8<hw>Ho*los"te*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"o`los</grk> whole + <?/ a bone.]</ety> <fld>(Zool.)</fld> <def>An extensive division of ganoids, including the gar pike, bowfin, etc.; the bony ganoids. See <xex>Illustration</xex> in Appendix.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Holosteric</ent><br/
@@ -19824,7 +19824,7 @@ Upon the barren <qex>hollows</qex>.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Holostomata</ent><br/
-||<hw>Hol`o*stom"a*ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"o`los</grk> whole + <grk>sto`ma</grk>, <grk>-atos</grk>, mouth.]</ety> <fld>(Zool.)</fld> <def>An artificial division of gastropods, including those that have an entire aperture.</def><br/
+\'d8<hw>Hol`o*stom"a*ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"o`los</grk> whole + <grk>sto`ma</grk>, <grk>-atos</grk>, mouth.]</ety> <fld>(Zool.)</fld> <def>An artificial division of gastropods, including those that have an entire aperture.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Holostomate</ent><br/
@@ -19840,7 +19840,7 @@ Upon the barren <qex>hollows</qex>.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Holostraca</ent><br/
-||<hw>Ho*los"tra*ca</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"o`los</grk> whole + <?/ shell of a testacean.]</ety> <fld>(Zool.)</fld> <def>A division of phyllopod Crustacea, including those that are entirely covered by a bivalve shell.</def><br/
+\'d8<hw>Ho*los"tra*ca</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"o`los</grk> whole + <?/ shell of a testacean.]</ety> <fld>(Zool.)</fld> <def>A division of phyllopod Crustacea, including those that are entirely covered by a bivalve shell.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Holothure</ent><br/
@@ -19855,13 +19855,13 @@ Upon the barren <qex>hollows</qex>.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Holothurioidea</ent><br/
-||<hw>Hol`o*thu`ri*oi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Holothure</er>, and <er>-oid</er>.]</ety> <fld>(Zool.)</fld> <def>One of the classes of echinoderms.</def> <note>They have a more or less elongated body, often flattened beneath, and a circle of tentacles, which are usually much branched, surrounding the mouth; the skin is more or less flexible, and usually contains calcareous plates of various characteristic forms, sometimes becoming large and scalelike. Most of the species have five bands (ambulacra) of sucker-bearing feet along the sides; in others these are lacking. In one group (Pneumonophora) two branching internal gills are developed; in another (Apneumona) these are wanting. Called also <altname>Holothurida</altname>, <altname>Holothuridea</altname>, and <altname>Holothuroidea</altname>.</note><br/
+\'d8<hw>Hol`o*thu`ri*oi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Holothure</er>, and <er>-oid</er>.]</ety> <fld>(Zool.)</fld> <def>One of the classes of echinoderms.</def> <note>They have a more or less elongated body, often flattened beneath, and a circle of tentacles, which are usually much branched, surrounding the mouth; the skin is more or less flexible, and usually contains calcareous plates of various characteristic forms, sometimes becoming large and scalelike. Most of the species have five bands (ambulacra) of sucker-bearing feet along the sides; in others these are lacking. In one group (Pneumonophora) two branching internal gills are developed; in another (Apneumona) these are wanting. Called also <altname>Holothurida</altname>, <altname>Holothuridea</altname>, and <altname>Holothuroidea</altname>.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 700 --></p>
 
 <p><ent>Holotricha</ent><br/
-||<hw>Ho*lot"ri*cha</hw> <pr>(h<osl/*l<ocr/t"r<icr/*k<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"o`los</grk> whole + <grk>qri`x</grk>, <grk>tricho`s</grk>, a hair.]</ety> <fld>(Zool.)</fld> <def>A group of ciliated Infusoria, having cilia all over the body.</def><br/
+\'d8<hw>Ho*lot"ri*cha</hw> <pr>(h<osl/*l<ocr/t"r<icr/*k<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"o`los</grk> whole + <grk>qri`x</grk>, <grk>tricho`s</grk>, a hair.]</ety> <fld>(Zool.)</fld> <def>A group of ciliated Infusoria, having cilia all over the body.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Holour</ent><br/
@@ -20001,7 +20001,7 @@ Against the high supremacy of heaven.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Homarus</ent><br/
-||<hw>Hom"a*rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"omarh`s</grk> well adjusted.]</ety> <fld>(Zool.)</fld> <def>A genus of decapod Crustacea, including the common lobsters.</def> -- <wordforms><wf>Hom"a*roid</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>Hom"a*rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"omarh`s</grk> well adjusted.]</ety> <fld>(Zool.)</fld> <def>A genus of decapod Crustacea, including the common lobsters.</def> -- <wordforms><wf>Hom"a*roid</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Homatropine</ent><br/
@@ -20642,7 +20642,7 @@ Deal out in his long <qex>homilies</qex>.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Homoeomeria</ent><br/
-||<hw>Ho`m<oe/*o*me"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., from Gr. <?/; <?/ like + <?/ part.]</ety> <def>The state or quality of being homogeneous in elements or first principles; likeness or identity of parts.</def></p>
+\'d8<hw>Ho`m<oe/*o*me"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., from Gr. <?/; <?/ like + <?/ part.]</ety> <def>The state or quality of being homogeneous in elements or first principles; likeness or identity of parts.</def></p>
 
 <p><ent>Homoeomerical</ent><br/
 <ent>Homoeomeric</ent><br/
@@ -20777,7 +20777,7 @@ Deal out in his long <qex>homilies</qex>.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Homoioptoton</ent><br/
-||<hw>Ho*moi`op*to"ton</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ in a like case; <?/ like + <?/ falling.]</ety> <fld>(Rhet.)</fld> <def>A figure in which the several parts of a sentence end with the same case, or inflection generally.</def><br/
+\'d8<hw>Ho*moi`op*to"ton</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ in a like case; <?/ like + <?/ falling.]</ety> <fld>(Rhet.)</fld> <def>A figure in which the several parts of a sentence end with the same case, or inflection generally.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>homoiotherm</ent><br/
@@ -20826,11 +20826,11 @@ Deal out in his long <qex>homilies</qex>.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Homologon</ent><br/
-||<hw>Ho*mol"o*gon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>See <er>Homologue</er>.</def><br/
+\'d8<hw>Ho*mol"o*gon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>See <er>Homologue</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Homologoumena</ent><br/
-||<hw>Hom`o*lo*gou"me*na</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ things conceded, p. p. of <?/ to agree, admit, concede. See <er>Homologous</er>.]</ety> <def>Those books of the New Testament which were acknowledged as canonical by the early church; -- distinguished from <xex>antilegomena</xex>.</def><br/
+\'d8<hw>Hom`o*lo*gou"me*na</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ things conceded, p. p. of <?/ to agree, admit, concede. See <er>Homologous</er>.]</ety> <def>Those books of the New Testament which were acknowledged as canonical by the early church; -- distinguished from <xex>antilegomena</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Homologous</ent><br/
@@ -21016,7 +21016,7 @@ Deal out in his long <qex>homilies</qex>.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Homoptera</ent><br/
-||<hw>Ho*mop"te*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ the same, like + <?/ wing.]</ety> <fld>(Zool.)</fld> <def>A suborder of Hemiptera, in which both pairs of wings are similar in texture, and do not overlap when folded, as in the cicada. See <er>Hemiptera</er>.</def><br/
+\'d8<hw>Ho*mop"te*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ the same, like + <?/ wing.]</ety> <fld>(Zool.)</fld> <def>A suborder of Hemiptera, in which both pairs of wings are similar in texture, and do not overlap when folded, as in the cicada. See <er>Hemiptera</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Homopteran</ent><br/
@@ -21036,7 +21036,7 @@ Deal out in his long <qex>homilies</qex>.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Homotaxia</ent><br/
-||<hw>Ho`mo*tax"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>Same as <er>Homotaxis</er>.</def></p>
+\'d8<hw>Ho`mo*tax"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>Same as <er>Homotaxis</er>.</def></p>
 
 <p><ent>Homotaxic</ent><br/
 <ent>Homotaxial</ent><br/
@@ -21044,7 +21044,7 @@ Deal out in his long <qex>homilies</qex>.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Homotaxis</ent><br/
-||<hw>Ho`mo*tax"is</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ the same + <?/ arrangement.]</ety> <fld>(Biol.)</fld> <def>Similarly in arrangement of parts; -- the opposite of <xex>heterotaxy</xex>.</def><br/
+\'d8<hw>Ho`mo*tax"is</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ the same + <?/ arrangement.]</ety> <fld>(Biol.)</fld> <def>Similarly in arrangement of parts; -- the opposite of <xex>heterotaxy</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Homotaxy</ent><br/
@@ -21083,7 +21083,7 @@ Deal out in his long <qex>homilies</qex>.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Homunculus</ent><br/
-||<hw>Ho*mun"cu*lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Homunculi</plw> <pr>(#)</pr>.</plu> <ety>[L., dim. of <ets>homo</ets> man.]</ety> <def>A little man; a dwarf; a manikin.</def>  <rj><au>Sterne.</au></rj><br/
+\'d8<hw>Ho*mun"cu*lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Homunculi</plw> <pr>(#)</pr>.</plu> <ety>[L., dim. of <ets>homo</ets> man.]</ety> <def>A little man; a dwarf; a manikin.</def>  <rj><au>Sterne.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hond</ent><br/
@@ -21599,7 +21599,7 @@ More <qex>honor'd</qex> in the breach than the observance.</q> <rj><qau>Shak.</q
 
 <p><ent>Honorary</ent><br/
 <ent>Honorarium</ent><br/
-<mhw>{ ||<hw>Hon`o*ra"ri*um</hw> <pr>(?)</pr>, <hw>Hon"or*a*ry</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>honorarium</ets> (sc. <ets>donum</ets>), fr. <ets>honorarius</ets>. See <er>Honorary</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <def>A fee offered to professional men for their services; <as>as, an <ex>honorarium</ex> of one thousand dollars</as>.</def>  <rj><au>S. Longfellow.</au></rj><br/
+<mhw>{ \'d8<hw>Hon`o*ra"ri*um</hw> <pr>(?)</pr>, <hw>Hon"or*a*ry</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>honorarium</ets> (sc. <ets>donum</ets>), fr. <ets>honorarius</ets>. See <er>Honorary</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <def>A fee offered to professional men for their services; <as>as, an <ex>honorarium</ex> of one thousand dollars</as>.</def>  <rj><au>S. Longfellow.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Law)</fld> <def>An honorary payment, usually in recognition of services for which it is not usual or not lawful to assign a fixed business price.</def>  <rj><au>Heumann.</au></rj><br/
@@ -21658,14 +21658,14 @@ More <qex>honor'd</qex> in the breach than the observance.</q> <rj><qau>Shak.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Honved</ent><br/
-||<hw>Hon"v<eacute/d</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hung. <ets>honv<emac/d</ets>; <ets>hon</ets> home + <ets>v<emac/d</ets> defense.]</ety> <sn>1.</sn> <def>The Hungarian army in the revolutionary war of 1848-49.</def><br/
+\'d8<hw>Hon"v<eacute/d</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hung. <ets>honv<emac/d</ets>; <ets>hon</ets> home + <ets>v<emac/d</ets> defense.]</ety> <sn>1.</sn> <def>The Hungarian army in the revolutionary war of 1848-49.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <def>same as <er>Honv<eacute/ds<eacute/g</er>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Honvedseg</ent><br/
-||<hw>Hon"v<eacute/d*s<eacute/g`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hung. <ets>honv<emac/ds<emac/g</ets>; <ets>honv<emac/d + s<emac/g</ets>, an abstract or collective suffix.]</ety> <fld>(Hungary)</fld> <def>See <er>Army organization</er>, above.</def><br/
+\'d8<hw>Hon"v<eacute/d*s<eacute/g`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hung. <ets>honv<emac/ds<emac/g</ets>; <ets>honv<emac/d + s<emac/g</ets>, an abstract or collective suffix.]</ety> <fld>(Hungary)</fld> <def>See <er>Army organization</er>, above.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Hoo</ent><br/
@@ -22501,7 +22501,7 @@ Breathe I against thee, upon pain of life.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hordeolum</ent><br/
-||<hw>Hor*de"o*lum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>hordeolus</ets>, dim. of <ets>hordeum</ets> barley.]</ety> <fld>(Med.)</fld> <def>A small tumor upon the eyelid, resembling a grain of barley; a sty.</def><br/
+\'d8<hw>Hor*de"o*lum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>hordeolus</ets>, dim. of <ets>hordeum</ets> barley.]</ety> <fld>(Med.)</fld> <def>A small tumor upon the eyelid, resembling a grain of barley; a sty.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hordock</ent><br/
@@ -22577,7 +22577,7 @@ Invested with bright rays.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hormogonium</ent><br/
-||<hw>Hor`mo*go*ni"um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a chain + <?/ generation.]</ety> <fld>(Bot.)</fld> <def>A chain of small cells in certain alg<ae/, by which the plant is propagated.</def><br/
+\'d8<hw>Hor`mo*go*ni"um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a chain + <?/ generation.]</ety> <fld>(Bot.)</fld> <def>A chain of small cells in certain alg<ae/, by which the plant is propagated.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hormonal</ent><br/
@@ -22764,7 +22764,7 @@ Within the nether tip.</q> <rj><qau>Coleridge.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hornito</ent><br/
-||<hw>Hor*ni"to</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[A dim. fr. Sp. <ets>horno</ets> oven, L. <ets>furnus</ets>. See <er>Furnace</er>.]</ety> <fld>(Geol.)</fld> <def>A low, oven-shaped mound, common in volcanic regions, and emitting smoke and vapors from its sides and summit.</def>  <rj><au>Humboldt.</au></rj><br/
+\'d8<hw>Hor*ni"to</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[A dim. fr. Sp. <ets>horno</ets> oven, L. <ets>furnus</ets>. See <er>Furnace</er>.]</ety> <fld>(Geol.)</fld> <def>A low, oven-shaped mound, common in volcanic regions, and emitting smoke and vapors from its sides and summit.</def>  <rj><au>Humboldt.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hornless</ent><br/
@@ -23061,11 +23061,11 @@ Of <qex>horrid</qex> hell.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hors de combat</ent><br/
-||<hw>Hors` de com`bat"</hw> <pr>(?)</pr>. <ety>[F.]</ety> <def>Out of the combat; disabled from fighting; out of action.</def><br/
+\'d8<hw>Hors` de com`bat"</hw> <pr>(?)</pr>. <ety>[F.]</ety> <def>Out of the combat; disabled from fighting; out of action.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Hors d'oeuvre</ent><br/
-||<hw>Hors` d'<oe/uvre"</hw> <pr>(?)</pr>; <plu>pl. <plw>Hors d'<oe/uveres</plw> <pr>(#)</pr></plu>. <ety>[F., lit., outside of work.]</ety> <sn>1.</sn> <def>Something unusual or extraordinary.</def> <mark>[R.]</mark><br/
+\'d8<hw>Hors` d'<oe/uvre"</hw> <pr>(?)</pr>; <plu>pl. <plw>Hors d'<oe/uveres</plw> <pr>(#)</pr></plu>. <ety>[F., lit., outside of work.]</ety> <sn>1.</sn> <def>Something unusual or extraordinary.</def> <mark>[R.]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <def>A dish served as a relish, usually at the beginning of a meal.</def><br/
@@ -23496,7 +23496,7 @@ Of <qex>horrid</qex> hell.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hortus siccus</ent><br/
-||<hw>Hor"tus sic"cus</hw> <pr>(?)</pr>. <ety>[L., a dry garden.]</ety> <def>A collection of specimens of plants, dried and preserved, and arranged systematically; an herbarium.</def><br/
+\'d8<hw>Hor"tus sic"cus</hw> <pr>(?)</pr>. <ety>[L., a dry garden.]</ety> <def>A collection of specimens of plants, dried and preserved, and arranged systematically; an herbarium.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hortyard</ent><br/
@@ -23645,14 +23645,14 @@ By doing deeds of <qex>hospitality</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hospitium</ent><br/
-||<hw>Hos*pi"ti*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Hospice</er>.]</ety> <sn>1.</sn> <def>An inn; a lodging; a hospice.</def> <mark>[Obs.]</mark><br/
+\'d8<hw>Hos*pi"ti*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Hospice</er>.]</ety> <sn>1.</sn> <def>An inn; a lodging; a hospice.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Law)</fld> <def>An inn of court.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hospodar</ent><br/
-||<hw>Hos"po*dar`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[A Slav. word; cf. Russ. <ets>gospodare</ets> lord, master.]</ety> <def>A title borne by the princes or governors of Moldavia and Wallachia before those countries were united as Rumania.</def><br/
+\'d8<hw>Hos"po*dar`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[A Slav. word; cf. Russ. <ets>gospodare</ets> lord, master.]</ety> <def>A title borne by the princes or governors of Moldavia and Wallachia before those countries were united as Rumania.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Host</ent><br/
@@ -23958,11 +23958,11 @@ Now hight I Philostrate, not worth a mite.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hotel-de-ville</ent><br/
-||<hw>H<ocir/tel`-de-ville"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A city hall or townhouse.</def><br/
+\'d8<hw>H<ocir/tel`-de-ville"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A city hall or townhouse.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hotel-Dieu</ent><br/
-||<hw>H<ocir/tel`-Dieu"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A hospital.</def><br/
+\'d8<hw>H<ocir/tel`-Dieu"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A hospital.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>hotelman</ent><br/
@@ -24650,11 +24650,11 @@ Small <qex>housekeeping</qex> enough, said Ph<oe/be.</q> <rj><qau>Sir W. Scott.<
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Houstonia</ent><br/
-||<hw>Hous*to"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. So named after Dr. William <ets>Houston</ets>, an English surgeon and botanist.]</ety> <fld>(Bot.)</fld> <def>A genus of small rubiaceous herbs, having tetramerous salveform blue or white flower. There are about twenty species, natives of North America. Also, a plant of this genus.</def><br/
+\'d8<hw>Hous*to"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. So named after Dr. William <ets>Houston</ets>, an English surgeon and botanist.]</ety> <fld>(Bot.)</fld> <def>A genus of small rubiaceous herbs, having tetramerous salveform blue or white flower. There are about twenty species, natives of North America. Also, a plant of this genus.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Houtou</ent><br/
-||<hw>Hou"tou</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From its note.]</ety> <fld>(Zool.)</fld> <def>A beautiful South American motmot.</def>  <rj><au>Waterton.</au></rj><br/
+\'d8<hw>Hou"tou</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From its note.]</ety> <fld>(Zool.)</fld> <def>A beautiful South American motmot.</def>  <rj><au>Waterton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Houttuynia</ent><br/
@@ -24811,7 +24811,7 @@ Small <qex>housekeeping</qex> enough, said Ph<oe/be.</q> <rj><qau>Sir W. Scott.<
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Howadji</ent><br/
-||<hw>How*adj"i</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Ar.]</ety> <sn>1.</sn> <def>A traveler.</def><br/
+\'d8<hw>How*adj"i</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Ar.]</ety> <sn>1.</sn> <def>A traveler.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A merchant; -- so called in the East because merchants were formerly the chief travelers.</def><br/
@@ -25021,13 +25021,13 @@ Environ'd me about, and <qex>howled</qex> in my ears.</q> <rj><qau>Shak.</qau></
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Huanaco</ent><br/
-||<hw>Hua*na"co</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Guanaco</er>.</def><br/
+\'d8<hw>Hua*na"co</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Guanaco</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Huaracho</ent><br/
 <ent>huaraches</ent><br/
 <ent>Huarache</ent><br/
-<mhw>||<hw>Hua*ra"che</hw>, <hw>hua*ra"ches</hw>, ||<hw>Hua*ra"cho</hw> <pr>(?)</pr></mhw>, <pos>n.</pos>; <plu>pl. <plw>Huarachos</plw> <pr>(#)</pr></plu>. <ety>[Amer. Sp., also <ets>guaracha</ets>, <ets>guarache</ets>, <ets>huarache</ets>, prob. of Mexican origin.]</ety> <def>A kind of low-heeled sandal with the upper consisting of interwoven leather strips; -- usually used in <pluf>pl.</pluf></def> <mark>[Southern U. S. & Mex.]</mark><br/
+<mhw>\'d8<hw>Hua*ra"che</hw>, <hw>hua*ra"ches</hw>, \'d8<hw>Hua*ra"cho</hw> <pr>(?)</pr></mhw>, <pos>n.</pos>; <plu>pl. <plw>Huarachos</plw> <pr>(#)</pr></plu>. <ety>[Amer. Sp., also <ets>guaracha</ets>, <ets>guarache</ets>, <ets>huarache</ets>, prob. of Mexican origin.]</ety> <def>A kind of low-heeled sandal with the upper consisting of interwoven leather strips; -- usually used in <pluf>pl.</pluf></def> <mark>[Southern U. S. & Mex.]</mark><br/
 [<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
 
 <p><ent>Huascaran</ent><br/
@@ -25103,7 +25103,7 @@ Environ'd me about, and <qex>howled</qex> in my ears.</q> <rj><qau>Shak.</qau></
 
 <p><ent>Huchen</ent><br/
 <ent>Huch</ent><br/
-<mhw>{ ||<hw>Huch</hw> <pr>(?)</pr>, ||<hw>Hu"chen</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[G.]</ety> <fld>(Zool.)</fld> <def>A large salmon (<spn>Salmo hucho</spn> <it>or</it> <spn>Salvelinus hucho</spn>) inhabiting the Danube; -- called also <altname>huso</altname>, and <altname>bull trout</altname>.</def><br/
+<mhw>{ \'d8<hw>Huch</hw> <pr>(?)</pr>, \'d8<hw>Hu"chen</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[G.]</ety> <fld>(Zool.)</fld> <def>A large salmon (<spn>Salmo hucho</spn> <it>or</it> <spn>Salvelinus hucho</spn>) inhabiting the Danube; -- called also <altname>huso</altname>, and <altname>bull trout</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Huck</ent><br/
@@ -25950,7 +25950,7 @@ Have <qex>humbled</qex> to all strokes.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Humerus</ent><br/
-||<hw>Hu"me*rus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Humeri</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Anat.)</fld> <sd>(a)</sd> <def>The bone of the brachium, or upper part of the arm or fore limb.</def> <sd>(b)</sd> <def>The part of the limb containing the humerus; the brachium.</def><br/
+\'d8<hw>Hu"me*rus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Humeri</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Anat.)</fld> <sd>(a)</sd> <def>The bone of the brachium, or upper part of the arm or fore limb.</def> <sd>(b)</sd> <def>The part of the limb containing the humerus; the brachium.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Humic</ent><br/
@@ -26055,7 +26055,7 @@ Have <qex>humbled</qex> to all strokes.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Humiri</ent><br/
-||<hw>Hu*mi"ri</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From native name.]</ety> <fld>(Bot.)</fld> <def>A fragrant balsam obtained from Brazilian trees of the genus <gen>Humirium</gen>.</def><br/
+\'d8<hw>Hu*mi"ri</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From native name.]</ety> <fld>(Bot.)</fld> <def>A fragrant balsam obtained from Brazilian trees of the genus <gen>Humirium</gen>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Humite</ent><br/
@@ -26378,7 +26378,7 @@ That a Scot may have <qex>humor</qex>, I'd almost said wit.</q> <rj><qau>Goldsmi
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Humus</ent><br/
-||<hw>Hu"mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., the earth, ground, soil.]</ety> <def>That portion of the soil formed by the decomposition of animal or vegetable matter. It is a valuable constituent of soils.</def>  <rj><au>Graham.</au></rj><br/
+\'d8<hw>Hu"mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., the earth, ground, soil.]</ety> <def>That portion of the soil formed by the decomposition of animal or vegetable matter. It is a valuable constituent of soils.</def>  <rj><au>Graham.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hun</ent><br/
@@ -27585,7 +27585,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Hyalea</ent><br/
-||<hw>Hy*a"le*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ glassy, fr. <grk>"y`alos</grk> glass.]</ety> <fld>(Zool.)</fld> <def>A pteropod of the genus <gen>Cavolina</gen>. See <er>Pteropoda</er>, and <xex>Illustration</xex> in Appendix.</def><br/
+\'d8<hw>Hy*a"le*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ glassy, fr. <grk>"y`alos</grk> glass.]</ety> <fld>(Zool.)</fld> <def>A pteropod of the genus <gen>Cavolina</gen>. See <er>Pteropoda</er>, and <xex>Illustration</xex> in Appendix.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyalescence</ent><br/
@@ -27631,7 +27631,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyalonema</ent><br/
-||<hw>Hy`a*lo*ne"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"y`alos</grk> glass + <?/ a thread.]</ety> <fld>(Zool.)</fld> <def>A genus of hexactinelline sponges, having a long stem composed of very long, slender, transparent, siliceous fibres twisted together like the strands of a color.  The stem of the Japanese species (<spn>Hyalonema Sieboldii</spn>), called <stype>glass-rope</stype>, has long been in use as an ornament. See <er>Glass-rope</er>.</def><br/
+\'d8<hw>Hy`a*lo*ne"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"y`alos</grk> glass + <?/ a thread.]</ety> <fld>(Zool.)</fld> <def>A genus of hexactinelline sponges, having a long stem composed of very long, slender, transparent, siliceous fibres twisted together like the strands of a color.  The stem of the Japanese species (<spn>Hyalonema Sieboldii</spn>), called <stype>glass-rope</stype>, has long been in use as an ornament. See <er>Glass-rope</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyalophane</ent><br/
@@ -27639,7 +27639,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyalospongia</ent><br/
-||<hw>Hy`a*lo*spon"gi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"y`alos</grk> glass + <?/ a sponge.]</ety> <fld>(Zool.)</fld> <def>An order of vitreous sponges, having glassy six-rayed, siliceous spicules; -- called also <altname><ord>Hexactinellin<ae/</ord></altname>.</def><br/
+\'d8<hw>Hy`a*lo*spon"gi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"y`alos</grk> glass + <?/ a sponge.]</ety> <fld>(Zool.)</fld> <def>An order of vitreous sponges, having glassy six-rayed, siliceous spicules; -- called also <altname><ord>Hexactinellin<ae/</ord></altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyalotype</ent><br/
@@ -27660,7 +27660,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hybodus</ent><br/
-||<hw>Hyb"o*dus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hybodont</er>.]</ety> <fld>(Paleon.)</fld> <def>An extinct genus of sharks having conical, compressed teeth.</def><br/
+\'d8<hw>Hyb"o*dus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hybodont</er>.]</ety> <fld>(Paleon.)</fld> <def>An extinct genus of sharks having conical, compressed teeth.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hybrid</ent><br/
@@ -27788,7 +27788,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><-- p. 716 --></p>
 
 <p><ent>Hydraemia</ent><br/
-||<hw>Hy*dr<ae/"mi*a</hw> <pr>(h<isl/*dr<emac/"m<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"y`dwr</grk> water + <grk>a"i^ma</grk> blood.]</ety> <fld>(Med.)</fld> <def>An abnormally watery state of the blood; an<ae/mia.</def><br/
+\'d8<hw>Hy*dr<ae/"mi*a</hw> <pr>(h<isl/*dr<emac/"m<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"y`dwr</grk> water + <grk>a"i^ma</grk> blood.]</ety> <fld>(Med.)</fld> <def>An abnormally watery state of the blood; an<ae/mia.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydragogue</ent><br/
@@ -27837,7 +27837,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrarthrosis</ent><br/
-||<hw>Hy`drar*thro"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hydro-</er>, 1, and <er>Arthrosis</er>.]</ety> <fld>(Med.)</fld> <def>An effusion of watery liquid into the cavity of a joint.</def><br/
+\'d8<hw>Hy`drar*thro"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hydro-</er>, 1, and <er>Arthrosis</er>.]</ety> <fld>(Med.)</fld> <def>An effusion of watery liquid into the cavity of a joint.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrastine</ent><br/
@@ -27898,7 +27898,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydria</ent><br/
-||<hw>Hy"dri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/.]</ety> <fld>(Gr. Antiq.)</fld> <def>A water jar; esp., one with a large rounded body, a small neck, and three handles. Some of the most beautiful Greek vases are of this form.</def><br/
+\'d8<hw>Hy"dri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/.]</ety> <fld>(Gr. Antiq.)</fld> <def>A water jar; esp., one with a large rounded body, a small neck, and three handles. Some of the most beautiful Greek vases are of this form.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydriad</ent><br/
@@ -27923,7 +27923,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrina</ent><br/
-||<hw>Hy*dri"na</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Hydra</er>.]</ety> <fld>(Zool.)</fld> <def>The group of hydroids to which the fresh-water hydras belong.</def><br/
+\'d8<hw>Hy*dri"na</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Hydra</er>.]</ety> <fld>(Zool.)</fld> <def>The group of hydroids to which the fresh-water hydras belong.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydriodate</ent><br/
@@ -27972,7 +27972,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrobranchiata</ent><br/
-||<hw>Hy`dro*bran`chi*a"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"y`dwr</grk> water + <?/ gills.]</ety> <fld>(Zool.)</fld> <def>An extensive artificial division of gastropod mollusks, including those that breathe by gills, as contrasted with the Pulmonifera.</def> -- <wordforms><wf>Hy`dro*bran"chi*ate</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>Hy`dro*bran`chi*a"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"y`dwr</grk> water + <?/ gills.]</ety> <fld>(Zool.)</fld> <def>An extensive artificial division of gastropod mollusks, including those that breathe by gills, as contrasted with the Pulmonifera.</def> -- <wordforms><wf>Hy`dro*bran"chi*ate</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrobromate</ent><br/
@@ -28056,7 +28056,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrocorallia</ent><br/
-||<hw>Hy`dro*co*ral"li*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Hydra</er>, and <er>Coral</er>.]</ety> <fld>(Zool.)</fld> <def>A division of Hydroidea, including those genera that secrete a stony coral, as <xex>Millepora</xex> and <xex>Stylaster</xex>. Two forms of zooids in life project from small pores in the coral and resemble those of other hydroids. See <er>Millepora</er>.</def><br/
+\'d8<hw>Hy`dro*co*ral"li*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Hydra</er>, and <er>Coral</er>.]</ety> <fld>(Zool.)</fld> <def>A division of Hydroidea, including those genera that secrete a stony coral, as <xex>Millepora</xex> and <xex>Stylaster</xex>. Two forms of zooids in life project from small pores in the coral and resemble those of other hydroids. See <er>Millepora</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrocyanate</ent><br/
@@ -28202,7 +28202,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydroidea</ent><br/
-||<hw>Hy*droi"de*a</hw>, <pos>n. pl.</pos> <ety>[NL. See <er>Hydra</er>, and <er>-oid</er>.]</ety> <fld>(Zool.)</fld> <def>An extensive order of Hydrozoa or Acaleph<ae/.</def> <altsp>[Written also <asp>Hydroida</asp>.]</altsp><br/
+\'d8<hw>Hy*droi"de*a</hw>, <pos>n. pl.</pos> <ety>[NL. See <er>Hydra</er>, and <er>-oid</er>.]</ety> <fld>(Zool.)</fld> <def>An extensive order of Hydrozoa or Acaleph<ae/.</def> <altsp>[Written also <asp>Hydroida</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ This order includes the hydras and the free-swimming hydromedus<ae/, together with a great variety of marine attached hydroids, many of which grow up into large, elegantly branched forms, consisting of a vast number of zooids (hydranths, gonophores, etc.), united by hollow stems. All the zooids of a colony are produced from one primary zooid, by successive buddings. The Siphonophora have also been included in this order by some writers. See <er>Gymnoblastea</er>, <er>Hydromedusa</er>, <er>Gonosome</er>, <er>Gonotheca</er>.</note><br/
@@ -28262,7 +28262,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydromedusa</ent><br/
-||<hw>Hy`dro*me*du"sa</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hydromedus<ae/</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Hydra</er>, and <er>Medusa</er>.]</ety> <fld>(Zool.)</fld> <def>Any medusa or jellyfish which is produced by budding from a hydroid. They are called also <altname>Craspedota</altname>, and <altname>naked-eyed medus<ae/</altname>.</def><br/
+\'d8<hw>Hy`dro*me*du"sa</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hydromedus<ae/</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Hydra</er>, and <er>Medusa</er>.]</ety> <fld>(Zool.)</fld> <def>Any medusa or jellyfish which is produced by budding from a hydroid. They are called also <altname>Craspedota</altname>, and <altname>naked-eyed medus<ae/</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Such medus<ae/ are the reproductive zooids or gonophores, either male or female, of the hydroid from which they arise, whether they become free or remain attached to the hydroid colony.  They in turn produce the eggs from which the hydroids are developed.  The name is also applied to other similar medus<ae/ which are not known to bud from a hydroid colony, and even to some which are known to develop directly from the eggs, but which in structure agree essentially with those produced from hydroids. See <er>Hydroidea</er>, and <er>Gymnoblastea</er>.</note><br/
@@ -28338,7 +28338,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydronephrosis</ent><br/
-||<hw>Hy`dro*ne*phro"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., Gr. <grk>"y`dwr</grk> water + <?/ a kidney.]</ety> <fld>(Med.)</fld> <def>An accumulation of urine in the pelvis of the kidney, occasioned by obstruction in the urinary passages.</def><br/
+\'d8<hw>Hy`dro*ne*phro"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., Gr. <grk>"y`dwr</grk> water + <?/ a kidney.]</ety> <fld>(Med.)</fld> <def>An accumulation of urine in the pelvis of the kidney, occasioned by obstruction in the urinary passages.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydropath</ent><br/
@@ -28358,7 +28358,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydroperitoneum</ent><br/
-||<hw>Hy`dro*per`i*to*ne"um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hydro-</er>, and <er>Peritoneum</er>.]</ety> <fld>(Med.)</fld> <def>Same as <er>Ascites</er>.</def><br/
+\'d8<hw>Hy`dro*per`i*to*ne"um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hydro-</er>, and <er>Peritoneum</er>.]</ety> <fld>(Med.)</fld> <def>Same as <er>Ascites</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrophane</ent><br/
@@ -28390,7 +28390,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrophora</ent><br/
-||<hw>Hy*droph"o*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. E. <ets>hydra</ets> + Gr. <grk>fe`rein</grk> to bear.]</ety> <fld>(Zool.)</fld> <def>The Hydroidea.</def><br/
+\'d8<hw>Hy*droph"o*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. E. <ets>hydra</ets> + Gr. <grk>fe`rein</grk> to bear.]</ety> <fld>(Zool.)</fld> <def>The Hydroidea.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrophore</ent><br/
@@ -28398,7 +28398,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrophyllium</ent><br/
-||<hw>Hy`dro*phyl"li*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Hydrophyllia</plw> <pr>(#)</pr>, E. <plw>Hydrophylliums</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>"y`dwr</grk> water + <?/ a leaf.]</ety> <fld>(Zool.)</fld> <def>One of the flat, leaflike, protective zooids, covering other zooids of certain Siphonophora.</def><br/
+\'d8<hw>Hy`dro*phyl"li*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Hydrophyllia</plw> <pr>(#)</pr>, E. <plw>Hydrophylliums</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>"y`dwr</grk> water + <?/ a leaf.]</ety> <fld>(Zool.)</fld> <def>One of the flat, leaflike, protective zooids, covering other zooids of certain Siphonophora.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrophyte</ent><br/
@@ -28421,7 +28421,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydropiper</ent><br/
-||<hw>Hy"dro*pi`per</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"y`dwr</grk> water + L. <ets>piper</ets> a pepper.]</ety> <fld>(Bot.)</fld> <def>A species (<spn>Polygonum Hydropiper</spn>) of knotweed with acrid foliage; water pepper; smartweed.</def><br/
+\'d8<hw>Hy"dro*pi`per</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"y`dwr</grk> water + L. <ets>piper</ets> a pepper.]</ety> <fld>(Bot.)</fld> <def>A species (<spn>Polygonum Hydropiper</spn>) of knotweed with acrid foliage; water pepper; smartweed.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydroplane</ent><br/
@@ -28462,7 +28462,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrorhiza</ent><br/
-||<hw>Hy`dro*rhi"za</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Hydrorhiz<ae/</plw> <pr>(#)</pr>, E. <plw>Hydrorhizas</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. E. <ets>hydra</ets> + Gr. <?/ a root.]</ety> <fld>(Zool.)</fld> <def>The rootstock or decumbent stem by which a hydroid is attached to other objects. See <xex>Illust.</xex> under <er>Hydroidea</er>.</def><br/
+\'d8<hw>Hy`dro*rhi"za</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Hydrorhiz<ae/</plw> <pr>(#)</pr>, E. <plw>Hydrorhizas</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. E. <ets>hydra</ets> + Gr. <?/ a root.]</ety> <fld>(Zool.)</fld> <def>The rootstock or decumbent stem by which a hydroid is attached to other objects. See <xex>Illust.</xex> under <er>Hydroidea</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrosalt</ent><br/
@@ -28479,7 +28479,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p><ent>Hydrosoma</ent><br/
 <ent>Hydrosome</ent><br/
-<mhw>{ <hw>Hy"dro*some</hw> <pr>(?)</pr>, ||<hw>Hy`dro*so"ma</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[NL. <ets>hydrosoma</ets>. See <er>Hydra</er>, and <er>-some</er> body.]</ety> <fld>(Zool.)</fld> <def>All the zooids of a hydroid colony collectively, including the nutritive and reproductive zooids, and often other kinds.</def><br/
+<mhw>{ <hw>Hy"dro*some</hw> <pr>(?)</pr>, \'d8<hw>Hy`dro*so"ma</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[NL. <ets>hydrosoma</ets>. See <er>Hydra</er>, and <er>-some</er> body.]</ety> <fld>(Zool.)</fld> <def>All the zooids of a hydroid colony collectively, including the nutritive and reproductive zooids, and often other kinds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrosorbic</ent><br/
@@ -28559,7 +28559,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrotheca</ent><br/
-||<hw>Hy`dro*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Hydrothec<ae/</plw> <pr>(#)</pr>, E. <plw>Hydrothecas</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. E. <ets>hydra</ets> + Gr. <?/ a box.]</ety> <fld>(Zool.)</fld> <def>One of the calicles which, in some Hydroidea (Thecaphora), protect the hydrants. See <xex>Illust.</xex> of <er>Hydroidea</er>, and <er>Campanularian</er>.</def><br/
+\'d8<hw>Hy`dro*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Hydrothec<ae/</plw> <pr>(#)</pr>, E. <plw>Hydrothecas</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. E. <ets>hydra</ets> + Gr. <?/ a box.]</ety> <fld>(Zool.)</fld> <def>One of the calicles which, in some Hydroidea (Thecaphora), protect the hydrants. See <xex>Illust.</xex> of <er>Hydroidea</er>, and <er>Campanularian</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrotherapeutics</ent><br/
@@ -28657,7 +28657,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrozoon</ent><br/
-||<hw>Hy`dro*zo"<oum/n</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Hydrozoa</plw> <pr>(#)</pr>, E. <plw>Hydrozo<oum/ns</plw> <pr>(#)</pr>.</plu> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>One of the Hydrozoa.</def><br/
+\'d8<hw>Hy`dro*zo"<oum/n</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Hydrozoa</plw> <pr>(#)</pr>, E. <plw>Hydrozo<oum/ns</plw> <pr>(#)</pr>.</plu> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>One of the Hydrozoa.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydruret</ent><br/
@@ -28665,7 +28665,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrus</ent><br/
-||<hw>Hy"drus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a water serpent; also, a certain constellation, Gr. <grk>"y`dros</grk>.]</ety> <fld>(Astron.)</fld> <def>A constellation of the southern hemisphere, near the south pole.</def><br/
+\'d8<hw>Hy"drus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a water serpent; also, a certain constellation, Gr. <grk>"y`dros</grk>.]</ety> <fld>(Astron.)</fld> <def>A constellation of the southern hemisphere, near the south pole.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hye</ent><br/
@@ -28836,7 +28836,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p><ent>Hylaeosaurus</ent><br/
 <ent>Hylaeosaur</ent><br/
-<mhw>{ <hw>Hy"l<ae/*o*saur`</hw> <pr>(?)</pr>, ||<hw>Hy`l<ae/*o*sau"rus</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>hylaeosaurus</ets>, fr. Gr. <?/ belonging to a forest (fr. <?/ wood) + <?/ a lizard.]</ety> <fld>(Paleon.)</fld> <def>A large Wealden dinosaur from the Tilgate Forest, England. It was about twenty feet long, protected by bony plates in the skin, and armed with spines.</def><br/
+<mhw>{ <hw>Hy"l<ae/*o*saur`</hw> <pr>(?)</pr>, \'d8<hw>Hy`l<ae/*o*sau"rus</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>hylaeosaurus</ets>, fr. Gr. <?/ belonging to a forest (fr. <?/ wood) + <?/ a lizard.]</ety> <fld>(Paleon.)</fld> <def>A large Wealden dinosaur from the Tilgate Forest, England. It was about twenty feet long, protected by bony plates in the skin, and armed with spines.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hylarchical</ent><br/
@@ -28866,7 +28866,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hylodes</ent><br/
-||<hw>Hy*lo"des</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ woody, wooded, muddy; <?/ a wood + <grk>e'i^dos</grk> form.]</ety> <fld>(Zool.)</fld> <def>The piping frog (<spn>Hyla Pickeringii</spn>), a small American tree frog, which in early spring, while breeding in swamps and ditches, sings with high, shrill, but musical, notes.</def><br/
+\'d8<hw>Hy*lo"des</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ woody, wooded, muddy; <?/ a wood + <grk>e'i^dos</grk> form.]</ety> <fld>(Zool.)</fld> <def>The piping frog (<spn>Hyla Pickeringii</spn>), a small American tree frog, which in early spring, while breeding in swamps and ditches, sings with high, shrill, but musical, notes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyloism</ent><br/
@@ -28944,7 +28944,7 @@ There dwelt no joy in Eden's rosy bower.</q> <rj><qau>Campbell.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hymenium</ent><br/
-||<hw>Hy*me"ni*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Hymenia</plw> <pr>(#)</pr>, E. <plw>Hymeniums</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ a membrane.]</ety> <fld>(Bot.)</fld> <def>The spore-bearing surface of certain fungi, as that on the gills of a mushroom.</def><br/
+\'d8<hw>Hy*me"ni*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Hymenia</plw> <pr>(#)</pr>, E. <plw>Hymeniums</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ a membrane.]</ety> <fld>(Bot.)</fld> <def>The spore-bearing surface of certain fungi, as that on the gills of a mushroom.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hymenogastrales</ent><br/
@@ -28957,7 +28957,7 @@ There dwelt no joy in Eden's rosy bower.</q> <rj><qau>Campbell.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hymenomycetes</ent><br/
-||<hw>Hy`me*no*my*ce"tes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ a membrane + <?/, <?/, a mushroom.]</ety> <fld>(Bot.)</fld> <def>One of the great divisions of fungi, containing those species in which the hymenium is completely exposed.</def>  <rj><au>M. J. Berkley.</au></rj><br/
+\'d8<hw>Hy`me*no*my*ce"tes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ a membrane + <?/, <?/, a mushroom.]</ety> <fld>(Bot.)</fld> <def>One of the great divisions of fungi, containing those species in which the hymenium is completely exposed.</def>  <rj><au>M. J. Berkley.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hymenophore</ent><br/
@@ -28969,7 +28969,7 @@ There dwelt no joy in Eden's rosy bower.</q> <rj><qau>Campbell.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hymenoptera</ent><br/
-||<hw>Hy`me*nop"te*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ membrane-winged; <?/ skin, membrane + <?/ wing.]</ety> <fld>(Zool.)</fld> <def>An extensive order of insects, including the bees, ants, ichneumons, sawflies, etc.</def><br/
+\'d8<hw>Hy`me*nop"te*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ membrane-winged; <?/ skin, membrane + <?/ wing.]</ety> <fld>(Zool.)</fld> <def>An extensive order of insects, including the bees, ants, ichneumons, sawflies, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ They have four membranous wings, with few reticulations, and usually with a thickened, dark spot on the front edge of the anterior wings. In most of the species, the tongue, or lingua, is converted into an organ for sucking honey, or other liquid food, and the mandibles are adapted for biting or cutting. In one large division (<suborder>Aculeata</suborder>), including the bees, wasps, and ants, the females and workers usually have a sting, which is only a modified ovipositor.</note></p>
@@ -29079,7 +29079,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyoganoidei</ent><br/
-||<hw>Hy`o*ga*noi"de*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Hyo-</er>, and <er>Canoidei</er>.]</ety> <fld>(Zool.)</fld> <def>A division of ganoid fishes, including the gar pikes and bowfins.</def> -- <wordforms><wf>Hy`o*ga"noid</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>Hy`o*ga*noi"de*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Hyo-</er>, and <er>Canoidei</er>.]</ety> <fld>(Zool.)</fld> <def>A division of ganoid fishes, including the gar pikes and bowfins.</def> -- <wordforms><wf>Hy`o*ga"noid</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyoglossal</ent><br/
@@ -29087,7 +29087,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyoglossus</ent><br/
-||<hw>Hy`o*glos"sus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. <ets>hyo-</ets> hyo- + Gr. <grk>glw^ssa</grk> tongue.]</ety> <fld>(Anat.)</fld> <def>A flat muscle on either side of the tongue, connecting it with the hyoid bone.</def><br/
+\'d8<hw>Hy`o*glos"sus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. <ets>hyo-</ets> hyo- + Gr. <grk>glw^ssa</grk> tongue.]</ety> <fld>(Anat.)</fld> <def>A flat muscle on either side of the tongue, connecting it with the hyoid bone.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyoid</ent><br/
@@ -29129,7 +29129,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyoscyamus</ent><br/
-||<hw>Hy`os*cy"a*mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/; <?/ a sow, hog + <?/ a bean.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A genus of poisonous plants of the Nightshade family; henbane.</def><br/
+\'d8<hw>Hy`os*cy"a*mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/; <?/ a sow, hog + <?/ a bean.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A genus of poisonous plants of the Nightshade family; henbane.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Med.)</fld> <def>The leaves of the black henbane (<spn>Hyoscyamus niger</spn>), used in neuralgic and pectorial troubles.</def><br/
@@ -29140,7 +29140,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyosternum</ent><br/
-||<hw>Hy`o*ster"num</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Hyo-</ets> + <ets>sternum</ets>.]</ety> <fld>(Anat.)</fld> <def>See <er>Hyoplastron</er>.</def><br/
+\'d8<hw>Hy`o*ster"num</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Hyo-</ets> + <ets>sternum</ets>.]</ety> <fld>(Anat.)</fld> <def>See <er>Hyoplastron</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyostylic</ent><br/
@@ -29173,11 +29173,11 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>Hyp`al*le"lo*morph</hw>, <pos>n.</pos> <def>See <er>Allelomorph</er>.</def></p>
 
 <p><ent>Hypanthium</ent><br/
-||<hw>Hy*pan"thi*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Hypanthia</plw> <pr>(#)</pr>, E. <plw>Hypanthiums</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>"ypo</grk> beneath + <grk>'a`nqos</grk> flower.]</ety> <fld>(Bot.)</fld> <def>A fruit consisting in large part of a receptacle, enlarged below the calyx, as in the <gen>Calycanthus</gen>, the rose hip, and the pear.</def><br/
+\'d8<hw>Hy*pan"thi*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Hypanthia</plw> <pr>(#)</pr>, E. <plw>Hypanthiums</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>"ypo</grk> beneath + <grk>'a`nqos</grk> flower.]</ety> <fld>(Bot.)</fld> <def>A fruit consisting in large part of a receptacle, enlarged below the calyx, as in the <gen>Calycanthus</gen>, the rose hip, and the pear.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypapophysis</ent><br/
-||<hw>Hy`pa*poph"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hypapophyles</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Hypo-</er>, and <er>Apophysis</er>.]</ety> <fld>(Anat.)</fld> <def>A process, or other element, of a vertebra developed from the ventral side of the centrum, as h<ae/mal spines, and chevron bones.</def> -- <wordforms><wf>Hy`pa*po*phys"i*al</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>Hy`pa*poph"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hypapophyles</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Hypo-</er>, and <er>Apophysis</er>.]</ety> <fld>(Anat.)</fld> <def>A process, or other element, of a vertebra developed from the ventral side of the centrum, as h<ae/mal spines, and chevron bones.</def> -- <wordforms><wf>Hy`pa*po*phys"i*al</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyparterial</ent><br/
@@ -29208,7 +29208,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Hyperaemia</ent><br/
-||<hw>Hy`per*<ae/"mi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ype`r</grk> over + <grk>a"i^ma</grk> blood.]</ety> <fld>(Med.)</fld> <def>A superabundance or congestion of blood in an organ or part of the body.</def><br/
+\'d8<hw>Hy`per*<ae/"mi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ype`r</grk> over + <grk>a"i^ma</grk> blood.]</ety> <fld>(Med.)</fld> <def>A superabundance or congestion of blood in an organ or part of the body.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Active hyper<ae/mia</b></col>, <cd>congestion due to increased flow of blood to a part.</cd> -- <col><b>Passive hyper<ae/mia</b></col>, <cd>interchange due to obstruction in the return of blood from a part.</cd></cs></p>
@@ -29217,11 +29217,11 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyperaesthesia</ent><br/
-||<hw>Hy`per*<ae/s*the"si*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ype`r</grk> over + <?/ sense, perception.]</ety> <fld>(Med. & Physiol.)</fld> <def>A state of exalted or morbidly increased sensibility of the body, or of a part of it.</def> -- <wordforms><wf>Hy`per*<ae/s*thet"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>Hy`per*<ae/s*the"si*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ype`r</grk> over + <?/ sense, perception.]</ety> <fld>(Med. & Physiol.)</fld> <def>A state of exalted or morbidly increased sensibility of the body, or of a part of it.</def> -- <wordforms><wf>Hy`per*<ae/s*thet"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyperapophysis</ent><br/
-||<hw>Hy`per*a*poph"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hyperapophyses</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Hyper-</er>, and <er>Apophysis</er>.]</ety> <fld>(Anat.)</fld> <def>A lateral and backward-projecting process on the dorsal side of a vertebra.</def> -- <wordforms><wf>Hy`per*ap`o*phys"i*al</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>Hy`per*a*poph"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hyperapophyses</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Hyper-</er>, and <er>Apophysis</er>.]</ety> <fld>(Anat.)</fld> <def>A lateral and backward-projecting process on the dorsal side of a vertebra.</def> -- <wordforms><wf>Hy`per*ap`o*phys"i*al</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyperaspist</ent><br/
@@ -29240,7 +29240,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyperbaton</ent><br/
-||<hw>Hy*per"ba*ton</hw> <pr>(h<imac/*p<etil/r"b<adot/*t<ocr/n)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>"ype`rbaton</grk>, fr. <grk>"yperbato`s</grk> transposed, fr. <grk>"yperbai`nein</grk> to step over; <grk>"ype`r</grk> over + <grk>bai`nein</grk> to step.]</ety> <fld>(Gram.)</fld> <def>A figurative construction, changing or inverting the natural order of words or clauses; <as>as, <ldquo/echoed the hills<rdquo/ for <ldquo/the hills echoed</as>.<rdquo/</def><br/
+\'d8<hw>Hy*per"ba*ton</hw> <pr>(h<imac/*p<etil/r"b<adot/*t<ocr/n)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>"ype`rbaton</grk>, fr. <grk>"yperbato`s</grk> transposed, fr. <grk>"yperbai`nein</grk> to step over; <grk>"ype`r</grk> over + <grk>bai`nein</grk> to step.]</ety> <fld>(Gram.)</fld> <def>A figurative construction, changing or inverting the natural order of words or clauses; <as>as, <ldquo/echoed the hills<rdquo/ for <ldquo/the hills echoed</as>.<rdquo/</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>With a violent <qex>hyperbaton</qex> to transpose the text.</q> <rj><qau>Milton.</qau></rj><br/
@@ -29387,7 +29387,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyperdulia</ent><br/
-||<hw>Hy`per*du*li"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>hyper-</ets> + <ets>dulia</ets>: cf. F. <ets>hyperdulie</ets>.]</ety> <fld>(R. C. Ch.)</fld> <def>Veneration or worship given to the Virgin Mary as the most exalted of mere creatures; higher veneration than dulia.</def>  <rj><au>Addis & Arnold.</au></rj><br/
+\'d8<hw>Hy`per*du*li"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>hyper-</ets> + <ets>dulia</ets>: cf. F. <ets>hyperdulie</ets>.]</ety> <fld>(R. C. Ch.)</fld> <def>Veneration or worship given to the Virgin Mary as the most exalted of mere creatures; higher veneration than dulia.</def>  <rj><au>Addis & Arnold.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyperduly</ent><br/
@@ -29407,7 +29407,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Hypericum</ent><br/
-||<hw>Hy*per"i*cum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, <?/; <?/ under, among + <?/, <?/, heath, heather.]</ety> <fld>(Bot.)</fld> <def>A genus of plants, generally with dotted leaves and yellow flowers; -- called also <altname>St. John's-wort</altname>.</def><br/
+\'d8<hw>Hy*per"i*cum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, <?/; <?/ under, among + <?/, <?/, heath, heather.]</ety> <fld>(Bot.)</fld> <def>A genus of plants, generally with dotted leaves and yellow flowers; -- called also <altname>St. John's-wort</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>hyperinflation</ent><br/
@@ -29415,7 +29415,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Hyperinosis</ent><br/
-||<hw>Hy`per*i*no"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ype`r</grk> over + <?/, <?/, strength, fiber.]</ety> <fld>(Med.)</fld> <def>A condition of the blood, characterized by an abnormally large amount of fibrin, as in many inflammatory diseases.</def><br/
+\'d8<hw>Hy`per*i*no"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ype`r</grk> over + <?/, <?/, strength, fiber.]</ety> <fld>(Med.)</fld> <def>A condition of the blood, characterized by an abnormally large amount of fibrin, as in many inflammatory diseases.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyperion</ent><br/
@@ -29427,7 +29427,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyperkinesis</ent><br/
-||<hw>Hy`per*ki*ne"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ype`r</grk> over + <?/ motion.]</ety> <fld>(Med.)</fld> <def>Abnormally increased muscular movement; spasm.</def><br/
+\'d8<hw>Hy`per*ki*ne"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ype`r</grk> over + <?/ motion.]</ety> <fld>(Med.)</fld> <def>Abnormally increased muscular movement; spasm.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyperkinetic</ent><br/
@@ -29456,7 +29456,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 
 <p><ent>Hypermetropy</ent><br/
 <ent>Hypermetropia</ent><br/
-<mhw>{ ||<hw>Hy`per*me*tro"pi*a</hw> <pr>(?)</pr>, <hw>Hy`per*met"ro*py</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>hypermetropia</ets>, fr. Gr. <?/ excessive + <?/, <?/, the eye. See <er>Hypermeter</er>.]</ety> <def>An abnormal condition of the eye in which, through shortness of the eyeball or fault of the refractive media, the rays of light come to a focus behind the retina, making vision for distant objects better than for near objects; farsightedness; -- now most commonly called <altname>hyperopia</altname>.  Cf. <er>Emmetropia</er>.</def> <mark>[Obsolescent]</mark> <br/
+<mhw>{ \'d8<hw>Hy`per*me*tro"pi*a</hw> <pr>(?)</pr>, <hw>Hy`per*met"ro*py</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>hypermetropia</ets>, fr. Gr. <?/ excessive + <?/, <?/, the eye. See <er>Hypermeter</er>.]</ety> <def>An abnormal condition of the eye in which, through shortness of the eyeball or fault of the refractive media, the rays of light come to a focus behind the retina, making vision for distant objects better than for near objects; farsightedness; -- now most commonly called <altname>hyperopia</altname>.  Cf. <er>Emmetropia</er>.</def> <mark>[Obsolescent]</mark> <br/
 <syn><b>Syn. --</b> hyperopia, farsightedness, longsightedness.</syn><br/
 [<source>1913 Webster</source>]</p>
 
@@ -29466,7 +29466,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypermyriorama</ent><br/
-||<hw>Hy`per*myr`i*o*ra"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ beyond + <?/ countless + <?/ view.]</ety> <def>A show or exhibition having a great number of scenes or views.</def><br/
+\'d8<hw>Hy`per*myr`i*o*ra"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ beyond + <?/ countless + <?/ view.]</ety> <def>A show or exhibition having a great number of scenes or views.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>hypernym</ent><br/
@@ -29480,7 +29480,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Hyperoartia</ent><br/
-||<hw>Hy`per*o*ar"ti*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>An order of marsipobranchs including the lampreys. The suckerlike moth contains numerous teeth; the nasal opening is in the middle of the head above, but it does not connect with the mouth. See <er>Cyclostoma</er>, and <er>Lamprey</er>.</def><br/
+\'d8<hw>Hy`per*o*ar"ti*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>An order of marsipobranchs including the lampreys. The suckerlike moth contains numerous teeth; the nasal opening is in the middle of the head above, but it does not connect with the mouth. See <er>Cyclostoma</er>, and <er>Lamprey</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyperodontidae</ent><br/
@@ -29502,7 +29502,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Hyperopia</ent><br/
-||<hw>Hy`per*o"pi*a</hw> <pr>(h<imac/`p<etil/r*<omac/"p<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ype`r</grk> over + <grk>'w`ps</grk>, <grk>'wpo`s</grk>, the eye.]</ety> <def>An abnormal condition of the eye in which, through shortness of the eyeball or fault of the refractive media, the rays of light come to a focus behind the retina, making vision for distant objects better than for near objects; farsightedness; -- called also <altname>hypermetropia</altname>.  Cf. <er>Emmetropia</er>.</def>  -- <wordforms><wf>Hy`per*op"tic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>Hy`per*o"pi*a</hw> <pr>(h<imac/`p<etil/r*<omac/"p<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ype`r</grk> over + <grk>'w`ps</grk>, <grk>'wpo`s</grk>, the eye.]</ety> <def>An abnormal condition of the eye in which, through shortness of the eyeball or fault of the refractive media, the rays of light come to a focus behind the retina, making vision for distant objects better than for near objects; farsightedness; -- called also <altname>hypermetropia</altname>.  Cf. <er>Emmetropia</er>.</def>  -- <wordforms><wf>Hy`per*op"tic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 <syn><b>Syn. --</b> hypermetropia, farsightedness, longsightedness.</syn><br/
 [<source>1913 Webster</source>]</p>
 
@@ -29521,7 +29521,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyperotreta</ent><br/
-||<hw>Hy`per*o*tre"ta</hw> <pr>(h<imac/`p<etil/r*<osl/*tr<emac/"t<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"yperw`,n</grk> the palate + <grk>trhto`s</grk> perforated.]</ety> <fld>(Zool.)</fld> <def>An order of marsipobranchs, including the Myxine or hagfish and the genus <gen>Bdellostoma</gen>. They have barbels around the mouth, one tooth on the palate, and a communication between the nasal aperture and the throat. See <er>Hagfish</er>.</def> <altsp>[Written also <asp>Hyperotreti</asp>.]</altsp><br/
+\'d8<hw>Hy`per*o*tre"ta</hw> <pr>(h<imac/`p<etil/r*<osl/*tr<emac/"t<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"yperw`,n</grk> the palate + <grk>trhto`s</grk> perforated.]</ety> <fld>(Zool.)</fld> <def>An order of marsipobranchs, including the Myxine or hagfish and the genus <gen>Bdellostoma</gen>. They have barbels around the mouth, one tooth on the palate, and a communication between the nasal aperture and the throat. See <er>Hagfish</er>.</def> <altsp>[Written also <asp>Hyperotreti</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyperoxide</ent><br/
@@ -29548,7 +29548,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyperplasia</ent><br/
-||<hw>Hy`per*pla"si*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ype`r</grk> over + <?/ conformation, fr. <?/ to mold.]</ety> <fld>(Med. & Biol.)</fld> <def>An increase in, or excessive growth of, the normal elements of any part.</def><br/
+\'d8<hw>Hy`per*pla"si*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ype`r</grk> over + <?/ conformation, fr. <?/ to mold.]</ety> <fld>(Med. & Biol.)</fld> <def>An increase in, or excessive growth of, the normal elements of any part.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ <xex>Hyperplasia</xex> relates to the formation of new elements, <xex>hypertrophy</xex> being an increase in bulk of preexisting normal elements.</note>  <rj><au>Dunglison.</au></rj><br/
@@ -29562,11 +29562,11 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyperpnoea</ent><br/
-||<hw>Hy`perp*n<oe/"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ype`r</grk> over + <?/, <?/, breath.]</ety> <fld>(Physiol.)</fld> <def>Abnormal breathing, due to slightly deficient arterialization of the blood; -- in distinction from <contr>eupn<oe/a</contr>. See <er>Eupn<oe/a</er>, and <er>Dispn<oe/a</er>.</def><br/
+\'d8<hw>Hy`perp*n<oe/"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ype`r</grk> over + <?/, <?/, breath.]</ety> <fld>(Physiol.)</fld> <def>Abnormal breathing, due to slightly deficient arterialization of the blood; -- in distinction from <contr>eupn<oe/a</contr>. See <er>Eupn<oe/a</er>, and <er>Dispn<oe/a</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyperpyrexia</ent><br/
-||<hw>Hy`per*py*rex"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hyper-</er>, and <er>Pyrexia</er>.]</ety> <fld>(Med.)</fld> <def>A condition of excessive fever; an elevation of temperature in a disease, in excess of the limit usually observed in that disease.</def><br/
+\'d8<hw>Hy`per*py*rex"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hyper-</er>, and <er>Pyrexia</er>.]</ety> <fld>(Med.)</fld> <def>A condition of excessive fever; an elevation of temperature in a disease, in excess of the limit usually observed in that disease.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypersecretion</ent><br/
@@ -29626,7 +29626,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyperthyrion</ent><br/
-||<hw>Hy`per*thyr"i*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/; <grk>"ype`r</grk> over + <?/ door.]</ety> <fld>(Arch.)</fld> <def>That part of the architrave which is over a door or window.</def></p>
+\'d8<hw>Hy`per*thyr"i*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/; <grk>"ype`r</grk> over + <?/ door.]</ety> <fld>(Arch.)</fld> <def>That part of the architrave which is over a door or window.</def></p>
 
 <p><ent>hypertonic</ent><br/
 <hw>hy`per*ton"ic</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>hyper-</ets> + <ets>tonic</ets>.]</ety> <fld>(Physiology, Biochemistry)</fld> <def>Having a higher osmotic pressure than a comparison solution; -- of an aqueous solution.  Increasing the concentration of dissolved solids increases the osmotic pressure, and thus the tonicity of a solution.  Opposite of <ant>hypotonic</ant> and contrasting with <contr>isotonic</contr>.</def> <wns>[wns=1]</wns><br/
@@ -29680,7 +29680,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Hyphae</ent><br/
-||<hw>Hy"ph<ae/</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"yfh`</grk> a web.]</ety> <fld>(Bot.)</fld> <def>The long, branching filaments of which the mycelium (and the greater part of the plant) of a fungus is formed.  They are also found enveloping the gonidia of lichens, making up a large part of their structure.</def><br/
+\'d8<hw>Hy"ph<ae/</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"yfh`</grk> a web.]</ety> <fld>(Bot.)</fld> <def>The long, branching filaments of which the mycelium (and the greater part of the plant) of a fungus is formed.  They are also found enveloping the gonidia of lichens, making up a large part of their structure.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyphen</ent><br/
@@ -29700,7 +29700,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Hyphomycetes</ent><br/
-||<hw>Hy`pho*my*ce"tes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ a web + <?/, <?/, a mushroom.]</ety> <fld>(Bot.)</fld> <def>One of the great division of fungi, containing those species which have naked spores borne on free or only fasciculate threads.</def>  <rj><au>M. J. Berkley.</au></rj><br/
+\'d8<hw>Hy`pho*my*ce"tes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ a web + <?/, <?/, a mushroom.]</ety> <fld>(Bot.)</fld> <def>One of the great division of fungi, containing those species which have naked spores borne on free or only fasciculate threads.</def>  <rj><au>M. J. Berkley.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypidiomorphic</ent><br/
@@ -29708,7 +29708,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypinosis</ent><br/
-||<hw>Hyp`i*no"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ under + <?/, <?/ strength, fiber.]</ety> <fld>(Med.)</fld> <def>A diminution in the normal amount of fibrin present in the blood.</def><br/
+\'d8<hw>Hyp`i*no"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ under + <?/, <?/ strength, fiber.]</ety> <fld>(Med.)</fld> <def>A diminution in the normal amount of fibrin present in the blood.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypnagogic</ent><br/
@@ -29740,7 +29740,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Hypnosis</ent><br/
-||<hw>Hyp*no"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ sleep.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>Supervention of sleep.</def><br/
+\'d8<hw>Hyp*no"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ sleep.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>Supervention of sleep.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The condition of being hypnotized or the process of hypnotizing a person; hypnotism{1}.</def><br/
@@ -29784,7 +29784,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypnum</ent><br/
-||<hw>Hyp"num</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ moss.]</ety> <fld>(Bot.)</fld> <def>The largest genus of true mosses; feather moss.</def><br/
+\'d8<hw>Hyp"num</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ moss.]</ety> <fld>(Bot.)</fld> <def>The largest genus of true mosses; feather moss.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypo-</ent><br/
@@ -29807,7 +29807,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypoarion</ent><br/
-||<hw>Hy`po*a"ri*on</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hypoaria</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>"ypo`</grk> beneath + <?/ a little egg.]</ety> <fld>(Anat.)</fld> <def>An oval lobe beneath each of the optic lobes in many fishes; one of the inferior lobes.</def>  <rj><au>Owen.</au></rj><br/
+\'d8<hw>Hy`po*a"ri*on</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hypoaria</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>"ypo`</grk> beneath + <?/ a little egg.]</ety> <fld>(Anat.)</fld> <def>An oval lobe beneath each of the optic lobes in many fishes; one of the inferior lobes.</def>  <rj><au>Owen.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypoblast</ent><br/
@@ -29827,7 +29827,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 
 <p><ent>Hypocarpium</ent><br/
 <ent>Hypocarp</ent><br/
-<mhw>{ <hw>Hy"po*carp</hw> <pr>(?)</pr>, ||<hw>Hy`po*car"pi*um</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>hypocarpium</ets>, fr. Gr. <grk>"ypo`</grk> beneath + <?/ fruit.]</ety> <fld>(Bot.)</fld> <def>A fleshy enlargement of the receptacle, or for the stem, below the proper fruit, as in the cashew. See <xex>Illust.</xex> of <er>Cashew</er>.</def><br/
+<mhw>{ <hw>Hy"po*carp</hw> <pr>(?)</pr>, \'d8<hw>Hy`po*car"pi*um</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>hypocarpium</ets>, fr. Gr. <grk>"ypo`</grk> beneath + <?/ fruit.]</ety> <fld>(Bot.)</fld> <def>A fleshy enlargement of the receptacle, or for the stem, below the proper fruit, as in the cashew. See <xex>Illust.</xex> of <er>Cashew</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 721 --></p>
@@ -29894,7 +29894,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypochondrium</ent><br/
-||<hw>Hy`po*chon"dri*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Hypochondria</plw> <pr>(#)</pr>, E. <plw>Hypochondriums</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/, from <?/ under the cartilage of the breastbone; <?/ under + <?/ cartilage.]</ety> <fld>(Anat.)</fld> <def>Either of the hypochondriac regions.</def><br/
+\'d8<hw>Hy`po*chon"dri*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Hypochondria</plw> <pr>(#)</pr>, E. <plw>Hypochondriums</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/, from <?/ under the cartilage of the breastbone; <?/ under + <?/ cartilage.]</ety> <fld>(Anat.)</fld> <def>Either of the hypochondriac regions.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypochondry</ent><br/
@@ -29906,7 +29906,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypocleidium</ent><br/
-||<hw>Hy`po*clei"di*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Hypocleida</plw> <pr>(#)</pr>, E. <plw>Hypocleidiums</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ under + <?/ a little key.]</ety> <fld>(Anat.)</fld> <def>A median process on the furculum, or merrythought, of many birds, where it is connected with the sternum.</def><br/
+\'d8<hw>Hy`po*clei"di*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Hypocleida</plw> <pr>(#)</pr>, E. <plw>Hypocleidiums</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ under + <?/ a little key.]</ety> <fld>(Anat.)</fld> <def>A median process on the furculum, or merrythought, of many birds, where it is connected with the sternum.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypocoristic</ent><br/
@@ -29972,7 +29972,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypodactylum</ent><br/
-||<hw>Hyp`o*dac"ty*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>-tyla</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>"ypo`</grk> beneath + <?/ a finger, toe.]</ety> <fld>(Zool.)</fld> <def>The under side of the toes.</def><br/
+\'d8<hw>Hyp`o*dac"ty*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>-tyla</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>"ypo`</grk> beneath + <?/ a finger, toe.]</ety> <fld>(Zool.)</fld> <def>The under side of the toes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypoderm</ent><br/
@@ -29980,7 +29980,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypoderma</ent><br/
-||<hw>Hyp`o*der"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hypo</er>, and <er>derma</er>.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A layer of tissue beneath the epidermis in plants, and performing the physiological function of strengthening the epidermal tissue. In phanerogamous plants it is developed as <xex>collenchyma</xex>.</def><br/
+\'d8<hw>Hyp`o*der"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hypo</er>, and <er>derma</er>.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A layer of tissue beneath the epidermis in plants, and performing the physiological function of strengthening the epidermal tissue. In phanerogamous plants it is developed as <xex>collenchyma</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>An inner cellular layer which lies beneath the chitinous cuticle of arthropods, annelids, and some other invertebrates.</def><br/
@@ -30017,7 +30017,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Hypodermis</ent><br/
-||<hw>Hyp`o*der"mis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hypo-</er>, and <er>Derma</er>.]</ety> <sn>1.</sn> <fld>(Biol.)</fld> <def>Same as <er>Hypoblast</er>.</def><br/
+\'d8<hw>Hyp`o*der"mis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hypo-</er>, and <er>Derma</er>.]</ety> <sn>1.</sn> <fld>(Biol.)</fld> <def>Same as <er>Hypoblast</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>Same as <er>Hypoderma</er>, 2.</def></p>
@@ -30042,7 +30042,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypogastrium</ent><br/
-||<hw>Hyp`o*gas"tri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/; <?/ under + <?/ belly.]</ety> <fld>(Anat.)</fld> <def>The lower part of the abdomen.</def><br/
+\'d8<hw>Hyp`o*gas"tri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/; <?/ under + <?/ belly.]</ety> <fld>(Anat.)</fld> <def>The lower part of the abdomen.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypogean</ent><br/
@@ -30058,7 +30058,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypogeum</ent><br/
-||<hw>Hyp`o*ge"um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hypogea</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/, <?/, subterranean; <?/ under + <?/, <?/, the earth.]</ety> <fld>(Anc. Arch.)</fld> <def>The subterraneous portion of a building, as in amphitheaters, for the service of the games; also, subterranean galleries, as the catacombs.</def><br/
+\'d8<hw>Hyp`o*ge"um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hypogea</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/, <?/, subterranean; <?/ under + <?/, <?/, the earth.]</ety> <fld>(Anc. Arch.)</fld> <def>The subterraneous portion of a building, as in amphitheaters, for the service of the games; also, subterranean galleries, as the catacombs.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypoglossal</ent><br/
@@ -30110,7 +30110,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Hypopharynx</ent><br/
-||<hw>Hy`po*phar"ynx</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hypo-</er>, and <er>Pharynx</er>.]</ety> <fld>(Zool.)</fld> <def>An appendage or fold on the lower side of the pharynx, in certain insects.</def><br/
+\'d8<hw>Hy`po*phar"ynx</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hypo-</er>, and <er>Pharynx</er>.]</ety> <fld>(Zool.)</fld> <def>An appendage or fold on the lower side of the pharynx, in certain insects.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypophosphate</ent><br/
@@ -30144,7 +30144,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypophysis</ent><br/
-||<hw>Hy*poph"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ under + <?/ nature, origin.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>See <cref>Pituitary body</cref>, under <er>Pituitary</er>.</def><br/
+\'d8<hw>Hy*poph"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ under + <?/ nature, origin.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>See <cref>Pituitary body</cref>, under <er>Pituitary</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Med.)</fld> <def>Cataract.</def><br/
@@ -30155,15 +30155,15 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypoptilum</ent><br/
-||<hw>Hy*pop"ti*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Hypoptila</plw> <pr>(#)</pr>, E. <plw>Hypoptilums</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>"ypo`</grk> beneath + <?/ down.]</ety> <fld>(Zool.)</fld> <def>An accessory plume arising from the posterior side of the stem of the contour feathers of many birds; -- called also <altname>aftershaft</altname>. See <xex>Illust.</xex> of <er>Feather</er>.</def><br/
+\'d8<hw>Hy*pop"ti*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Hypoptila</plw> <pr>(#)</pr>, E. <plw>Hypoptilums</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>"ypo`</grk> beneath + <?/ down.]</ety> <fld>(Zool.)</fld> <def>An accessory plume arising from the posterior side of the stem of the contour feathers of many birds; -- called also <altname>aftershaft</altname>. See <xex>Illust.</xex> of <er>Feather</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyporadius</ent><br/
-||<hw>Hy`po*ra"di*us</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hyporadii</plw> <pr>(#)</pr>.</plu> <ety>[Pref. <ets>hypo-</ets> + <ets>radius</ets>.]</ety> <fld>(Zool.)</fld> <def>One of the barbs of the hypoptilum, or aftershaft of a feather. See <er>Feather</er>.</def><br/
+\'d8<hw>Hy`po*ra"di*us</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hyporadii</plw> <pr>(#)</pr>.</plu> <ety>[Pref. <ets>hypo-</ets> + <ets>radius</ets>.]</ety> <fld>(Zool.)</fld> <def>One of the barbs of the hypoptilum, or aftershaft of a feather. See <er>Feather</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyporhachis</ent><br/
-||<hw>Hy`po*rha"chis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hyporhachides</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>"ypo`</grk> beneath + <?/ spine.]</ety> <fld>(Zool.)</fld> <def>The stem of an aftershaft or hypoptilum.</def> <altsp>[Written also <asp>hyporachis</asp>.]</altsp><br/
+\'d8<hw>Hy`po*rha"chis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hyporhachides</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>"ypo`</grk> beneath + <?/ spine.]</ety> <fld>(Zool.)</fld> <def>The stem of an aftershaft or hypoptilum.</def> <altsp>[Written also <asp>hyporachis</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyposkeletal</ent><br/
@@ -30171,7 +30171,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypospadias</ent><br/
-||<hw>Hy`po*spa"di*as</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ypo`</grk> beneath + <grk>spa`n</grk> to draw, tear.]</ety> <fld>(Med.)</fld> <def>A deformity of the penis, in which the urethra opens upon its under surface.</def><br/
+\'d8<hw>Hy`po*spa"di*as</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ypo`</grk> beneath + <grk>spa`n</grk> to draw, tear.]</ety> <fld>(Med.)</fld> <def>A deformity of the penis, in which the urethra opens upon its under surface.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypostasis</ent><br/
@@ -30228,11 +30228,11 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyposternum</ent><br/
-||<hw>Hy`po*ster"num</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Hyposterna</plw> <pr>(#)</pr>, E. <plw>Hyposternums</plw> <pr>(#)</pr>.</plu> <ety>[Pref. <ets>hypo-</ets> + <ets>sternum</ets>.]</ety> <fld>(Anat.)</fld> <def>See <er>Hypoplastron</er>.</def></p>
+\'d8<hw>Hy`po*ster"num</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Hyposterna</plw> <pr>(#)</pr>, E. <plw>Hyposternums</plw> <pr>(#)</pr>.</plu> <ety>[Pref. <ets>hypo-</ets> + <ets>sternum</ets>.]</ety> <fld>(Anat.)</fld> <def>See <er>Hypoplastron</er>.</def></p>
 
 <p><ent>Hypostoma</ent><br/
 <ent>Hypostome</ent><br/
-<mhw>{ <hw>Hy"po*stome</hw> <pr>(?)</pr>, ||<hw>Hy*pos"to*ma</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>hypostoma</ets>, fr. Gr. <grk>"ypo`</grk> beneath + <?/ mouth.]</ety> <fld>(Zool.)</fld> <def>The lower lip of trilobites, crustaceans, etc.</def><br/
+<mhw>{ <hw>Hy"po*stome</hw> <pr>(?)</pr>, \'d8<hw>Hy*pos"to*ma</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>hypostoma</ets>, fr. Gr. <grk>"ypo`</grk> beneath + <?/ mouth.]</ety> <fld>(Zool.)</fld> <def>The lower lip of trilobites, crustaceans, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypostrophe</ent><br/
@@ -30267,7 +30267,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypotarsus</ent><br/
-||<hw>Hy`po*tar"sus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hypotarsi</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Hypo-</er>, and <er>Tarsus</er>.]</ety> <fld>(Anat.)</fld> <def>A process on the posterior side of the tarsometatarsus of many birds; the calcaneal process.</def> -- <wordforms><wf>Hy`po*tar"sal</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms></p>
+\'d8<hw>Hy`po*tar"sus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hypotarsi</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Hypo-</er>, and <er>Tarsus</er>.]</ety> <fld>(Anat.)</fld> <def>A process on the posterior side of the tarsometatarsus of many birds; the calcaneal process.</def> -- <wordforms><wf>Hy`po*tar"sal</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms></p>
 
 <p><ent>Hypothenuse</ent><br/
 <ent>Hypotenuse</ent><br/
@@ -30279,7 +30279,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypotheca</ent><br/
-||<hw>Hy`po*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/ a thing subject to some obligation, fr. <?/ to put under, put down, pledge. See <er>Hypothesis</er>.]</ety> <fld>(Rom. Law)</fld> <def>An obligation by which property of a debtor was made over to his creditor in security of his debt.</def><br/
+\'d8<hw>Hy`po*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/ a thing subject to some obligation, fr. <?/ to put under, put down, pledge. See <er>Hypothesis</er>.]</ety> <fld>(Rom. Law)</fld> <def>An obligation by which property of a debtor was made over to his creditor in security of his debt.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ It differed from pledge in regard to possession of the property subject to the obligation; pledge requiring, simple hypotheca not requiring, possession of it by the creditor. The modern mortgage corresponds very closely with it.</note>  <rj><au>Kent.</au></rj><br/
@@ -30360,11 +30360,11 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypotrachelium</ent><br/
-||<hw>Hy`po*tra*che"li*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/; <?/ under + <?/ neck.]</ety> <fld>(Arch.)</fld> <def>Same as <er>Gorgerin</er>.</def><br/
+\'d8<hw>Hy`po*tra*che"li*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/; <?/ under + <?/ neck.]</ety> <fld>(Arch.)</fld> <def>Same as <er>Gorgerin</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypotricha</ent><br/
-||<hw>Hy*pot"ri*cha</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ypo`</grk> beneath + <?/, <?/, a hair.]</ety> <fld>(Zool.)</fld> <def>A division of ciliated Infusoria in which the cilia cover only the under side of the body.</def><br/
+\'d8<hw>Hy*pot"ri*cha</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ypo`</grk> beneath + <?/, <?/, a hair.]</ety> <fld>(Zool.)</fld> <def>A division of ciliated Infusoria in which the cilia cover only the under side of the body.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypotrochoid</ent><br/
@@ -30372,7 +30372,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypotyposis</ent><br/
-||<hw>Hy`po*ty*po"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <?/ to sketch out; <?/ under + <?/ to impress.]</ety> <fld>(Rhet.)</fld> <def>A vivid, picturesque description of scenes or events.</def><br/
+\'d8<hw>Hy`po*ty*po"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <?/ to sketch out; <?/ under + <?/ to impress.]</ety> <fld>(Rhet.)</fld> <def>A vivid, picturesque description of scenes or events.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypoxanthin</ent><br/
@@ -30421,7 +30421,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyracoidea</ent><br/
-||<hw>Hyr`a*coi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Hyrax</er>, and <er>oid</er>.]</ety> <fld>(Zool.)</fld> <def>An order of small hoofed mammals, comprising the single living genus <gen>Hyrax</gen>.</def><br/
+\'d8<hw>Hyr`a*coi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Hyrax</er>, and <er>oid</er>.]</ety> <fld>(Zool.)</fld> <def>An order of small hoofed mammals, comprising the single living genus <gen>Hyrax</gen>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyracotherium</ent><br/
@@ -30430,7 +30430,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Hyrax</ent><br/
-||<hw>Hy"rax</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ shrew mouse.]</ety> <fld>(Zool.)</fld> <def>Any animal of the genus <gen>Hyrax</gen>, of which about four species are known.  They constitute the order <ord>Hyracoidea</ord>.  The best known species are the daman (<spn>Hyrax Syriacus</spn>) of Palestine, and the klipdas (<spn>Hyrax capensis</spn>) of South Africa.  Other species are <spn>Hyrax arboreus</spn> and <spn>Hyrax Sylvestris</spn>, the former from Southern, and the latter from Western, Africa. See <er>Daman</er>.</def></p>
+\'d8<hw>Hy"rax</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ shrew mouse.]</ety> <fld>(Zool.)</fld> <def>Any animal of the genus <gen>Hyrax</gen>, of which about four species are known.  They constitute the order <ord>Hyracoidea</ord>.  The best known species are the daman (<spn>Hyrax Syriacus</spn>) of Palestine, and the klipdas (<spn>Hyrax capensis</spn>) of South Africa.  Other species are <spn>Hyrax arboreus</spn> and <spn>Hyrax Sylvestris</spn>, the former from Southern, and the latter from Western, Africa. See <er>Daman</er>.</def></p>
 
 <p><ent>Hyrcan</ent><br/
 <ent>Hyrcanian</ent><br/
@@ -30469,7 +30469,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hysteresis</ent><br/
-||<hw>Hys`te*re"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ to be behind, to lag.]</ety> <fld>(Physics)</fld> <def>A lagging or retardation of the effect, when the forces acting upon a body are changed, as if from velocity or internal friction; a temporary resistance to change from a condition previously induced, observed in magnetism, thermoelectricity, etc., on reversal of polarity.</def><br/
+\'d8<hw>Hys`te*re"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ to be behind, to lag.]</ety> <fld>(Physics)</fld> <def>A lagging or retardation of the effect, when the forces acting upon a body are changed, as if from velocity or internal friction; a temporary resistance to change from a condition previously induced, observed in magnetism, thermoelectricity, etc., on reversal of polarity.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hysteretic</ent><br/
@@ -30520,7 +30520,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hysteron proteron</ent><br/
-||<hw>Hys"te*ron prot"e*ron</hw> <pr>(?)</pr>. <ety>[NL., fr. Gr. <grk>"y`steros</grk> the latter, following + <grk>pro`teros</grk> before, others, sooner.]</ety> <fld>(Rhet.)</fld> <sd>(a)</sd> <def>A figure in which the natural order of sense is reversed; hysterology; <as>as, <ex>valet atque vivit</ex>, <ldquo/he is well and lives</as>.<rdquo/</def> <sd>(b)</sd> <def>An inversion of logical order, in which the conclusion is put before the premises, or the thing proved before the evidence.</def><br/
+\'d8<hw>Hys"te*ron prot"e*ron</hw> <pr>(?)</pr>. <ety>[NL., fr. Gr. <grk>"y`steros</grk> the latter, following + <grk>pro`teros</grk> before, others, sooner.]</ety> <fld>(Rhet.)</fld> <sd>(a)</sd> <def>A figure in which the natural order of sense is reversed; hysterology; <as>as, <ex>valet atque vivit</ex>, <ldquo/he is well and lives</as>.<rdquo/</def> <sd>(b)</sd> <def>An inversion of logical order, in which the conclusion is put before the premises, or the thing proved before the evidence.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hysterophyte</ent><br/

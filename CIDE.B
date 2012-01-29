@@ -112,7 +112,7 @@ knowledge base should contact:
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Baba</ent><br/
-||<hw>Ba"ba</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A kind of plum cake.</def><br/
+\'d8<hw>Ba"ba</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A kind of plum cake.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>babassu</ent><br/
@@ -240,7 +240,7 @@ knowledge base should contact:
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Babillard</ent><br/
-||<hw>Bab"il*lard</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., a babbler.]</ety> <fld>(Zool.)</fld> <def>The lesser whitethroat of Europe; -- called also <altname>babbling warbler</altname>.</def><br/
+\'d8<hw>Bab"il*lard</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., a babbler.]</ety> <fld>(Zool.)</fld> <def>The lesser whitethroat of Europe; -- called also <altname>babbling warbler</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Babingtonite</ent><br/
@@ -249,7 +249,7 @@ knowledge base should contact:
 
 <p><ent>Babirussa</ent><br/
 <ent>Babiroussa</ent><br/
-<mhw>{ ||<hw>Bab`i*rous"sa</hw>, ||<hw>Bab`i*rus"sa</hw>}</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>babiroussa</ets>, fr. Malay <ets>b<amac/b<imac/</ets> hog + <ets>r<umac/sa</ets> deer.]</ety> <fld>(Zool.)</fld> <def>A large hoglike quadruped (<spn>Sus babirussa</spn>, <it>syn.</it> <spn>Porcus babirussa</spn>) of the East Indies, sometimes domesticated; the Indian hog.  Its upper canine teeth or tusks are large and recurved.</def><br/
+<mhw>{ \'d8<hw>Bab`i*rous"sa</hw>, \'d8<hw>Bab`i*rus"sa</hw>}</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>babiroussa</ets>, fr. Malay <ets>b<amac/b<imac/</ets> hog + <ets>r<umac/sa</ets> deer.]</ety> <fld>(Zool.)</fld> <def>A large hoglike quadruped (<spn>Sus babirussa</spn>, <it>syn.</it> <spn>Porcus babirussa</spn>) of the East Indies, sometimes domesticated; the Indian hog.  Its upper canine teeth or tusks are large and recurved.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Babish</ent><br/
@@ -266,12 +266,12 @@ knowledge base should contact:
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bablah</ent><br/
-||<hw>Bab"lah</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Cf. Per. <ets>bab<umac/l</ets> a species of mimosa yielding gum arabic.]</ety> <def>The rind of the fruit of several East Indian species of acacia; neb-neb. It contains gallic acid and tannin, and is used for dyeing drab.</def><br/
+\'d8<hw>Bab"lah</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Cf. Per. <ets>bab<umac/l</ets> a species of mimosa yielding gum arabic.]</ety> <def>The rind of the fruit of several East Indian species of acacia; neb-neb. It contains gallic acid and tannin, and is used for dyeing drab.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Babu</ent><br/
 <ent>Baboo</ent><br/
-<mhw>{ ||<hw>Ba"boo</hw>, ||<hw>Ba"bu</hw>  }</mhw> <pr>(b<aum/"b<oomac/)</pr>, <pos>n.</pos> <ety>[Hind. <ets>b<amac/b<umac/</ets>.]</ety> <def>A Hindu gentleman; a native clerk who writes English; also, a Hindu title equivalent to the English <sig>Mr.</sig> or <sig>Esquire</sig>.</def>  <rj><au>Whitworth.</au></rj><br/
+<mhw>{ \'d8<hw>Ba"boo</hw>, \'d8<hw>Ba"bu</hw>  }</mhw> <pr>(b<aum/"b<oomac/)</pr>, <pos>n.</pos> <ety>[Hind. <ets>b<amac/b<umac/</ets>.]</ety> <def>A Hindu gentleman; a native clerk who writes English; also, a Hindu title equivalent to the English <sig>Mr.</sig> or <sig>Esquire</sig>.</def>  <rj><au>Whitworth.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Baboon</ent><br/
@@ -398,7 +398,7 @@ Toyed with his locks, looked <qex>babies in his eyes</qex>.</q> <rj><qau>Heywood
 
 <p><ent>Babyrussa</ent><br/
 <ent>Babyroussa</ent><br/
-<mhw>{ ||<hw>Bab`y*rous"sa</hw>, ||<hw>Bab`y*rus"sa</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Babiroussa</er>.</def><br/
+<mhw>{ \'d8<hw>Bab`y*rous"sa</hw>, \'d8<hw>Bab`y*rus"sa</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Babiroussa</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Babyship</ent><br/
@@ -453,7 +453,7 @@ Toyed with his locks, looked <qex>babies in his eyes</qex>.</q> <rj><qau>Heywood
 
 <p><ent>Baccarat</ent><br/
 <ent>Baccara</ent><br/
-<mhw>{ ||<hw>Bac`ca*ra"</hw>, <hw>Bac`ca*rat"</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A French game of cards, played by a banker and punters.</def><br/
+<mhw>{ \'d8<hw>Bac`ca*ra"</hw>, <hw>Bac`ca*rat"</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A French game of cards, played by a banker and punters.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Backare</ent><br/
@@ -496,7 +496,7 @@ Toyed with his locks, looked <qex>babies in his eyes</qex>.</q> <rj><qau>Heywood
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bacchanalia</ent><br/
-||<hw>Bac`cha*na"li*a</hw> <pr>(b<acr/k`k<adot/*n<amac/"l<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[L. <ets>Bacchanal</ets> a place devoted to Bacchus; in the pl. <ets>Bacchanalia</ets> a feast of Bacchus, fr. <ets>Bacchus</ets> the god of wine, Gr. <grk>Ba`kchos</grk>.]</ety><br/
+\'d8<hw>Bac`cha*na"li*a</hw> <pr>(b<acr/k`k<adot/*n<amac/"l<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[L. <ets>Bacchanal</ets> a place devoted to Bacchus; in the pl. <ets>Bacchanalia</ets> a feast of Bacchus, fr. <ets>Bacchus</ets> the god of wine, Gr. <grk>Ba`kchos</grk>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <fld>(Myth.)</fld> <def>A feast or an orgy in honor of Bacchus.</def><br/
@@ -549,7 +549,7 @@ Toyed with his locks, looked <qex>babies in his eyes</qex>.</q> <rj><qau>Heywood
 [<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 
 <p><ent>Bacchius</ent><br/
-||<hw>Bac*chi"us</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Bacchii</plw>  <pr>(<?/)</pr>.</plu> <ety>[L. <ets>Bacchius</ets> pes, Gr. <grk>"o Bakchei^os</grk> (sc. <grk>poy`s</grk> foot).]</ety> <fld>(Pros.)</fld> <def>A metrical foot composed of a short syllable and two long ones; according to some, two long and a short.</def><br/
+\'d8<hw>Bac*chi"us</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Bacchii</plw>  <pr>(<?/)</pr>.</plu> <ety>[L. <ets>Bacchius</ets> pes, Gr. <grk>"o Bakchei^os</grk> (sc. <grk>poy`s</grk> foot).]</ety> <fld>(Pros.)</fld> <def>A metrical foot composed of a short syllable and two long ones; according to some, two long and a short.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bacchus</ent><br/
@@ -642,7 +642,7 @@ Toyed with his locks, looked <qex>babies in his eyes</qex>.</q> <rj><qau>Heywood
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bacillariae</ent><br/
-||<hw>Bac"il*la`ri*<ae/</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>bacillum</ets>, dim. of <ets>baculum</ets> stick.]</ety> <fld>(Biol.)</fld> <def>See <er>Diatom</er>.</def><br/
+\'d8<hw>Bac"il*la`ri*<ae/</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>bacillum</ets>, dim. of <ets>baculum</ets> stick.]</ety> <fld>(Biol.)</fld> <def>See <er>Diatom</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bacillary</ent><br/
@@ -1250,7 +1250,7 @@ Appeared to me.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Backshish</ent><br/
 <ent>Backsheesh</ent><br/
-<mhw>{ ||<hw>Back"sheesh`</hw>, ||<hw>Back"shish`</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Pers. <ets>bakhsh<imac/sh</ets>, fr.  <ets>bakhsh<imac/dan</ets> to give.]</ety> <def>In Egypt and the Turkish empire, a relatively small amount of money given for services rendered (as by a waiter); a gratuity; a <ldquo/tip<rdquo/.</def><br/
+<mhw>{ \'d8<hw>Back"sheesh`</hw>, \'d8<hw>Back"shish`</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Pers. <ets>bakhsh<imac/sh</ets>, fr.  <ets>bakhsh<imac/dan</ets> to give.]</ety> <def>In Egypt and the Turkish empire, a relatively small amount of money given for services rendered (as by a waiter); a gratuity; a <ldquo/tip<rdquo/.</def><br/
 <syn><b>Syn. --</b> gratuity, tip, baksheesh, bakshish, bakshis.</syn><br/
 [<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 
@@ -1752,7 +1752,7 @@ Works edited by Ellis, Spedding, and Heath (7 vols. 1857); Life by Spedding
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Badaud</ent><br/
-||<hw>Ba`daud"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A person given to idle observation of everything, with wonder or astonishment; a credulous or gossipy idler.</def><br/
+\'d8<hw>Ba`daud"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A person given to idle observation of everything, with wonder or astonishment; a credulous or gossipy idler.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>A host of stories . . . dealing chiefly with the subject of his great wealth, an ever delightful topic to the <qex>badauds</qex> of Paris.</q>  <rj><qau>Pall Mall Mag.</qau></rj><br/
@@ -1843,11 +1843,11 @@ Works edited by Ellis, Spedding, and Heath (7 vols. 1857); Life by Spedding
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Badiaga</ent><br/
-||<hw>Bad`i*a"ga</hw> <pr>(b<acr/d`<icr/<amac/"g<adot/ <it>or</it> b<adot/d*y<aum/"g<adot/)</pr>, <pos>n.</pos> <ety>[Russ. <ets>badiaga</ets>.]</ety> <fld>(Zool.)</fld> <def>A fresh-water sponge <gen>(Spongilla)</gen>, common in the north of Europe, the powder of which is used to take away the livid marks of bruises.</def><br/
+\'d8<hw>Bad`i*a"ga</hw> <pr>(b<acr/d`<icr/<amac/"g<adot/ <it>or</it> b<adot/d*y<aum/"g<adot/)</pr>, <pos>n.</pos> <ety>[Russ. <ets>badiaga</ets>.]</ety> <fld>(Zool.)</fld> <def>A fresh-water sponge <gen>(Spongilla)</gen>, common in the north of Europe, the powder of which is used to take away the livid marks of bruises.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Badian</ent><br/
-||<hw>Ba"di*an</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>badiane</ets>, fr. Per. <ets>b<amac/di<amac/n</ets> anise.]</ety> <fld>(Bot.)</fld> <def>An evergreen Chinese shrub of the Magnolia family (<spn>Illicium anisatum</spn>), and its aromatic seeds; Chinese anise; star anise.</def><br/
+\'d8<hw>Ba"di*an</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>badiane</ets>, fr. Per. <ets>b<amac/di<amac/n</ets> anise.]</ety> <fld>(Bot.)</fld> <def>An evergreen Chinese shrub of the Magnolia family (<spn>Illicium anisatum</spn>), and its aromatic seeds; Chinese anise; star anise.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Badigeon</ent><br/
@@ -1855,7 +1855,7 @@ Works edited by Ellis, Spedding, and Heath (7 vols. 1857); Life by Spedding
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Badinage</ent><br/
-||<hw>Ba`di`nage"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>badiner</ets> to joke, OF. to trifle, be silly, fr. <ets>badin</ets> silly.]</ety> <def>Playful raillery; banter.</def> <ldquo/He . . . indulged himself only in an elegant <xex>badinage</xex>.<rdquo/  <rj><au>Warburton.</au></rj><br/
+\'d8<hw>Ba`di`nage"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>badiner</ets> to joke, OF. to trifle, be silly, fr. <ets>badin</ets> silly.]</ety> <def>Playful raillery; banter.</def> <ldquo/He . . . indulged himself only in an elegant <xex>badinage</xex>.<rdquo/  <rj><au>Warburton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bad lands</ent><br/
@@ -1881,7 +1881,7 @@ Works edited by Ellis, Spedding, and Heath (7 vols. 1857); Life by Spedding
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Baenomere</ent><br/
-||<hw>B<ae/"no*mere</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>bai`nein</grk> to walk + <ets>-mere</ets>.]</ety> <fld>(Zool.)</fld> <def>One of the somites (arthromeres) that make up the thorax of Arthropods.</def>  <rj><au>Packard.</au></rj><br/
+\'d8<hw>B<ae/"no*mere</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>bai`nein</grk> to walk + <ets>-mere</ets>.]</ety> <fld>(Zool.)</fld> <def>One of the somites (arthromeres) that make up the thorax of Arthropods.</def>  <rj><au>Packard.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Baenopod</ent><br/
@@ -1889,11 +1889,11 @@ Works edited by Ellis, Spedding, and Heath (7 vols. 1857); Life by Spedding
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Baenosome</ent><br/
-||<hw>B<ae/"no*some</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>bai`nein</grk> to walk + <ets>-some</ets> body.]</ety> <fld>(Zool.)</fld> <def>The thorax of Arthropods.</def>  <rj><au>Packard.</au></rj><br/
+\'d8<hw>B<ae/"no*some</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>bai`nein</grk> to walk + <ets>-some</ets> body.]</ety> <fld>(Zool.)</fld> <def>The thorax of Arthropods.</def>  <rj><au>Packard.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Baetulus</ent><br/
-||<hw>B<ae/"tu*lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>B<ae/tuli</plw> <pr>(#)</pr></plu>. <ety>[L., fr. Gr. <grk>bai`tylos</grk> a sacred meteorite.]</ety> <fld>(Antiq.)</fld> <def>A meteorite, or similar rude stone artificially shaped, held sacred or worshiped as of divine origin.</def><br/
+\'d8<hw>B<ae/"tu*lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>B<ae/tuli</plw> <pr>(#)</pr></plu>. <ety>[L., fr. Gr. <grk>bai`tylos</grk> a sacred meteorite.]</ety> <fld>(Antiq.)</fld> <def>A meteorite, or similar rude stone artificially shaped, held sacred or worshiped as of divine origin.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>All the evidence goes to prove that these menhirs are <qex>b<ae/tuli</qex>, i. e., traditional and elementary images of the deity.</q>  <rj><qau>I. Gonino (Perrot & Chipiez).</qau></rj><br/
@@ -2040,11 +2040,11 @@ The picture of his punishment might see.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bagasse</ent><br/
-||<hw>Ba*gasse"</hw> <pr>(b<adot/*g<acr/s")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Sugar cane, as it comes crushed from the mill. It is then dried and used as fuel. Also extended to the refuse of beetroot sugar.</def><br/
+\'d8<hw>Ba*gasse"</hw> <pr>(b<adot/*g<acr/s")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Sugar cane, as it comes crushed from the mill. It is then dried and used as fuel. Also extended to the refuse of beetroot sugar.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bagatelle</ent><br/
-||<hw>Bag`a*telle"</hw> <pr>(b<acr/g`<adot/*t<ecr/l")</pr>, <pos>n.</pos> <ety>[F., fr. It. <ets>bagatella</ets>; cf. Prov. It. <ets>bagata</ets> trifle, OF. <ets>bague</ets>, Pr. <ets>bagua</ets>, bundle. See <er>Bag</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>A trifle; a thing of no importance.</def><br/
+\'d8<hw>Bag`a*telle"</hw> <pr>(b<acr/g`<adot/*t<ecr/l")</pr>, <pos>n.</pos> <ety>[F., fr. It. <ets>bagatella</ets>; cf. Prov. It. <ets>bagata</ets> trifle, OF. <ets>bague</ets>, Pr. <ets>bagua</ets>, bundle. See <er>Bag</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>A trifle; a thing of no importance.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Rich trifles, serious <qex>bagatelles</qex>.</q> <rj><qau>Prior.</qau></rj><br/
@@ -2112,7 +2112,7 @@ The picture of his punishment might see.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Baggala</ent><br/
-||<hw>Bag"ga*la</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Ar. <ldquo/fem. of <ets>baghl</ets> a mule.<rdquo/ <au>Balfour</au>.]</ety> <fld>(Naut.)</fld> <def>A two-masted Arab or Indian trading vessel, used in the Indian Ocean.</def><br/
+\'d8<hw>Bag"ga*la</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Ar. <ldquo/fem. of <ets>baghl</ets> a mule.<rdquo/ <au>Balfour</au>.]</ety> <fld>(Naut.)</fld> <def>A two-masted Arab or Indian trading vessel, used in the Indian Ocean.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Baggily</ent><br/
@@ -2179,7 +2179,7 @@ The picture of his punishment might see.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bague</ent><br/
-||<hw>Bague</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., a ring]</ety> <fld>(Arch.)</fld> <def>The annular molding or group of moldings dividing a long shaft or clustered column into two or more parts.</def><br/
+\'d8<hw>Bague</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., a ring]</ety> <fld>(Arch.)</fld> <def>The annular molding or group of moldings dividing a long shaft or clustered column into two or more parts.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Baguette</ent><br/
@@ -2207,7 +2207,7 @@ The picture of his punishment might see.</q> <rj><qau>Spenser.</qau></rj><br/
 
 <p><ent>Bahaudur</ent><br/
 <ent>Bahadur</ent><br/
-<mhw>{ ||<hw>Ba*ha"dur</hw>   ||<hw>Ba*hau"dur</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also <asp>bahawder</asp>.]</altsp> <ety>[Hind. <ets>bah<amac/dur</ets> hero, champion.]</ety> <def>A title of respect or honor given to European officers in East Indian state papers, and colloquially, and among the natives, to distinguished officials and other important personages.</def><br/
+<mhw>{ \'d8<hw>Ba*ha"dur</hw>   \'d8<hw>Ba*hau"dur</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also <asp>bahawder</asp>.]</altsp> <ety>[Hind. <ets>bah<amac/dur</ets> hero, champion.]</ety> <def>A title of respect or honor given to European officers in East Indian state papers, and colloquially, and among the natives, to distinguished officials and other important personages.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bahai</ent><br/
@@ -2219,7 +2219,7 @@ The picture of his punishment might see.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bahar</ent><br/
-||<hw>Ba*har"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Ar. <ets>bah<amac/r</ets>, from <ets>bahara</ets> to charge with a load.]</ety> <def>A weight used in certain parts of the East Indies, varying considerably in different localities, the range being from 223 to 625 pounds.</def><br/
+\'d8<hw>Ba*har"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Ar. <ets>bah<amac/r</ets>, from <ets>bahara</ets> to charge with a load.]</ety> <def>A weight used in certain parts of the East Indies, varying considerably in different localities, the range being from 223 to 625 pounds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bahrain</ent><br/
@@ -2268,7 +2268,7 @@ The picture of his punishment might see.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Baignoire</ent><br/
-||<hw>Bai`gnoire"</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also <asp>baignoir</asp>.]</altsp> <ety>[F., lit., bath tub.]</ety> <def>A box of the lowest tier in a theater.</def>  <rj><au>Du Maurier.</au></rj><br/
+\'d8<hw>Bai`gnoire"</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also <asp>baignoir</asp>.]</altsp> <ety>[F., lit., bath tub.]</ety> <def>A box of the lowest tier in a theater.</def>  <rj><au>Du Maurier.</au></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bail</ent><br/
@@ -2462,7 +2462,7 @@ The picture of his punishment might see.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bain-marie</ent><br/
-||<hw>Bain`-ma`rie"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A vessel for holding hot water in which another vessel may be heated without scorching its contents; -- used for warming or preparing food or pharmaceutical preparations.</def><br/
+\'d8<hw>Bain`-ma`rie"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A vessel for holding hot water in which another vessel may be heated without scorching its contents; -- used for warming or preparing food or pharmaceutical preparations.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bairam</ent><br/
@@ -2542,7 +2542,7 @@ The picture of his punishment might see.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bajocco</ent><br/
-||<hw>Ba*joc"co</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[It., fr. <ets>bajo</ets> brown, bay, from its color.]</ety> <def>A small copper coin formerly current in the Roman States, worth about a cent and a half.</def><br/
+\'d8<hw>Ba*joc"co</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[It., fr. <ets>bajo</ets> brown, bay, from its color.]</ety> <def>A small copper coin formerly current in the Roman States, worth about a cent and a half.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bake</ent><br/
@@ -2643,7 +2643,7 @@ The picture of his punishment might see.</q> <rj><qau>Spenser.</qau></rj><br/
 
 <p><ent>Bakshish</ent><br/
 <ent>Baksheesh</ent><br/
-<mhw>{ ||<hw>Bak"sheesh`</hw>, <hw>Bak"shish`</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <def>Same as <er>Backsheesh</er>.</def><br/
+<mhw>{ \'d8<hw>Bak"sheesh`</hw>, <hw>Bak"shish`</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <def>Same as <er>Backsheesh</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>baksheesh</ent><br/
@@ -2673,7 +2673,7 @@ The picture of his punishment might see.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Balachong</ent><br/
-||<hw>Bal"a*chong</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Malay <ets>b<amac/lach<amac/n</ets>.]</ety> <def>A condiment formed of small fishes or shrimps, pounded up with salt and spices, and then dried. It is much esteemed in China.</def><br/
+\'d8<hw>Bal"a*chong</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Malay <ets>b<amac/lach<amac/n</ets>.]</ety> <def>A condiment formed of small fishes or shrimps, pounded up with salt and spices, and then dried. It is much esteemed in China.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>balaclava</ent><br/
@@ -2702,7 +2702,7 @@ The picture of his punishment might see.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Balaenoidea</ent><br/
-||<hw>Bal`<ae/*noi"de*a</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., from L. <ets>balaena</ets> whale + <ets>-oid</ets>.]</ety> <fld>(Zool.)</fld> <def>A division of the Cetacea, including the right whale and all other whales having the mouth fringed with baleen. See <er>Baleen</er>.</def><br/
+\'d8<hw>Bal`<ae/*noi"de*a</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., from L. <ets>balaena</ets> whale + <ets>-oid</ets>.]</ety> <fld>(Zool.)</fld> <def>A division of the Cetacea, including the right whale and all other whales having the mouth fringed with baleen. See <er>Baleen</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Balaenoptera</ent><br/
@@ -2861,7 +2861,7 @@ To make his <qex>balance</qex> true.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Balanoglossus</ent><br/
-||<hw>Bal`a*no*glos"sus</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ba`lanos</grk> acorn + <grk>glw^ssa</grk> tongue.]</ety> <fld>(Zool.)</fld> <def>A peculiar marine worm. See <er>Enteropneusta</er>, and <er>Tornaria</er>.</def><br/
+\'d8<hw>Bal`a*no*glos"sus</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ba`lanos</grk> acorn + <grk>glw^ssa</grk> tongue.]</ety> <fld>(Zool.)</fld> <def>A peculiar marine worm. See <er>Enteropneusta</er>, and <er>Tornaria</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Balanoid</ent><br/
@@ -2884,7 +2884,7 @@ To make his <qex>balance</qex> true.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Balayeuse</ent><br/
-||<hw>Ba`la`yeuse"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., lit., a female sweeper.]</ety> <def>A protecting ruffle or frill, as of silk or lace, sewed close to the lower edge of a skirt on the inside.</def><br/
+\'d8<hw>Ba`la`yeuse"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., lit., a female sweeper.]</ety> <def>A protecting ruffle or frill, as of silk or lace, sewed close to the lower edge of a skirt on the inside.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Balbucinate</ent><br/
@@ -2893,7 +2893,7 @@ To make his <qex>balance</qex> true.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Balbuties</ent><br/
-||<hw>Bal*bu"ti*es</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Med.)</fld> <def>The defect of stammering; also, a kind of incomplete pronunciation.</def><br/
+\'d8<hw>Bal*bu"ti*es</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Med.)</fld> <def>The defect of stammering; also, a kind of incomplete pronunciation.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Balcon</ent><br/
@@ -3110,7 +3110,7 @@ Into the burning lake their <qex>baleful</qex> streams.</q> <rj><qau>Milton.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Balisaur</ent><br/
-||<hw>Bal"i*sa`ur</hw> <pr>(b<acr/l"<icr/*s<aum/`<oomac/r)</pr>, <pos>n.</pos> <ety>[Hind.]</ety> <fld>(Zool.)</fld> <def>A badgerlike animal of India (<spn>Arctonyx collaris</spn>).</def><br/
+\'d8<hw>Bal"i*sa`ur</hw> <pr>(b<acr/l"<icr/*s<aum/`<oomac/r)</pr>, <pos>n.</pos> <ety>[Hind.]</ety> <fld>(Zool.)</fld> <def>A badgerlike animal of India (<spn>Arctonyx collaris</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Balister</ent><br/
@@ -3127,11 +3127,11 @@ Into the burning lake their <qex>baleful</qex> streams.</q> <rj><qau>Milton.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Balistraria</ent><br/
-||<hw>Bal`is*tra"ri*a</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[LL.]</ety> <fld>(Anc. Fort.)</fld> <def>A narrow opening, often cruciform, through which arrows might be discharged.</def>  <rj><au>Parker.</au></rj><br/
+\'d8<hw>Bal`is*tra"ri*a</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[LL.]</ety> <fld>(Anc. Fort.)</fld> <def>A narrow opening, often cruciform, through which arrows might be discharged.</def>  <rj><au>Parker.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Balize</ent><br/
-||<hw>Ba*lize"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>balise</ets>; cf. Sp. <ets>balisa</ets>.]</ety> <def>A pole or a frame raised as a sea beacon or a landmark.</def><br/
+\'d8<hw>Ba*lize"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>balise</ets>; cf. Sp. <ets>balisa</ets>.]</ety> <def>A pole or a frame raised as a sea beacon or a landmark.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Balk</ent><br/
@@ -3430,7 +3430,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Ballet</ent><br/
-||<hw>Bal"let`</hw> <pr>(b<acr/l"l<asl/` <it>or</it> b<acr/l"l<ecr/t; 277)</pr>, <pos>n.</pos> <ety>[F., a dim. of <ets>bal</ets> dance. See 2d <er>Ball</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>An artistic dance performed as a theatrical entertainment, or an interlude, by a number of persons, usually women. Sometimes, a scene accompanied by pantomime and dancing.</def><br/
+\'d8<hw>Bal"let`</hw> <pr>(b<acr/l"l<asl/` <it>or</it> b<acr/l"l<ecr/t; 277)</pr>, <pos>n.</pos> <ety>[F., a dim. of <ets>bal</ets> dance. See 2d <er>Ball</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>An artistic dance performed as a theatrical entertainment, or an interlude, by a number of persons, usually women. Sometimes, a scene accompanied by pantomime and dancing.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The company of persons who perform the ballet.</def><br/
@@ -3471,7 +3471,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Ballista</ent><br/
-||<hw>Bal*lis"ta</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ballist<ae/</plw> <pr>(<?/)</pr>.</plu> <ety>[L. <ets>ballista</ets>, <ets>balista</ets>, fr. Gr. <grk>ba`llein</grk> to throw.]</ety> <def>An ancient military engine, in the form of a crossbow, used for hurling large missiles.</def><br/
+\'d8<hw>Bal*lis"ta</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ballist<ae/</plw> <pr>(<?/)</pr>.</plu> <ety>[L. <ets>ballista</ets>, <ets>balista</ets>, fr. Gr. <grk>ba`llein</grk> to throw.]</ety> <def>An ancient military engine, in the form of a crossbow, used for hurling large missiles.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ballister</ent><br/
@@ -3513,7 +3513,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Ballium</ent><br/
-||<hw>Bal"li*um</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[LL.]</ety> <def>See <er>Bailey</er>.</def><br/
+\'d8<hw>Bal"li*um</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[LL.]</ety> <def>See <er>Bailey</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Balloon</ent><br/
@@ -3801,7 +3801,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Balsa</ent><br/
-||<hw>Bal"sa</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Sp. or Pg. <ets>balsa</ets>.]</ety> <fld>(Naut.)</fld> <def>A raft or float, used principally on the Pacific coast of South America.</def><br/
+\'d8<hw>Bal"sa</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Sp. or Pg. <ets>balsa</ets>.]</ety> <fld>(Naut.)</fld> <def>A raft or float, used principally on the Pacific coast of South America.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Balsam</ent><br/
@@ -3916,7 +3916,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Bambino</ent><br/
-||<hw>Bam*bi"no</hw> <pr>(b<aum/m*b<emac/"n<osl/)</pr>, <pos>n.</pos>; <plu><it>It. pl.</it> <plw>-ni</plw> <pr>(#)</pr></plu>. <ety>[It., a little boy, fr. <ets>bambo</ets> silly; cf. Gr. <grk>bambali`zein</grk>, <grk>bambai`nein</grk>, to chatter.]</ety> <sn>1.</sn> <def>A child or baby; esp., a representation in art of the infant Christ wrapped in swaddling clothes.</def><br/
+\'d8<hw>Bam*bi"no</hw> <pr>(b<aum/m*b<emac/"n<osl/)</pr>, <pos>n.</pos>; <plu><it>It. pl.</it> <plw>-ni</plw> <pr>(#)</pr></plu>. <ety>[It., a little boy, fr. <ets>bambo</ets> silly; cf. Gr. <grk>bambali`zein</grk>, <grk>bambai`nein</grk>, to chatter.]</ety> <sn>1.</sn> <def>A child or baby; esp., a representation in art of the infant Christ wrapped in swaddling clothes.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn> <fld>(Sports)</fld> <def>George Herman Ruth ("Babe" Ruth), the baseball player; -- usu. in the form <ldquo/the bambino<rdquo/.</def><br/
@@ -3954,7 +3954,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Ban</ent><br/
-||<hw>Ban</hw> <pr>(b<acr/n)</pr>, <pos>n.</pos> <def>A kind of fine muslin, made in the East Indies from the fiber of the banana leaf stalks.</def><br/
+\'d8<hw>Ban</hw> <pr>(b<acr/n)</pr>, <pos>n.</pos> <def>A kind of fine muslin, made in the East Indies from the fiber of the banana leaf stalks.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ban</ent><br/
@@ -4026,18 +4026,18 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 <p><ent>Bank</ent><br/
 <ent>Bancus</ent><br/
 <ent>Banc</ent><br/
-<mhw>{ <hw>Banc</hw> <pr>(<?/)</pr>, ||<hw>Ban"cus</hw> <pr>(<?/)</pr>, <hw>Bank</hw> <pr>(<?/)</pr>, }</mhw> <pos>n.</pos> <ety>[OF. <ets>banc</ets>, LL. <ets>bancus</ets>. See <er>Bank</er>, <pos>n.</pos>]</ety> <def>A bench; a high seat, or seat of distinction or judgment; a tribunal or court.</def><br/
+<mhw>{ <hw>Banc</hw> <pr>(<?/)</pr>, \'d8<hw>Ban"cus</hw> <pr>(<?/)</pr>, <hw>Bank</hw> <pr>(<?/)</pr>, }</mhw> <pos>n.</pos> <ety>[OF. <ets>banc</ets>, LL. <ets>bancus</ets>. See <er>Bank</er>, <pos>n.</pos>]</ety> <def>A bench; a high seat, or seat of distinction or judgment; a tribunal or court.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col><b>In banc</b></col>, <col><b>In banco</b></col> (the ablative of <xex>bancus</xex>), <col><b>In bank</b></col></mcol>, <cd>in full court, or with full judicial authority; <as>as, sittings <ex>in banc</ex> (distinguished from sittings at <cref>nisi prius</cref>)</as>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bancal</ent><br/
-||<hw>Ban*cal"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>-cales</plw> <pr>(#)</pr></plu>. <ety>[Sp., fr. <ets>banca</ets>, <ets>banco</ets>, bench. Cf. <er>Bench</er>.]</ety> <def>An ornamental covering, as of carpet or leather, for a bench or form.</def><br/
+\'d8<hw>Ban*cal"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>-cales</plw> <pr>(#)</pr></plu>. <ety>[Sp., fr. <ets>banca</ets>, <ets>banco</ets>, bench. Cf. <er>Bench</er>.]</ety> <def>An ornamental covering, as of carpet or leather, for a bench or form.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Banco</ent><br/
-||<hw>Ban"co</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[It. See <er>Bank</er>.]</ety> <def>A bank, especially that of Venice.</def><br/
+\'d8<hw>Ban"co</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[It. See <er>Bank</er>.]</ety> <def>A bank, especially that of Venice.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ This term is used in some parts of Europe to indicate bank money, as distinguished from the current money, when this last has become depreciated.</note><br/
@@ -4147,7 +4147,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 [<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
 <p><ent>Bandala</ent><br/
-||<hw>Ban*da"la</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>A fabric made in Manila from the older leaf sheaths of the <prodby>abaca</prodby> (<spn>Musa textilis</spn>).</def><br/
+\'d8<hw>Ban*da"la</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>A fabric made in Manila from the older leaf sheaths of the <prodby>abaca</prodby> (<spn>Musa textilis</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bandana</ent><br/
@@ -4166,7 +4166,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bandeau</ent><br/
-||<hw>Ban*deau"</hw> <pr>(b<acr/n*d<omac/"; b<acr/n"d<omac/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Bandeaux</plw> <pr>(b<acr/n*d<omac/z")</pr></plu>. <ety>[F.]</ety> <def>A narrow band or fillet, as for the hair, part of a headdress, etc.</def><br/
+\'d8<hw>Ban*deau"</hw> <pr>(b<acr/n*d<omac/"; b<acr/n"d<omac/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Bandeaux</plw> <pr>(b<acr/n*d<omac/z")</pr></plu>. <ety>[F.]</ety> <def>A narrow band or fillet, as for the hair, part of a headdress, etc.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><q>Around the edge of this cap was a stiff <qex>bandeau</qex> of leather.</q> <rj><qau>Sir W. Scott.</qau></rj><br/
@@ -4184,11 +4184,11 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Banderilla</ent><br/
-||<hw>Ban`de*ril"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., dim. of <ets>bandera</ets> banner. See <er>Banner</er>, and cf. <er>Banderole</er>.]</ety> <def>A barbed dart carrying a banderole which the banderillero thrusts into the neck or shoulder of the bull in a bullfight.</def><br/
+\'d8<hw>Ban`de*ril"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., dim. of <ets>bandera</ets> banner. See <er>Banner</er>, and cf. <er>Banderole</er>.]</ety> <def>A barbed dart carrying a banderole which the banderillero thrusts into the neck or shoulder of the bull in a bullfight.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Banderillero</ent><br/
-||<hw>Ban`de*ril*le"ro</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>One who thrusts in the banderillas in bullfighting.</def>  <rj><au>W. D. Howells.</au></rj><br/
+\'d8<hw>Ban`de*ril*le"ro</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>One who thrusts in the banderillas in bullfighting.</def>  <rj><au>W. D. Howells.</au></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bandrol</ent><br/
@@ -4791,7 +4791,7 @@ Neptune's smooth face, and cleave the yielding deep.</q> <rj><qau>Waller.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Banlieue</ent><br/
-||<hw>Ban"li*eue`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. LL. <ets>bannum leucae</ets>, <ets>banleuca</ets>; <ets>bannum</ets> jurisdiction + <ets>leuca</ets> league.]</ety> <def>The territory without the walls, but within the legal limits, of a town or city.</def>  <rj><au>Brande & C.</au></rj><br/
+\'d8<hw>Ban"li*eue`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. LL. <ets>bannum leucae</ets>, <ets>banleuca</ets>; <ets>bannum</ets> jurisdiction + <ets>leuca</ets> league.]</ety> <def>The territory without the walls, but within the legal limits, of a town or city.</def>  <rj><au>Brande & C.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Banner</ent><br/
@@ -4938,7 +4938,7 @@ I would not taste thy treasonous offer.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Banteng</ent><br/
-||<hw>Ban"teng</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The wild ox of Java (<spn>Bibos Banteng</spn>).</def><br/
+\'d8<hw>Ban"teng</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The wild ox of Java (<spn>Bibos Banteng</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Banter</ent><br/
@@ -5011,7 +5011,7 @@ I would not taste thy treasonous offer.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Banzai</ent><br/
-||<hw>Ban"zai"</hw> <pr>(?)</pr>, <pos>interj.</pos> <ety>[Jap. <ets>banzai</ets>, <ets>banzei</ets>, ten thousand years, forever.]</ety> <def>Lit., May you live ten thousand years; -- used in salutation of the emperor and as a battle cry.</def> <mark>[Japan]</mark><br/
+\'d8<hw>Ban"zai"</hw> <pr>(?)</pr>, <pos>interj.</pos> <ety>[Jap. <ets>banzai</ets>, <ets>banzei</ets>, ten thousand years, forever.]</ety> <def>Lit., May you live ten thousand years; -- used in salutation of the emperor and as a battle cry.</def> <mark>[Japan]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Baobab</ent><br/
@@ -5287,7 +5287,7 @@ By what we do to-night.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Barbara</ent><br/
-||<hw>Bar"ba*ra</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Coined by logicians.]</ety> <fld>(Logic)</fld> <def>The first word in certain mnemonic lines which represent the various forms of the syllogism. It indicates a syllogism whose three propositions are universal affirmatives.</def>  <rj><au>Whately.</au></rj><br/
+\'d8<hw>Bar"ba*ra</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Coined by logicians.]</ety> <fld>(Logic)</fld> <def>The first word in certain mnemonic lines which represent the various forms of the syllogism. It indicates a syllogism whose three propositions are universal affirmatives.</def>  <rj><au>Whately.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Barbarea</ent><br/
@@ -5597,7 +5597,7 @@ By what we do to-night.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Barbiers</ent><br/
-||<hw>Bar"biers</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Med.)</fld> <def>A variety of paralysis, peculiar to India and the Malabar coast; -- considered by many to be the same as <altname>beriberi</altname> in a chronic form.</def><br/
+\'d8<hw>Bar"biers</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Med.)</fld> <def>A variety of paralysis, peculiar to India and the Malabar coast; -- considered by many to be the same as <altname>beriberi</altname> in a chronic form.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Barbigerous</ent><br/
@@ -5605,7 +5605,7 @@ By what we do to-night.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Barbiton</ent><br/
-||<hw>Bar"bi*ton</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>ba`rbiton</grk>.]</ety> <fld>(Mus.)</fld> <def>An ancient Greek instrument resembling a lyre.</def><br/
+\'d8<hw>Bar"bi*ton</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>ba`rbiton</grk>.]</ety> <fld>(Mus.)</fld> <def>An ancient Greek instrument resembling a lyre.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Barbituric acid</ent><br/
@@ -5689,7 +5689,7 @@ By what we do to-night.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bardiglio</ent><br/
-||<hw>Bar*di"glio</hw> <pr>(b<aum/r*d<emac/l"y<omac/)</pr>, <pos>n.</pos> <ety>[It.]</ety> <def>An Italian marble of which the principal varieties occur in the neighborhood of Carrara and in Corsica. It commonly shows a dark gray or bluish ground traversed by veins.</def><br/
+\'d8<hw>Bar*di"glio</hw> <pr>(b<aum/r*d<emac/l"y<omac/)</pr>, <pos>n.</pos> <ety>[It.]</ety> <def>An Italian marble of which the principal varieties occur in the neighborhood of Carrara and in Corsica. It commonly shows a dark gray or bluish ground traversed by veins.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bardish</ent><br/
@@ -5821,7 +5821,7 @@ By what we do to-night.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Barege</ent><br/
-||<hw>Ba*r<eacute/ge"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>bar<eacute/ge</ets>, so called from <ets>Bar<eacute/ges</ets>, a town in the Pyrenees.]</ety> <def>A gauzelike fabric for ladies' dresses, veils, etc. of worsted, silk and worsted, or cotton and worsted.</def><br/
+\'d8<hw>Ba*r<eacute/ge"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>bar<eacute/ge</ets>, so called from <ets>Bar<eacute/ges</ets>, a town in the Pyrenees.]</ety> <def>A gauzelike fabric for ladies' dresses, veils, etc. of worsted, silk and worsted, or cotton and worsted.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Barehanded</ent><br/
@@ -6001,7 +6001,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Barillet</ent><br/
-||<hw>Bar"il*let</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., dim. of <ets>baril</ets> barrel.]</ety> <def>A little cask, or something resembling one.</def>  <rj><au>Smart.</au></rj><br/
+\'d8<hw>Bar"il*let</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., dim. of <ets>baril</ets> barrel.]</ety> <def>A little cask, or something resembling one.</def>  <rj><au>Smart.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bar iron</ent><br/
@@ -6297,7 +6297,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Barocco</ent><br/
-||<hw>Ba*roc"co</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Arch.)</fld> <def>See <er>Baroque</er>.</def><br/
+\'d8<hw>Ba*roc"co</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Arch.)</fld> <def>See <er>Baroque</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Barocyclonometer</ent><br/
@@ -6415,7 +6415,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Barong</ent><br/
-||<hw>Ba*rong"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <def>A kind of cutting weapon similar to a cleaver, with a thick back and thin razorlike edge, used by the Moros of the Philippine Islands.</def><br/
+\'d8<hw>Ba*rong"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <def>A kind of cutting weapon similar to a cleaver, with a thick back and thin razorlike edge, used by the Moros of the Philippine Islands.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Baronial</ent><br/
@@ -6521,11 +6521,11 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Barranca</ent><br/
-||<hw>Bar*ran"ca</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>A ravine caused by heavy rains or a watercourse.</def> <mark>[Texas & N. Mex.]</mark><br/
+\'d8<hw>Bar*ran"ca</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>A ravine caused by heavy rains or a watercourse.</def> <mark>[Texas & N. Mex.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Barras</ent><br/
-||<hw>Bar"ras</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A resin, called also <altname>galipot</altname>.</def><br/
+\'d8<hw>Bar"ras</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A resin, called also <altname>galipot</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Barrator</ent><br/
@@ -6725,7 +6725,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Barrigudo</ent><br/
-||<hw>Bar`ri*gu"do</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name, fr. Sp. <ets>barrigudo</ets> big-bellied.]</ety> <fld>(Zool.)</fld> <def>A large, dark-colored, South American monkey, of the genus <gen>Lagothrix</gen>, having a long prehensile tail.</def><br/
+\'d8<hw>Bar`ri*gu"do</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name, fr. Sp. <ets>barrigudo</ets> big-bellied.]</ety> <fld>(Zool.)</fld> <def>A large, dark-colored, South American monkey, of the genus <gen>Lagothrix</gen>, having a long prehensile tail.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>barring</ent><br/
@@ -6738,7 +6738,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Barrio</ent><br/
-||<hw>Bar"ri*o</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Barrios</plw> <pr>(#)</pr></plu>. <ety>[Sp.]</ety> <def>In Spain and countries colonized by Spain, a village, ward, or district outside a town or city to whose jurisdiction it belongs; in Spanish-speaking areas of cities in the United States, it is a neighborhood, ward, or quarter inside a town.</def><br/
+\'d8<hw>Bar"ri*o</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Barrios</plw> <pr>(#)</pr></plu>. <ety>[Sp.]</ety> <def>In Spain and countries colonized by Spain, a village, ward, or district outside a town or city to whose jurisdiction it belongs; in Spanish-speaking areas of cities in the United States, it is a neighborhood, ward, or quarter inside a town.</def><br/
 [<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
 
 <p><ent>Barrister</ent><br/
@@ -6968,7 +6968,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Basbleu</ent><br/
-||<hw>Bas`bleu"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>bas</ets> stocking + <ets>bleu</ets> blue.]</ety> <def>A bluestocking; a literary woman.</def> <mark>[Somewhat derisive]</mark><br/
+\'d8<hw>Bas`bleu"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>bas</ets> stocking + <ets>bleu</ets> blue.]</ety> <def>A bluestocking; a literary woman.</def> <mark>[Somewhat derisive]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bascinet</ent><br/
@@ -7287,7 +7287,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bashi-bazouk</ent><br/
-||<hw>Bash"i-ba*zouk"</hw> <pr>(b<acr/sh"<icr/*b<adot/*z<oomac/k")</pr>, <pos>n.</pos> <ety>[Turkish, light-headed, a foolish fellow.]</ety> <def>A soldier belonging to the irregular troops of the Turkish army.</def><br/
+\'d8<hw>Bash"i-ba*zouk"</hw> <pr>(b<acr/sh"<icr/*b<adot/*z<oomac/k")</pr>, <pos>n.</pos> <ety>[Turkish, light-headed, a foolish fellow.]</ety> <def>A soldier belonging to the irregular troops of the Turkish army.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bashless</ent><br/
@@ -7359,7 +7359,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Basidiomycetes</ent><br/
-||<hw>Ba*sid`i*o*my*ce"tes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>a phylum of fungi  with the Basidiomycota</def><br/
+\'d8<hw>Ba*sid`i*o*my*ce"tes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>a phylum of fungi  with the Basidiomycota</def><br/
 [<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
 
 <p><ent>basidiomycetous</ent><br/
@@ -7367,7 +7367,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Basidiomycota</ent><br/
-||<hw>Ba*sid`i*o*my*co"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <fld>(Bot.)</fld> <ety>[NL., fr. NL. & E. <ets>basidium</ets> + Gr. <?/, <?/, fungus.]</ety> <fld>(Bot.)</fld> <def>A large subdivision of the kingdom <it>Fungi</it> coextensive with the phylum <phylum>Basidiomycetes</phylum>, characterized by having the spores borne on a basidium. It embraces those fungi best known to the public, such as mushrooms, toadstools, etc.  Among the classes of the Basidiomycota are: <styp><class>Gasteromycetes</class></styp> (puffballs); <styp><class>Tiliomycetes</class></styp> (comprising the orders <ord>Ustilaginales</ord> (smuts) and <ord>Uredinales</ord> (rusts)); and <styp><class>Hymenomycetes</class></styp> (mushrooms; toadstools; agarics; bracket fungi).</def> <note>In the 1913 Webster, the Basidiomycetes were defined as "co<oum/rdinate with the <phylum>Ascomycetes</phylum>", and other fungal phyla (the <phylum>Zygomycota</phylum> and <phylum>Deuteromycota</phylum>) were not mentioned.</note><br/
+\'d8<hw>Ba*sid`i*o*my*co"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <fld>(Bot.)</fld> <ety>[NL., fr. NL. & E. <ets>basidium</ets> + Gr. <?/, <?/, fungus.]</ety> <fld>(Bot.)</fld> <def>A large subdivision of the kingdom <it>Fungi</it> coextensive with the phylum <phylum>Basidiomycetes</phylum>, characterized by having the spores borne on a basidium. It embraces those fungi best known to the public, such as mushrooms, toadstools, etc.  Among the classes of the Basidiomycota are: <styp><class>Gasteromycetes</class></styp> (puffballs); <styp><class>Tiliomycetes</class></styp> (comprising the orders <ord>Ustilaginales</ord> (smuts) and <ord>Uredinales</ord> (rusts)); and <styp><class>Hymenomycetes</class></styp> (mushrooms; toadstools; agarics; bracket fungi).</def> <note>In the 1913 Webster, the Basidiomycetes were defined as "co<oum/rdinate with the <phylum>Ascomycetes</phylum>", and other fungal phyla (the <phylum>Zygomycota</phylum> and <phylum>Deuteromycota</phylum>) were not mentioned.</note><br/
 <syn><b>Syn. --</b> Basidiomycota, subdivision Basidiomycota, subdivision Basidiomycotina.</syn><br/
 [<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
 
@@ -7384,7 +7384,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Basidium</ent><br/
-||<hw>Ba*sid"i*um</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., dim. of Gr. <grk>ba`sis</grk> base.]</ety> <fld>(Bot.)</fld> <def>A special oblong or pyriform cell, with slender branches, which bears the spores in that division of fungi called <xex>Basidiomycetes</xex>, of which the common mushroom is an example.</def><br/
+\'d8<hw>Ba*sid"i*um</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., dim. of Gr. <grk>ba`sis</grk> base.]</ety> <fld>(Bot.)</fld> <def>A special oblong or pyriform cell, with slender branches, which bears the spores in that division of fungi called <xex>Basidiomycetes</xex>, of which the common mushroom is an example.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Basifier</ent><br/
@@ -7400,7 +7400,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Basigynium</ent><br/
-||<hw>Ba`si*gyn"i*um</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ba`sis</grk> base + <grk>gynh`</grk> woman.]</ety> <fld>(Bot.)</fld> <def>The pedicel on which the ovary of certain flowers, as the passion flower, is seated; a carpophore or thecaphore.</def><br/
+\'d8<hw>Ba`si*gyn"i*um</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ba`sis</grk> base + <grk>gynh`</grk> woman.]</ety> <fld>(Bot.)</fld> <def>The pedicel on which the ovary of certain flowers, as the passion flower, is seated; a carpophore or thecaphore.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Basihyal</ent><br/
@@ -7477,7 +7477,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Basilicon</ent><br/
-||<hw>Ba*sil"i*con</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L. <ets>basilicon</ets>, Gr. <grk>basiliko`n</grk> neut. of <grk>basiliko`s</grk>: cf. F. <ets>basilicon</ets>. See <er>Basilica</er>.]</ety> <fld>(Med.)</fld> <def>An ointment composed of wax, pitch, resin, and olive oil, lard, or other fatty substance.</def><br/
+\'d8<hw>Ba*sil"i*con</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L. <ets>basilicon</ets>, Gr. <grk>basiliko`n</grk> neut. of <grk>basiliko`s</grk>: cf. F. <ets>basilicon</ets>. See <er>Basilica</er>.]</ety> <fld>(Med.)</fld> <def>An ointment composed of wax, pitch, resin, and olive oil, lard, or other fatty substance.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Basilisk</ent><br/
@@ -7535,7 +7535,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Basion</ent><br/
-||<hw>Ba"si*on</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ba`sis</grk> a base.]</ety> <fld>(Anat.)</fld> <def>The middle of the anterior margin of the great foramen of the skull.</def><br/
+\'d8<hw>Ba"si*on</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ba`sis</grk> a base.]</ety> <fld>(Anat.)</fld> <def>The middle of the anterior margin of the great foramen of the skull.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Basipodite</ent><br/
@@ -7543,7 +7543,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Basipterygium</ent><br/
-||<hw>Ba*sip`te*ryg"i*um</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ba`sis</grk> a base + <grk>ptery`gion</grk> a fin.]</ety> <fld>(Anat.)</fld> <def>A bar of cartilage at the base of the embryonic fins of some fishes. It develops into the metapterygium.</def> -- <wordforms><wf>Ba*sip`ter*yg"i*al</wf> <pr>(<?/)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>Ba*sip`te*ryg"i*um</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ba`sis</grk> a base + <grk>ptery`gion</grk> a fin.]</ety> <fld>(Anat.)</fld> <def>A bar of cartilage at the base of the embryonic fins of some fishes. It develops into the metapterygium.</def> -- <wordforms><wf>Ba*sip`ter*yg"i*al</wf> <pr>(<?/)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Basipterygoid</ent><br/
@@ -7655,7 +7655,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Basommatophora</ent><br/
-||<hw>Ba*som`ma*toph"o*ra</hw> <pr>(b<adot/*s<ocr/m`m<adot/*t<ocr/f"<osl/*r<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>ba`sis</grk> base + <grk>'o`mma</grk> eye + <grk>fe`rein</grk> to bear.]</ety> <fld>(Zool.)</fld> <def>A group of Pulmonifera having the eyes at the base of the tentacles, including the common pond snails.</def><br/
+\'d8<hw>Ba*som`ma*toph"o*ra</hw> <pr>(b<adot/*s<ocr/m`m<adot/*t<ocr/f"<osl/*r<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>ba`sis</grk> base + <grk>'o`mma</grk> eye + <grk>fe`rein</grk> to bear.]</ety> <fld>(Zool.)</fld> <def>A group of Pulmonifera having the eyes at the base of the tentacles, including the common pond snails.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bason</ent><br/
@@ -7795,7 +7795,7 @@ Your piquet parties, and your dear <qex>basset</qex>.</q> <rj><qau>Rowe.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bassetto</ent><br/
-||<hw>Bas*set"to</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[It., <pos>adj.</pos>, somewhat low; <pos>n.</pos>, counter tenor. See <er>Basso</er>.]</ety> <fld>(Mus.)</fld> <def>A tenor or small bass viol.</def><br/
+\'d8<hw>Bas*set"to</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[It., <pos>adj.</pos>, somewhat low; <pos>n.</pos>, counter tenor. See <er>Basso</er>.]</ety> <fld>(Mus.)</fld> <def>A tenor or small bass viol.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bass horn</ent><br/
@@ -7814,10 +7814,10 @@ Your piquet parties, and your dear <qex>basset</qex>.</q> <rj><qau>Rowe.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Basso</ent><br/
-||<hw>Bas"so</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[It., fr. LL. <ets>bassus</ets>. See <er>Base</er>, <pos>a.</pos>]</ety> <fld>(Mus.)</fld> <sd>(a)</sd> <def>The bass or lowest part; <as>as, to sing <ex>basso</ex></as>.</def> <sd>(b)</sd> <def>One who sings the lowest part.</def> <sd>(c)</sd> <def>The double bass, or <altname>contrabasso</altname>.</def><br/
+\'d8<hw>Bas"so</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[It., fr. LL. <ets>bassus</ets>. See <er>Base</er>, <pos>a.</pos>]</ety> <fld>(Mus.)</fld> <sd>(a)</sd> <def>The bass or lowest part; <as>as, to sing <ex>basso</ex></as>.</def> <sd>(b)</sd> <def>One who sings the lowest part.</def> <sd>(c)</sd> <def>The double bass, or <altname>contrabasso</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>||Basso continuo</b></col> <pr>(<?/)</pr>. <ety>[It., bass continued.]</ety> <fld>(Mus.)</fld> <cd>A bass part written out continuously, while the other parts of the harmony are indicated by figures attached to the bass; continued bass.</cd></cs><br/
+<p><cs><col><b>\'d8Basso continuo</b></col> <pr>(<?/)</pr>. <ety>[It., bass continued.]</ety> <fld>(Mus.)</fld> <cd>A bass part written out continuously, while the other parts of the harmony are indicated by figures attached to the bass; continued bass.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bassock</ent><br/
@@ -7837,7 +7837,7 @@ Your piquet parties, and your dear <qex>basset</qex>.</q> <rj><qau>Rowe.</qau></
 
 <p><ent>Basso-relievo</ent><br/
 <ent>Basso-rilievo</ent><br/
-<mhw>{ ||<hw>Bas"so-ri*lie"vo</hw> <pr>(<?/)</pr>, <hw>Bas"so-re*lie"vo</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[It. <ets>basso-rilievo</ets>.]</ety> <def>Same as <er>Bas-relief</er>.</def><br/
+<mhw>{ \'d8<hw>Bas"so-ri*lie"vo</hw> <pr>(<?/)</pr>, <hw>Bas"so-re*lie"vo</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[It. <ets>basso-rilievo</ets>.]</ety> <def>Same as <er>Bas-relief</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bassorin</ent><br/
@@ -7868,7 +7868,7 @@ White and polished very smoothly.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Basta</ent><br/
-||<hw>Bas"ta</hw> <pr>(<?/)</pr>, <pos>interj.</pos> <ety>[It.]</ety> <def>Enough; stop.</def>  <rj><au>Shak.</au></rj><br/
+\'d8<hw>Bas"ta</hw> <pr>(<?/)</pr>, <pos>interj.</pos> <ety>[It.]</ety> <def>Enough; stop.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bastard</ent><br/
@@ -8123,7 +8123,7 @@ White and polished very smoothly.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bat</ent><br/
-||<hw>Bat</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Siamese.]</ety> <def>Same as <er>Tical</er>, <pos>n.</pos>, 1.</def><br/
+\'d8<hw>Bat</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Siamese.]</ety> <def>Same as <er>Tical</er>, <pos>n.</pos>, 1.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Batable</ent><br/
@@ -8138,7 +8138,7 @@ White and polished very smoothly.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Batardeau</ent><br/
-||<hw>Ba`tar*deau"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>A cofferdam.</def>  <rj><au>Brande & C.</au></rj><br/
+\'d8<hw>Ba`tar*deau"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>A cofferdam.</def>  <rj><au>Brande & C.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Mil.)</fld> <def>A wall built across the ditch of a fortification, with a sluice gate to regulate the height of water in the ditch on both sides of the wall.</def><br/
@@ -8146,7 +8146,7 @@ White and polished very smoothly.</q> <rj><qau>Longfellow.</qau></rj><br/
 
 <p><ent>Batata</ent><br/
 <ent>Batatas</ent><br/
-<mhw>{ ||<hw>Ba*ta"tas</hw> <pr>(<?/)</pr>, ||<hw>Ba*ta"ta</hw> <pr>(<?/)</pr>, }</mhw> <pos>n.</pos> <def>An aboriginal American name for the sweet potato (<spn>Ipom<ae/a batatas</spn>).</def><br/
+<mhw>{ \'d8<hw>Ba*ta"tas</hw> <pr>(<?/)</pr>, \'d8<hw>Ba*ta"ta</hw> <pr>(<?/)</pr>, }</mhw> <pos>n.</pos> <def>An aboriginal American name for the sweet potato (<spn>Ipom<ae/a batatas</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Batavian</ent><br/
@@ -8249,7 +8249,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bateau</ent><br/
-||<hw>Ba*teau"</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Bateaux</plw> <pr>(<?/)</pr>.</plu> <ety>[F. <ets>bateau</ets>, LL. <ets>batellus</ets>, fr. <ets>battus</ets>, <ets>batus</ets>, boat, which agrees with AS. <ets>b<amac/t</ets> boat: cf. W. <ets>bad</ets> boat. See <er>Boat</er>, <pos>n.</pos>]</ety> <def>A boat; esp. a flat-bottomed, clumsy boat used on the Canadian lakes and rivers.</def> <altsp>[Written also, but less properly, <asp>batteau</asp>.]</altsp><br/
+\'d8<hw>Ba*teau"</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Bateaux</plw> <pr>(<?/)</pr>.</plu> <ety>[F. <ets>bateau</ets>, LL. <ets>batellus</ets>, fr. <ets>battus</ets>, <ets>batus</ets>, boat, which agrees with AS. <ets>b<amac/t</ets> boat: cf. W. <ets>bad</ets> boat. See <er>Boat</er>, <pos>n.</pos>]</ety> <def>A boat; esp. a flat-bottomed, clumsy boat used on the Canadian lakes and rivers.</def> <altsp>[Written also, but less properly, <asp>batteau</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Bateau bridge</b></col>, <cd>a floating bridge supported by bateaux.</cd></cs><br/
@@ -8434,7 +8434,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Bathybius</ent><br/
-||<hw>Ba*thyb"i*us</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>baqy`s</grk> deep + <grk>bi`os</grk> life]</ety> <fld>(Zool.)</fld> <def>A name given by <person>Prof. Huxley</person> to a gelatinous substance found in mud dredged from the Atlantic and preserved in alcohol.  He supposed that it was free living protoplasm, covering a large part of the ocean bed. It is now known that the substance is of chemical, not of organic, origin.</def><br/
+\'d8<hw>Ba*thyb"i*us</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>baqy`s</grk> deep + <grk>bi`os</grk> life]</ety> <fld>(Zool.)</fld> <def>A name given by <person>Prof. Huxley</person> to a gelatinous substance found in mud dredged from the Atlantic and preserved in alcohol.  He supposed that it was free living protoplasm, covering a large part of the ocean bed. It is now known that the substance is of chemical, not of organic, origin.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bathyergidae</ent><br/
@@ -8503,7 +8503,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Batman</ent><br/
-||<hw>Bat"man</hw> <pr>(b<acr/t"m<acr/n)</pr>, <pos>n.</pos> <ety>[Turk. <ets>ba<tsdot/man</ets>.]</ety> <def>A weight used in the East, varying according to the locality; in Turkey, the greater batman is about 157 pounds, the lesser only a fourth of this; at Aleppo and Smyrna, the batman is 17 pounds.</def>  <rj><au>Simmonds.</au></rj><br/
+\'d8<hw>Bat"man</hw> <pr>(b<acr/t"m<acr/n)</pr>, <pos>n.</pos> <ety>[Turk. <ets>ba<tsdot/man</ets>.]</ety> <def>A weight used in the East, varying according to the locality; in Turkey, the greater batman is about 157 pounds, the lesser only a fourth of this; at Aleppo and Smyrna, the batman is 17 pounds.</def>  <rj><au>Simmonds.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Batman</ent><br/
@@ -8511,7 +8511,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Batoidei</ent><br/
-||<hw>Ba*toi"de*i</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>ba`tos</grk> a kind of ray + <ets>-oid</ets>.]</ety> <fld>(Zool.)</fld> <def>The division of fishes which includes the rays and skates.</def><br/
+\'d8<hw>Ba*toi"de*i</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>ba`tos</grk> a kind of ray + <ets>-oid</ets>.]</ety> <fld>(Zool.)</fld> <def>The division of fishes which includes the rays and skates.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Baton</ent><br/
@@ -8533,7 +8533,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Batrachia</ent><br/
-||<hw>Ba*tra"chi*a</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>batra`cheios</grk> belonging to a frog, fr. <grk>ba`trachos</grk> frog.]</ety> <fld>(Zool.)</fld> <def>The order of amphibians which includes the frogs and toads; the Anura. Sometimes the word is used in a wider sense as equivalent to Amphibia.</def><br/
+\'d8<hw>Ba*tra"chi*a</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>batra`cheios</grk> belonging to a frog, fr. <grk>ba`trachos</grk> frog.]</ety> <fld>(Zool.)</fld> <def>The order of amphibians which includes the frogs and toads; the Anura. Sometimes the word is used in a wider sense as equivalent to Amphibia.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Batrachian</ent><br/
@@ -8566,13 +8566,13 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Batta</ent><br/
-||<hw>Bat"ta</hw> <pr>(b<acr/t"t<adot/)</pr>, <pos>n.</pos> <ety>[Prob. through Pg. for Canarese <ets>bhatta</ets> rice in the husk.]</ety> <def>Extra pay; esp. an extra allowance to an English officer serving in India.</def>  <rj><au>Whitworth.</au></rj><br/
+\'d8<hw>Bat"ta</hw> <pr>(b<acr/t"t<adot/)</pr>, <pos>n.</pos> <ety>[Prob. through Pg. for Canarese <ets>bhatta</ets> rice in the husk.]</ety> <def>Extra pay; esp. an extra allowance to an English officer serving in India.</def>  <rj><au>Whitworth.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 125 pr=SA --></p>
 
 <p><ent>Batta</ent><br/
-||<hw>Bat"ta</hw> <pr>(b<acr/t"t<adot/)</pr>, <pos>n.</pos> <ety>[Hind. <ets>ba<tsdot/<tsdot/a</ets>.]</ety> <def>Rate of exchange; also, the discount on uncurrent coins.</def> <mark>[India]</mark><br/
+\'d8<hw>Bat"ta</hw> <pr>(b<acr/t"t<adot/)</pr>, <pos>n.</pos> <ety>[Hind. <ets>ba<tsdot/<tsdot/a</ets>.]</ety> <def>Rate of exchange; also, the discount on uncurrent coins.</def> <mark>[India]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Battable</ent><br/
@@ -8915,15 +8915,15 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Battue</ent><br/
-||<hw>Bat"tue`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>battue</ets>, fr. <ets>battre</ets> to beat. See <er>Batter</er>, <pos>v. t.</pos>, and cf. <er>Battuta</er>.]</ety> <fld>(Hunting)</fld> <sd>(a)</sd> <def>The act of beating the woods, bushes, etc., for game.</def> <sd>(b)</sd> <def>The game itself.</def> <sd>(c)</sd> <def>The wanton slaughter of game.</def>  <rj><au>Howitt.</au></rj><br/
+\'d8<hw>Bat"tue`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>battue</ets>, fr. <ets>battre</ets> to beat. See <er>Batter</er>, <pos>v. t.</pos>, and cf. <er>Battuta</er>.]</ety> <fld>(Hunting)</fld> <sd>(a)</sd> <def>The act of beating the woods, bushes, etc., for game.</def> <sd>(b)</sd> <def>The game itself.</def> <sd>(c)</sd> <def>The wanton slaughter of game.</def>  <rj><au>Howitt.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Batture</ent><br/
-||<hw>Bat`ture"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>battre</ets> to beat.]</ety> <def>An elevated river bed or sea bed.</def><br/
+\'d8<hw>Bat`ture"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>battre</ets> to beat.]</ety> <def>An elevated river bed or sea bed.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Battuta</ent><br/
-||<hw>Bat*tu"ta</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[It. <ets>battuta</ets>, fr. <ets>battere</ets> to beat.]</ety> <fld>(Mus.)</fld> <def>The measuring of time by beating.</def><br/
+\'d8<hw>Bat*tu"ta</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[It. <ets>battuta</ets>, fr. <ets>battere</ets> to beat.]</ety> <fld>(Mus.)</fld> <def>The measuring of time by beating.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Batty</ent><br/
@@ -8939,7 +8939,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Batz</ent><br/
-||<hw>Batz</hw> <pr>(b<aum/ts)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Batzen</plw> <pr>(<?/)</pr>.</plu> <ety>[Ger. <ets>batz</ets>, <ets>batze</ets>, <ets>batzen</ets>, a coin bearing the image of a bear, Ger. <ets>b<aum/tz</ets>, <ets>betz</ets>, bear.]</ety> <def>A small copper coin, with a mixture of silver, formerly current in some parts of Germany and Switzerland. It was worth about four cents.</def><br/
+\'d8<hw>Batz</hw> <pr>(b<aum/ts)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Batzen</plw> <pr>(<?/)</pr>.</plu> <ety>[Ger. <ets>batz</ets>, <ets>batze</ets>, <ets>batzen</ets>, a coin bearing the image of a bear, Ger. <ets>b<aum/tz</ets>, <ets>betz</ets>, bear.]</ety> <def>A small copper coin, with a mixture of silver, formerly current in some parts of Germany and Switzerland. It was worth about four cents.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Baubee</ent><br/
@@ -8995,7 +8995,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Bavardage</ent><br/
-||<hw>Ba`var`dage"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Much talking; prattle; chatter.</def>  <rj><au>Byron.</au></rj><br/
+\'d8<hw>Ba`var`dage"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Much talking; prattle; chatter.</def>  <rj><au>Byron.</au></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bavaria</ent><br/
@@ -9220,12 +9220,12 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Baya</ent><br/
-||<hw>Ba"ya</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>The East Indian weaver bird (<spn>Ploceus Philippinus</spn>).</def><br/
+\'d8<hw>Ba"ya</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>The East Indian weaver bird (<spn>Ploceus Philippinus</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bayatte</ent><br/
 <ent>Bayad</ent><br/
-<mhw>{ ||<hw>Ba*yad"</hw> <pr>(<?/)</pr>, <hw>Ba*yatte"</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Ar. <ets>bayad</ets>.]</ety> <fld>(Zool.)</fld> <def>A large, edible, siluroid fish of the Nile, of two species (<spn>Bagrina bayad</spn> and <spn>Bagrina docmac</spn>).</def><br/
+<mhw>{ \'d8<hw>Ba*yad"</hw> <pr>(<?/)</pr>, <hw>Ba*yatte"</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Ar. <ets>bayad</ets>.]</ety> <fld>(Zool.)</fld> <def>A large, edible, siluroid fish of the Nile, of two species (<spn>Bagrina bayad</spn> and <spn>Bagrina docmac</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bayadere</ent><br/
@@ -9386,7 +9386,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bdelloidea</ent><br/
-||<hw>Bdel*loi"de*a</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>bde`lla</grk> leech + <ets>-oid</ets>.]</ety> <fld>(Zool.)</fld> <def>The order of Annulata which includes the leeches. See <er>Hirudinea</er>.</def><br/
+\'d8<hw>Bdel*loi"de*a</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>bde`lla</grk> leech + <ets>-oid</ets>.]</ety> <fld>(Zool.)</fld> <def>The order of Annulata which includes the leeches. See <er>Hirudinea</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bdellometer</ent><br/
@@ -9394,7 +9394,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bdellomorpha</ent><br/
-||<hw>Bdel`lo*mor"pha</hw> <pr>(<?/)</pr>,<pos>n.</pos> <ety>[NL., fr. Gr. <grk>bde`lla</grk> leech + <grk>morfh`</grk> form.]</ety> <fld>(Zool.)</fld> <def>An order of Nemertina, including the large leechlike worms (<gen>Malacobdella</gen>) often parasitic in clams.</def><br/
+\'d8<hw>Bdel`lo*mor"pha</hw> <pr>(<?/)</pr>,<pos>n.</pos> <ety>[NL., fr. Gr. <grk>bde`lla</grk> leech + <grk>morfh`</grk> form.]</ety> <fld>(Zool.)</fld> <def>An order of Nemertina, including the large leechlike worms (<gen>Malacobdella</gen>) often parasitic in clams.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Be</ent><br/
@@ -10756,7 +10756,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beau monde</ent><br/
-||<hw>Beau` monde"</hw> <pr>(<?/)</pr>. <ety>[F. <ets>beau</ets> fine + <ets>monde</ets> world.]</ety> <def>The fashionable world; people of fashion and gayety.</def>  <rj><au>Prior.</au></rj><br/
+\'d8<hw>Beau` monde"</hw> <pr>(<?/)</pr>. <ety>[F. <ets>beau</ets> fine + <ets>monde</ets> world.]</ety> <def>The fashionable world; people of fashion and gayety.</def>  <rj><au>Prior.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beaumontague</ent><br/
@@ -10771,7 +10771,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beauseant</ent><br/
-||<hw>Beau`se`ant"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>beauc<eacute/ant</ets>.]</ety> <def>The black and white standard of the Knights Templars.</def><br/
+\'d8<hw>Beau`se`ant"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>beauc<eacute/ant</ets>.]</ety> <def>The black and white standard of the Knights Templars.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beauship</ent><br/
@@ -10953,7 +10953,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bebung</ent><br/
-||<hw>Be"bung</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., lit., a trembling.]</ety> <fld>(Music)</fld> <def>A tremolo effect, such as that produced on the piano by vibratory repetition of a note with sustained use of the pedal.</def><br/
+\'d8<hw>Be"bung</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., lit., a trembling.]</ety> <fld>(Music)</fld> <def>A tremolo effect, such as that produced on the piano by vibratory repetition of a note with sustained use of the pedal.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Becalm</ent><br/
@@ -10971,7 +10971,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Becard</ent><br/
-||<hw>Bec"ard</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A South American bird of the flycatcher family. (<spn>Tityra inquisetor</spn>).</def><br/
+\'d8<hw>Bec"ard</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A South American bird of the flycatcher family. (<spn>Tityra inquisetor</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Because</ent><br/
@@ -10994,11 +10994,11 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beccabunga</ent><br/
-||<hw>Bec`ca*bun"ga</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL. (cf. It. <ets>beccabunga</ets>, G. <ets>bachbunge</ets>), fr. G. <ets>bach</ets> brook + <ets>bunge</ets>, OHG. <ets>bungo</ets>, bulb. See <er>Beck</er> a brook.]</ety> <def>See <er>Brooklime</er>.</def><br/
+\'d8<hw>Bec`ca*bun"ga</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL. (cf. It. <ets>beccabunga</ets>, G. <ets>bachbunge</ets>), fr. G. <ets>bach</ets> brook + <ets>bunge</ets>, OHG. <ets>bungo</ets>, bulb. See <er>Beck</er> a brook.]</ety> <def>See <er>Brooklime</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beccafico</ent><br/
-||<hw>Bec`ca*fi"co</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Beccaficos</plw> <pr>(<?/)</pr>.</plu> <ety>[It., fr. <ets>beccare</ets> to peck + <ets>fico</ets> fig.]</ety> <fld>(Zool.)</fld> <def>A small bird. (<spn>Silvia hortensis</spn>), which is highly prized by the Italians for the delicacy of its flesh in the autumn, when it has fed on figs, grapes, etc.</def><br/
+\'d8<hw>Bec`ca*fi"co</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Beccaficos</plw> <pr>(<?/)</pr>.</plu> <ety>[It., fr. <ets>beccare</ets> to peck + <ets>fico</ets> fig.]</ety> <fld>(Zool.)</fld> <def>A small bird. (<spn>Silvia hortensis</spn>), which is highly prized by the Italians for the delicacy of its flesh in the autumn, when it has fed on figs, grapes, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Becchi's test</ent><br/
@@ -11006,7 +11006,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bechamel</ent><br/
-||<hw>Bech"a*mel</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>b<eacute/chamel</ets>, named from its inventor, Louis de <etsep>B<eacute/chamel</etsep>.]</ety> <fld>(Cookery)</fld> <def>A rich, white sauce, prepared with butter and cream.</def><br/
+\'d8<hw>Bech"a*mel</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>b<eacute/chamel</ets>, named from its inventor, Louis de <etsep>B<eacute/chamel</etsep>.]</ety> <fld>(Cookery)</fld> <def>A rich, white sauce, prepared with butter and cream.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bechance</ent><br/
@@ -11025,7 +11025,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beche de mer</ent><br/
-||<hw>B<ecir/che` de mer"</hw> <pr>(<?/)</pr>. <ety>[F., lit., a sea spade.]</ety> <fld>(Zool.)</fld> <def>The trepang.</def><br/
+\'d8<hw>B<ecir/che` de mer"</hw> <pr>(<?/)</pr>. <ety>[F., lit., a sea spade.]</ety> <fld>(Zool.)</fld> <def>The trepang.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bechic</ent><br/
@@ -11200,7 +11200,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Becuna</ent><br/
-||<hw>Be*cu"na</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <fld>(Zool.)</fld> <def>A fish of the Mediterranean (<spn>Sphyr<ae/na spet</spn>). See <er>Barracuda</er>.</def><br/
+\'d8<hw>Be*cu"na</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <fld>(Zool.)</fld> <def>A fish of the Mediterranean (<spn>Sphyr<ae/na spet</spn>). See <er>Barracuda</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Becurl</ent><br/
@@ -11306,7 +11306,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bedagat</ent><br/
-||<hw>Bed"a*gat</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>The sacred books of the Buddhists in Burmah.</def>  <rj><au>Malcom.</au></rj><br/
+\'d8<hw>Bed"a*gat</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>The sacred books of the Buddhists in Burmah.</def>  <rj><au>Malcom.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bedaggle</ent><br/
@@ -11393,7 +11393,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 
 <p><ent>Bedegar</ent><br/
 <ent>Bedeguar</ent><br/
-<mhw>{ ||<hw>Bed"e*guar</hw>, <hw>Bed"e*gar</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. Per. <ets>b<amac/d-<amac/ward</ets>, or <ets>b<amac/d-<amac/wardag</ets>, prop., a kind of white thorn or thistle.]</ety> <def>A gall produced on rosebushes, esp. on the sweetbrier or eglantine, by a puncture from the ovipositor of a gallfly (<spn>Rhodites ros<ae/</spn>). It was once supposed to have medicinal properties.</def><br/
+<mhw>{ \'d8<hw>Bed"e*guar</hw>, <hw>Bed"e*gar</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. Per. <ets>b<amac/d-<amac/ward</ets>, or <ets>b<amac/d-<amac/wardag</ets>, prop., a kind of white thorn or thistle.]</ety> <def>A gall produced on rosebushes, esp. on the sweetbrier or eglantine, by a puncture from the ovipositor of a gallfly (<spn>Rhodites ros<ae/</spn>). It was once supposed to have medicinal properties.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bedehouse</ent><br/
@@ -11410,7 +11410,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beden</ent><br/
-||<hw>Bed"en</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The Abyssinian or Arabian ibex (<spn>Capra Nubiana</spn>). It is probably the wild goat of the Bible.</def><br/
+\'d8<hw>Bed"en</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The Abyssinian or Arabian ibex (<spn>Capra Nubiana</spn>). It is probably the wild goat of the Bible.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bedesman</ent><br/
@@ -12360,7 +12360,7 @@ The worst that may <qex>befall</qex> me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bega</ent><br/
-||<hw>Be"ga</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>See <er>Bigha</er>.</def><br/
+\'d8<hw>Be"ga</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>See <er>Bigha</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Begem</ent><br/
@@ -12587,7 +12587,7 @@ The worst that may <qex>befall</qex> me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beglerbeg</ent><br/
-||<hw>Beg"ler*beg`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Turk. <ets>beglerbeg</ets>, fr. <ets>beg</ets>, pl. <ets>begler</ets>. See <er>Beg</er>, <pos>n.</pos>]</ety> <def>The governor of a province of the Ottoman empire, next in dignity to the grand vizier.</def><br/
+\'d8<hw>Beg"ler*beg`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Turk. <ets>beglerbeg</ets>, fr. <ets>beg</ets>, pl. <ets>begler</ets>. See <er>Beg</er>, <pos>n.</pos>]</ety> <def>The governor of a province of the Ottoman empire, next in dignity to the grand vizier.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Begnaw</ent><br/
@@ -12704,19 +12704,19 @@ The worst that may <qex>befall</qex> me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beguin</ent><br/
-||<hw>Be`guin"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>See <er>Beghard</er>.</def><br/
+\'d8<hw>Be`guin"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>See <er>Beghard</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beguinage</ent><br/
-||<hw>Be`gui`nage"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A collection of small houses surrounded by a wall and occupied by a community of Beguines.</def><br/
+\'d8<hw>Be`gui`nage"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A collection of small houses surrounded by a wall and occupied by a community of Beguines.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beguine</ent><br/
-||<hw>Be`guine"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>b<eacute/guine</ets>; LL. <ets>beguina</ets>, <ets>beghina</ets>; fr. Lambert <ets>le B<egrave/gue</ets> (the Stammerer) the founder of the order. (<ets>Du Cange</ets>.)]</ety> <def>A woman belonging to one of the religious and charitable associations or communities in the Netherlands, and elsewhere, whose members live in beguinages and are not bound by perpetual vows.</def><br/
+\'d8<hw>Be`guine"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>b<eacute/guine</ets>; LL. <ets>beguina</ets>, <ets>beghina</ets>; fr. Lambert <ets>le B<egrave/gue</ets> (the Stammerer) the founder of the order. (<ets>Du Cange</ets>.)]</ety> <def>A woman belonging to one of the religious and charitable associations or communities in the Netherlands, and elsewhere, whose members live in beguinages and are not bound by perpetual vows.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Begum</ent><br/
-||<hw>Be"gum</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Per., fr. Turk., perh. properly queen mother, fr. Turk. <ets>beg</ets> (see <er>Beg</er>, <pos>n.</pos>) + Ar. <ets>umm</ets> mother.]</ety> <def>In the East Indies, a princess or lady of high rank.</def>  <rj><au>Malcom.</au></rj><br/
+\'d8<hw>Be"gum</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Per., fr. Turk., perh. properly queen mother, fr. Turk. <ets>beg</ets> (see <er>Beg</er>, <pos>n.</pos>) + Ar. <ets>umm</ets> mother.]</ety> <def>In the East Indies, a princess or lady of high rank.</def>  <rj><au>Malcom.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Begun</ent><br/
@@ -13064,7 +13064,7 @@ To your <qex>behoof</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beige</ent><br/
-||<hw>Beige</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Debeige.</def><br/
+\'d8<hw>Beige</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Debeige.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beijing</ent><br/
@@ -13155,7 +13155,7 @@ Declined his means, you have increased his malice.</q> <rj><qau>Beau. & Fl.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bejuco</ent><br/
-||<hw>Be*ju"co</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., a reed or woody vine.]</ety> <def>Any climbing woody vine of the tropics with the habit of a  liane; in the Philippines, esp. any of various species of <gen>Calamus</gen>, the cane or rattan palm.</def><br/
+\'d8<hw>Be*ju"co</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., a reed or woody vine.]</ety> <def>Any climbing woody vine of the tropics with the habit of a  liane; in the Philippines, esp. any of various species of <gen>Calamus</gen>, the cane or rattan palm.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bejumble</ent><br/
@@ -13163,7 +13163,7 @@ Declined his means, you have increased his malice.</q> <rj><qau>Beau. & Fl.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bekah</ent><br/
-||<hw>Be"kah</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Heb.]</ety> <def>Half a shekel.</def><br/
+\'d8<hw>Be"kah</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Heb.]</ety> <def>Half a shekel.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beknave</ent><br/
@@ -13266,7 +13266,7 @@ Declined his means, you have increased his malice.</q> <rj><qau>Beau. & Fl.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>bel canto</ent><br/
-||<hw>bel canto</hw> <pr>(b<ecr/l k<aum/n"t<osl/)</pr>, <pos>n.</pos> <ety>[It., beautiful singing.]</ety> <fld>(Music)</fld> <def>a cantabile style of operatic singing characterized by purity and evenness of tone, and a precise but brilliant vocal technique displaying ease and agility.</def><br/
+\'d8<hw>bel canto</hw> <pr>(b<ecr/l k<aum/n"t<osl/)</pr>, <pos>n.</pos> <ety>[It., beautiful singing.]</ety> <fld>(Music)</fld> <def>a cantabile style of operatic singing characterized by purity and evenness of tone, and a precise but brilliant vocal technique displaying ease and agility.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Belch</ent><br/
@@ -13359,7 +13359,7 @@ Stood open wide, <qex>belching</qex> outrageous flame.</q> <rj><qau>Milton.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bel-esprit</ent><br/
-||<hw>Bel"-es*prit"</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Beaux-esprits</plw> <pr>(<?/)</pr>.</plu> <ety>[F., fine wit.]</ety> <def>A fine genius, or man of wit.</def> <ldquo/A man of letters and a <xex>bel esprit</xex>.<rdquo/  <rj><au>W. Irving.</au></rj><br/
+\'d8<hw>Bel"-es*prit"</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Beaux-esprits</plw> <pr>(<?/)</pr>.</plu> <ety>[F., fine wit.]</ety> <def>A fine genius, or man of wit.</def> <ldquo/A man of letters and a <xex>bel esprit</xex>.<rdquo/  <rj><au>W. Irving.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Belfast</ent><br/
@@ -13685,11 +13685,11 @@ I <qex>believe</qex> that Jesus Christ is the Son of God.</q> <rj><qau>Acts viii
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bellerophon</ent><br/
-||<hw>Bel*ler"o*phon</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Paleon.)</fld> <def>A genus of fossil univalve shells, believed to belong to the Heteropoda, peculiar to the Paleozoic age.</def><br/
+\'d8<hw>Bel*ler"o*phon</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Paleon.)</fld> <def>A genus of fossil univalve shells, believed to belong to the Heteropoda, peculiar to the Paleozoic age.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Belles-lettres</ent><br/
-||<hw>Belles-let"tres</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[F.]</ety> <def>Polite or elegant literature; the humanities; -- used somewhat vaguely for literary works in which imagination and taste are predominant.</def><br/
+\'d8<hw>Belles-let"tres</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[F.]</ety> <def>Polite or elegant literature; the humanities; -- used somewhat vaguely for literary works in which imagination and taste are predominant.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Belletristical</ent><br/
@@ -13796,7 +13796,7 @@ I <qex>believe</qex> that Jesus Christ is the Son of God.</q> <rj><qau>Acts viii
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bellona</ent><br/
-||<hw>Bel*lo"na</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L., from <ets>bellum</ets> war.]</ety> <fld>(Rom. Myth.)</fld> <def>The goddess of war.</def><br/
+\'d8<hw>Bel*lo"na</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L., from <ets>bellum</ets> war.]</ety> <fld>(Rom. Myth.)</fld> <def>The goddess of war.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bellow</ent><br/
@@ -14295,11 +14295,11 @@ Within the <qex>belt</qex> of rule.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Belzebuth</ent><br/
-||<hw>Bel"ze*buth</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[From <ets>Beelzebub</ets>.]</ety> <fld>(Zool.)</fld> <def>A spider monkey (<spn>Ateles belzebuth</spn>) of Brazil.</def><br/
+\'d8<hw>Bel"ze*buth</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[From <ets>Beelzebub</ets>.]</ety> <fld>(Zool.)</fld> <def>A spider monkey (<spn>Ateles belzebuth</spn>) of Brazil.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bema</ent><br/
-||<hw>Be"ma</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <ets><?/</ets> step, platform.]</ety><br/
+\'d8<hw>Be"ma</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <ets><?/</ets> step, platform.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <fld>(Gr. Antiq.)</fld> <def>A platform from which speakers addressed an assembly.</def>  <rj><au>Mitford.</au></rj><br/
@@ -14663,7 +14663,7 @@ Looks fearfully in the confined deep.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Ben</ent><br/
 <ent>Bene</ent><br/
-<mhw>{ ||<hw>Bene</hw>, <hw>Ben</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A hoglike mammal of New Guinea (<spn>Porcula papuensis</spn>).</def><br/
+<mhw>{ \'d8<hw>Bene</hw>, <hw>Ben</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A hoglike mammal of New Guinea (<spn>Porcula papuensis</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beneaped</ent><br/
@@ -14700,11 +14700,11 @@ Looks fearfully in the confined deep.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Benedicite</ent><br/
-||<hw>Ben`e*dic"i*te</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L., (imperative pl.,) bless ye, praise ye.]</ety> <def>A canticle (the Latin version of which begins with this word) which may be used in the order for morning prayer in the Church of England. It is taken from an apocryphal addition to the third chapter of Daniel.</def><br/
+\'d8<hw>Ben`e*dic"i*te</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L., (imperative pl.,) bless ye, praise ye.]</ety> <def>A canticle (the Latin version of which begins with this word) which may be used in the order for morning prayer in the Church of England. It is taken from an apocryphal addition to the third chapter of Daniel.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Benedicite</ent><br/
-||<hw>Ben`e*dic"i*te</hw>, <pos>interj.</pos> <ety>[See <er>Benedicite</er>, <pos>n.</pos>]</ety> <def>An exclamation corresponding to <xex>Bless you</xex> !.</def><br/
+\'d8<hw>Ben`e*dic"i*te</hw>, <pos>interj.</pos> <ety>[See <er>Benedicite</er>, <pos>n.</pos>]</ety> <def>An exclamation corresponding to <xex>Bless you</xex> !.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Benedick</ent><br/
@@ -14770,7 +14770,7 @@ Followed with <qex>benediction</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Benedictus</ent><br/
-||<hw>Ben`e*dic"tus</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L., blessed. See <er>Benedict</er>, <pos>a.</pos>]</ety> <def>The song of Zacharias at the birth of John the Baptist (<au>Luke i. 68</au>); -- so named from the first word of the Latin version.</def><br/
+\'d8<hw>Ben`e*dic"tus</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L., blessed. See <er>Benedict</er>, <pos>a.</pos>]</ety> <def>The song of Zacharias at the birth of John the Baptist (<au>Luke i. 68</au>); -- so named from the first word of the Latin version.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Benedight</ent><br/
@@ -14974,7 +14974,7 @@ Followed with <qex>benediction</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bene placito</ent><br/
-||<hw>Be`ne plac"i*to</hw> <pr>(b<emac/`n<esl/ pl<acr/s"<icr/*t<osl/; It. b<amac/`n<asl/ pl<aum/"ch<esl/*t<osl/)</pr>. <ety>[It. <ets>beneplacito</ets> pleasure, fr. L. <ets>bene</ets> well + <ets>placitus</ets> pleasing.]</ety> <sn>1.</sn> <def>At or during pleasure.</def><br/
+\'d8<hw>Be`ne plac"i*to</hw> <pr>(b<emac/`n<esl/ pl<acr/s"<icr/*t<osl/; It. b<amac/`n<asl/ pl<aum/"ch<esl/*t<osl/)</pr>. <ety>[It. <ets>beneplacito</ets> pleasure, fr. L. <ets>bene</ets> well + <ets>placitus</ets> pleasing.]</ety> <sn>1.</sn> <def>At or during pleasure.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>For our English judges there never was . . . any <qex>bene placito</qex> as their tenure.</q> <rj><qau>F. Harrison.</qau></rj><br/
@@ -15144,7 +15144,7 @@ The lamp of life deny ?</q> <rj><qau>Heber.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Benitier</ent><br/
-||<hw>B<eacute/*ni"tier`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>b<eacute/nir</ets> to bless.]</ety> <fld>(R. C. Ch.)</fld> <def>A holy-water stoup.</def>  <rj><au>Shipley.</au></rj><br/
+\'d8<hw>B<eacute/*ni"tier`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>b<eacute/nir</ets> to bless.]</ety> <fld>(R. C. Ch.)</fld> <def>A holy-water stoup.</def>  <rj><au>Shipley.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Benjamin</ent><br/
@@ -15292,7 +15292,7 @@ The lamp of life deny ?</q> <rj><qau>Heber.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Benthos</ent><br/
-||<hw>Ben"thos</hw> <pr>(b<ecr/n"th<ocr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>be`nqos</grk> depth of the sea.]</ety> <def>The bottom of the sea, esp. of the deep oceans;</def> <specif>hence</specif> <fld>(Bot. & Zool.)</fld>, <def>the fauna and flora of the sea bottom; -- opposed to <contr>plankton</contr>.</def><br/
+\'d8<hw>Ben"thos</hw> <pr>(b<ecr/n"th<ocr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>be`nqos</grk> depth of the sea.]</ety> <def>The bottom of the sea, esp. of the deep oceans;</def> <specif>hence</specif> <fld>(Bot. & Zool.)</fld>, <def>the fauna and flora of the sea bottom; -- opposed to <contr>plankton</contr>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Benting time</ent><br/
@@ -15560,7 +15560,7 @@ And true subjection everlastingly.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Berbe</ent><br/
-||<hw>Berbe</hw> <pr>(b<etil/rb)</pr>, <pos>n.</pos> <ety>[Cf. Berber, Barb a Barbary horse.]</ety> <fld>(Zool.)</fld> <def>An African genet (<spn>Genetta pardina</spn>). See <er>Genet</er>.</def><br/
+\'d8<hw>Berbe</hw> <pr>(b<etil/rb)</pr>, <pos>n.</pos> <ety>[Cf. Berber, Barb a Barbary horse.]</ety> <fld>(Zool.)</fld> <def>An African genet (<spn>Genetta pardina</spn>). See <er>Genet</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Berber</ent><br/
@@ -15576,7 +15576,7 @@ And true subjection everlastingly.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Berceuse</ent><br/
-||<hw>Ber`ceuse"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Mus.)</fld> <def>A vocal or instrumental composition of a soft tranquil character, having a lulling effect; a cradle song.</def><br/
+\'d8<hw>Ber`ceuse"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Mus.)</fld> <def>A vocal or instrumental composition of a soft tranquil character, having a lulling effect; a cradle song.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bercy</ent><br/
@@ -15726,11 +15726,11 @@ Is utterly <qex>bereft</qex> you; all is lost.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bergschrund</ent><br/
-||<hw>Berg"schrund`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., lit., mountain gap.]</ety> <fld>(Phys. Geog.)</fld> <def>The crevasse or series of crevasses, usually deep and often broad, frequently occurring near the head of a mountain glacier, about where the n<eacute/v<eacute/ field joins the valley portion of the glacier.</def><br/
+\'d8<hw>Berg"schrund`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., lit., mountain gap.]</ety> <fld>(Phys. Geog.)</fld> <def>The crevasse or series of crevasses, usually deep and often broad, frequently occurring near the head of a mountain glacier, about where the n<eacute/v<eacute/ field joins the valley portion of the glacier.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bergstock</ent><br/
-||<hw>Berg"stock`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., lit., mountain stick.]</ety> <def>A long pole with a spike at the end, used in climbing mountains; an alpenstock.</def><br/
+\'d8<hw>Berg"stock`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., lit., mountain stick.]</ety> <def>A long pole with a spike at the end, used in climbing mountains; an alpenstock.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bergylt</ent><br/
@@ -15742,7 +15742,7 @@ Is utterly <qex>bereft</qex> you; all is lost.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beriberi</ent><br/
-||<hw>Be`ri*be"ri</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Singhalese <ets>beri</ets> weakness.]</ety> <def>An acute disease occurring in India, characterized by multiple inflammatory changes in the nerves, producing great muscular debility, a painful rigidity of the limbs, and cachexy.</def><br/
+\'d8<hw>Be`ri*be"ri</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Singhalese <ets>beri</ets> weakness.]</ety> <def>An acute disease occurring in India, characterized by multiple inflammatory changes in the nerves, producing great muscular debility, a painful rigidity of the limbs, and cachexy.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Berime</ent><br/
@@ -15864,7 +15864,7 @@ Is utterly <qex>bereft</qex> you; all is lost.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beroe</ent><br/
-||<hw>Ber"o*e</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L. <ets>Beroe</ets>, one of the Oceanid<ae/ Gr. <ets><?/</ets>: cf. F. <ets>bero<eacute/</ets>.]</ety> <fld>(Zool.)</fld> <def>A small, oval, transparent jellyfish, belonging to the Ctenophora.</def><br/
+\'d8<hw>Ber"o*e</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L. <ets>Beroe</ets>, one of the Oceanid<ae/ Gr. <ets><?/</ets>: cf. F. <ets>bero<eacute/</ets>.]</ety> <fld>(Zool.)</fld> <def>A small, oval, transparent jellyfish, belonging to the Ctenophora.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Berretta</ent><br/
@@ -16184,7 +16184,7 @@ Is utterly <qex>bereft</qex> you; all is lost.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beshow</ent><br/
-||<hw>Be*show"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A large food fish (<spn>Anoplopoma fimbria</spn>) of the north Pacific coast; -- called also <altname>candlefish</altname>.</def><br/
+\'d8<hw>Be*show"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A large food fish (<spn>Anoplopoma fimbria</spn>) of the north Pacific coast; -- called also <altname>candlefish</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beshrew</ent><br/
@@ -16868,7 +16868,7 @@ Like a Colossus.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Betacismus</ent><br/
 <ent>Betacism</ent><br/
-<mhw>{ <hw>Be"ta*cism</hw> <pr>(?)</pr>,  ||<hw>Be`ta*cis"mus</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <def>Excessive or extended use of the <it>b</it> sound in speech, due to conversion of other sounds into it, as through inability to distinguish them from  <it>b</it>, or because of difficulty in pronouncing them.</def><br/
+<mhw>{ <hw>Be"ta*cism</hw> <pr>(?)</pr>,  \'d8<hw>Be`ta*cis"mus</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <def>Excessive or extended use of the <it>b</it> sound in speech, due to conversion of other sounds into it, as through inability to distinguish them from  <it>b</it>, or because of difficulty in pronouncing them.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Betaine</ent><br/
@@ -16942,7 +16942,7 @@ Visit her face too roughly.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bete noire</ent><br/
-||<hw>B<ecir/te" noire"</hw> <pr>(<?/)</pr>. <ety>[Fr., lit. black beast.]</ety> <def>Something especially hated or dreaded; a bugbear.</def><br/
+\'d8<hw>B<ecir/te" noire"</hw> <pr>(<?/)</pr>. <ety>[Fr., lit. black beast.]</ety> <def>Something especially hated or dreaded; a bugbear.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>beth</ent><br/
@@ -17073,7 +17073,7 @@ Visit her face too roughly.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beton</ent><br/
-||<hw>B<eacute/`ton"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>b<eacute/ton</ets>, fr. L. <ets>bitumen</ets> bitumen.]</ety> <fld>(Masonry)</fld> <def>The French name for concrete; hence, concrete made after the French fashion.</def><br/
+\'d8<hw>B<eacute/`ton"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>b<eacute/ton</ets>, fr. L. <ets>bitumen</ets> bitumen.]</ety> <fld>(Masonry)</fld> <def>The French name for concrete; hence, concrete made after the French fashion.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Betongue</ent><br/
@@ -17204,7 +17204,7 @@ Visit her face too roughly.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Betso</ent><br/
-||<hw>Bet"so</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[It. <ets>bezzo</ets>.]</ety> <def>A small brass Venetian coin.</def> <mark>[Obs.]</mark><br/
+\'d8<hw>Bet"so</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[It. <ets>bezzo</ets>.]</ety> <def>A small brass Venetian coin.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Better</ent><br/
@@ -17366,7 +17366,7 @@ May serve to <qex>better</qex> us and worse our foes.</q> <rj><qau>Milton.</qau>
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Bettong</ent><br/
-||<hw>Bet"tong</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A small, leaping Australian marsupial of the genus <gen>Bettongia</gen>; the jerboa kangaroo.</def><br/
+\'d8<hw>Bet"tong</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A small, leaping Australian marsupial of the genus <gen>Bettongia</gen>; the jerboa kangaroo.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bettongia</ent><br/
@@ -17476,7 +17476,7 @@ May serve to <qex>better</qex> us and worse our foes.</q> <rj><qau>Milton.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beurre</ent><br/
-||<hw>Beur*r<eacute/"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>beurre</ets> butter.]</ety> <fld>(Bot.)</fld> <def>A beurr<eacute/ (or buttery) pear, one with the meat soft and melting; -- used with a distinguishing word; <as>as, <ex>Beurr<eacute/</ex> d'Anjou; <ex>Beurr<eacute/</ex> Clairgeau</as>.</def><br/
+\'d8<hw>Beur*r<eacute/"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>beurre</ets> butter.]</ety> <fld>(Bot.)</fld> <def>A beurr<eacute/ (or buttery) pear, one with the meat soft and melting; -- used with a distinguishing word; <as>as, <ex>Beurr<eacute/</ex> d'Anjou; <ex>Beurr<eacute/</ex> Clairgeau</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>bevatron</ent><br/
@@ -17881,7 +17881,7 @@ Is like a blasted sapling withered up.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bezpopovtsy</ent><br/
-||<hw>Bez`po*pov"tsy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Russ.; <ets>bez</ets> without + <ets>popovtsy</ets>, a derivative of <ets>pop</ets> priest.]</ety> <def>A Russian sect. See <er>Raskolnik</er>.</def><br/
+\'d8<hw>Bez`po*pov"tsy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Russ.; <ets>bez</ets> without + <ets>popovtsy</ets>, a derivative of <ets>pop</ets> priest.]</ety> <def>A Russian sect. See <er>Raskolnik</er>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bezzle</ent><br/
@@ -17917,7 +17917,7 @@ Is like a blasted sapling withered up.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Bhunder</ent><br/
-||<hw>Bhun"der</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>An Indian monkey (<spn>Macacus Rhesus</spn>), protected by the Hindus as sacred. See <er>Rhesus</er>.</def><br/
+\'d8<hw>Bhun"der</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>An Indian monkey (<spn>Macacus Rhesus</spn>), protected by the Hindus as sacred. See <er>Rhesus</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bhutan</ent><br/
@@ -18103,7 +18103,7 @@ Is like a blasted sapling withered up.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bibelot</ent><br/
-||<hw>Bi`be*lot"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A small decorative object without practical utility.</def><br/
+\'d8<hw>Bi`be*lot"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A small decorative object without practical utility.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Her pictures, her furniture, and her <qex>bibelots</qex>.</q>  <rj><qau>M. Crawford.</qau></rj><br/
@@ -18291,7 +18291,7 @@ Is like a blasted sapling withered up.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bibliotheca</ent><br/
-||<hw>Bib`li*o*the"ca</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L. See <er>Bibliotheke</er>.]</ety> <def>A library.</def><br/
+\'d8<hw>Bib`li*o*the"ca</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L. See <er>Bibliotheke</er>.]</ety> <def>A library.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bibliothecal</ent><br/
@@ -18405,11 +18405,11 @@ Is like a blasted sapling withered up.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Biceps</ent><br/
-||<hw>Bi"ceps</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L., two-headed; <ets>bis</ets> twice + <ets>caput</ets> head. See <er>Capital</er>.]</ety> <fld>(Anat.)</fld> <def>A muscle having two heads or origins; -- applied particularly to a flexor in the arm, and to another in the thigh.</def><br/
+\'d8<hw>Bi"ceps</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L., two-headed; <ets>bis</ets> twice + <ets>caput</ets> head. See <er>Capital</er>.]</ety> <fld>(Anat.)</fld> <def>A muscle having two heads or origins; -- applied particularly to a flexor in the arm, and to another in the thigh.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bichir</ent><br/
-||<hw>Bi*chir"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A remarkable ganoid fish (<spn>Polypterus bichir</spn>) found in the Nile and other African rivers. See <er>Brachioganoidei</er>.</def><br/
+\'d8<hw>Bi*chir"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A remarkable ganoid fish (<spn>Polypterus bichir</spn>) found in the Nile and other African rivers. See <er>Brachioganoidei</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bichloride</ent><br/
@@ -18420,7 +18420,7 @@ Is like a blasted sapling withered up.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bicho</ent><br/
-||<hw>Bi"cho</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <fld>(Zool.)</fld> <def>See <er>Jigger</er>.</def><br/
+\'d8<hw>Bi"cho</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <fld>(Zool.)</fld> <def>See <er>Jigger</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bichromate</ent><br/
@@ -18987,7 +18987,7 @@ That <qex>bide</qex> the pelting of this pitiless storm.</q> <rj><qau>Shak.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Biga</ent><br/
-||<hw>Bi"ga</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Antiq.)</fld> <def>A two-horse chariot.</def><br/
+\'d8<hw>Bi"ga</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Antiq.)</fld> <def>A two-horse chariot.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bigam</ent><br/
@@ -19096,7 +19096,7 @@ That <qex>bide</qex> the pelting of this pitiless storm.</q> <rj><qau>Shak.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bigha</ent><br/
-||<hw>Big"ha</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>A measure of land in India, varying from a third of an acre to an acre.</def><br/
+\'d8<hw>Big"ha</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>A measure of land in India, varying from a third of an acre to an acre.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>bighearted</ent><br/
@@ -19217,7 +19217,7 @@ That <qex>bide</qex> the pelting of this pitiless storm.</q> <rj><qau>Shak.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bijou</ent><br/
-||<hw>Bi*jou"</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Bijoux</plw> <pr>(<?/)</pr>.</plu> <ety>[F.; of uncertain origin.]</ety> <def>A trinket; a jewel; -- a word applied to anything small and of elegant workmanship.</def><br/
+\'d8<hw>Bi*jou"</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Bijoux</plw> <pr>(<?/)</pr>.</plu> <ety>[F.; of uncertain origin.]</ety> <def>A trinket; a jewel; -- a word applied to anything small and of elegant workmanship.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bijoutry</ent><br/
@@ -19237,7 +19237,7 @@ That <qex>bide</qex> the pelting of this pitiless storm.</q> <rj><qau>Shak.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bikh</ent><br/
-||<hw>Bikh</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Hind., fr. Skr. <ets>visha</ets> poison.]</ety> <fld>(Bot.)</fld> <def>The East Indian name of a virulent poison extracted from <spn>Aconitum ferox</spn> or other species of aconite: also, the plant itself.</def><br/
+\'d8<hw>Bikh</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Hind., fr. Skr. <ets>visha</ets> poison.]</ety> <fld>(Bot.)</fld> <def>The East Indian name of a virulent poison extracted from <spn>Aconitum ferox</spn> or other species of aconite: also, the plant itself.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>bilabial</ent><br/
@@ -19257,7 +19257,7 @@ That <qex>bide</qex> the pelting of this pitiless storm.</q> <rj><qau>Shak.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bilalo</ent><br/
-||<hw>Bi*la"lo</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>A two-masted passenger boat or small vessel, used in the bay of Manila.</def><br/
+\'d8<hw>Bi*la"lo</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>A two-masted passenger boat or small vessel, used in the bay of Manila.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bilamellated</ent><br/
@@ -19315,7 +19315,7 @@ Worse than the mutines in the <qex>bilboes</qex>.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bilboquet</ent><br/
-||<hw>Bil"bo*quet</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>The toy called <altname>cup and ball</altname>.</def><br/
+\'d8<hw>Bil"bo*quet</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>The toy called <altname>cup and ball</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bilcock</ent><br/
@@ -19323,7 +19323,7 @@ Worse than the mutines in the <qex>bilboes</qex>.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bildstein</ent><br/
-||<hw>Bild"stein</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[G., fr. <ets>bild</ets> image, likeness + <ets>stein</ets> stone.]</ety> <def>Same as <er>Agalmatolite</er>.</def><br/
+\'d8<hw>Bild"stein</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[G., fr. <ets>bild</ets> image, likeness + <ets>stein</ets> stone.]</ety> <def>Same as <er>Agalmatolite</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bile</ent><br/
@@ -19406,7 +19406,7 @@ Worse than the mutines in the <qex>bilboes</qex>.</q> <rj><qau>Shak.</qau></rj><
 
 <p><ent>Bilimbing</ent><br/
 <ent>Bilimbi</ent><br/
-<mhw>{ ||<hw>Bi*lim"bi</hw> <pr>(<?/)</pr>, ||<hw>Bi*lim"bing</hw> <pr>(<?/)</pr>, }</mhw> <pos>n.</pos> <ety>[Malay.]</ety> <def>The berries of two East Indian species of <gen>Averrhoa</gen>, of the <fam>Oxalide<ae/</fam> or Sorrel family. They are very acid, and highly esteemed when preserved or pickled. The juice is used as a remedy for skin diseases.</def> <altsp>[Written also <asp>blimbi</asp> and <asp>blimbing</asp>.]</altsp><br/
+<mhw>{ \'d8<hw>Bi*lim"bi</hw> <pr>(<?/)</pr>, \'d8<hw>Bi*lim"bing</hw> <pr>(<?/)</pr>, }</mhw> <pos>n.</pos> <ety>[Malay.]</ety> <def>The berries of two East Indian species of <gen>Averrhoa</gen>, of the <fam>Oxalide<ae/</fam> or Sorrel family. They are very acid, and highly esteemed when preserved or pickled. The juice is used as a remedy for skin diseases.</def> <altsp>[Written also <asp>blimbi</asp> and <asp>blimbing</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Biliment</ent><br/
@@ -19659,7 +19659,7 @@ Worse than the mutines in the <qex>bilboes</qex>.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Billet-doux</ent><br/
-||<hw>Bil`let-doux"</hw> <pr>(b<icr/l`l<asl/*d<oomac/")</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Billets-doux</plw> <pr>(b<icr/l`l<asl/*d<oomac/z")</pr>.</plu> <ety>[F. <ets>billet</ets> note + <ets>doux</ets> sweet, L. <ets>dulcis</ets>.]</ety> <def>A love letter or note.</def><br/
+\'d8<hw>Bil`let-doux"</hw> <pr>(b<icr/l`l<asl/*d<oomac/")</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Billets-doux</plw> <pr>(b<icr/l`l<asl/*d<oomac/z")</pr>.</plu> <ety>[F. <ets>billet</ets> note + <ets>doux</ets> sweet, L. <ets>dulcis</ets>.]</ety> <def>A love letter or note.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>A lover chanting out a <qex>billet-doux</qex>.</q> <rj><qau>Spectator.</qau></rj><br/
@@ -19720,7 +19720,7 @@ Worse than the mutines in the <qex>bilboes</qex>.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Billon</ent><br/
-||<hw>Bil`lon"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. Cf. <er>Billet</er> a stick.]</ety> <def>An alloy of gold and silver with a large proportion of copper or other base metal, used in coinage.</def><br/
+\'d8<hw>Bil`lon"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. Cf. <er>Billet</er> a stick.]</ety> <def>An alloy of gold and silver with a large proportion of copper or other base metal, used in coinage.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Billot</ent><br/
@@ -19842,7 +19842,7 @@ Descends the <qex>billowy</qex> foam.</q> <rj><qau>Thomson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Biltong</ent><br/
-||<hw>Bil"tong</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[S. African.]</ety> <def>Lean meat cut into strips and sun-dried.</def>  <rj><au>H. R. Haggard.</au></rj><br/
+\'d8<hw>Bil"tong</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[S. African.]</ety> <def>Lean meat cut into strips and sun-dried.</def>  <rj><au>H. R. Haggard.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bimaculate</ent><br/
@@ -19850,7 +19850,7 @@ Descends the <qex>billowy</qex> foam.</q> <rj><qau>Thomson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bimana</ent><br/
-||<hw>Bim"a*na</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Bimanous</er>.]</ety> <fld>(Zool.)</fld> <def>Animals having two hands; -- a term applied by Cuvier to man as a special order of <xex>Mammalia</xex>.</def><br/
+\'d8<hw>Bim"a*na</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Bimanous</er>.]</ety> <fld>(Zool.)</fld> <def>Animals having two hands; -- a term applied by Cuvier to man as a special order of <xex>Mammalia</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bimanous</ent><br/
@@ -19998,7 +19998,7 @@ Descends the <qex>billowy</qex> foam.</q> <rj><qau>Thomson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Binbashi</ent><br/
-||<hw>Bin*bash"i</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Turk., prop., chief of a thousand; <ets>bin</ets> thousand + <ets>bash</ets> head.]</ety> <fld>(Mil.)</fld> <def>A major in the Turkish army.</def><br/
+\'d8<hw>Bin*bash"i</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Turk., prop., chief of a thousand; <ets>bin</ets> thousand + <ets>bash</ets> head.]</ety> <fld>(Mil.)</fld> <def>A major in the Turkish army.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bind</ent><br/
@@ -20235,7 +20235,7 @@ Descends the <qex>billowy</qex> foam.</q> <rj><qau>Thomson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Binturong</ent><br/
-||<hw>Bin"tu*rong</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A small Asiatic civet of the genus <gen>Arctilis</gen>.</def><br/
+\'d8<hw>Bin"tu*rong</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A small Asiatic civet of the genus <gen>Arctilis</gen>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Binucleate</ent><br/
@@ -20372,7 +20372,7 @@ Descends the <qex>billowy</qex> foam.</q> <rj><qau>Thomson.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Biognosis</ent><br/
-||<hw>Bi`og*no"sis</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <ets><?/</ets> life  + <ets><?/</ets> investigation.]</ety> <fld>(Biol.)</fld> <def>The investigation of life.</def><br/
+\'d8<hw>Bi`og*no"sis</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <ets><?/</ets> life  + <ets><?/</ets> investigation.]</ety> <fld>(Biol.)</fld> <def>The investigation of life.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Biograph</ent><br/
@@ -20428,7 +20428,7 @@ Descends the <qex>billowy</qex> foam.</q> <rj><qau>Thomson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Biolysis</ent><br/
-||<hw>Bi*ol"y*sis</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>bi`os</grk> life + <ets><?/</ets> a dissolving.]</ety> <fld>(Biol.)</fld> <def>The destruction of life.</def><br/
+\'d8<hw>Bi*ol"y*sis</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>bi`os</grk> life + <ets><?/</ets> a dissolving.]</ety> <fld>(Biol.)</fld> <def>The destruction of life.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bioluminescence</ent><br/
@@ -20696,7 +20696,7 @@ Became a helpless, naked, <qex>biped</qex> beast.</q> <rj><qau>Byrom.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bipennis</ent><br/
-||<hw>Bi*pen"nis</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>An ax with an edge or blade on each side of the handle.</def><br/
+\'d8<hw>Bi*pen"nis</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>An ax with an edge or blade on each side of the handle.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bipetalous</ent><br/
@@ -20704,7 +20704,7 @@ Became a helpless, naked, <qex>biped</qex> beast.</q> <rj><qau>Byrom.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bipinnaria</ent><br/
-||<hw>Bi`pin*na"ri*a</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>bis</ets> twice + <ets>pinna</ets> feather.]</ety> <fld>(Zool.)</fld> <def>The larva of certain starfishes as developed in the free-swimming stage.</def><br/
+\'d8<hw>Bi`pin*na"ri*a</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>bis</ets> twice + <ets>pinna</ets> feather.]</ety> <fld>(Zool.)</fld> <def>The larva of certain starfishes as developed in the free-swimming stage.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bipinnated</ent><br/
@@ -21358,7 +21358,7 @@ On thy <qex>birthnight</qex>, that sung thee Savior born.</q> <rj><qau>Milton.</
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Bise</ent><br/
-||<hw>Bise</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A cold north wind which prevails on the northern coasts of the Mediterranean and in Switzerland, etc.; -- nearly the same as the <xex>mistral</xex>.</def><br/
+\'d8<hw>Bise</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A cold north wind which prevails on the northern coasts of the Mediterranean and in Switzerland, etc.; -- nearly the same as the <xex>mistral</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bise</ent><br/
@@ -21566,7 +21566,7 @@ A genuine lady, or a church, is known.</q> <rj><qau>Saxe.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bismillah</ent><br/
-||<hw>Bis*mil"lah</hw> <pr>(<?/)</pr>, <pos>interj.</pos> <ety>[Arabic, in the name of God!]</ety> <def>An adjuration or exclamation common among the Muslims.</def> <altsp>[Written also <asp>Bizmillah</asp>.]</altsp><br/
+\'d8<hw>Bis*mil"lah</hw> <pr>(<?/)</pr>, <pos>interj.</pos> <ety>[Arabic, in the name of God!]</ety> <def>An adjuration or exclamation common among the Muslims.</def> <altsp>[Written also <asp>Bizmillah</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bismite</ent><br/
@@ -21623,7 +21623,7 @@ A genuine lady, or a church, is known.</q> <rj><qau>Saxe.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bisque</ent><br/
-||<hw>Bisque</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[A corruption of <ets>biscuit</ets>.]</ety> <def>Unglazed white porcelain.</def><br/
+\'d8<hw>Bisque</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[A corruption of <ets>biscuit</ets>.]</ety> <def>Unglazed white porcelain.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bisque</ent><br/
@@ -21631,7 +21631,7 @@ A genuine lady, or a church, is known.</q> <rj><qau>Saxe.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bisque</ent><br/
-||<hw>Bisque</hw>, <pos>n.</pos> <ety>[F.]</ety> <def>A white soup made of crayfish.</def><br/
+\'d8<hw>Bisque</hw>, <pos>n.</pos> <ety>[F.]</ety> <def>A white soup made of crayfish.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bissau</ent><br/
@@ -22253,7 +22253,7 @@ Like rats, oft <qex>bite</qex> the holy cords atwain.</q> <rj><qau>Shak.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bivium</ent><br/
-||<hw>Biv"i*um</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L., a place with two ways. See <er>Bivious</er>.]</ety> <fld>(Zool.)</fld> <def>One side of an echinoderm, including a pair of ambulacra, in distinction from the opposite side (<xex>trivium</xex>), which includes three ambulacra.</def><br/
+\'d8<hw>Biv"i*um</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L., a place with two ways. See <er>Bivious</er>.]</ety> <fld>(Zool.)</fld> <def>One side of an echinoderm, including a pair of ambulacra, in distinction from the opposite side (<xex>trivium</xex>), which includes three ambulacra.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bivouac</ent><br/
@@ -23282,7 +23282,7 @@ As ever in the Muses' garden <qex>bladed</qex>.</q> <rj><qau>P. Fletcher.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blague</ent><br/
-||<hw>Blague</hw> <pr>(bl<adot/g)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Mendacious boasting; falsehood; humbug.</def><br/
+\'d8<hw>Blague</hw> <pr>(bl<adot/g)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Mendacious boasting; falsehood; humbug.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blain</ent><br/
@@ -23388,7 +23388,7 @@ As ever in the Muses' garden <qex>bladed</qex>.</q> <rj><qau>P. Fletcher.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blanc</ent><br/
-||<hw>Blanc</hw> <pr>(bl<aum/N)</pr>, <pos>n.</pos> <ety>[F., white.]</ety> <sn>1.</sn> <def>A white cosmetic.</def><br/
+\'d8<hw>Blanc</hw> <pr>(bl<aum/N)</pr>, <pos>n.</pos> <ety>[F., white.]</ety> <sn>1.</sn> <def>A white cosmetic.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <def>A white sauce of fat, broth, and vegetables, used esp. for braised meat.</def><br/
@@ -23728,11 +23728,11 @@ To cry, <ldquo/Hold, hold!<rdquo/</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blanquette</ent><br/
-||<hw>Blan*quette"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>blanquette</ets>, from <ets>blanc</ets> white.]</ety> <fld>(Cookery)</fld> <def>A white fricassee.</def><br/
+\'d8<hw>Blan*quette"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>blanquette</ets>, from <ets>blanc</ets> white.]</ety> <fld>(Cookery)</fld> <def>A white fricassee.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blanquillo</ent><br/
-||<hw>Blan*quil"lo</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Sp. <ets>blanquillo</ets> whitish.]</ety> <fld>(Zool.)</fld> <def>A large fish of Florida and the W. Indies (<spn>Caulolatilus chrysops</spn>). It is red, marked with yellow.</def><br/
+\'d8<hw>Blan*quil"lo</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Sp. <ets>blanquillo</ets> whitish.]</ety> <fld>(Zool.)</fld> <def>A large fish of Florida and the W. Indies (<spn>Caulolatilus chrysops</spn>). It is red, marked with yellow.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blare</ent><br/
@@ -23780,7 +23780,7 @@ To cry, <ldquo/Hold, hold!<rdquo/</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blase</ent><br/
-||<hw>Bla*s<eacute/"</hw> <pr>(bl<adot/*z<asl/")</pr>, <pos>a.</pos> <ety>[F., p. p. of <ets>blaser</ets>.]</ety> <sn>1.</sn> <def>Having the sensibilities deadened by excess or frequency of enjoyment; sated or surfeited with pleasure; uninterested because of frequent exposure or indulgence; used up.</def><br/
+\'d8<hw>Bla*s<eacute/"</hw> <pr>(bl<adot/*z<asl/")</pr>, <pos>a.</pos> <ety>[F., p. p. of <ets>blaser</ets>.]</ety> <sn>1.</sn> <def>Having the sensibilities deadened by excess or frequency of enjoyment; sated or surfeited with pleasure; uninterested because of frequent exposure or indulgence; used up.</def><br/
 <syn><b>Syn. --</b> bored.</syn><br/
 [<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 
@@ -23967,7 +23967,7 @@ And gan to puffen and to <qex>blaste</qex>.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blastema</ent><br/
-||<hw>Blas*te"ma</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Blastemata</plw> <pr>(<?/)</pr>.</plu> <ety>[Gr. <grk>bla`sthma</grk> bud, sprout.]</ety> <fld>(Biol.)</fld> <def>The structureless, protoplasmic tissue of the embryo; the primitive basis of an organ yet unformed, from which it grows.</def><br/
+\'d8<hw>Blas*te"ma</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Blastemata</plw> <pr>(<?/)</pr>.</plu> <ety>[Gr. <grk>bla`sthma</grk> bud, sprout.]</ety> <fld>(Biol.)</fld> <def>The structureless, protoplasmic tissue of the embryo; the primitive basis of an organ yet unformed, from which it grows.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blastemal</ent><br/
@@ -24058,7 +24058,7 @@ And gan to puffen and to <qex>blaste</qex>.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blastoidea</ent><br/
-||<hw>Blas*toid"e*a</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>blasto`s</grk> sprout + <ets>-oid</ets>.]</ety> <fld>(Zool.)</fld> <def>One of the divisions of Crinoidea found fossil in paleozoic rocks; pentremites. They are so named on account of their budlike form.</def><br/
+\'d8<hw>Blas*toid"e*a</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>blasto`s</grk> sprout + <ets>-oid</ets>.]</ety> <fld>(Zool.)</fld> <def>One of the divisions of Crinoidea found fossil in paleozoic rocks; pentremites. They are so named on account of their budlike form.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blastomere</ent><br/
@@ -24108,7 +24108,7 @@ And gan to puffen and to <qex>blaste</qex>.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blastula</ent><br/
-||<hw>Blas"tu*la</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., dim. of Gr. <grk>blasto`s</grk> a sprout.]</ety> <fld>(Biol.)</fld> <def>That stage in the development of the ovum in which the outer cells of the morula become more defined and form the blastoderm.</def><br/
+\'d8<hw>Blas"tu*la</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., dim. of Gr. <grk>blasto`s</grk> a sprout.]</ety> <fld>(Biol.)</fld> <def>That stage in the development of the ovum in which the outer cells of the morula become more defined and form the blastoderm.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blastule</ent><br/
@@ -24198,7 +24198,7 @@ And gan to puffen and to <qex>blaste</qex>.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blaubok</ent><br/
-||<hw>Blau"bok</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[D. <ets>blauwbok</ets>.]</ety> <fld>(Zool.)</fld> <def>The blue buck. See <cref>Blue buck</cref>, under <er>Blue</er>.</def><br/
+\'d8<hw>Blau"bok</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[D. <ets>blauwbok</ets>.]</ety> <fld>(Zool.)</fld> <def>The blue buck. See <cref>Blue buck</cref>, under <er>Blue</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blay</ent><br/
@@ -24843,7 +24843,7 @@ container are <br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blennorrhea</ent><br/
-||<hw>Blen`nor*rhe"a</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <ets><?/</ets> mucus + <ets><?/</ets> to flow.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>An inordinate secretion and discharge of mucus.</def> <sd>(b)</sd> <def>Gonorrhea.</def>  <rj><au>Dunglison.</au></rj><br/
+\'d8<hw>Blen`nor*rhe"a</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <ets><?/</ets> mucus + <ets><?/</ets> to flow.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>An inordinate secretion and discharge of mucus.</def> <sd>(b)</sd> <def>Gonorrhea.</def>  <rj><au>Dunglison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blenny</ent><br/
@@ -24862,11 +24862,11 @@ container are <br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blepharitis</ent><br/
-||<hw>Bleph`a*ri"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ eyelid + <ets>-ilis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the eyelids.</def> -- <wordforms><wf>Bleph`a*rit"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>Bleph`a*ri"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ eyelid + <ets>-ilis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the eyelids.</def> -- <wordforms><wf>Bleph`a*rit"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Blesbok</ent><br/
-||<hw>Bles"bok</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[D., fr. <ets>bles</ets> a white spot on the forehead + <ets>bok</ets> buck.]</ety> <fld>(Zool.)</fld> <def>A South African antelope (<spn>Alcelaphus albifrons</spn>), having a large white spot on the forehead.</def><br/
+\'d8<hw>Bles"bok</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[D., fr. <ets>bles</ets> a white spot on the forehead + <ets>bok</ets> buck.]</ety> <fld>(Zool.)</fld> <def>A South African antelope (<spn>Alcelaphus albifrons</spn>), having a large white spot on the forehead.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bless</ent><br/
@@ -25681,7 +25681,7 @@ So buxom, <qex>blithe</qex>, and debonair.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blocage</ent><br/
-||<hw>Blo*cage"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Arch.)</fld> <def>The roughest and cheapest sort of rubblework, in masonry.</def><br/
+\'d8<hw>Blo*cage"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Arch.)</fld> <def>The roughest and cheapest sort of rubblework, in masonry.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Block</ent><br/
@@ -27931,7 +27931,7 @@ Sea, air, and shore.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boanerges</ent><br/
-||<hw>Bo`a*ner"ges</hw> <pr>(<?/)</pr>. <ety>[Gr. <ets><?/</ets>, fr. Heb. <ets>bn<emac/ hargem</ets> sons of thunder. -- an appellation given by Christ to two of his disciples (James and John). See <ets>Mark</ets> iii. 17.]</ety> <def>Any declamatory and vociferous preacher or orator.</def><br/
+\'d8<hw>Bo`a*ner"ges</hw> <pr>(<?/)</pr>. <ety>[Gr. <ets><?/</ets>, fr. Heb. <ets>bn<emac/ hargem</ets> sons of thunder. -- an appellation given by Christ to two of his disciples (James and John). See <ets>Mark</ets> iii. 17.]</ety> <def>Any declamatory and vociferous preacher or orator.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boar</ent><br/
@@ -28409,7 +28409,7 @@ For anything but eels.</q> <rj><qau>Saxe.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bobac</ent><br/
-||<hw>Bo"bac</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The Poland marmot (<spn>Arctomys bobac</spn>).</def><br/
+\'d8<hw>Bo"bac</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The Poland marmot (<spn>Arctomys bobac</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bobance</ent><br/
@@ -28560,7 +28560,7 @@ For anything but eels.</q> <rj><qau>Saxe.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bocca</ent><br/
-||<hw>Boc"ca</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[It., mouth.]</ety> <def>The round hole in the furnace of a glass manufactory through which the fused glass is taken out.</def>  <rj><au>Craig.</au></rj><br/
+\'d8<hw>Boc"ca</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[It., mouth.]</ety> <def>The round hole in the furnace of a glass manufactory through which the fused glass is taken out.</def>  <rj><au>Craig.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boce</ent><br/
@@ -28673,7 +28673,7 @@ Makes all these <qex>bodements</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>Bodhisattwa</ent><br/
 <ent>Bodhisattva</ent><br/
 <ent>Bodhisat</ent><br/
-<mhw>{ <hw>Bo"dhi*sat</hw> <pr>(?)</pr>,  ||<hw>Bo`dhi*satt"va</hw>,  ||<hw>Bo`dhi*satt"wa</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[Skr. <ets>b<omac/dhisattva</ets> (perh. through Pali <ets>b<omac/dhisatt<omac/</ets>); fr. <ets>b<omac/dhi</ets> knowledge, enlightenment + <ets>sattva</ets> being, essence.]</ety> <fld>(Buddhism)</fld> <def>One who has reached the highest degree of saintship, so that in his next incarnation he will be a Buddha, or savior of the world.</def> -- <wordforms><wf>Bo"dhi*sat`ship</wf>, <pos>n.</pos></wordforms><br/
+<mhw>{ <hw>Bo"dhi*sat</hw> <pr>(?)</pr>,  \'d8<hw>Bo`dhi*satt"va</hw>,  \'d8<hw>Bo`dhi*satt"wa</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[Skr. <ets>b<omac/dhisattva</ets> (perh. through Pali <ets>b<omac/dhisatt<omac/</ets>); fr. <ets>b<omac/dhi</ets> knowledge, enlightenment + <ets>sattva</ets> being, essence.]</ety> <fld>(Buddhism)</fld> <def>One who has reached the highest degree of saintship, so that in his next incarnation he will be a Buddha, or savior of the world.</def> -- <wordforms><wf>Bo"dhi*sat`ship</wf>, <pos>n.</pos></wordforms><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bodian</ent><br/
@@ -28968,7 +28968,7 @@ The forms of things unknown.</q> <rj><qau>Shak.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boer</ent><br/
-||<hw>Boer</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[D., a farmer. See <er>Boor</er>.]</ety> <def>A colonist or farmer in South Africa of Dutch descent.</def><br/
+\'d8<hw>Boer</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[D., a farmer. See <er>Boor</er>.]</ety> <def>A colonist or farmer in South Africa of Dutch descent.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boes</ent><br/
@@ -29208,11 +29208,11 @@ Of treacherous earth, subsiding where they tread.</q> <rj><qau>R. Jago.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bohun upas</ent><br/
-||<hw>Bo"hun u"pas</hw> <pr>(<?/)</pr>. <def>See <er>Upas</er>.</def><br/
+\'d8<hw>Bo"hun u"pas</hw> <pr>(<?/)</pr>. <def>See <er>Upas</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boiar</ent><br/
-||<hw>Bo*iar"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>See <er>Boyar</er>.</def><br/
+\'d8<hw>Bo*iar"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>See <er>Boyar</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boil</ent><br/
@@ -29343,14 +29343,14 @@ And <qex>boileth</qex> meate for them all.</q> <rj><qau>Gower.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bois d'arc</ent><br/
-||<hw>Bois" d'arc"</hw> <pr>(<?/)</pr>. <ety>[F., bow wood. So called because used for bows by the Western Indians.]</ety> <fld>(Bot.)</fld> <def>The Osage orange (<spn>Maclura aurantiaca</spn>).</def><br/
+\'d8<hw>Bois" d'arc"</hw> <pr>(<?/)</pr>. <ety>[F., bow wood. So called because used for bows by the Western Indians.]</ety> <fld>(Bot.)</fld> <def>The Osage orange (<spn>Maclura aurantiaca</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The <qex>bois d'arc</qex> seems to be the characteristic growth of the black prairies.</q> <rj><qau>U. S. Census (1880).</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bois durci</ent><br/
-||<hw>Bois" dur`ci"</hw> <pr>(<?/)</pr>. <ety>[F., hardened wood.]</ety> <def>A hard, highly polishable composition, made of fine sawdust from hard wood (as rosewood) mixed with blood, and pressed.</def><br/
+\'d8<hw>Bois" dur`ci"</hw> <pr>(<?/)</pr>. <ety>[F., hardened wood.]</ety> <def>A hard, highly polishable composition, made of fine sawdust from hard wood (as rosewood) mixed with blood, and pressed.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boist</ent><br/
@@ -29414,7 +29414,7 @@ And <qex>boileth</qex> meate for them all.</q> <rj><qau>Gower.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bolas</ent><br/
-||<hw>Bo"las</hw> <pr>(<?/)</pr>, <pos>n. sing. & pl.</pos> <ety>[Sp.]</ety> <def>A kind of missile weapon consisting of one, two, or more balls of stone, iron, or other material, attached to the ends of a leather cord; -- used by the Gauchos of South America, and others, for hurling at and entangling an animal.</def><br/
+\'d8<hw>Bo"las</hw> <pr>(<?/)</pr>, <pos>n. sing. & pl.</pos> <ety>[Sp.]</ety> <def>A kind of missile weapon consisting of one, two, or more balls of stone, iron, or other material, attached to the ends of a leather cord; -- used by the Gauchos of South America, and others, for hurling at and entangling an animal.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bold</ent><br/
@@ -29507,7 +29507,7 @@ And <qex>boileth</qex> meate for them all.</q> <rj><qau>Gower.</qau></rj><br/
 
 <p><ent>Boldu</ent><br/
 <ent>Boldo</ent><br/
-<mhw>{ ||<hw>Bol"do</hw> <pr>(<?/)</pr>, ||<hw>Bol"du</hw> <pr>(<?/)</pr>, }</mhw> <pos>n.</pos> <fld>(Bot.)</fld> <def>A fragrant evergreen shrub of Chili (<spn>Peumus Boldus</spn>). The bark is used in tanning, the wood for making charcoal, the leaves in medicine, and the drupes are eaten.</def><br/
+<mhw>{ \'d8<hw>Bol"do</hw> <pr>(<?/)</pr>, \'d8<hw>Bol"du</hw> <pr>(<?/)</pr>, }</mhw> <pos>n.</pos> <fld>(Bot.)</fld> <def>A fragrant evergreen shrub of Chili (<spn>Peumus Boldus</spn>). The bark is used in tanning, the wood for making charcoal, the leaves in medicine, and the drupes are eaten.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bole</ent><br/
@@ -29543,7 +29543,7 @@ And <qex>boileth</qex> meate for them all.</q> <rj><qau>Gower.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bolero</ent><br/
-||<hw>Bo*le"ro</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <fld>(Mus.)</fld> <sn>1.</sn> <def>A Spanish dance, or the lively music which accompanies it.</def><br/
+\'d8<hw>Bo*le"ro</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <fld>(Mus.)</fld> <sn>1.</sn> <def>A Spanish dance, or the lively music which accompanies it.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A kind of small outer jacket, with or without sleeves, worn by women.</def><br/
@@ -29561,7 +29561,7 @@ And <qex>boileth</qex> meate for them all.</q> <rj><qau>Gower.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boletus</ent><br/
-||<hw>Bo*le"tus</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L. <ets>boletus</ets>, Gr. <ets><?/</ets>.]</ety> <fld>(Bot.)</fld> <def>A genus of fungi having the under side of the pileus or cap composed of a multitude of fine separate tubes. A few are edible, and others very poisonous.</def><br/
+\'d8<hw>Bo*le"tus</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L. <ets>boletus</ets>, Gr. <ets><?/</ets>.]</ety> <fld>(Bot.)</fld> <def>A genus of fungi having the under side of the pileus or cap composed of a multitude of fine separate tubes. A few are edible, and others very poisonous.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bolye</ent><br/
@@ -29574,7 +29574,7 @@ And <qex>boileth</qex> meate for them all.</q> <rj><qau>Gower.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bolis</ent><br/
-||<hw>Bo"lis</hw>, <pos>n.</pos> <ety>[L., fr. Gr. <ets><?/</ets> missile, arrow, fr. <ets><?/</ets> to throw.]</ety> <def>A meteor or brilliant shooting star, followed by a train of light or sparks; esp. one which explodes.</def><br/
+\'d8<hw>Bo"lis</hw>, <pos>n.</pos> <ety>[L., fr. Gr. <ets><?/</ets> missile, arrow, fr. <ets><?/</ets> to throw.]</ety> <def>A meteor or brilliant shooting star, followed by a train of light or sparks; esp. one which explodes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bolivian</ent><br/
@@ -29645,7 +29645,7 @@ And <qex>boileth</qex> meate for them all.</q> <rj><qau>Gower.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bolo</ent><br/
-||<hw>Bo"lo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>A kind of large knife resembling a machete.</def> <mark>[Phil. Islands]</mark><br/
+\'d8<hw>Bo"lo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>A kind of large knife resembling a machete.</def> <mark>[Phil. Islands]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bologna</ent><br/
@@ -29690,7 +29690,7 @@ And <qex>boileth</qex> meate for them all.</q> <rj><qau>Gower.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bolsa</ent><br/
-||<hw>Bol"sa</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., lit., purse. See <er>Bourse</er>.]</ety> <def>An exchange for the transaction of business.</def> <mark>[Sp. Amer. & Phil. Islands]</mark><br/
+\'d8<hw>Bol"sa</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., lit., purse. See <er>Bourse</er>.]</ety> <def>An exchange for the transaction of business.</def> <mark>[Sp. Amer. & Phil. Islands]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bolshevik</ent><br/
@@ -30102,7 +30102,7 @@ And oft out of a bush doth <qex>bolt</qex>.</q> <rj><qau>Drayton.</qau></rj><br/
 
 <p><ent>Bombardon</ent><br/
 <ent>Bombardo</ent><br/
-<mhw>{ ||<hw>Bom*bar"do</hw> <pr>(<?/)</pr>, <hw>Bom*bar"don</hw> <pr>(<?/)</pr>, }</mhw> <pos>n.</pos> <ety>[It. <ets>bombardo</ets>.]</ety> <fld>(Mus.)</fld> <def>Originally, a deep-toned instrument of the oboe or bassoon family; thence, a bass reed stop on the organ. The name <xex>bombardon</xex> is now given to a brass instrument, the lowest of the saxhorns, in tone resembling the ophicleide.</def>  <rj><au>Grove.</au></rj><br/
+<mhw>{ \'d8<hw>Bom*bar"do</hw> <pr>(<?/)</pr>, <hw>Bom*bar"don</hw> <pr>(<?/)</pr>, }</mhw> <pos>n.</pos> <ety>[It. <ets>bombardo</ets>.]</ety> <fld>(Mus.)</fld> <def>Originally, a deep-toned instrument of the oboe or bassoon family; thence, a bass reed stop on the organ. The name <xex>bombardon</xex> is now given to a brass instrument, the lowest of the saxhorns, in tone resembling the ophicleide.</def>  <rj><au>Grove.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bombasine</ent><br/
@@ -30168,7 +30168,7 @@ Horribly stuffed with epithets of war.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bombax</ent><br/
-||<hw>Bom"bax</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[LL., cotton. See <er>Bombast</er>, <pos>n.</pos>]</ety> <fld>(Bot.)</fld> <def>A genus of trees, called also the <altname>silkcotton tree</altname>; also, a tree of the genus Bombax.</def><br/
+\'d8<hw>Bom"bax</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[LL., cotton. See <er>Bombast</er>, <pos>n.</pos>]</ety> <fld>(Bot.)</fld> <def>A genus of trees, called also the <altname>silkcotton tree</altname>; also, a tree of the genus Bombax.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bombazet Bombazette</ent><br/
@@ -30274,11 +30274,11 @@ Horribly stuffed with epithets of war.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bombyx</ent><br/
-||<hw>Bom"byx</hw> <pr>(b<ocr/m"b<icr/ks)</pr>, <pos>n.</pos> <ety>[L., silkworm. See <er>Bombazine</er>.]</ety> <fld>(Zool.)</fld> <def>A genus of moths, which includes the silkworm moth. See <er>Silkworm</er>.</def><br/
+\'d8<hw>Bom"byx</hw> <pr>(b<ocr/m"b<icr/ks)</pr>, <pos>n.</pos> <ety>[L., silkworm. See <er>Bombazine</er>.]</ety> <fld>(Zool.)</fld> <def>A genus of moths, which includes the silkworm moth. See <er>Silkworm</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bon</ent><br/
-||<hw>Bon</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[F., fr. L. <ets>bonus</ets>.]</ety> <def>Good; valid as security for something.</def><br/
+\'d8<hw>Bon</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[F., fr. L. <ets>bonus</ets>.]</ety> <def>Good; valid as security for something.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bon-accord</ent><br/
@@ -30286,15 +30286,15 @@ Horribly stuffed with epithets of war.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bonaci</ent><br/
-||<hw>Bo`na*ci"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Amer. Sp. <ets>bonas<iacute/</ets>, prob. from native name.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A large grouper (<spn>Mycteroperca bonaci</spn>) of Florida and the West Indies, valuable as a food fish; -- called also <altname>aguaji</altname> and, in Florida, <altname>black grouper</altname>.</def> <sd>(b)</sd> <def>Also, any one of several other similar fishes.</def><br/
+\'d8<hw>Bo`na*ci"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Amer. Sp. <ets>bonas<iacute/</ets>, prob. from native name.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A large grouper (<spn>Mycteroperca bonaci</spn>) of Florida and the West Indies, valuable as a food fish; -- called also <altname>aguaji</altname> and, in Florida, <altname>black grouper</altname>.</def> <sd>(b)</sd> <def>Also, any one of several other similar fishes.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bona fide</ent><br/
-||<hw>Bo"na fi"de</hw> <pr>(<?/)</pr>. <ety>[L.]</ety> <def>In or with good faith; without fraud or deceit; real or really; actual or actually; genuine or genuinely; <as>as, you must proceed <ex>bona fide</ex>; a <ex>bona fide</ex> purchaser or transaction</as>.</def><br/
+\'d8<hw>Bo"na fi"de</hw> <pr>(<?/)</pr>. <ety>[L.]</ety> <def>In or with good faith; without fraud or deceit; real or really; actual or actually; genuine or genuinely; <as>as, you must proceed <ex>bona fide</ex>; a <ex>bona fide</ex> purchaser or transaction</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bona fides</ent><br/
-||<hw>Bo"na fi"des</hw> <pr>(b<omac/"n<adot/ f<imac/"d<emac/z)</pr>. <ety>[L.]</ety> <def>Good faith; honesty; freedom from fraud or deception.</def><br/
+\'d8<hw>Bo"na fi"des</hw> <pr>(b<omac/"n<adot/ f<imac/"d<emac/z)</pr>. <ety>[L.]</ety> <def>Good faith; honesty; freedom from fraud or deception.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bonair</ent><br/
@@ -30318,11 +30318,11 @@ Horribly stuffed with epithets of war.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bona peritura</ent><br/
-||<hw>Bo"na per`i*tu"ra</hw> <pr>(<?/)</pr>. <ety>[L.]</ety> <fld>(Law)</fld> <def>Perishable goods.</def>  <rj><au>Bouvier.</au></rj><br/
+\'d8<hw>Bo"na per`i*tu"ra</hw> <pr>(<?/)</pr>. <ety>[L.]</ety> <fld>(Law)</fld> <def>Perishable goods.</def>  <rj><au>Bouvier.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bona roba</ent><br/
-||<hw>Bo"na ro"ba</hw> <pr>(<?/)</pr>. <ety>[It., prop. <ldquo/good stuff.<rdquo/]</ety> <def>A showy wanton; a courtesan.</def>  <rj><au>Shak</au></rj><br/
+\'d8<hw>Bo"na ro"ba</hw> <pr>(<?/)</pr>. <ety>[It., prop. <ldquo/good stuff.<rdquo/]</ety> <def>A showy wanton; a courtesan.</def>  <rj><au>Shak</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bonassus</ent><br/
@@ -30331,11 +30331,11 @@ Horribly stuffed with epithets of war.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bonbon</ent><br/
-||<hw>Bon"bon`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>bonbon</ets>, fr. <ets>bon bon</ets> very good, a superlative by reduplication, fr. <ets>bon</ets> good.]</ety> <def>Sugar confectionery; a sugarplum; hence, any dainty.</def><br/
+\'d8<hw>Bon"bon`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>bonbon</ets>, fr. <ets>bon bon</ets> very good, a superlative by reduplication, fr. <ets>bon</ets> good.]</ety> <def>Sugar confectionery; a sugarplum; hence, any dainty.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bonbonniere</ent><br/
-||<hw>Bon`bon`ni<egrave/re"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>-ni<egrave/res</plw> <pr>(#)</pr></plu>. <ety>[F.]</ety> <def>A small fancy box or dish for bonbons.</def><br/
+\'d8<hw>Bon`bon`ni<egrave/re"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>-ni<egrave/res</plw> <pr>(#)</pr></plu>. <ety>[F.]</ety> <def>A small fancy box or dish for bonbons.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bonce</ent><br/
@@ -30343,7 +30343,7 @@ Horribly stuffed with epithets of war.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bonchretien</ent><br/
-||<hw>Bon`chr<eacute/`tien"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., good Christian.]</ety> <def>A name given to several kinds of pears. See <er>Bartlett</er>.</def><br/
+\'d8<hw>Bon`chr<eacute/`tien"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., good Christian.]</ety> <def>A name given to several kinds of pears. See <er>Bartlett</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boncilate</ent><br/
@@ -30460,7 +30460,7 @@ Resolved he would not make my <qex>bondage</qex> hard.</q> <rj><qau>Dryden.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bondar</ent><br/
-||<hw>Bon"dar</hw> <pr>(b<ocr/n"d<aum/r)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A small quadruped of Bengal (<spn>Paradoxurus bondar</spn>), allied to the genet; -- called also <altname>musk cat</altname>.</def><br/
+\'d8<hw>Bon"dar</hw> <pr>(b<ocr/n"d<aum/r)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A small quadruped of Bengal (<spn>Paradoxurus bondar</spn>), allied to the genet; -- called also <altname>musk cat</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bonded</ent><br/
@@ -30539,7 +30539,7 @@ Resolved he would not make my <qex>bondage</qex> hard.</q> <rj><qau>Dryden.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bonduc</ent><br/
-||<hw>Bon"duc</hw> <pr>(b<ocr/n"d<ucr/k)</pr>, <pos>n.</pos> <ety>[F. <ets>bonduc</ets>, fr. Ar. <ets>bunduq</ets> hazel nut, filbert nut.]</ety> <fld>(Bot.)</fld> <def>See <er>Nicker tree</er>.</def><br/
+\'d8<hw>Bon"duc</hw> <pr>(b<ocr/n"d<ucr/k)</pr>, <pos>n.</pos> <ety>[F. <ets>bonduc</ets>, fr. Ar. <ets>bunduq</ets> hazel nut, filbert nut.]</ety> <fld>(Bot.)</fld> <def>See <er>Nicker tree</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bondwoman</ent><br/
@@ -30713,7 +30713,7 @@ We learnt our liege was passing well.</q> <rj><qau>Gay.</qau></rj><br/
 
 <p><ent>Bonhommie</ent><br/
 <ent>Bonhomie</ent><br/
-<mhw>||<hw>Bon`ho*mie"</hw>, ||<hw>Bon`hom*mie"</hw> <pr>(b<ocr/n`<ocr/*m<emac/")</pr></mhw>, <pos>n.</pos> <ety>[F.]</ety> <def>Good nature; pleasant and easy manner.</def><br/
+<mhw>\'d8<hw>Bon`ho*mie"</hw>, \'d8<hw>Bon`hom*mie"</hw> <pr>(b<ocr/n`<ocr/*m<emac/")</pr></mhw>, <pos>n.</pos> <ety>[F.]</ety> <def>Good nature; pleasant and easy manner.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bonibell</ent><br/
@@ -30767,7 +30767,7 @@ We learnt our liege was passing well.</q> <rj><qau>Gay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bonmot</ent><br/
-||<hw>Bon"mot`</hw> <pr>(b<ocir/N"m<osl/`)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Bonsmots</plw> <pr>(-m<osl/z`)</pr>.</plu> <ety>[ F. <ets>bon</ets> good + <ets>mot</ets> word.]</ety> <def>A witty repartee; a jest.</def><br/
+\'d8<hw>Bon"mot`</hw> <pr>(b<ocir/N"m<osl/`)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Bonsmots</plw> <pr>(-m<osl/z`)</pr>.</plu> <ety>[ F. <ets>bon</ets> good + <ets>mot</ets> word.]</ety> <def>A witty repartee; a jest.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bonnaz</ent><br/
@@ -30775,11 +30775,11 @@ We learnt our liege was passing well.</q> <rj><qau>Gay.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bonne</ent><br/
-||<hw>Bonne</hw> <pr>(b<ocr/n)</pr>, <pos>n.</pos> <ety>[F., prop. good woman.]</ety> <def>A female servant charged with the care of a young child.</def><br/
+\'d8<hw>Bonne</hw> <pr>(b<ocr/n)</pr>, <pos>n.</pos> <ety>[F., prop. good woman.]</ety> <def>A female servant charged with the care of a young child.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bonne bouche</ent><br/
-||<hw>Bonne" bouche"</hw> <pr>(b<ocr/n' b<oocr/sh`)</pr>; <plu><it>pl.</it> <plw>Bonnes bouches</plw> <pr>(b<ocr/n' b<oocr/sh`)</pr>.</plu> <ety>[F. <ets>bon</ets>, fem. <ets>bonne</ets>, good + <ets>bouche</ets> mouth.]</ety> <def>A delicious morsel or mouthful; a tidbit.</def><br/
+\'d8<hw>Bonne" bouche"</hw> <pr>(b<ocr/n' b<oocr/sh`)</pr>; <plu><it>pl.</it> <plw>Bonnes bouches</plw> <pr>(b<ocr/n' b<oocr/sh`)</pr>.</plu> <ety>[F. <ets>bon</ets>, fem. <ets>bonne</ets>, good + <ets>bouche</ets> mouth.]</ety> <def>A delicious morsel or mouthful; a tidbit.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bonnet</ent><br/
@@ -30835,7 +30835,7 @@ We learnt our liege was passing well.</q> <rj><qau>Gay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bonnet rouge</ent><br/
-||<hw>Bon`net" rouge"</hw> <pr>(<?/)</pr>. <ety>[F.]</ety> <def>The red cap adopted by the extremists in the French Revolution, which became a sign of patriotism at that epoch; hence, a revolutionist; a Red Republican.</def><br/
+\'d8<hw>Bon`net" rouge"</hw> <pr>(<?/)</pr>. <ety>[F.]</ety> <def>The red cap adopted by the extremists in the French Revolution, which became a sign of patriotism at that epoch; hence, a revolutionist; a Red Republican.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bonnibel</ent><br/
@@ -30891,7 +30891,7 @@ We learnt our liege was passing well.</q> <rj><qau>Gay.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Bon Silene</ent><br/
-||<hw>Bon" Si`l<egrave/ne"</hw> <pr>(b<ocir/N" s<esl/`l<asl/n")</pr>. <ety>[F.]</ety> <fld>(Bot.)</fld> <def>A very fragrant tea rose with petals of various shades of pink.</def><br/
+\'d8<hw>Bon" Si`l<egrave/ne"</hw> <pr>(b<ocir/N" s<esl/`l<asl/n")</pr>. <ety>[F.]</ety> <fld>(Bot.)</fld> <def>A very fragrant tea rose with petals of various shades of pink.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bonspiel</ent><br/
@@ -30899,11 +30899,11 @@ We learnt our liege was passing well.</q> <rj><qau>Gay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bontebok</ent><br/
-||<hw>Bon"te*bok</hw> <pr>(b<ocr/n"t<esl/*b<ocr/k)</pr>, <pos>n.</pos> <ety>[D. <ets>bont</ets> a sort of skin or fur, prop. variegated + <ets>bok</ets> buck.]</ety> <fld>(Zool.)</fld> <def>The pied antelope of South Africa (<spn>Alcelaphus pygarga</spn>). Its face and rump are white. Called also <altname>nunni</altname>.</def><br/
+\'d8<hw>Bon"te*bok</hw> <pr>(b<ocr/n"t<esl/*b<ocr/k)</pr>, <pos>n.</pos> <ety>[D. <ets>bont</ets> a sort of skin or fur, prop. variegated + <ets>bok</ets> buck.]</ety> <fld>(Zool.)</fld> <def>The pied antelope of South Africa (<spn>Alcelaphus pygarga</spn>). Its face and rump are white. Called also <altname>nunni</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bon ton</ent><br/
-||<hw>Bon" ton"</hw> <pr>(b<ocir/N" t<ocir/N")</pr>. <ety>[F., good tone, manner.]</ety> <def>The height of the fashion; fashionable society.</def><br/
+\'d8<hw>Bon" ton"</hw> <pr>(b<ocir/N" t<ocir/N")</pr>. <ety>[F., good tone, manner.]</ety> <def>The height of the fashion; fashionable society.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bonus</ent><br/
@@ -30917,7 +30917,7 @@ We learnt our liege was passing well.</q> <rj><qau>Gay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bon vivant</ent><br/
-||<hw>Bon` vi`vant"</hw> <pr>(b<ocir/N` v<esl/`v<aum/N")</pr>; <plu><it>pl.</it> <plw>Bons vivants</plw> <pr>(-v<aum/N"z)</pr>.</plu> <ety>[F. <ets>bon</ets> good + <ets>vivant</ets>, <pos>p. pr.</pos> of <ets>vivre</ets> to live.]</ety> <def>A good fellow; a jovial companion; a free liver.</def><br/
+\'d8<hw>Bon` vi`vant"</hw> <pr>(b<ocir/N` v<esl/`v<aum/N")</pr>; <plu><it>pl.</it> <plw>Bons vivants</plw> <pr>(-v<aum/N"z)</pr>.</plu> <ety>[F. <ets>bon</ets> good + <ets>vivant</ets>, <pos>p. pr.</pos> of <ets>vivre</ets> to live.]</ety> <def>A good fellow; a jovial companion; a free liver.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bony</ent><br/
@@ -31395,7 +31395,7 @@ Athwart the thicket lone.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Boomdas</ent><br/
-||<hw>Boom"das</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[D. <ets>boom</ets> tree + <ets>das</ets> badger.]</ety> <fld>(Zool.)</fld> <def>A small African hyracoid mammal (<spn>Dendrohyrax arboreus</spn>) resembling the daman.</def><br/
+\'d8<hw>Boom"das</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[D. <ets>boom</ets> tree + <ets>das</ets> badger.]</ety> <fld>(Zool.)</fld> <def>A small African hyracoid mammal (<spn>Dendrohyrax arboreus</spn>) resembling the daman.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boomer</ent><br/
@@ -31434,11 +31434,11 @@ Athwart the thicket lone.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boomorah</ent><br/
-||<hw>Boo"mo*rah</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A small West African chevrotain (<spn>Hy<ae/moschus aquaticus</spn>), resembling the musk deer.</def><br/
+\'d8<hw>Boo"mo*rah</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A small West African chevrotain (<spn>Hy<ae/moschus aquaticus</spn>), resembling the musk deer.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boomslange</ent><br/
-||<hw>Boom"slang*e</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[D. <ets>boom</ets> tree + <ets>slang</ets> snake.]</ety> <fld>(Zool.)</fld> <def>A large South African tree snake (<spn>Bucephalus Capensis</spn>). Although considered venomous by natives, it has no poison fangs.</def><br/
+\'d8<hw>Boom"slang*e</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[D. <ets>boom</ets> tree + <ets>slang</ets> snake.]</ety> <fld>(Zool.)</fld> <def>A large South African tree snake (<spn>Bucephalus Capensis</spn>). Although considered venomous by natives, it has no poison fangs.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boon</ent><br/
@@ -31676,7 +31676,7 @@ Thy modesty can beg.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bootes</ent><br/
-||<hw>Bo*<oum/"tes</hw> <pr>(b<osl/*<omac/"t<emac/z)</pr>, <pos>prop. n.</pos> <ety>[L. <ets>Bootes</ets>, Gr. <grk>bow`ths</grk> herdsman, fr. <grk>boy^s</grk>, gen. <grk>boo`s</grk>, ox, cow.]</ety> <fld>(Astron.)</fld> <def>A northern constellation of stars near Ursa Major, containing the bright star Arcturus.</def><br/
+\'d8<hw>Bo*<oum/"tes</hw> <pr>(b<osl/*<omac/"t<emac/z)</pr>, <pos>prop. n.</pos> <ety>[L. <ets>Bootes</ets>, Gr. <grk>bow`ths</grk> herdsman, fr. <grk>boy^s</grk>, gen. <grk>boo`s</grk>, ox, cow.]</ety> <fld>(Astron.)</fld> <def>A northern constellation of stars near Ursa Major, containing the bright star Arcturus.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Booth</ent><br/
@@ -31958,7 +31958,7 @@ And go the fools among.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bordelais</ent><br/
-||<hw>Bor`de*lais"</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[F.]</ety> <def>Of or pertaining to Bordeaux, in France, or to the district around Bordeaux.</def><br/
+\'d8<hw>Bor`de*lais"</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[F.]</ety> <def>Of or pertaining to Bordeaux, in France, or to the district around Bordeaux.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bordeller</ent><br/
@@ -32026,7 +32026,7 @@ Can not be <qex>bordered</qex> certain in itself.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bordereau</ent><br/
-||<hw>Bor`de*reau"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Bordereaux</plw> <pr>(#)</pr></plu>. <ety>[F.]</ety> <def>A note or memorandum, esp. one containing an enumeration of documents.</def><br/
+\'d8<hw>Bor`de*reau"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Bordereaux</plw> <pr>(#)</pr></plu>. <ety>[F.]</ety> <def>A note or memorandum, esp. one containing an enumeration of documents.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>bordered</ent><br/
@@ -32166,7 +32166,7 @@ Bright over Europe bursts the <qex>boreal</qex> morn.</q> <rj><qau>Thomson.</qau
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Boreas</ent><br/
-||<hw>Bo"re*as</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L. <ets>boreas</ets>, Gr. <ets><?/</ets>.]</ety> <def>The north wind; -- usually a personification.</def><br/
+\'d8<hw>Bo"re*as</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L. <ets>boreas</ets>, Gr. <ets><?/</ets>.]</ety> <def>The north wind; -- usually a personification.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Borecole</ent><br/
@@ -32447,11 +32447,11 @@ The <qex>borrow</qex> of a week.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Bos</ent><br/
-||<hw>Bos</hw> <pr>(<?/)</pr>, <pos>prop. n.</pos> <ety>[L., ox, cow.]</ety> <fld>(Zool.)</fld> <def>A genus of ruminant quadrupeds, including the wild and domestic cattle, distinguished by a stout body, hollow horns, and a large fold of skin hanging from the neck.</def><br/
+\'d8<hw>Bos</hw> <pr>(<?/)</pr>, <pos>prop. n.</pos> <ety>[L., ox, cow.]</ety> <fld>(Zool.)</fld> <def>A genus of ruminant quadrupeds, including the wild and domestic cattle, distinguished by a stout body, hollow horns, and a large fold of skin hanging from the neck.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>bosa</ent><br/
-||<hw>bo"sa</hw> <pr>(b<omac/"z<adot/)</pr>, <pos>n.</pos> <ety>[Ar. <ets>b<umac/za</ets>, Pers. <ets>b<umac/zah</ets>: cf. F. <ets>bosan</ets>.]</ety> <def>A drink, used in the East. See <er>Boza</er>.</def><br/
+\'d8<hw>bo"sa</hw> <pr>(b<omac/"z<adot/)</pr>, <pos>n.</pos> <ety>[Ar. <ets>b<umac/za</ets>, Pers. <ets>b<umac/zah</ets>: cf. F. <ets>bosan</ets>.]</ety> <def>A drink, used in the East. See <er>Boza</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>bosc</ent><br/
@@ -32496,15 +32496,15 @@ The <qex>borrow</qex> of a week.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boshbok</ent><br/
-||<hw>Bosh"bok</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[D. <ets>bosch</ets> wood + <ets>bok</ets> buck.]</ety> <fld>(Zool.)</fld> <def>A kind of antelope. See <er>Bush buck</er>.</def><br/
+\'d8<hw>Bosh"bok</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[D. <ets>bosch</ets> wood + <ets>bok</ets> buck.]</ety> <fld>(Zool.)</fld> <def>A kind of antelope. See <er>Bush buck</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boshvark</ent><br/
-||<hw>Bosh"vark</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[D. <ets>bosch</ets> wood + <ets>varken</ets> pig.]</ety> <fld>(Zool.)</fld> <def>The bush hog. See under <er>Bush</er>, a thicket.</def><br/
+\'d8<hw>Bosh"vark</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[D. <ets>bosch</ets> wood + <ets>varken</ets> pig.]</ety> <fld>(Zool.)</fld> <def>The bush hog. See under <er>Bush</er>, a thicket.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bosjesman</ent><br/
-||<hw>Bos"jes*man</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <er>Bosjesmans</er>.</plu> <ety>[D. <ets>boschjesman</ets>.]</ety> <def>See <er>Bushman</er>.</def><br/
+\'d8<hw>Bos"jes*man</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <er>Bosjesmans</er>.</plu> <ety>[D. <ets>boschjesman</ets>.]</ety> <def>See <er>Bushman</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>bosk</ent><br/
@@ -32711,7 +32711,7 @@ You'll find it wholesome.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bostryx</ent><br/
-||<hw>Bos"tryx</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.; irreg. fr. Gr. <?/ a curl.]</ety> <fld>(Bot.)</fld> <def>A form of cymose inflorescence with all the flowers on one side of the rachis, usually causing it to curl; -- called also a <altname>uniparous helicoid cyme</altname>.</def><br/
+\'d8<hw>Bos"tryx</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.; irreg. fr. Gr. <?/ a curl.]</ety> <fld>(Bot.)</fld> <def>A form of cymose inflorescence with all the flowers on one side of the rachis, usually causing it to curl; -- called also a <altname>uniparous helicoid cyme</altname>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>bosun</ent><br/
@@ -32982,7 +32982,7 @@ You'll find it wholesome.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bothrenchyma</ent><br/
-||<hw>Both*ren"chy*ma</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <ets><?/</ets> pit + <ets><?/</ets> something poured in. Formed like <ets>parenchyma</ets>.]</ety> <fld>(Bot.)</fld> <def>Dotted or pitted ducts or vessels forming the pores seen in many kinds of wood.</def><br/
+\'d8<hw>Both*ren"chy*ma</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <ets><?/</ets> pit + <ets><?/</ets> something poured in. Formed like <ets>parenchyma</ets>.]</ety> <fld>(Bot.)</fld> <def>Dotted or pitted ducts or vessels forming the pores seen in many kinds of wood.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boothy</ent><br/
@@ -32991,7 +32991,7 @@ You'll find it wholesome.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Botocudos</ent><br/
-||<hw>Bo`to*cu"dos</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[Pg. <ets>botoque</ets> stopple. So called because they wear a wooden plug in the pierced lower lip.]</ety> <def>A Brazilian tribe of Indians, noted for their use of poisons; -- also called <xex>Aymbor<eacute/s</xex>.</def><br/
+\'d8<hw>Bo`to*cu"dos</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[Pg. <ets>botoque</ets> stopple. So called because they wear a wooden plug in the pierced lower lip.]</ety> <def>A Brazilian tribe of Indians, noted for their use of poisons; -- also called <xex>Aymbor<eacute/s</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bo tree</ent><br/
@@ -33324,7 +33324,7 @@ You must provide to <qex>bottom</qex> it on me.</q> <rj><qau>Shak.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bouche</ent><br/
-||<hw>Bouche</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Same as <er>Bush</er>, a lining.</def><br/
+\'d8<hw>Bouche</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Same as <er>Bush</er>, a lining.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bouche</ent><br/
@@ -33333,7 +33333,7 @@ You must provide to <qex>bottom</qex> it on me.</q> <rj><qau>Shak.</qau></rj><br
 
 <p><ent>Bouch</ent><br/
 <ent>Bouche</ent><br/
-<mhw>{ ||<hw>Bouche</hw>, <hw>Bouch</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>bouche</ets> mouth, victuals.]</ety><br/
+<mhw>{ \'d8<hw>Bouche</hw>, <hw>Bouch</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>bouche</ets> mouth, victuals.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>A mouth.</def> <mark>[Obs.]</mark><br/
@@ -33343,7 +33343,7 @@ You must provide to <qex>bottom</qex> it on me.</q> <rj><qau>Shak.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bouchees</ent><br/
-||<hw>Bou`ch<eacute/es"</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[F., morsels, mouthfuls, fr. <ets>bouche</ets> mouth.]</ety> <fld>(Cookery)</fld> <def>Small patties.</def><br/
+\'d8<hw>Bou`ch<eacute/es"</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[F., morsels, mouthfuls, fr. <ets>bouche</ets> mouth.]</ety> <fld>(Cookery)</fld> <def>Small patties.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boucherize</ent><br/
@@ -33355,7 +33355,7 @@ You must provide to <qex>bottom</qex> it on me.</q> <rj><qau>Shak.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boudoir</ent><br/
-||<hw>Bou*doir"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>bouder</ets> to pout, be sulky.]</ety> <def>A small room, esp. if pleasant, or elegantly furnished, to which a lady may retire to be alone, or to receive intimate friends; a lady's bedroom; a lady's (or sometimes a gentleman's) private room.</def>  <rj><au>Cowper.</au></rj><br/
+\'d8<hw>Bou*doir"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>bouder</ets> to pout, be sulky.]</ety> <def>A small room, esp. if pleasant, or elegantly furnished, to which a lady may retire to be alone, or to receive intimate friends; a lady's bedroom; a lady's (or sometimes a gentleman's) private room.</def>  <rj><au>Cowper.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>bouffant</ent><br/
@@ -33364,11 +33364,11 @@ You must provide to <qex>bottom</qex> it on me.</q> <rj><qau>Shak.</qau></rj><br
 [<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
 <p><ent>Bouffe</ent><br/
-||<hw>Bouffe</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., buffoon.]</ety> <def>Comic opera. See <er>Opera Bouffe</er>.</def><br/
+\'d8<hw>Bouffe</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., buffoon.]</ety> <def>Comic opera. See <er>Opera Bouffe</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bougainvillaea</ent><br/
-||<hw>Bou`gain*vil*l<ae/`a</hw> <pr>(<?/)</pr>, <pos>prop. n.</pos> <ety>[Named from <etsep>Bougainville</etsep>, the French navigator.]</ety> <fld>(Bot.)</fld> <def>A genus of plants of the order <ord>Nyctoginace<ae/</ord>, from tropical South America, having the flowers surrounded by large bracts.</def><br/
+\'d8<hw>Bou`gain*vil*l<ae/`a</hw> <pr>(<?/)</pr>, <pos>prop. n.</pos> <ety>[Named from <etsep>Bougainville</etsep>, the French navigator.]</ety> <fld>(Bot.)</fld> <def>A genus of plants of the order <ord>Nyctoginace<ae/</ord>, from tropical South America, having the flowers surrounded by large bracts.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bouge</ent><br/
@@ -33444,7 +33444,7 @@ You must provide to <qex>bottom</qex> it on me.</q> <rj><qau>Shak.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bougie</ent><br/
-||<hw>Bou*gie"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>bougie</ets> wax candle, bougie, fr. <ets>Bougie</ets>, <ets>Bugia</ets>, a town of North Africa, from which these candles were first imported into Europe.]</ety><br/
+\'d8<hw>Bou*gie"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>bougie</ets> wax candle, bougie, fr. <ets>Bougie</ets>, <ets>Bugia</ets>, a town of North Africa, from which these candles were first imported into Europe.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <fld>(Surg.)</fld> <def>A long, flexible instrument, that is introduced into the urethra, esophagus, etc., to remove obstructions, or for the other purposes. It was originally made of waxed linen rolled into cylindrical form.</def><br/
@@ -33454,15 +33454,15 @@ You must provide to <qex>bottom</qex> it on me.</q> <rj><qau>Shak.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bougie decimale</ent><br/
-||<hw>Bou*gie" d<eacute/`ci`male"</hw> <pr>(?)</pr>. <ety>[F., lit., decimal candle.]</ety> <def>A photometric standard used in France, having the value of one twentieth of the Violle platinum standard, or slightly less than a British standard candle.  Called also <altname>decimal candle</altname>.</def><br/
+\'d8<hw>Bou*gie" d<eacute/`ci`male"</hw> <pr>(?)</pr>. <ety>[F., lit., decimal candle.]</ety> <def>A photometric standard used in France, having the value of one twentieth of the Violle platinum standard, or slightly less than a British standard candle.  Called also <altname>decimal candle</altname>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bouilli</ent><br/
-||<hw>Bou`illi"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>bouillir</ets> to boil.]</ety> <fld>(Cookery)</fld> <def>Boiled or stewed meat; beef boiled with vegetables in water from which its gravy is to be made; beef from which bouillon or soup has been made.</def><br/
+\'d8<hw>Bou`illi"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>bouillir</ets> to boil.]</ety> <fld>(Cookery)</fld> <def>Boiled or stewed meat; beef boiled with vegetables in water from which its gravy is to be made; beef from which bouillon or soup has been made.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bouillon</ent><br/
-||<hw>Bou`illon"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>bouillir</ets> to boil.]</ety> <sn>1.</sn> <def>A nutritious liquid food made by boiling beef, or other meat, in water; a clear soup or broth.</def><br/
+\'d8<hw>Bou`illon"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>bouillir</ets> to boil.]</ety> <sn>1.</sn> <def>A nutritious liquid food made by boiling beef, or other meat, in water; a clear soup or broth.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Far.)</fld> <def>An excrescence on a horse's frush or frog.</def><br/
@@ -33516,7 +33516,7 @@ You must provide to <qex>bottom</qex> it on me.</q> <rj><qau>Shak.</qau></rj><br
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Boulevard</ent><br/
-||<hw>Bou"le*vard`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>boulevard</ets>, <ets>boulevart</ets>, fr. G. <ets>bollwerk</ets>. See <er>Bulwark</er>.]</ety><br/
+\'d8<hw>Bou"le*vard`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>boulevard</ets>, <ets>boulevart</ets>, fr. G. <ets>bollwerk</ets>. See <er>Bulwark</er>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>Originally, a bulwark or rampart of fortification or fortified town.</def><br/
@@ -33526,11 +33526,11 @@ You must provide to <qex>bottom</qex> it on me.</q> <rj><qau>Shak.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boulevardier</ent><br/
-||<hw>Boule`var`dier"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A frequenter of a city boulevard, esp. in Paris.</def>  <rj><au>F. Harrison.</au></rj><br/
+\'d8<hw>Boule`var`dier"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A frequenter of a city boulevard, esp. in Paris.</def>  <rj><au>F. Harrison.</au></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bouleversement</ent><br/
-||<hw>Boule`verse`ment"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>bouleverser</ets> to overthrow.]</ety> <def>Complete overthrow; disorder; a turning upside down.</def><br/
+\'d8<hw>Boule`verse`ment"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>bouleverser</ets> to overthrow.]</ety> <def>Complete overthrow; disorder; a turning upside down.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boult</ent><br/
@@ -33938,7 +33938,7 @@ Beyond the <qex>boundaries</qex> of the skies.</q> <rj><qau>N. Cotton.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bouquetin</ent><br/
-||<hw>Bou`que*tin"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Zool.)</fld> <def>The ibex.</def><br/
+\'d8<hw>Bou`que*tin"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Zool.)</fld> <def>The ibex.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bour</ent><br/
@@ -33984,7 +33984,7 @@ Beyond the <qex>boundaries</qex> of the skies.</q> <rj><qau>N. Cotton.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bourdon</ent><br/
-||<hw>Bour"don`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. See <er>Burden</er> a refrain.]</ety> <fld>(Mus.)</fld> <sd>(a)</sd> <def>A drone bass, as in a bagpipe, or a hurdy-gurdy. See <er>Burden</er> (of a song.)</def> <sd>(b)</sd> <def>A kind of organ stop.</def><br/
+\'d8<hw>Bour"don`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. See <er>Burden</er> a refrain.]</ety> <fld>(Mus.)</fld> <sd>(a)</sd> <def>A drone bass, as in a bagpipe, or a hurdy-gurdy. See <er>Burden</er> (of a song.)</def> <sd>(b)</sd> <def>A kind of organ stop.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bourgeois</ent><br/
@@ -33995,14 +33995,14 @@ Beyond the <qex>boundaries</qex> of the skies.</q> <rj><qau>N. Cotton.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bourgeois</ent><br/
-||<hw>Bour*geois"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>bourg</ets> town; of German origin. See <er>Burgess</er>.]</ety> <def>A man of middle rank in society; one of the shopkeeping class.</def> <mark>[France.]</mark><br/
+\'d8<hw>Bour*geois"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>bourg</ets> town; of German origin. See <er>Burgess</er>.]</ety> <def>A man of middle rank in society; one of the shopkeeping class.</def> <mark>[France.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><def2><pos>a.</pos> <def>Characteristic of the middle class, as in France.</def></def2><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bourgeoisie</ent><br/
-||<hw>Bour*geoi*sie"</hw>, <pos>n.</pos> <ety>[F.]</ety> <def>The French middle class, particularly such as are concerned in, or dependent on, trade.</def><br/
+\'d8<hw>Bour*geoi*sie"</hw>, <pos>n.</pos> <ety>[F.]</ety> <def>The French middle class, particularly such as are concerned in, or dependent on, trade.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bourgeon</ent><br/
@@ -34013,7 +34013,7 @@ Beyond the <qex>boundaries</qex> of the skies.</q> <rj><qau>N. Cotton.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bouri</ent><br/
-||<hw>Bou"ri</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A mullet (<spn>Mugil capito</spn>) found in the rivers of Southern Europe and in Africa.</def><br/
+\'d8<hw>Bou"ri</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A mullet (<spn>Mugil capito</spn>) found in the rivers of Southern Europe and in Africa.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bourne</ent><br/
@@ -34055,11 +34055,11 @@ No traveler returns.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bourree</ent><br/
-||<hw>Bour*r<eacute/e</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Mus.)</fld> <def>An old French dance tune in common time.</def><br/
+\'d8<hw>Bour*r<eacute/e</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Mus.)</fld> <def>An old French dance tune in common time.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bourse</ent><br/
-||<hw>Bourse</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>bourse</ets> purse, exchange, LL. <ets>bursa</ets>, fr. Gr.<?/ skin, hide, of which a purse was usually made. Cf. <er>Purse</er>, <er>Burse</er>.]</ety> <def>An exchange, or place where merchants, bankers, etc., meet for business at certain hours; esp., the Stock Exchange of Paris.</def><br/
+\'d8<hw>Bourse</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>bourse</ets> purse, exchange, LL. <ets>bursa</ets>, fr. Gr.<?/ skin, hide, of which a purse was usually made. Cf. <er>Purse</er>, <er>Burse</er>.]</ety> <def>An exchange, or place where merchants, bankers, etc., meet for business at certain hours; esp., the Stock Exchange of Paris.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>bourtree</ent><br/
@@ -34080,7 +34080,7 @@ No traveler returns.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boustrophedon</ent><br/
-||<hw>Bou`stro*phe"don</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <?/ turning like oxen in plowing; <?/ to turn.]</ety> <def>An ancient mode of writing, in alternate directions, one line from left to right, and the next from right to left (as fields are plowed), as in early Greek and Hittite.</def><br/
+\'d8<hw>Bou`stro*phe"don</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <?/ turning like oxen in plowing; <?/ to turn.]</ety> <def>An ancient mode of writing, in alternate directions, one line from left to right, and the next from right to left (as fields are plowed), as in early Greek and Hittite.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boustrophedonic</ent><br/
@@ -34130,11 +34130,11 @@ Of linked sweetness long drawn out.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boutonniere</ent><br/
-||<hw>Bou`ton`ni<egrave/re"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., buttonhole.]</ety> <def>A bouquet worn in a buttonhole.</def><br/
+\'d8<hw>Bou`ton`ni<egrave/re"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., buttonhole.]</ety> <def>A bouquet worn in a buttonhole.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bouts-rimes</ent><br/
-||<hw>Bouts`-ri*m<eacute/s"</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[F. <ets>bout</ets> end + <ets>rim<eacute/</ets> rhymed.]</ety> <def>Words that rhyme, proposed as the ends of verses, to be filled out by the ingenuity of the person to whom they are offered.</def><br/
+\'d8<hw>Bouts`-ri*m<eacute/s"</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[F. <ets>bout</ets> end + <ets>rim<eacute/</ets> rhymed.]</ety> <def>Words that rhyme, proposed as the ends of verses, to be filled out by the ingenuity of the person to whom they are offered.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bouvines</ent><br/
@@ -35049,7 +35049,7 @@ Some squeaking Cleopatra <qex>boy</qex> my greatness.</q> <rj><qau>Shak.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boyau</ent><br/
-||<hw>Boy"au</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Boyaux</plw> or <plw>Boyaus</plw> <pr>(<?/)</pr>.</plu> <ety>[F. <ets>boyau</ets> gut, a long and narrow place, and (of trenches) a branch. See <er>Bowel</er>.]</ety> <fld>(Fort.)</fld> <def>A winding or zigzag trench forming a path or communication from one siegework to another, to a magazine, etc.</def><br/
+\'d8<hw>Boy"au</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Boyaux</plw> or <plw>Boyaus</plw> <pr>(<?/)</pr>.</plu> <ety>[F. <ets>boyau</ets> gut, a long and narrow place, and (of trenches) a branch. See <er>Bowel</er>.]</ety> <fld>(Fort.)</fld> <def>A winding or zigzag trench forming a path or communication from one siegework to another, to a magazine, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boycott</ent><br/
@@ -35133,7 +35133,7 @@ Some squeaking Cleopatra <qex>boy</qex> my greatness.</q> <rj><qau>Shak.</qau></
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Boza</ent><br/
-||<hw>Bo"za</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[See <er>Bosa</er>.]</ety> <def>An acidulated fermented drink of the Arabs and Egyptians, made from millet seed and various astringent substances; also, an intoxicating beverage made from hemp seed, darnel meal, and water.</def> <altsp>[Written also <asp>bosa</asp>, <asp>bozah</asp>, <asp>bouza</asp>.]</altsp><br/
+\'d8<hw>Bo"za</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[See <er>Bosa</er>.]</ety> <def>An acidulated fermented drink of the Arabs and Egyptians, made from millet seed and various astringent substances; also, an intoxicating beverage made from hemp seed, darnel meal, and water.</def> <altsp>[Written also <asp>bosa</asp>, <asp>bozah</asp>, <asp>bouza</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>bra</ent><br/
@@ -35291,7 +35291,7 @@ Some squeaking Cleopatra <qex>boy</qex> my greatness.</q> <rj><qau>Shak.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brachelytra</ent><br/
-||<hw>Brach*el"y*tra</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. (<?/) short + <?/ a covering.]</ety> <fld>(Zool.)</fld> <def>A group of beetles having short elytra, as the rove beetles.</def><br/
+\'d8<hw>Brach*el"y*tra</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. (<?/) short + <?/ a covering.]</ety> <fld>(Zool.)</fld> <def>A group of beetles having short elytra, as the rove beetles.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>brache</ent><br/
@@ -35307,7 +35307,7 @@ Some squeaking Cleopatra <qex>boy</qex> my greatness.</q> <rj><qau>Shak.</qau></
 [<source>Century Dict. 1906</source>]</p>
 
 <p><ent>Brachia</ent><br/
-||<hw>Brach"i*a</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <def>See <er>Brachium</er>.</def><br/
+\'d8<hw>Brach"i*a</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <def>See <er>Brachium</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brachial</ent><br/
@@ -35318,7 +35318,7 @@ Some squeaking Cleopatra <qex>boy</qex> my greatness.</q> <rj><qau>Shak.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brachiata</ent><br/
-||<hw>Brach`i*a"ta</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[See <er>Brachiate</er>.]</ety> <fld>(Zool.)</fld> <def>A division of the Crinoidea, including those furnished with long jointed arms. See <er>Crinoidea</er>.</def><br/
+\'d8<hw>Brach`i*a"ta</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[See <er>Brachiate</er>.]</ety> <fld>(Zool.)</fld> <def>A division of the Crinoidea, including those furnished with long jointed arms. See <er>Crinoidea</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brachiate</ent><br/
@@ -35330,11 +35330,11 @@ Some squeaking Cleopatra <qex>boy</qex> my greatness.</q> <rj><qau>Shak.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brachioganoidei</ent><br/
-||<hw>Brach`i*o*ga*noid"e*i</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos><ety>[NL., from L. <ets>brachium</ets> (<ets>bracch</ets>-) arm + NL. <ets>ganoidei</ets>.]</ety> <fld>(Zool.)</fld> <def>An order of ganoid fishes of which the bichir of Africa is a living example. See <er>Crossopterygii</er>.</def><br/
+\'d8<hw>Brach`i*o*ga*noid"e*i</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos><ety>[NL., from L. <ets>brachium</ets> (<ets>bracch</ets>-) arm + NL. <ets>ganoidei</ets>.]</ety> <fld>(Zool.)</fld> <def>An order of ganoid fishes of which the bichir of Africa is a living example. See <er>Crossopterygii</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brachiolaria</ent><br/
-||<hw>Brach`i*o*la"ri*a</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L.  <ets>brachiolum</ets> (<ets>bracch</ets>-), dim. of <ets>brachium</ets> (<ets>bracch</ets>-) arm.]</ety> <fld>(Zool.)</fld> <def>A peculiar early larval stage of certain starfishes, having a bilateral structure, and swimming by means of bands of vibrating cilia.</def><br/
+\'d8<hw>Brach`i*o*la"ri*a</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L.  <ets>brachiolum</ets> (<ets>bracch</ets>-), dim. of <ets>brachium</ets> (<ets>bracch</ets>-) arm.]</ety> <fld>(Zool.)</fld> <def>A peculiar early larval stage of certain starfishes, having a bilateral structure, and swimming by means of bands of vibrating cilia.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brachiopod</ent><br/
@@ -35342,14 +35342,14 @@ Some squeaking Cleopatra <qex>boy</qex> my greatness.</q> <rj><qau>Shak.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brachiopoda</ent><br/
-||<hw>Brach`i*op"o*da</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/ arm + <ets>-poda</ets>.]</ety> <fld>(Zool.)</fld> <def>A class of Molluscoidea having a symmetrical bivalve shell, often attached by a fleshy peduncle.</def><br/
+\'d8<hw>Brach`i*op"o*da</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/ arm + <ets>-poda</ets>.]</ety> <fld>(Zool.)</fld> <def>A class of Molluscoidea having a symmetrical bivalve shell, often attached by a fleshy peduncle.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Within the shell is a pair of <ldquo/arms,<rdquo/ often long and spirally coiled, bearing rows of ciliated tentacles by which a current of water is made to flow into the mantle cavity, bringing the microscopic food to the mouth between the bases of the arms. The shell is both opened and closed by special muscles. They form two orders; <xex>Lyopoma</xex>, in which the shell is thin, and without a distinct hinge, as in <xex>Lingula</xex>; and <xex>Arthropoma</xex>, in which the firm calcareous shell has a regular hinge, as in <xex>Rhynchonella</xex>. See <er>Arthropomata</er>.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brachium</ent><br/
-||<hw>Brach"i*um</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Bracchia</plw> <pr>(<?/)</pr>.</plu> <ety>[L. <ets>brachium</ets> or <ets>bracchium</ets>, arm.]</ety> <fld>(Anat.)</fld> <def>The upper arm; the segment of the fore limb between the shoulder and the elbow.</def><br/
+\'d8<hw>Brach"i*um</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Bracchia</plw> <pr>(<?/)</pr>.</plu> <ety>[L. <ets>brachium</ets> or <ets>bracchium</ets>, arm.]</ety> <fld>(Anat.)</fld> <def>The upper arm; the segment of the fore limb between the shoulder and the elbow.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brachman</ent><br/
@@ -35409,11 +35409,11 @@ Some squeaking Cleopatra <qex>boy</qex> my greatness.</q> <rj><qau>Shak.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brachyptera</ent><br/
-||<hw>Bra*chyp"te*ra</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ short-winged; <grk>brachy`s</grk> short + <?/ feather, wing.]</ety> <fld>(Zool.)</fld> <def>A group of Coleoptera having short wings; the rove beetles.</def><br/
+\'d8<hw>Bra*chyp"te*ra</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ short-winged; <grk>brachy`s</grk> short + <?/ feather, wing.]</ety> <fld>(Zool.)</fld> <def>A group of Coleoptera having short wings; the rove beetles.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brachypteres</ent><br/
-||<hw>Bra*chyp"te*res</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Brachyptera</er>. ]</ety> <fld>(Zool.)</fld> <def>A group of birds, including auks, divers, and penguins.</def><br/
+\'d8<hw>Bra*chyp"te*res</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Brachyptera</er>. ]</ety> <fld>(Zool.)</fld> <def>A group of birds, including auks, divers, and penguins.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brachypterous</ent><br/
@@ -35434,7 +35434,7 @@ Some squeaking Cleopatra <qex>boy</qex> my greatness.</q> <rj><qau>Shak.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brachyura</ent><br/
-||<hw>Brach`y*u"ra</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>brachy`s</grk> short + <grk>o'yra`</grk> tail.]</ety> <fld>(Zool.)</fld> <def>A group of decapod Crustacea, including the common crabs, characterized by a small and short abdomen, which is bent up beneath the large cephalo-thorax. <altsp>[Also spelt <asp>Brachyoura</asp>.]</altsp> See <er>Crab</er>, and <xex>Illustration</xex> in Appendix.</def><br/
+\'d8<hw>Brach`y*u"ra</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>brachy`s</grk> short + <grk>o'yra`</grk> tail.]</ety> <fld>(Zool.)</fld> <def>A group of decapod Crustacea, including the common crabs, characterized by a small and short abdomen, which is bent up beneath the large cephalo-thorax. <altsp>[Also spelt <asp>Brachyoura</asp>.]</altsp> See <er>Crab</er>, and <xex>Illustration</xex> in Appendix.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brachyurous</ent><br/
@@ -35539,7 +35539,7 @@ Some squeaking Cleopatra <qex>boy</qex> my greatness.</q> <rj><qau>Shak.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bractea</ent><br/
-||<hw>Brac"te*a</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L., a thin plate of metal or wood, gold foil.]</ety> <fld>(Bot.)</fld> <def>A bract.</def><br/
+\'d8<hw>Brac"te*a</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L., a thin plate of metal or wood, gold foil.]</ety> <fld>(Bot.)</fld> <def>A bract.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bracteal</ent><br/
@@ -35598,7 +35598,7 @@ Some squeaking Cleopatra <qex>boy</qex> my greatness.</q> <rj><qau>Shak.</qau></
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Brae</ent><br/
-||<hw>Brae</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[See <er>Bray</er> a hill.]</ety> <def>A hillside; a slope; a bank; a hill.</def> <mark>[Scot.]</mark>  <rj><au>Burns.</au></rj><br/
+\'d8<hw>Brae</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[See <er>Bray</er> a hill.]</ety> <def>A hillside; a slope; a bank; a hill.</def> <mark>[Scot.]</mark>  <rj><au>Burns.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brag</ent><br/
@@ -35842,7 +35842,7 @@ Marry that will, I live and die a maid.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Braille</ent><br/
-||<hw>Braille</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A system of printing or writing for the blind in which the characters and numerals are represented by patterns of raised tangible points or dots. It was invented by <person>Louis <etsep>Braille</etsep></person>, a French teacher of the blind.</def><br/
+\'d8<hw>Braille</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A system of printing or writing for the blind in which the characters and numerals are represented by patterns of raised tangible points or dots. It was invented by <person>Louis <etsep>Braille</etsep></person>, a French teacher of the blind.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>braille</ent><br/
@@ -36273,7 +36273,7 @@ And scratched out both his eyes.</q> <rj><qau>Mother Goose.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Branchia</ent><br/
-||<hw>Bran"chi*a</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Branchi<ae/</plw> <pr>(<?/)</pr>.</plu> <ety>[L., fr. Gr. <?/, pl. of <?/.]</ety> <fld>(Anat.)</fld> <def>A gill; a respiratory organ for breathing the air contained in water, such as many aquatic and semiaquatic animals have.</def><br/
+\'d8<hw>Bran"chi*a</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Branchi<ae/</plw> <pr>(<?/)</pr>.</plu> <ety>[L., fr. Gr. <?/, pl. of <?/.]</ety> <fld>(Anat.)</fld> <def>A gill; a respiratory organ for breathing the air contained in water, such as many aquatic and semiaquatic animals have.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Branchial</ent><br/
@@ -36310,7 +36310,7 @@ And scratched out both his eyes.</q> <rj><qau>Mother Goose.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Branchiogastropoda</ent><br/
-||<hw>Bran`chi*o*gas*trop"o*da</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <?/ gill + E. <ets>gastropoda</ets>.]</ety> <fld>(Zool.)</fld> <def>Those Gastropoda that breathe by branchi<ae/, including the Prosobranchiata and Opisthobranchiata.</def><br/
+\'d8<hw>Bran`chi*o*gas*trop"o*da</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <?/ gill + E. <ets>gastropoda</ets>.]</ety> <fld>(Zool.)</fld> <def>Those Gastropoda that breathe by branchi<ae/, including the Prosobranchiata and Opisthobranchiata.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Branchiomerism</ent><br/
@@ -36322,7 +36322,7 @@ And scratched out both his eyes.</q> <rj><qau>Mother Goose.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Branchiopoda</ent><br/
-||<hw>Bran"chi*o*poda</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[Gr. <?/ gill + <ets>-poda</ets>: cf. F. <ets>branchiopode</ets>.]</ety> <fld>(Zool.)</fld> <def>An order of Entomostraca; -- so named from the feet of branchiopods having been supposed to perform the function of gills. It includes the fresh-water genera <gen>Branchipus</gen>, <gen>Apus</gen>, and <gen>Limnadia</gen>, and the genus <gen>Artemia</gen> found in salt lakes. It is also called <altname><ord>Phyllopoda</ord></altname>. See <er>Phyllopoda</er>, <er>Cladocera</er>. It is sometimes used in a broader sense.</def><br/
+\'d8<hw>Bran"chi*o*poda</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[Gr. <?/ gill + <ets>-poda</ets>: cf. F. <ets>branchiopode</ets>.]</ety> <fld>(Zool.)</fld> <def>An order of Entomostraca; -- so named from the feet of branchiopods having been supposed to perform the function of gills. It includes the fresh-water genera <gen>Branchipus</gen>, <gen>Apus</gen>, and <gen>Limnadia</gen>, and the genus <gen>Artemia</gen> found in salt lakes. It is also called <altname><ord>Phyllopoda</ord></altname>. See <er>Phyllopoda</er>, <er>Cladocera</er>. It is sometimes used in a broader sense.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Branchiostegal</ent><br/
@@ -36341,11 +36341,11 @@ And scratched out both his eyes.</q> <rj><qau>Mother Goose.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Branchiostoma</ent><br/
-||<hw>Bran`chi*os"to*ma</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr., Gr. <?/ gill + <?/ mouth.]</ety> <fld>(Zool.)</fld> <def>The lancelet. See <er>Amphioxus</er>.</def><br/
+\'d8<hw>Bran`chi*os"to*ma</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr., Gr. <?/ gill + <?/ mouth.]</ety> <fld>(Zool.)</fld> <def>The lancelet. See <er>Amphioxus</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Branchiura</ent><br/
-||<hw>Bran"chi*u"ra</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr., Gr. <?/ gill + <grk>o'yra`</grk> tail.]</ety> <fld>(Zool.)</fld> <def>A group of Entomostraca, with suctorial mouths, including species parasitic on fishes, as the carp lice (<spn>Argulus</spn>).</def><br/
+\'d8<hw>Bran"chi*u"ra</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr., Gr. <?/ gill + <grk>o'yra`</grk> tail.]</ety> <fld>(Zool.)</fld> <def>A group of Entomostraca, with suctorial mouths, including species parasitic on fishes, as the carp lice (<spn>Argulus</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Branchless</ent><br/
@@ -36735,7 +36735,7 @@ Waved over by that flaming <qex>brand</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Brassica</ent><br/
-||<hw>Bras"si*ca</hw> <pr>(<?/)</pr>, <pos>prop. n.</pos> <ety>[L., cabbage.]</ety> <fld>(Bot.)</fld> <def>A genus of plants embracing several species and varieties differing much in appearance and qualities: such as the common cabbage (<spn>Brassica oleracea</spn>), broccoli, cauliflowers, etc.; the wild turnip (<spn>Brassica campestris</spn>); the common turnip (<spn>Brassica rapa</spn>); the rape or coleseed (<spn>Brassica napus</spn>), etc.</def><br/
+\'d8<hw>Bras"si*ca</hw> <pr>(<?/)</pr>, <pos>prop. n.</pos> <ety>[L., cabbage.]</ety> <fld>(Bot.)</fld> <def>A genus of plants embracing several species and varieties differing much in appearance and qualities: such as the common cabbage (<spn>Brassica oleracea</spn>), broccoli, cauliflowers, etc.; the wild turnip (<spn>Brassica campestris</spn>); the common turnip (<spn>Brassica rapa</spn>); the rape or coleseed (<spn>Brassica napus</spn>), etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brassicaceae</ent><br/
@@ -36832,7 +36832,7 @@ From the dark covert drove the prey.</q> <rj><qau>Scott, (Marmion, ii. int.).</q
 [<source>PJC</source>]</p>
 
 <p><ent>Bratsche</ent><br/
-||<hw>Brat"sche</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[G., fr. It. viola da <ets>braccio</ets> viola held on the arm.]</ety> <def>The tenor viola, or viola.</def><br/
+\'d8<hw>Brat"sche</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[G., fr. It. viola da <ets>braccio</ets> viola held on the arm.]</ety> <def>The tenor viola, or viola.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brattice</ent><br/
@@ -37010,7 +37010,7 @@ And stab, like <qex>bravoes</qex>, all who come this way.</q> <rj><qau>Churchill
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bravura</ent><br/
-||<hw>Bra*vu"ra</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[It., (properly) bravery, spirit, from <ets>bravo</ets>. See <er>Brave</er>.]</ety> <fld>(Mus.)</fld> <def>A florid, brilliant style of music, written for effect, to show the range and flexibility of a singer's voice, or the technical force and skill of a performer; <xex>virtuoso</xex> music.</def><br/
+\'d8<hw>Bra*vu"ra</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[It., (properly) bravery, spirit, from <ets>bravo</ets>. See <er>Brave</er>.]</ety> <fld>(Mus.)</fld> <def>A florid, brilliant style of music, written for effect, to show the range and flexibility of a singer's voice, or the technical force and skill of a performer; <xex>virtuoso</xex> music.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Aria di bravura</b></col> <pr>(<?/)</pr> <ety>[It.]</ety>, <cd>a florid air demanding brilliant execution.</cd></cs><br/
@@ -37247,7 +37247,7 @@ Horrible discord.</q> <rj><qau>MIlton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Braziletto</ent><br/
-||<hw>Braz`i*let"to</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Cf. Pg. & Sp. <ets>brasilete</ets>, It. <ets>brasiletto</ets>.]</ety> <def>See <er>Brazil wood</er>.</def><br/
+\'d8<hw>Braz`i*let"to</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Cf. Pg. & Sp. <ets>brasilete</ets>, It. <ets>brasiletto</ets>.]</ety> <def>See <er>Brazil wood</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brazilian</ent><br/
@@ -38287,7 +38287,7 @@ Are excellent in making ladies trip.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Breccia</ent><br/
-||<hw>Brec"cia</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[It., breach, pebble, fragments of stone, fr. F. <ets>br<egrave/che</ets>; of German origin. See <er>Breach</er>.]</ety> <fld>(Geol.)</fld> <def>A rock composed of angular fragments either of the same mineral or of different minerals, etc., united by a cement, and commonly presenting a variety of colors.</def><br/
+\'d8<hw>Brec"cia</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[It., breach, pebble, fragments of stone, fr. F. <ets>br<egrave/che</ets>; of German origin. See <er>Breach</er>.]</ety> <fld>(Geol.)</fld> <def>A rock composed of angular fragments either of the same mineral or of different minerals, etc., united by a cement, and commonly presenting a variety of colors.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Bone breccia</b></col>, <cd>a breccia containing bones, usually fragmentary.</cd> -- <col><b>Coin breccia</b></col>, <cd>a breccia containing coins.</cd></cs><br/
@@ -38639,7 +38639,7 @@ On that which <qex>breeds</qex> between them.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bregma</ent><br/
-||<hw>Breg"ma</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <?/ the front part of the head: cf. F. <ets>bregma</ets>.]</ety> <fld>(Anat.)</fld> <def>The point of junction of the coronal and sagittal sutures of the skull.</def><br/
+\'d8<hw>Breg"ma</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <?/ the front part of the head: cf. F. <ets>bregma</ets>.]</ety> <fld>(Anat.)</fld> <def>The point of junction of the coronal and sagittal sutures of the skull.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bregmatic</ent><br/
@@ -38654,15 +38654,15 @@ On that which <qex>breeds</qex> between them.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brelan</ent><br/
-||<hw>Bre*lan"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Card Playing)</fld> <sd>(a)</sd> <def>A French gambling game somewhat like poker.</def> <sd>(b)</sd> <def>In French games, a pair royal, or triplet.</def><br/
+\'d8<hw>Bre*lan"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Card Playing)</fld> <sd>(a)</sd> <def>A French gambling game somewhat like poker.</def> <sd>(b)</sd> <def>In French games, a pair royal, or triplet.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Brelan carre</ent><br/
-||<hw>Bre*lan" car`re"</hw> <pr>(?)</pr>. <ety>[F. <ets>carr<eacute/</ets> square.]</ety> <fld>(Card Playing)</fld> <def>In French games, a double pair royal.</def><br/
+\'d8<hw>Bre*lan" car`re"</hw> <pr>(?)</pr>. <ety>[F. <ets>carr<eacute/</ets> square.]</ety> <fld>(Card Playing)</fld> <def>In French games, a double pair royal.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Brelan favori</ent><br/
-||<hw>Bre*lan" fa`vo`ri"</hw> <pr>(?)</pr>. <ety>[F. <ets>favori</ets> favorite.]</ety> <fld>(Card Playing)</fld> <def>In French games, a pair royal composed of 2 cards in the hand and the card turned.</def><br/
+\'d8<hw>Bre*lan" fa`vo`ri"</hw> <pr>(?)</pr>. <ety>[F. <ets>favori</ets> favorite.]</ety> <fld>(Card Playing)</fld> <def>In French games, a pair royal composed of 2 cards in the hand and the card turned.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Breloque</ent><br/
@@ -39217,7 +39217,7 @@ On that which <qex>breeds</qex> between them.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bricole</ent><br/
-||<hw>Bri*cole"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Mil.)</fld> <def>A kind of traces with hooks and rings, with which men drag and maneuver guns where horses can not be used.</def><br/
+\'d8<hw>Bri*cole"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Mil.)</fld> <def>A kind of traces with hooks and rings, with which men drag and maneuver guns where horses can not be used.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>An ancient kind of military catapult.</def><br/
@@ -39887,7 +39887,7 @@ His heaven commences ere world be past.</q> <rj><qau>Goldsmith.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brillante</ent><br/
-||<hw>Bril*lan"te</hw> <pr>(<?/)</pr>, <pos>adv.</pos> <ety>[It. See <er>Brilliant</er>, <pos>a.</pos>]</ety> <fld>(Mus.)</fld> <def>In a gay, showy, and sparkling style.</def><br/
+\'d8<hw>Bril*lan"te</hw> <pr>(<?/)</pr>, <pos>adv.</pos> <ety>[It. See <er>Brilliant</er>, <pos>a.</pos>]</ety> <fld>(Mus.)</fld> <def>In a gay, showy, and sparkling style.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brillance</ent><br/
@@ -40144,7 +40144,7 @@ Hath but a losing office.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brinjaree</ent><br/
-||<hw>Brin"ja*ree`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A rough-haired East Indian variety of the greyhound.</def><br/
+\'d8<hw>Brin"ja*ree`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A rough-haired East Indian variety of the greyhound.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brink</ent><br/
@@ -40164,7 +40164,7 @@ Hath but a losing office.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brioche</ent><br/
-||<hw>Bri`oche"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>A light sweet pastry (cake, bun or roll) made with flour, butter, yeast, and eggs.</def><br/
+\'d8<hw>Bri`oche"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>A light sweet pastry (cake, bun or roll) made with flour, butter, yeast, and eggs.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <def>A knitted foot cushion.</def><br/
@@ -40885,25 +40885,25 @@ He bravely <qex>broached</qex> his boiling bloody breast.</q> <rj><qau>Shak.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Broche</ent><br/
-||<hw>Bro`ch<eacute/"</hw> <pr>(br<osl/`sh<amac/")</pr>, <pos>a.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>Woven with a figure; <as>as, <ex>broch<eacute/</ex> goods</as>.</def><br/
+\'d8<hw>Bro`ch<eacute/"</hw> <pr>(br<osl/`sh<amac/")</pr>, <pos>a.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>Woven with a figure; <as>as, <ex>broch<eacute/</ex> goods</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Stitched; -- said of a book with no cover or only a paper one.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Broche</ent><br/
-||<hw>Broche</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>See <er>Broach</er>, <pos>n.</pos></def><br/
+\'d8<hw>Broche</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>See <er>Broach</er>, <pos>n.</pos></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brochette</ent><br/
-||<hw>Bro`chette"</hw> <pr>(br<osl/`sh<ecr/t")</pr>, <pos>n.</pos> <ety>[F., dim. of <ets>broche</ets>. See <er>Broach</er>, <pos>n.</pos>]</ety> <fld>(Cookery)</fld> <def>A small spit or skewer.</def><br/
+\'d8<hw>Bro`chette"</hw> <pr>(br<osl/`sh<ecr/t")</pr>, <pos>n.</pos> <ety>[F., dim. of <ets>broche</ets>. See <er>Broach</er>, <pos>n.</pos>]</ety> <fld>(Cookery)</fld> <def>A small spit or skewer.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p> -- <cs><col><b>En bro`chette"</b></col> <pr>(<aum/n)</pr> <ety>[F.]</ety>, <cd>on a brochette; skewered.</cd></cs><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Brochure</ent><br/
-||<hw>Bro*chure"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>brocher</ets> to stitch. See <er>Broach</er>, <pos>v. t.</pos>]</ety> <def>A printed and stitched book containing only a few leaves; a pamphlet; a single sheet folded to make four pages.</def><br/
+\'d8<hw>Bro*chure"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>brocher</ets> to stitch. See <er>Broach</er>, <pos>v. t.</pos>]</ety> <def>A printed and stitched book containing only a few leaves; a pamphlet; a single sheet folded to make four pages.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Brock</ent><br/
@@ -41248,7 +41248,7 @@ And tricks belonging unto <qex>brokery</qex>.</q> <rj><qau>Marlowe.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brome</ent><br/
-||<hw>Brome</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Chem.)</fld> <def>See <er>Bromine</er>.</def><br/
+\'d8<hw>Brome</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Chem.)</fld> <def>See <er>Bromine</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brome grass</ent><br/
@@ -41358,11 +41358,11 @@ And tricks belonging unto <qex>brokery</qex>.</q> <rj><qau>Marlowe.</qau></rj><b
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Bronchi</ent><br/
-||<hw>Bron"chi</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <fld>(Anat.)</fld> <def>See <er>Bronchus</er>.</def><br/
+\'d8<hw>Bron"chi</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <fld>(Anat.)</fld> <def>See <er>Bronchus</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bronchia</ent><br/
-||<hw>Bron"chi*a</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[L. , <ets>pl</ets>. Cf. <er>Bronchus</er>.]</ety> <fld>(Anat.)</fld> <def>The bronchial tubes which arise from the branching of the trachea, esp. the subdivision of the bronchi.</def>  <rj><au>Dunglison.</au></rj><br/
+\'d8<hw>Bron"chi*a</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[L. , <ets>pl</ets>. Cf. <er>Bronchus</er>.]</ety> <fld>(Anat.)</fld> <def>The bronchial tubes which arise from the branching of the trachea, esp. the subdivision of the bronchi.</def>  <rj><au>Dunglison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bronchial</ent><br/
@@ -41421,7 +41421,7 @@ And tricks belonging unto <qex>brokery</qex>.</q> <rj><qau>Marlowe.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bronchus</ent><br/
-||<hw>Bron"chus</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Bronchi</plw> <pr>(<?/)</pr>.</plu> <ety>[NL., fr. Gr. <?/ windpipe. Cf. <er>Bronchia</er>.]</ety> <fld>(Anat.)</fld> <def>One of the subdivisions of the trachea or windpipe; esp. one of the two primary divisions.</def><br/
+\'d8<hw>Bron"chus</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Bronchi</plw> <pr>(<?/)</pr>.</plu> <ety>[NL., fr. Gr. <?/ windpipe. Cf. <er>Bronchia</er>.]</ety> <fld>(Anat.)</fld> <def>One of the subdivisions of the trachea or windpipe; esp. one of the two primary divisions.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bronco</ent><br/
@@ -41454,15 +41454,15 @@ And tricks belonging unto <qex>brokery</qex>.</q> <rj><qau>Marlowe.</qau></rj><b
 [<source>PJC</source>]</p>
 
 <p><ent>Brontosaurus</ent><br/
-||<hw>Bron`to*sau"rus</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>bronth`</grk> thunder + <grk>say^ros</grk> lizard.]</ety> <fld>(Paleon.)</fld> <def>A genus of large sauropod American dinosaurs of the jurassic era, or an individual of that genus. A length of sixty feet is believed to have been attained by these reptiles.  The genus is also called <altname>Apatosaurus</altname>, and individuals of the genus are also called <altname>brontosaurs</altname>.</def><br/
+\'d8<hw>Bron`to*sau"rus</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>bronth`</grk> thunder + <grk>say^ros</grk> lizard.]</ety> <fld>(Paleon.)</fld> <def>A genus of large sauropod American dinosaurs of the jurassic era, or an individual of that genus. A length of sixty feet is believed to have been attained by these reptiles.  The genus is also called <altname>Apatosaurus</altname>, and individuals of the genus are also called <altname>brontosaurs</altname>.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Brontotherium</ent><br/
-||<hw>Bron`to*the"ri*um</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ thunder + <?/ beast.]</ety> <fld>(Paleon.)</fld> <def>A genus of large extinct mammals from the miocene strata of western North America. They were allied to the rhinoceros, but the skull bears a pair of powerful horn cores in front of the orbits, and the fore feet were four-toed. See <xex>Illustration</xex> in Appendix.</def><br/
+\'d8<hw>Bron`to*the"ri*um</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ thunder + <?/ beast.]</ety> <fld>(Paleon.)</fld> <def>A genus of large extinct mammals from the miocene strata of western North America. They were allied to the rhinoceros, but the skull bears a pair of powerful horn cores in front of the orbits, and the fore feet were four-toed. See <xex>Illustration</xex> in Appendix.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brontozoum</ent><br/
-||<hw>Bron`to*zo"um</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ thunder + <?/ animal.]</ety> <fld>(Paleon.)</fld> <def>An extinct animal of large size, known from its three-toed footprints in Mesozoic sandstone.</def><br/
+\'d8<hw>Bron`to*zo"um</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ thunder + <?/ animal.]</ety> <fld>(Paleon.)</fld> <def>An extinct animal of large size, known from its three-toed footprints in Mesozoic sandstone.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The tracks made by these reptiles are found eighteen inches in length, and were formerly referred to gigantic birds; but the discovery of large bipedal three-toed dinosaurs has suggested that they were made by those reptiles.</note><br/
@@ -42165,7 +42165,7 @@ The barks of trees thou <qex>browsedst</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bruang</ent><br/
-||<hw>Bru*ang"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>The Malayan sun bear.</def><br/
+\'d8<hw>Bru*ang"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>The Malayan sun bear.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brucine</ent><br/
@@ -42186,7 +42186,7 @@ The barks of trees thou <qex>browsedst</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
 <p><ent>Bruh</ent><br/
-||<hw>Bruh</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <ety>[Native name.]</ety> <def>The rhesus monkey. See <er>Rhesus</er>.</def><br/
+\'d8<hw>Bruh</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <ety>[Native name.]</ety> <def>The rhesus monkey. See <er>Rhesus</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>bruin</ent><br/
@@ -42265,7 +42265,7 @@ Amid the lists our hero takes his stand.</q> <rj><qau>T. Warton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brumaire</ent><br/
-||<hw>Bru`maire"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. L. <ets>bruma</ets> winter.]</ety> <def>The second month of the calendar adopted by the first French republic. It began thirty days after the autumnal equinox. See <er>Vendemiaire</er>.</def><br/
+\'d8<hw>Bru`maire"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. L. <ets>bruma</ets> winter.]</ety> <def>The second month of the calendar adopted by the first French republic. It began thirty days after the autumnal equinox. See <er>Vendemiaire</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brumal</ent><br/
@@ -42522,7 +42522,7 @@ With raven's feather from unwholesome fen.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Bruta</ent><br/
-||<hw>Bru"ta</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., neuter pl., fr. L. <ets>brutus</ets> heavy, stupid.]</ety> <fld>(Zool.)</fld> <def>See <er>Edentata</er>.</def><br/
+\'d8<hw>Bru"ta</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., neuter pl., fr. L. <ets>brutus</ets> heavy, stupid.]</ety> <fld>(Zool.)</fld> <def>See <er>Edentata</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brutal</ent><br/
@@ -42698,7 +42698,7 @@ Take every <qex>brutish</qex> shape it can devise.</q> <rj><qau>Leigh Hunt.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bryophyta</ent><br/
-||<hw>Bry*oph"y*ta</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <def>See <er>Cryptogamia</er>.</def><br/
+\'d8<hw>Bry*oph"y*ta</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <def>See <er>Cryptogamia</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>bryophyte</ent><br/
@@ -42716,7 +42716,7 @@ Take every <qex>brutish</qex> shape it can devise.</q> <rj><qau>Leigh Hunt.</qau
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Bryozoa</ent><br/
-||<hw>Bry`o*zo"a</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ moss + <?/ animal.]</ety> <fld>(Zool.)</fld> <def>A class of Molluscoidea, including minute animals which by budding form compound colonies; -- called also <altname>Polyzoa</altname>.</def><br/
+\'d8<hw>Bry`o*zo"a</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ moss + <?/ animal.]</ety> <fld>(Zool.)</fld> <def>A class of Molluscoidea, including minute animals which by budding form compound colonies; -- called also <altname>Polyzoa</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ They are often coralike in form and appearance, each small cell containing an individual zooid. Other species grow in delicate, flexible, branched forms, resembling moss, whence the name. Some are found in fresh water, but most are marine. The three principal divisions are <stype><spn>Ectoprocta</spn></stype>, <stype><spn>Entoprocta</spn></stype>, and <stype><spn>Pterobranchia</spn></stype>. See <er>Cyclostoma</er>, <er>Chilostoma</er>, and <er>Phylactolema</er>.</note><br/
@@ -42727,15 +42727,15 @@ Take every <qex>brutish</qex> shape it can devise.</q> <rj><qau>Leigh Hunt.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bryozoum</ent><br/
-||<hw>Bry`o*zo"um</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL. See <er>Bryozoa</er>.]</ety> <fld>(Zool.)</fld> <def>An individual zooid of a bryozoan coralline, of which there may be two or more kinds in a single colony. The zo<oe/cia usually have a wreath of tentacles around the mouth, and a well developed stomach and intestinal canal; but these parts are lacking in the other zooids (<spn>Avicularia</spn>, <spn>O<oe/cia</spn>, etc.).</def><br/
+\'d8<hw>Bry`o*zo"um</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL. See <er>Bryozoa</er>.]</ety> <fld>(Zool.)</fld> <def>An individual zooid of a bryozoan coralline, of which there may be two or more kinds in a single colony. The zo<oe/cia usually have a wreath of tentacles around the mouth, and a well developed stomach and intestinal canal; but these parts are lacking in the other zooids (<spn>Avicularia</spn>, <spn>O<oe/cia</spn>, etc.).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Buansuah</ent><br/
-||<hw>Bu`an*su"ah</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>The wild dog of northern India (<spn>Cuon prim<ae/vus</spn>), supposed by some to be an ancestral species of the domestic dog.</def><br/
+\'d8<hw>Bu`an*su"ah</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>The wild dog of northern India (<spn>Cuon prim<ae/vus</spn>), supposed by some to be an ancestral species of the domestic dog.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Buat</ent><br/
-||<hw>Bu"at</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Scot., of uncertain origin.]</ety> <def>A lantern; also, the moon.</def> <mark>[Scot.]</mark>  <rj><au>Sir W. Scott.</au></rj><br/
+\'d8<hw>Bu"at</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Scot., of uncertain origin.]</ety> <def>A lantern; also, the moon.</def> <mark>[Scot.]</mark>  <rj><au>Sir W. Scott.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bub</ent><br/
@@ -42920,7 +42920,7 @@ Even in the cannon's mouth.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Buccinator</ent><br/
-||<hw>Buc`ci*na"tor</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L., a trumpeter, fr. <ets>bucinare</ets> to sound the trumpet.]</ety> <fld>(Anat.)</fld> <def>A muscle of the cheek; -- so called from its use in blowing wind instruments.</def><br/
+\'d8<hw>Buc`ci*na"tor</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L., a trumpeter, fr. <ets>bucinare</ets> to sound the trumpet.]</ety> <fld>(Anat.)</fld> <def>A muscle of the cheek; -- so called from its use in blowing wind instruments.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Buccinoid</ent><br/
@@ -42928,7 +42928,7 @@ Even in the cannon's mouth.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Buccinum</ent><br/
-||<hw>Buc"ci*num</hw> <pr>(<?/)</pr>, <pos>prop. n.</pos> <ety>[L., a trumpet, a trumpet shell.]</ety> <fld>(Zool.)</fld> <def>A genus of large univalve mollusks abundant in the arctic seas.  It includes the common whelk (<spn>Buccinum undatum</spn>).</def><br/
+\'d8<hw>Buc"ci*num</hw> <pr>(<?/)</pr>, <pos>prop. n.</pos> <ety>[L., a trumpet, a trumpet shell.]</ety> <fld>(Zool.)</fld> <def>A genus of large univalve mollusks abundant in the arctic seas.  It includes the common whelk (<spn>Buccinum undatum</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bucentaur</ent><br/
@@ -42946,7 +42946,7 @@ Even in the cannon's mouth.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Buceros</ent><br/
-||<hw>Bu"ce*ros</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>boy`kerws</grk> horned like an ox; <grk>boy^s</grk> ox + <grk>ke`ras</grk> horn.]</ety> <fld>(Zool.)</fld> <def>A genus of large perching birds; the hornbills.</def><br/
+\'d8<hw>Bu"ce*ros</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>boy`kerws</grk> horned like an ox; <grk>boy^s</grk> ox + <grk>ke`ras</grk> horn.]</ety> <fld>(Zool.)</fld> <def>A genus of large perching birds; the hornbills.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bucharest</ent><br/
@@ -43377,7 +43377,7 @@ An' did the <qex>buckskins</qex> claw, man.</q> <rj><qau>Burns.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bucranium</ent><br/
-||<hw>Bu*cra"ni*um</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Bucrania</plw> <pr>(<?/)</pr>.</plu> <ety>[L., fr. Gr. <?/ ox head.]</ety> <def>A sculptured ornament, representing an ox skull adorned with wreaths, etc.</def><br/
+\'d8<hw>Bu*cra"ni*um</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Bucrania</plw> <pr>(<?/)</pr>.</plu> <ety>[L., fr. Gr. <?/ ox head.]</ety> <def>A sculptured ornament, representing an ox skull adorned with wreaths, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bud</ent><br/
@@ -43514,7 +43514,7 @@ From rascals worse than they.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>budgerow</ent><br/
-||<hw>budg"e*row</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Hindi <ets>bajr<amac/</ets>.]</ety> <def>A large and commodious, but generally cumbrous and sluggish boat, used for journeys on the Ganges.</def><br/
+\'d8<hw>budg"e*row</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Hindi <ets>bajr<amac/</ets>.]</ety> <def>A large and commodious, but generally cumbrous and sluggish boat, used for journeys on the Ganges.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Budget</ent><br/
@@ -43617,7 +43617,7 @@ That made him reel.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Buffa</ent><br/
-||<hw>Buf"fa</hw> <pr>(<?/)</pr>, <pos>n. fem.</pos> <fld>(Mus.)</fld> <ety>[It. See <er>Buffoon</er>.]</ety> <def>The comic actress in an opera.</def> -- <def2><pos>a.</pos> <def>Comic, farcical.</def></def2><br/
+\'d8<hw>Buf"fa</hw> <pr>(<?/)</pr>, <pos>n. fem.</pos> <fld>(Mus.)</fld> <ety>[It. See <er>Buffoon</er>.]</ety> <def>The comic actress in an opera.</def> -- <def2><pos>a.</pos> <def>Comic, farcical.</def></def2><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Aria buffa</b></col>, <cd>a droll or comic air.</cd> -- <col><b>Opera buffa</b></col>, <cd>a comic opera. See <er>Opera bouffe</er>.</cd></cs><br/
@@ -43830,7 +43830,7 @@ Turns you from sound philosophy aside.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>buffo</ent><br/
-||<hw>buf"fo</hw> <pr>(<?/)</pr>, <pos>n. masc.</pos> <ety>[It. See <er>Buffoon</er>.]</ety> <fld>(Mus.)</fld> <def>The comic actor in an opera.</def><br/
+\'d8<hw>buf"fo</hw> <pr>(<?/)</pr>, <pos>n. masc.</pos> <ety>[It. See <er>Buffoon</er>.]</ety> <fld>(Mus.)</fld> <def>The comic actor in an opera.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>buffoon</ent><br/
@@ -43882,7 +43882,7 @@ Turns you from sound philosophy aside.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bufo</ent><br/
-||<hw>Bu"fo</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L. <ets>bufo</ets> a toad.]</ety> <fld>(Zool.)</fld> <def>A genus of Amphibia including various species of toads.</def><br/
+\'d8<hw>Bu"fo</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L. <ets>bufo</ets> a toad.]</ety> <fld>(Zool.)</fld> <def>A genus of Amphibia including various species of toads.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bufonidae</ent><br/
@@ -44182,11 +44182,11 @@ Have cost a mass of public treasury.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bukshish</ent><br/
-||<hw>Buk"shish</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>See <er>Backsheesh</er>.</def><br/
+\'d8<hw>Buk"shish</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>See <er>Backsheesh</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bulau</ent><br/
-||<hw>Bu"lau</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>An East Indian insectivorous mammal (<spn>Gymnura Rafflesii</spn>), somewhat like a rat in appearance, but allied to the hedgehog.</def><br/
+\'d8<hw>Bu"lau</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>An East Indian insectivorous mammal (<spn>Gymnura Rafflesii</spn>), somewhat like a rat in appearance, but allied to the hedgehog.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 190 --></p>
@@ -44255,7 +44255,7 @@ Have cost a mass of public treasury.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bulbul</ent><br/
-||<hw>Bul"bul</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Per.]</ety> <fld>(Zool.)</fld> <def>The Persian nightingale (<spn>Pycnonotus jocosus</spn>). The name is also applied to several other Asiatic singing birds, of the family <fam>Timaliid<ae/</fam>. The green bulbuls belong to the <gen>Chloropsis</gen> and allied genera.</def> <altsp>[Written also <asp>buhlbuhl</asp>.]</altsp><br/
+\'d8<hw>Bul"bul</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Per.]</ety> <fld>(Zool.)</fld> <def>The Persian nightingale (<spn>Pycnonotus jocosus</spn>). The name is also applied to several other Asiatic singing birds, of the family <fam>Timaliid<ae/</fam>. The green bulbuls belong to the <gen>Chloropsis</gen> and allied genera.</def> <altsp>[Written also <asp>buhlbuhl</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bulbule</ent><br/
@@ -44313,7 +44313,7 @@ Have cost a mass of public treasury.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Bulimy</ent><br/
 <ent>Bulimia</ent><br/
-<mhw>{ ||<hw>Bu*lim"i*a</hw> <pr>(b<ucr/*l<icr/m"<icr/*<adot/)</pr>, <hw>Bu"li*my</hw> <pr>(<?/)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>bulimia</ets>, fr. Gr. <grk>boylimi`a</grk>, lit., ox-hunger; <grk>boy^s</grk> ox + <grk>limo`s</grk> hunger: cf. F. <ets>boulimie</ets>.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>A disease in which there is a perpetual and insatiable appetite for food; a diseased and voracious appetite.</def><br/
+<mhw>{ \'d8<hw>Bu*lim"i*a</hw> <pr>(b<ucr/*l<icr/m"<icr/*<adot/)</pr>, <hw>Bu"li*my</hw> <pr>(<?/)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>bulimia</ets>, fr. Gr. <grk>boylimi`a</grk>, lit., ox-hunger; <grk>boy^s</grk> ox + <grk>limo`s</grk> hunger: cf. F. <ets>boulimie</ets>.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>A disease in which there is a perpetual and insatiable appetite for food; a diseased and voracious appetite.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>a disordered eating habit characterized by occasional episodes of excessive eating, followed by self-induced vomiting or abuse of laxatives, to avoid gaining weight; it is often accompanied by feelings of guilt; -- called also <altname>bulimia nervosa</altname> and <altname>binge-purge syndrome</altname>.  It is observed mainly in young women of normal weight.</def><br/
@@ -44327,7 +44327,7 @@ Have cost a mass of public treasury.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Bulimus</ent><br/
-||<hw>Bu*li"mus</hw> <pr>(b<usl/*l<imac/"m<ucr/s)</pr>, <pos>n.</pos> <ety>[L. <ets>bulimus</ets> hunger. See <er>Bulimy</er>.]</ety> <fld>(Zool.)</fld> <def>A genus of land snails having an elongated spiral shell, often of large size. The species are numerous and abundant in tropical America.</def><br/
+\'d8<hw>Bu*li"mus</hw> <pr>(b<usl/*l<imac/"m<ucr/s)</pr>, <pos>n.</pos> <ety>[L. <ets>bulimus</ets> hunger. See <er>Bulimy</er>.]</ety> <fld>(Zool.)</fld> <def>A genus of land snails having an elongated spiral shell, often of large size. The species are numerous and abundant in tropical America.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bulk</ent><br/
@@ -44462,7 +44462,7 @@ And the bright <qex>Bull</qex> receives him.</q> <rj><qau>Thomson.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bulla</ent><br/
-||<hw>Bul"la</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Bull<ae/</plw> <pr>(<?/)</pr>.</plu> <ety>[L. <ets>bulla</ets> bubble. See <er>Bull</er> an edict.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>A bleb; a vesicle, or an elevation of the cuticle, containing a transparent watery fluid.</def><br/
+\'d8<hw>Bul"la</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Bull<ae/</plw> <pr>(<?/)</pr>.</plu> <ety>[L. <ets>bulla</ets> bubble. See <er>Bull</er> an edict.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>A bleb; a vesicle, or an elevation of the cuticle, containing a transparent watery fluid.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Anat.)</fld> <def>The ovoid prominence below the opening of the ear in the skulls of many animals; <as>as, the tympanic or auditory <ex>bulla</ex></as>.</def><br/
@@ -44548,7 +44548,7 @@ And the bright <qex>Bull</qex> receives him.</q> <rj><qau>Thomson.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bullen-bullen</ent><br/
-||<hw>Bul"len-bul"len</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native Australian name, from its cry.]</ety> <fld>(Zool.)</fld> <def>The lyre bird.</def><br/
+\'d8<hw>Bul"len-bul"len</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native Australian name, from its cry.]</ety> <fld>(Zool.)</fld> <def>The lyre bird.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bullen-nail</ent><br/
@@ -44757,7 +44757,7 @@ And damm for <qex>bullion</qex>, go for current now.</q> <rj><qau>Sylvester.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bullon</ent><br/
-||<hw>Bul"lon</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A West Indian fish (<spn>Scarus Croicensis</spn>).</def><br/
+\'d8<hw>Bul"lon</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A West Indian fish (<spn>Scarus Croicensis</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>bullpen</ent><br/
@@ -44921,7 +44921,7 @@ And damm for <qex>bullion</qex>, go for current now.</q> <rj><qau>Sylvester.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bulse</ent><br/
-||<hw>Bulse</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>A purse or bag in which to carry or measure diamonds, etc.</def> <mark>[India]</mark>  <rj><au>Macaulay.</au></rj><br/
+\'d8<hw>Bulse</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>A purse or bag in which to carry or measure diamonds, etc.</def> <mark>[India]</mark>  <rj><au>Macaulay.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bultel</ent><br/
@@ -44933,7 +44933,7 @@ And damm for <qex>bullion</qex>, go for current now.</q> <rj><qau>Sylvester.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bultong</ent><br/
-||<hw>Bul"tong</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Biltong.</def><br/
+\'d8<hw>Bul"tong</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Biltong.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bultow</ent><br/
@@ -45050,7 +45050,7 @@ With rising towers.</q> <rj><qau>Glover.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bummalo</ent><br/
-||<hw>Bum"ma*lo</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A small marine Asiatic fish (<spn>Saurus ophidon</spn>) used in India as a relish; -- called also <altname>Bombay duck</altname>.</def><br/
+\'d8<hw>Bum"ma*lo</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A small marine Asiatic fish (<spn>Saurus ophidon</spn>) used in India as a relish; -- called also <altname>Bombay duck</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>bummer</ent><br/
@@ -45246,21 +45246,21 @@ A <qex>bump</qex> as big as a young cockerel's stone.</q> <rj><qau>Shak.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bund</ent><br/
-||<hw>Bund</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[G.]</ety> <def>League; confederacy; esp. the confederation of German states.</def><br/
+\'d8<hw>Bund</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[G.]</ety> <def>League; confederacy; esp. the confederation of German states.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bund</ent><br/
-||<hw>Bund</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Hindi <ets>band</ets>.]</ety> <def>An embankment against inundation.</def> <mark>[India]</mark>  <rj><au>S. Wells Williams.</au></rj><br/
+\'d8<hw>Bund</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Hindi <ets>band</ets>.]</ety> <def>An embankment against inundation.</def> <mark>[India]</mark>  <rj><au>S. Wells Williams.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bunder</ent><br/
-||<hw>Bun"der</hw> <pr>(b<ucr/n"d<etil/r)</pr>, <pos>n.</pos> <ety>[Pers. <ets>bandar</ets> a landing place, pier.]</ety> <def>A boat or raft used in the East Indies in the landing of passengers and goods.</def><br/
+\'d8<hw>Bun"der</hw> <pr>(b<ucr/n"d<etil/r)</pr>, <pos>n.</pos> <ety>[Pers. <ets>bandar</ets> a landing place, pier.]</ety> <def>A boat or raft used in the East Indies in the landing of passengers and goods.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 192 --></p>
 
 <p><ent>Bundesrath</ent><br/
-||<hw>Bun"des*rath`</hw> <pr>(b<oocr/n"d<ecr/s*r<aum/t`)</pr>, <pos>n.</pos> <ety>[G., from <ets>bund</ets> (akin to E. <ets>bond</ets>) confederacy + <ets>rath</ets> council, prob. akin to E. <ets>read</ets>.]</ety> <def>Lit., a federal council, esp. of the German Empire.  In the German Empire the legislative functions are vested in the Bundesrath and the Reichstag. The federal council of Switzerland is also so called.</def><br/
+\'d8<hw>Bun"des*rath`</hw> <pr>(b<oocr/n"d<ecr/s*r<aum/t`)</pr>, <pos>n.</pos> <ety>[G., from <ets>bund</ets> (akin to E. <ets>bond</ets>) confederacy + <ets>rath</ets> council, prob. akin to E. <ets>read</ets>.]</ety> <def>Lit., a federal council, esp. of the German Empire.  In the German Empire the legislative functions are vested in the Bundesrath and the Reichstag. The federal council of Switzerland is also so called.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><note><hand/ The <xex>Bundesrath</xex> of the German empire is presided over by a chancellor, and is composed of sixty-two members, who represent the different states of the empire, being appointed for each session by their respective governments.</note><br/
@@ -45270,7 +45270,7 @@ A <qex>bump</qex> as big as a young cockerel's stone.</q> <rj><qau>Shak.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bundes-Versammlung</ent><br/
-||<hw>Bun"des-Ver*samm"lung</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.; <ets>bund</ets> confederacy + <ets>versammlung</ets> assembly.]</ety> <def>See <er>Legislature</er>, <xex>Switzerland</xex>.</def><br/
+\'d8<hw>Bun"des-Ver*samm"lung</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.; <ets>bund</ets> confederacy + <ets>versammlung</ets> assembly.]</ety> <def>See <er>Legislature</er>, <xex>Switzerland</xex>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bundle</ent><br/
@@ -45331,7 +45331,7 @@ A <qex>bump</qex> as big as a young cockerel's stone.</q> <rj><qau>Shak.</qau></
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Bundobust</ent><br/
-||<hw>Bun"do*bust</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. & Per. <ets>bando-bast</ets> tying and binding.]</ety> <def>System; discipline.</def> <mark>[India]</mark><br/
+\'d8<hw>Bun"do*bust</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. & Per. <ets>bando-bast</ets> tying and binding.]</ety> <def>System; discipline.</def> <mark>[India]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>He has more <qex>bundobust</qex> than most men.</q>  <rj><qau>Kipling.</qau></rj><br/
@@ -45372,7 +45372,7 @@ A <qex>bump</qex> as big as a young cockerel's stone.</q> <rj><qau>Shak.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bungarum</ent><br/
-||<hw>Bun"ga*rum</hw> <pr>(<?/)</pr>, <pos>n.</pos>  <ety>[<ets>Bungar</ets>, the native name.]</ety> <fld>(Zool.)</fld> <def>A venomous snake of India, of the genus <gen>Bungarus</gen>, allied to the cobras, but without a hood.</def><br/
+\'d8<hw>Bun"ga*rum</hw> <pr>(<?/)</pr>, <pos>n.</pos>  <ety>[<ets>Bungar</ets>, the native name.]</ety> <fld>(Zool.)</fld> <def>A venomous snake of India, of the genus <gen>Bungarus</gen>, allied to the cobras, but without a hood.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bungee</ent><br/
@@ -45534,7 +45534,7 @@ A <qex>bump</qex> as big as a young cockerel's stone.</q> <rj><qau>Shak.</qau></
 
 <p><ent>Bunodonts</ent><br/
 <ent>Bunodonta</ent><br/
-<mhw>{ ||<hw>Bu`no*don"ta</hw> <pr>(<?/)</pr>, <hw>Bu"no*donts</hw> <pr>(<?/)</pr>, }</mhw> <pos>n. pl.</pos> <ety>[NL. <ets>bunodonta</ets>, fr. Gr. <?/ hill, heap + <?/, <?/, a tooth.]</ety> <fld>(Zool.)</fld> <def>A division of the herbivorous mammals including the hogs and hippopotami; -- so called because the teeth are tuberculated.</def><br/
+<mhw>{ \'d8<hw>Bu`no*don"ta</hw> <pr>(<?/)</pr>, <hw>Bu"no*donts</hw> <pr>(<?/)</pr>, }</mhw> <pos>n. pl.</pos> <ety>[NL. <ets>bunodonta</ets>, fr. Gr. <?/ hill, heap + <?/, <?/, a tooth.]</ety> <fld>(Zool.)</fld> <def>A division of the herbivorous mammals including the hogs and hippopotami; -- so called because the teeth are tuberculated.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>buns</ent><br/
@@ -45914,7 +45914,7 @@ So <qex>burdensome</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Burette</ent><br/
-||<hw>Bu*rette"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., can, cruet, dim. of <ets>buire</ets> flagon.]</ety> <fld>(Chem.)</fld> <def>An apparatus for delivering measured quantities of liquid or for measuring the quantity of liquid or gas received or discharged. It consists essentially of a graduated glass tube, usually furnished with a small aperture and stopcock.</def><br/
+\'d8<hw>Bu*rette"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., can, cruet, dim. of <ets>buire</ets> flagon.]</ety> <fld>(Chem.)</fld> <def>An apparatus for delivering measured quantities of liquid or for measuring the quantity of liquid or gas received or discharged. It consists essentially of a graduated glass tube, usually furnished with a small aperture and stopcock.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bur fish</ent><br/
@@ -45956,7 +45956,7 @@ So <qex>burdensome</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Burgeois</ent><br/
-||<hw>Bur*geois"</hw> <pr>(b<oocr/r*zhw<aum/")</pr>, <pos>n.</pos> <def>A burgess; a citizen. See 2d <er>Bourgeois</er>.</def> <mark>[R.]</mark>  <rj><au>Addison.</au></rj><br/
+\'d8<hw>Bur*geois"</hw> <pr>(b<oocr/r*zhw<aum/")</pr>, <pos>n.</pos> <def>A burgess; a citizen. See 2d <er>Bourgeois</er>.</def> <mark>[R.]</mark>  <rj><au>Addison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Burgeon</ent><br/
@@ -46270,7 +46270,7 @@ And pleased by novelty in spite of sense.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><-- p. 194 --></p>
 
 <p><ent>Burletta</ent><br/
-||<hw>Bur*let"ta</hw> <pr>(b<ucir/r*l<ecr/t"t<adot/)</pr>, <pos>n.</pos> <ety>[It., dim. of <ets>burla</ets> mockery. See <er>Burlesque</er>, <pos>a.</pos>]</ety> <fld>(Mus.)</fld> <def>A comic operetta; a music farce.</def>  <rj><au>Byron.</au></rj><br/
+\'d8<hw>Bur*let"ta</hw> <pr>(b<ucir/r*l<ecr/t"t<adot/)</pr>, <pos>n.</pos> <ety>[It., dim. of <ets>burla</ets> mockery. See <er>Burlesque</er>, <pos>a.</pos>]</ety> <fld>(Mus.)</fld> <def>A comic operetta; a music farce.</def>  <rj><au>Byron.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Burliness</ent><br/
@@ -46678,7 +46678,7 @@ And spread and <qex>burnish</qex> as his brothers do.</q> <rj><qau>Dryden.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bursa</ent><br/
-||<hw>Bur"sa</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Burs<ae/</plw> <pr>(<?/)</pr>.</plu> <ety>[L. See <er>Burse</er>.]</ety> <fld>(Anat.)</fld> <def>Any sac or saclike cavity; especially, one of the synovial sacs, or small spaces, often lined with synovial membrane, interposed between tendons and bony prominences.</def><br/
+\'d8<hw>Bur"sa</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Burs<ae/</plw> <pr>(<?/)</pr>.</plu> <ety>[L. See <er>Burse</er>.]</ety> <fld>(Anat.)</fld> <def>Any sac or saclike cavity; especially, one of the synovial sacs, or small spaces, often lined with synovial membrane, interposed between tendons and bony prominences.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bursal</ent><br/
@@ -46704,11 +46704,11 @@ And spread and <qex>burnish</qex> as his brothers do.</q> <rj><qau>Dryden.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bursch</ent><br/
-||<hw>Bursch</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Burschen</plw> <pr>(<?/)</pr>.</plu> <ety>[G., ultimately fr. LL. <ets>bursa</ets>. See <er>Burse</er>.]</ety> <def>A youth; especially, a student in a german university.</def><br/
+\'d8<hw>Bursch</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Burschen</plw> <pr>(<?/)</pr>.</plu> <ety>[G., ultimately fr. LL. <ets>bursa</ets>. See <er>Burse</er>.]</ety> <def>A youth; especially, a student in a german university.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Burschenschaft</ent><br/
-||<hw>Bur"schen*schaft`</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>-schaften</plw> <pr>(#)</pr></plu>. <ety>[G.]</ety> <def>In Germany, any of various associations of university students formed (the original one at Jena in 1815) to support liberal ideas, or the organization formed by the affiliation of the local bodies. The organization was suppressed by the government in 1819, but was secretly revived, and is now openly maintained as a social organization, the restrictive laws having been repealed prior to 1849.</def> -- <wordforms><wf>Bur"schen*schaft`ler</wf> <pr>(#)</pr>, <wf>Bur"schen*schaf`ter</wf> <pr>(#)</pr>, <pos>n.</pos></wordforms><br/
+\'d8<hw>Bur"schen*schaft`</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>-schaften</plw> <pr>(#)</pr></plu>. <ety>[G.]</ety> <def>In Germany, any of various associations of university students formed (the original one at Jena in 1815) to support liberal ideas, or the organization formed by the affiliation of the local bodies. The organization was suppressed by the government in 1819, but was secretly revived, and is now openly maintained as a social organization, the restrictive laws having been repealed prior to 1849.</def> -- <wordforms><wf>Bur"schen*schaft`ler</wf> <pr>(#)</pr>, <wf>Bur"schen*schaf`ter</wf> <pr>(#)</pr>, <pos>n.</pos></wordforms><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Burse</ent><br/
@@ -46744,7 +46744,7 @@ And spread and <qex>burnish</qex> as his brothers do.</q> <rj><qau>Dryden.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bursitis</ent><br/
-||<hw>Bur*si"tis</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr. E. <ets>bursa</ets> + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of a bursa.</def><br/
+\'d8<hw>Bur*si"tis</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr. E. <ets>bursa</ets> + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of a bursa.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Burst</ent><br/
@@ -46924,7 +46924,7 @@ In this I <qex>bury</qex> all unkindness, Cassius.</q> <rj><qau>Shak.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Buscon</ent><br/
-||<hw>Bus"con</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Sp., a searcher, fr. <ets>buscar</ets> to search.]</ety> <def>One who searches for ores; a prospector.</def> <mark>[U.S.]</mark><br/
+\'d8<hw>Bus"con</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Sp., a searcher, fr. <ets>buscar</ets> to search.]</ety> <def>One who searches for ores; a prospector.</def> <mark>[U.S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bush</ent><br/
@@ -47060,7 +47060,7 @@ In this I <qex>bury</qex> all unkindness, Cassius.</q> <rj><qau>Shak.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bushido</ent><br/
-||<hw>Bu"shi`do`</hw> <pr>(b<oomac/"sh<emac/`d<omac/`)</pr>, <pos>n.</pos> <ety>[Jap. <ets>bu</ets> military + <ets>shi</ets> knight + <ets>d<omac/</ets> way, doctrine, principle.]</ety> <def>The unwritten code of moral principles regulating the actions of the Japanese knighthood, or Samurai; the chivalry of Japan.</def><br/
+\'d8<hw>Bu"shi`do`</hw> <pr>(b<oomac/"sh<emac/`d<omac/`)</pr>, <pos>n.</pos> <ety>[Jap. <ets>bu</ets> military + <ets>shi</ets> knight + <ets>d<omac/</ets> way, doctrine, principle.]</ety> <def>The unwritten code of moral principles regulating the actions of the Japanese knighthood, or Samurai; the chivalry of Japan.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Unformulated, <qex>Bushido</qex> was and still is the animating spirit, the motor force of our country.</q>  <rj><qau>Inazo Nitob<eacute/.</qau></rj><br/
@@ -47389,7 +47389,7 @@ The faithless column, and the crumbling <qex>bust</qex>.</q> <rj><qau>Pope.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Busto</ent><br/
-||<hw>Bus"to</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Bustoes</plw> <pr>(<?/)</pr>.</plu> <ety>[It.]</ety> <def>A bust; a statue.</def><br/
+\'d8<hw>Bus"to</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Bustoes</plw> <pr>(<?/)</pr>.</plu> <ety>[It.]</ety> <def>A bust; a statue.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>bust-up</ent><br/
@@ -47823,7 +47823,7 @@ That's the <qex>butt end</qex> of a mother's blessing.</q> <rj><qau>Shak.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Butte</ent><br/
-||<hw>Butte</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. See <er>Butt</er> a bound.]</ety> <def>A detached low mountain, or high rising abruptly from the general level of the surrounding plain; -- applied to peculiar elevations in the Rocky Mountain region.</def><br/
+\'d8<hw>Butte</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. See <er>Butt</er> a bound.]</ety> <def>A detached low mountain, or high rising abruptly from the general level of the surrounding plain; -- applied to peculiar elevations in the Rocky Mountain region.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The creek . . . passes by two remarkable <qex>buttes</qex> of red conglomerate.</q> <rj><qau>Ruxton.</qau></rj><br/
@@ -48707,7 +48707,7 @@ I met this crown.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Byssus</ent><br/
-||<hw>Bys"sus</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Byssuses</plw> <pr>(<?/)</pr>; L. <plw>Byssi</plw>.</plu> <pr>(<?/)</pr> <ety>[L. <ets>byssus</ets> fine flax, fine linen or cotton, Gr. <grk>by`ssos</grk> .]</ety><br/
+\'d8<hw>Bys"sus</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Byssuses</plw> <pr>(<?/)</pr>; L. <plw>Byssi</plw>.</plu> <pr>(<?/)</pr> <ety>[L. <ets>byssus</ets> fine flax, fine linen or cotton, Gr. <grk>by`ssos</grk> .]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>A cloth of exceedingly fine texture, used by the ancients. It is disputed whether it was of cotton, linen, or silk.</def> <altsp>[Written also <asp>byss</asp> and <asp>byssin</asp>.]</altsp><br/

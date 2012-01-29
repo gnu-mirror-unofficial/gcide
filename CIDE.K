@@ -138,7 +138,7 @@ knowledge base should contact:
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kafilah</ent><br/
-||<hw>Ka"fi*lah</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Cafila</er>.</def><br/
+\'d8<hw>Ka"fi*lah</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Cafila</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>kafir</ent><br/
@@ -164,7 +164,7 @@ knowledge base should contact:
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kagu</ent><br/
-||<hw>Ka"gu</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A singular, crested, grallatorial bird <spn>(Rhinochetos jubatus)</spn>, native of New Caledonia.  It is gray above, paler beneath, and the feathers of the wings and tail are handsomely barred with brown, black, and gray.  It is allied to the sun bittern.</def><br/
+\'d8<hw>Ka"gu</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A singular, crested, grallatorial bird <spn>(Rhinochetos jubatus)</spn>, native of New Caledonia.  It is gray above, paler beneath, and the feathers of the wings and tail are handsomely barred with brown, black, and gray.  It is allied to the sun bittern.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kaguan</ent><br/
@@ -172,7 +172,7 @@ knowledge base should contact:
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kahani</ent><br/
-||<hw>Ka"ha"ni</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A kind of notary public, or attorney, in the Levant.</def><br/
+\'d8<hw>Ka"ha"ni</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A kind of notary public, or attorney, in the Levant.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kahau</ent><br/
@@ -193,7 +193,7 @@ knowledge base should contact:
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kaimacam</ent><br/
-||<hw>Kai`ma*cam"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Caimacam</er>.</def><br/
+\'d8<hw>Kai`ma*cam"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Caimacam</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kain</ent><br/
@@ -321,11 +321,11 @@ knowledge base should contact:
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kali</ent><br/
-||<hw>Ka"li</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr. <ets>kali</ets>.]</ety> <fld>(Hind. Cosmog.)</fld> <def>The last and worst of the four ages of the world; -- considered to have begun <sc>B. C.</sc> 3102, and to last 432,000 years.</def><br/
+\'d8<hw>Ka"li</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr. <ets>kali</ets>.]</ety> <fld>(Hind. Cosmog.)</fld> <def>The last and worst of the four ages of the world; -- considered to have begun <sc>B. C.</sc> 3102, and to last 432,000 years.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kali</ent><br/
-||<hw>Ka"li</hw>, <pos>prop. n.</pos> <ety>[Skr. <ets>k<amac/l<imac/</ets>.]</ety> <fld>(Hind. Myth.)</fld> <def>The black, destroying goddess; -- called also <altname>Doorga</altname>, <altname>Anna Purna</altname>.</def><br/
+\'d8<hw>Ka"li</hw>, <pos>prop. n.</pos> <ety>[Skr. <ets>k<amac/l<imac/</ets>.]</ety> <fld>(Hind. Myth.)</fld> <def>The black, destroying goddess; -- called also <altname>Doorga</altname>, <altname>Anna Purna</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kali</ent><br/
@@ -354,11 +354,11 @@ knowledge base should contact:
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kalki</ent><br/
-||<hw>Kal"ki</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr.]</ety> <def>The name of Vishnu in his tenth and last avatar.</def>  <rj><au>Whitworth.</au></rj><br/
+\'d8<hw>Kal"ki</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr.]</ety> <def>The name of Vishnu in his tenth and last avatar.</def>  <rj><au>Whitworth.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kalmia</ent><br/
-||<hw>Kal"mi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. Named in honor of <person>Peter <etsep>Kalm</etsep></person>, a Swedish botanist.]</ety> <fld>(Bot.)</fld> <def>A genus of North American shrubs with poisonous evergreen foliage and corymbs of showy flowers. Called also <altname>mountain laurel</altname>, <altname>ivy bush</altname>, <altname>lamb kill</altname>, <altname>calico bush</altname>, etc.</def><br/
+\'d8<hw>Kal"mi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. Named in honor of <person>Peter <etsep>Kalm</etsep></person>, a Swedish botanist.]</ety> <fld>(Bot.)</fld> <def>A genus of North American shrubs with poisonous evergreen foliage and corymbs of showy flowers. Called also <altname>mountain laurel</altname>, <altname>ivy bush</altname>, <altname>lamb kill</altname>, <altname>calico bush</altname>, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kalmuck</ent><br/
@@ -380,7 +380,7 @@ knowledge base should contact:
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kalpa</ent><br/
-||<hw>Kal"pa</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr.]</ety> <fld>(Hind. Myth.)</fld> <def>One of the Brahmanic eons, a period of 4,320,000,000 years. At the end of each Kalpa the world is annihilated.</def><br/
+\'d8<hw>Kal"pa</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr.]</ety> <fld>(Hind. Myth.)</fld> <def>One of the Brahmanic eons, a period of 4,320,000,000 years. At the end of each Kalpa the world is annihilated.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kalsomine</ent><br/
@@ -392,7 +392,7 @@ knowledge base should contact:
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kama</ent><br/
-||<hw>Ka"ma</hw> <pr>(k<aum/"m<aum/)</pr>, <pos>n.</pos> <ety>[Skr. <ets>k<amac/ma</ets> love, the god of love.]</ety> <sn>1.</sn> <def>The Hindu Cupid. He is represented as a beautiful youth, with a bow of sugar cane or flowers.</def><br/
+\'d8<hw>Ka"ma</hw> <pr>(k<aum/"m<aum/)</pr>, <pos>n.</pos> <ety>[Skr. <ets>k<amac/ma</ets> love, the god of love.]</ety> <sn>1.</sn> <def>The Hindu Cupid. He is represented as a beautiful youth, with a bow of sugar cane or flowers.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Desire; animal passion;</def> -- <note>supposed to create the <col><b>ka"ma ru"pa</b></col> <pr>(r<oomac/p<adot/)</pr> <ety>[Skr. <ets>r<umac/pa</ets> shape, image]</ety>, a kind of simulacrum or astral likeness of a man which exists after his death in an invisible plane of being, called <col><b>ka"ma lo"ca</b></col> <pr>(l<omac/"k<adot/)</pr> <ety>[Skr. <ets>l<omac/ka</ets> space, world]</ety>, until the impulses which created it are exhausted and it finally fades away.</note><-- not the same as karma --><br/
@@ -411,7 +411,7 @@ knowledge base should contact:
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Kami</ent><br/
-||<hw>Ka"mi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Japanese, <tr>god</tr>.]</ety> <def>A title given to the celestial gods of the first mythical dynasty of Japan and extended to the demigods of the second dynasty, and then to the long line of spiritual princes still represented by the mikado.</def><br/
+\'d8<hw>Ka"mi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Japanese, <tr>god</tr>.]</ety> <def>A title given to the celestial gods of the first mythical dynasty of Japan and extended to the demigods of the second dynasty, and then to the long line of spiritual princes still represented by the mikado.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kamichi</ent><br/
@@ -550,11 +550,11 @@ knowledge base should contact:
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kapelle</ent><br/
-||<hw>Ka*pel"le</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.]</ety> <fld>(Mus.)</fld> <def>A chapel; hence, the choir or orchestra of a prince's chapel; now, a musical establishment, usually orchestral.</def>  <rj><au>Grove.</au></rj><br/
+\'d8<hw>Ka*pel"le</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.]</ety> <fld>(Mus.)</fld> <def>A chapel; hence, the choir or orchestra of a prince's chapel; now, a musical establishment, usually orchestral.</def>  <rj><au>Grove.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kapellmeister</ent><br/
-||<hw>Ka*pell"meis`ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.]</ety> <fld>(Mus.)</fld> <def>See <er>Capellmeister</er>.</def><br/
+\'d8<hw>Ka*pell"meis`ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.]</ety> <fld>(Mus.)</fld> <def>See <er>Capellmeister</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kapia</ent><br/
@@ -582,7 +582,7 @@ knowledge base should contact:
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Karakul</ent><br/
-||<hw>Ka`ra*kul"</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[Russ. <ets>karakul'</ets> curly fleece of Bokhara and Khiva sheep.]</ety> <sn>1.</sn> <def>A type of Astrakhan, esp. in fine grades, obtained from the Karakul sheep.  See sense 2 and cf. <er>Caracul</er>.</def><br/
+\'d8<hw>Ka`ra*kul"</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[Russ. <ets>karakul'</ets> curly fleece of Bokhara and Khiva sheep.]</ety> <sn>1.</sn> <def>A type of Astrakhan, esp. in fine grades, obtained from the Karakul sheep.  See sense 2 and cf. <er>Caracul</er>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn> <def>A hardy coarse-haired sheep of central Asia, bearing a soft curly fleece that is black in the young lambs, but which grows brown or gray when adult; the lambs are valued for their soft curly black fur.</def> <wns>[wns=1]</wns><br/
@@ -661,7 +661,7 @@ knowledge base should contact:
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Karyokinesis</ent><br/
-||<hw>Kar"y*o*ki*ne`sis</hw> <pr>(k<acr/r`<icr/*<osl/*k<isl/*n<emac/"s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ka`ryon</grk> a nut, kernel + <grk>kinei^n</grk> to move.]</ety> <sn>1.</sn> <fld>(Biol.)</fld> <def>The indirect division of cells in which, prior to division of the cell protoplasm, complicated changes take place in the nucleus, attended with movement of the nuclear fibrils; -- opposed to <contr>karyostenosis</contr>. The nucleus becomes enlarged and convoluted, and finally the threads are separated into two groups which ultimately become disconnected and constitute the <xex>daughter nuclei</xex>. Called also <altname>mitosis</altname>. See <cref>Cell development</cref>, under <er>Cell</er>.</def><br/
+\'d8<hw>Kar"y*o*ki*ne`sis</hw> <pr>(k<acr/r`<icr/*<osl/*k<isl/*n<emac/"s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ka`ryon</grk> a nut, kernel + <grk>kinei^n</grk> to move.]</ety> <sn>1.</sn> <fld>(Biol.)</fld> <def>The indirect division of cells in which, prior to division of the cell protoplasm, complicated changes take place in the nucleus, attended with movement of the nuclear fibrils; -- opposed to <contr>karyostenosis</contr>. The nucleus becomes enlarged and convoluted, and finally the threads are separated into two groups which ultimately become disconnected and constitute the <xex>daughter nuclei</xex>. Called also <altname>mitosis</altname>. See <cref>Cell development</cref>, under <er>Cell</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The changes that occur in the nucleus of a cell, especially movements of the chromosomes, in the process of cell division.</def><br/
@@ -672,7 +672,7 @@ knowledge base should contact:
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Karyomiton</ent><br/
-||<hw>Kar`y*om"i*ton</hw> <pr>(k<acr/r`<icr/*<ocr/m"<icr/*t<ocr/n)</pr>, <pos>n.</pos> <ety>[NL., Gr. <grk>ka`ryon</grk> a nut + <grk>mi`tos</grk> a thread.]</ety> <fld>(Biol.)</fld> <def>The reticular network of fine fibers, of which the <xex>nucleus</xex> of a cell is in part composed; -- in opposition to <contr>kytomiton</contr>, or the network in the <xex>body</xex> of the cell.</def>  <rj><au>W. Flemming.</au></rj><br/
+\'d8<hw>Kar`y*om"i*ton</hw> <pr>(k<acr/r`<icr/*<ocr/m"<icr/*t<ocr/n)</pr>, <pos>n.</pos> <ety>[NL., Gr. <grk>ka`ryon</grk> a nut + <grk>mi`tos</grk> a thread.]</ety> <fld>(Biol.)</fld> <def>The reticular network of fine fibers, of which the <xex>nucleus</xex> of a cell is in part composed; -- in opposition to <contr>kytomiton</contr>, or the network in the <xex>body</xex> of the cell.</def>  <rj><au>W. Flemming.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>karyoplasma</ent><br/
@@ -681,7 +681,7 @@ knowledge base should contact:
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Karyostenosis</ent><br/
-||<hw>Kar`y*o*ste*no"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ka`ryon</grk> a nut, kernel + <?/ a being straitened.]</ety> <fld>(Biol.)</fld> <def>Direct cell division (in which there is first a simple division of the nucleus, without any changes in its structure, followed by division of the protoplasm of the cell); -- in opposition to <contr>karyokinesis</contr>.</def> <br/
+\'d8<hw>Kar`y*o*ste*no"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ka`ryon</grk> a nut, kernel + <?/ a being straitened.]</ety> <fld>(Biol.)</fld> <def>Direct cell division (in which there is first a simple division of the nucleus, without any changes in its structure, followed by division of the protoplasm of the cell); -- in opposition to <contr>karyokinesis</contr>.</def> <br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Karyostenotic</ent><br/
@@ -744,7 +744,7 @@ knowledge base should contact:
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kauri</ent><br/
-||<hw>Ka"u*ri</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Bot.)</fld> <def>A tall coniferous tree of New Zealand <spn>Agathis australis</spn>, <it>or</it> <spn>Dammara australis</spn>), having white straight-grained wood furnishing valuable timber and also yielding one kind of <prod>dammar resin</prod>.</def> <altsp>[Written also <asp>kaudi</asp>, <asp>kaury</asp>, <asp>cowdie</asp>, and <asp>cowrie</asp>.]</altsp><br/
+\'d8<hw>Ka"u*ri</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Bot.)</fld> <def>A tall coniferous tree of New Zealand <spn>Agathis australis</spn>, <it>or</it> <spn>Dammara australis</spn>), having white straight-grained wood furnishing valuable timber and also yielding one kind of <prod>dammar resin</prod>.</def> <altsp>[Written also <asp>kaudi</asp>, <asp>kaury</asp>, <asp>cowdie</asp>, and <asp>cowrie</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kauri</ent><br/
@@ -852,7 +852,7 @@ But hateful docks, rough thistles, <qex>kecksies</qex>, burs.</q> <rj><qau>Shak.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Keddah</ent><br/
-||<hw>Ked"dah</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Malay <ets>kedah</ets>, fr. Ar. <ets>qadah</ets> hole.]</ety> <def>An inclosure constructed to entrap wild elephants; an elephant trap.</def> <mark>[India]</mark><br/
+\'d8<hw>Ked"dah</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Malay <ets>kedah</ets>, fr. Ar. <ets>qadah</ets> hole.]</ety> <def>An inclosure constructed to entrap wild elephants; an elephant trap.</def> <mark>[India]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Kedge</ent><br/
@@ -1368,7 +1368,7 @@ A sacrifice to bring.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Keitloa</ent><br/
-||<hw>Keit*lo"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A black, two-horned, African rhinoceros (<spn>Atelodus keitloa</spn>). It has the posterior horn about as long as the anterior one, or even longer.</def><br/
+\'d8<hw>Keit*lo"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A black, two-horned, African rhinoceros (<spn>Atelodus keitloa</spn>). It has the posterior horn about as long as the anterior one, or even longer.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Keld</ent><br/
@@ -1657,7 +1657,7 @@ And the inquiring looks of men.</q> <rj><qau>Trench.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kepviselohaz</ent><br/
-||<hw>K<eacute/p"vi*se*l<oum/*h<aacute/z`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hung., fr. <ets>k<eacute/pvisel<oum/</ets> representative + <ets>h<aacute/z</ets> house.]</ety> <mark>(Hungary)</mark> <def>See <er>Legislature</er>.</def><br/
+\'d8<hw>K<eacute/p"vi*se*l<oum/*h<aacute/z`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hung., fr. <ets>k<eacute/pvisel<oum/</ets> representative + <ets>h<aacute/z</ets> house.]</ety> <mark>(Hungary)</mark> <def>See <er>Legislature</er>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>keramic</ent><br/
@@ -1693,7 +1693,7 @@ And the inquiring looks of men.</q> <rj><qau>Trench.</qau></rj></p>
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Keratitis</ent><br/
-||<hw>Ker`a*ti"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ke`ras</grk>, <grk>-atos</grk>, horn + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the cornea.</def><br/
+\'d8<hw>Ker`a*ti"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ke`ras</grk>, <grk>-atos</grk>, horn + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the cornea.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Keratode</ent><br/
@@ -1705,7 +1705,7 @@ And the inquiring looks of men.</q> <rj><qau>Trench.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Keratoidea</ent><br/
-||<hw>Ker`a*toi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>ke`ras</grk>, <grk>-atos</grk>, horn + <ets>-oid</ets>.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Keratosa</er>.</def><br/
+\'d8<hw>Ker`a*toi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>ke`ras</grk>, <grk>-atos</grk>, horn + <ets>-oid</ets>.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Keratosa</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Keratome</ent><br/
@@ -1713,7 +1713,7 @@ And the inquiring looks of men.</q> <rj><qau>Trench.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Keratonyxis</ent><br/
-||<hw>Ker`a*to*nyx"is</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ke`ras</grk>, <grk>-atos</grk>, horn + <?/ puncture.]</ety> <fld>(Med.)</fld> <def>The operation of removing a cataract by thrusting a needle through the cornea of the eye, and breaking up the opaque mass.</def><br/
+\'d8<hw>Ker`a*to*nyx"is</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ke`ras</grk>, <grk>-atos</grk>, horn + <?/ puncture.]</ety> <fld>(Med.)</fld> <def>The operation of removing a cataract by thrusting a needle through the cornea of the eye, and breaking up the opaque mass.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Keratophyte</ent><br/
@@ -1721,7 +1721,7 @@ And the inquiring looks of men.</q> <rj><qau>Trench.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Keratosa</ent><br/
-||<hw>Ker`a*to"sa</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>ke`ras</grk>, <grk>-atos</grk>, a horn.]</ety> <fld>(Zool.)</fld> <def>An order of sponges having a skeleton composed of hornlike fibers. It includes the commercial sponges.</def><br/
+\'d8<hw>Ker`a*to"sa</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>ke`ras</grk>, <grk>-atos</grk>, a horn.]</ety> <fld>(Zool.)</fld> <def>An order of sponges having a skeleton composed of hornlike fibers. It includes the commercial sponges.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Keratose</ent><br/
@@ -1993,7 +1993,7 @@ We must supplant those rough, rug-headed <qex>kerns</qex>.</q> <rj><qau>Shak.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ketmie</ent><br/
-||<hw>Ket`mie"</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>The name of certain African species of <gen>Hibiscus</gen>, cultivated for the acid of their mucilage.</def> <altsp>[Written also <asp>ketmia</asp>.]</altsp><br/
+\'d8<hw>Ket`mie"</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>The name of certain African species of <gen>Hibiscus</gen>, cultivated for the acid of their mucilage.</def> <altsp>[Written also <asp>ketmia</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ketol</ent><br/
@@ -2039,7 +2039,7 @@ We must supplant those rough, rug-headed <qex>kerns</qex>.</q> <rj><qau>Shak.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Keuper</ent><br/
-||<hw>Keu"per</hw> <pr>(koi"p<etil/r)</pr>, <pos>n.</pos> <ety>[G.]</ety> <fld>(Geol.)</fld> <def>The upper division of the European Triassic. See <xex>Chart</xex> of <er>Geology</er>.</def><br/
+\'d8<hw>Keu"per</hw> <pr>(koi"p<etil/r)</pr>, <pos>n.</pos> <ety>[G.]</ety> <fld>(Geol.)</fld> <def>The upper division of the European Triassic. See <xex>Chart</xex> of <er>Geology</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kevel</ent><br/
@@ -2288,7 +2288,7 @@ The starred mosaic.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Khedive</ent><br/
-||<hw>Khe`dive"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>kh<eacute/dive</ets>, Pers. <ets>khediw</ets> a prince.]</ety> <def>A governor or viceroy; -- a title granted in 1867 by the sultan of Turkey to the ruler of Egypt.</def><br/
+\'d8<hw>Khe`dive"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>kh<eacute/dive</ets>, Pers. <ets>khediw</ets> a prince.]</ety> <def>A governor or viceroy; -- a title granted in 1867 by the sultan of Turkey to the ruler of Egypt.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Khenna</ent><br/
@@ -2357,7 +2357,7 @@ The starred mosaic.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kibitka</ent><br/
-||<hw>Ki*bit"ka</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Kibitkas</plw> <pr>(<?/)</pr>.</plu> <ety>[Russ.]</ety> <sn>1.</sn> <def>A tent used by the Kirghiz Tartars.</def><br/
+\'d8<hw>Ki*bit"ka</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Kibitkas</plw> <pr>(<?/)</pr>.</plu> <ety>[Russ.]</ety> <sn>1.</sn> <def>A tent used by the Kirghiz Tartars.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A rude kind of Russian vehicle, on wheels or on runners, sometimes covered with cloth or leather, and often used as a movable habitation.</def><br/
@@ -2710,7 +2710,7 @@ May kill a sound divine.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kieselguhr</ent><br/
-||<hw>Kie"sel*guhr`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., fr. <ets>kiesel</ets> flint + <ets>guhr</ets> an earthy deposit or sediment in water.]</ety> <def>Siliceous earth; diatomaceous earth; specifically, porous infusorial earth, used as an absorbent of nitroglycerin in the manufacture of dynamite.</def><br/
+\'d8<hw>Kie"sel*guhr`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., fr. <ets>kiesel</ets> flint + <ets>guhr</ets> an earthy deposit or sediment in water.]</ety> <def>Siliceous earth; diatomaceous earth; specifically, porous infusorial earth, used as an absorbent of nitroglycerin in the manufacture of dynamite.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kieserite</ent><br/
@@ -4168,7 +4168,7 @@ Trail and twine and clasp and <qex>kiss</qex>.</q> <rj><qau>Tennyson.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kithara</ent><br/
-||<hw>Kith"a*ra</hw> <pr>(k<icr/th"<adot/*r<adot/)</pr>, <pos>n.</pos> <def>See <er>Cithara</er>.</def><br/
+\'d8<hw>Kith"a*ra</hw> <pr>(k<icr/th"<adot/*r<adot/)</pr>, <pos>n.</pos> <def>See <er>Cithara</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kithe</ent><br/
@@ -4258,7 +4258,7 @@ Trail and twine and clasp and <qex>kiss</qex>.</q> <rj><qau>Tennyson.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kjoekken moeddings</ent><br/
-||<hw>Kjoek"ken moed`dings</hw> <pr>(?)</pr> <pos>n. pl.</pos> <ety>[Dan.]</ety> <def>See <er>Kitchen middens</er>.</def><br/
+\'d8<hw>Kjoek"ken moed`dings</hw> <pr>(?)</pr> <pos>n. pl.</pos> <ety>[Dan.]</ety> <def>See <er>Kitchen middens</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Klamaths</ent><br/
@@ -4338,7 +4338,7 @@ Trail and twine and clasp and <qex>kiss</qex>.</q> <rj><qau>Tennyson.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kloof</ent><br/
-||<hw>Kloof</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[D. See <er>Clove</er> a cleft.]</ety> <def>A glen; a ravine closed at its upper end.</def> <mark>[South Africa]</mark><br/
+\'d8<hw>Kloof</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[D. See <er>Clove</er> a cleft.]</ety> <def>A glen; a ravine closed at its upper end.</def> <mark>[South Africa]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Klopemania</ent><br/
@@ -6121,7 +6121,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Koel</ent><br/
-||<hw>Ko"el</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name in India.]</ety> <fld>(Zool.)</fld> <def>Any one of several species of cuckoos of the genus <gen>Eudynamys</gen>, found in India, the East Indies, and Australia.  They deposit their eggs in the nests of other birds.</def><br/
+\'d8<hw>Ko"el</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name in India.]</ety> <fld>(Zool.)</fld> <def>Any one of several species of cuckoos of the genus <gen>Eudynamys</gen>, found in India, the East Indies, and Australia.  They deposit their eggs in the nests of other birds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Koellia</ent><br/
@@ -6133,7 +6133,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 <hw>Koff</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[D. <ets>kof</ets>.]</ety> <def>A two-masted Dutch vessel.</def></p>
 
 <p><ent>Koftgari</ent><br/
-||<hw>Koft`ga*ri"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Hind. <ets>koft gar<ium/</ets> goldbeating. fr. Per. <ets>koft</ets> beating + <ets>gar<ium/</ets> trade.]</ety> <def>Ornamental work produced by inlaying steel with gold, -- a variety of damascening much used in the arts of India.</def><br/
+\'d8<hw>Koft`ga*ri"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Hind. <ets>koft gar<ium/</ets> goldbeating. fr. Per. <ets>koft</ets> beating + <ets>gar<ium/</ets> trade.]</ety> <def>Ornamental work produced by inlaying steel with gold, -- a variety of damascening much used in the arts of India.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Kogia</ent><br/
@@ -6155,7 +6155,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kokama</ent><br/
-||<hw>Ko*ka"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The gemsbok.</def><br/
+\'d8<hw>Ko*ka"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The gemsbok.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Koklass</ent><br/
@@ -6262,7 +6262,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kop</ent><br/
-||<hw>Kop</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[South Afr. D., fr. D. <ets>kop</ets> head, akin to G. <ets>kopf</ets> and prob. to E. <ets>cop</ets> top.]</ety> <def>Hill; mountain.</def> <mark>[South Africa]</mark><br/
+\'d8<hw>Kop</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[South Afr. D., fr. D. <ets>kop</ets> head, akin to G. <ets>kopf</ets> and prob. to E. <ets>cop</ets> top.]</ety> <def>Hill; mountain.</def> <mark>[South Africa]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>kopeck</ent><br/
@@ -6307,7 +6307,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Korrigum</ent><br/
-||<hw>Kor"ri*gum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A West African antelope (<spn>Damalis Senegalensis</spn>), allied to the sassaby. It is reddish gray, with a black face, and a black stripe on the outside of the legs above the knees.</def><br/
+\'d8<hw>Kor"ri*gum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A West African antelope (<spn>Damalis Senegalensis</spn>), allied to the sassaby. It is reddish gray, with a black face, and a black stripe on the outside of the legs above the knees.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>kos</ent><br/
@@ -6361,7 +6361,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Koulan</ent><br/
-||<hw>Kou"lan</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A wild horse (<spn>Equus onager</spn> <it>or</it>  <spn>Asinus onager</spn>) inhabiting the plains of Central Asia; -- called also <altname>gour</altname>, <altname>khur</altname>, and <altname>onager</altname>.</def> <altsp>[Written also <asp>kulan</asp>.]</altsp><br/
+\'d8<hw>Kou"lan</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A wild horse (<spn>Equus onager</spn> <it>or</it>  <spn>Asinus onager</spn>) inhabiting the plains of Central Asia; -- called also <altname>gour</altname>, <altname>khur</altname>, and <altname>onager</altname>.</def> <altsp>[Written also <asp>kulan</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ It is sometimes confounded with the dziggetai, to which it is closely related. It is gray in winter, but fulvous in summer. It has a well defined, dark, dorsal stripe, and a short, erect mane. In size, it is intermediate between the horse and ass.</note><br/
@@ -6415,7 +6415,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Krait</ent><br/
-||<hw>Krait</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A very venomous snake of India (<spn>Bungarus coeruleus</spn>), allied to the cobra.  Its upper parts are bluish or brownish black, often with narrow white streaks; the belly is whitish.</def><br/
+\'d8<hw>Krait</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A very venomous snake of India (<spn>Bungarus coeruleus</spn>), allied to the cobra.  Its upper parts are bluish or brownish black, often with narrow white streaks; the belly is whitish.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kraken</ent><br/
@@ -6433,7 +6433,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Krameria</ent><br/
-||<hw>Kra*me"ri*a</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL. So called after the German botanists, <person>J. G. H. Kramer</person> & <person>W. H. <etsep>Kramer</etsep></person>.]</ety> <fld>(Bot.)</fld> <def>A genus of spreading shrubs with many stems, from one species of which (<spn>Krameria triandra</spn>), found in <country>Peru</country>, rhatany root, used as a medicine, is obtained.</def><br/
+\'d8<hw>Kra*me"ri*a</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL. So called after the German botanists, <person>J. G. H. Kramer</person> & <person>W. H. <etsep>Kramer</etsep></person>.]</ety> <fld>(Bot.)</fld> <def>A genus of spreading shrubs with many stems, from one species of which (<spn>Krameria triandra</spn>), found in <country>Peru</country>, rhatany root, used as a medicine, is obtained.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Krameric</ent><br/
@@ -6487,7 +6487,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kriegsspiel</ent><br/
-||<hw>Kriegs"spiel`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[G., fr. <ets>krieg</ets> war + <ets>spiel</ets> play.]</ety> <def>A game of war, played for practice, on maps.</def>  <rj><au>Farrow.</au></rj><br/
+\'d8<hw>Kriegs"spiel`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[G., fr. <ets>krieg</ets> war + <ets>spiel</ets> play.]</ety> <def>A game of war, played for practice, on maps.</def>  <rj><au>Farrow.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kris</ent><br/
@@ -6495,7 +6495,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Krishna</ent><br/
-||<hw>Krish"na</hw> <pr>(kr<icr/sh"n<adot/)</pr>, <pos>n.</pos> <ety>[Skr. <ets>k<rsdot/sh<nsdot/a</ets> ' The black.'.]</ety> <fld>(Hindu Myth.)</fld> <def>The most popular of the Hindu divinities, usually held to be the eighth incarnation of the god Vishnu.</def><br/
+\'d8<hw>Krish"na</hw> <pr>(kr<icr/sh"n<adot/)</pr>, <pos>n.</pos> <ety>[Skr. <ets>k<rsdot/sh<nsdot/a</ets> ' The black.'.]</ety> <fld>(Hindu Myth.)</fld> <def>The most popular of the Hindu divinities, usually held to be the eighth incarnation of the god Vishnu.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/  <persfn>Krishna</persfn> is a well-known Hindu deity.  Originally the ethnic god of some powerful confederation of Rajput clans, by fusion with the Vishnu of the older theology Krishna becomes one of the chief divinities of Hinduism.  He is indeed an avatar of <persfn>Vishnu</persfn>, or Vishnu himself. In his physical character mingle myths of fire, lightning, and storm, of heaven and the sun. In the epic he is a hero invincible in war and love, brave, but above all crafty.  He was the son of <persfn>Vasudeva</persfn> and <persfn>Devaki</persfn>, and born at Mathura, on the Yamuna, between Delhi and Agra, among the Yadavas.  Like that of many solar heroes, his birth was beset with peril.  On the night when it took place, his parents had to remove him from the reach of his uncle, <person>King Kansa</person>, who sought his life because he had been warned by a voice from heaven that the eighth son of <persfn>Devaki</persfn> would kill him, and who had regularly made away with his nephews at their birth.  Conveyed across the Yamuna, Krishna was brought up as their son by the shepherd <persfn>Nanda</persfn> and his wife <persfn>Yashoda</persfn>, together with his brother <persfn>Balarama</persfn>, 'Rama the strong,' who had been likewise saved from massacre.  The two brothers grew up among the shepherds, slaying monsters and demons and sporting with the Gopis, the female cowherds of Vrindavana.  Their birth and infancy, their juvenile exploits, and their erotic gambols with the Gopis became in time the essential portion of the legend of Krishna, and their scenes are today the most celebrated centers of his worship.  When grown, the brothers put their uncle <persfn>Kansa</persfn> to death, and Krishna became king of the Yadavas.  He cleared the land of monsters, warred against impious kings, and took part in the war of the sons of <persfn>Pandu</persfn> against those of <persfn>Dhritarashtra</persfn>, as described in the Mahabharata.  He transferred his capital to Dvaraka ('the city of gates'), the gates of the West, since localized in Gujarat.  There he and his race were overtaken by the final catastrophe.  After seeing his brother slain, and the Yadavas kill each other to the last man, he himself perished, wounded in the heel, like Achilles, by the arrow of a hunter.  The bible of the worshipers of Vishnu in his most popular manifestation, that of Krishna, consists of the <er>Bhagavatapurana</er> and the <er>Bhagavadgita</er>. See these words.</note><br/
@@ -6518,7 +6518,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Krone</ent><br/
-||<hw>Kro"ne</hw> <pr>(kr<omac/"n<asl/)</pr>, <pos>n.</pos> <ety>[Dan.]</ety> <def>A coin of Denmark, Norway, and Sweden, of the value of about twenty-eight cents (in 1913). See <er>Crown</er>, <pos>n.</pos>, 9.</def><br/
+\'d8<hw>Kro"ne</hw> <pr>(kr<omac/"n<asl/)</pr>, <pos>n.</pos> <ety>[Dan.]</ety> <def>A coin of Denmark, Norway, and Sweden, of the value of about twenty-eight cents (in 1913). See <er>Crown</er>, <pos>n.</pos>, 9.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Krooman</ent><br/
@@ -6562,11 +6562,11 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kuda</ent><br/
-||<hw>Ku"da</hw> <pr>(k<oomac/"d<adot/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The East Indian tapir. See <er>Tapir</er>.</def><br/
+\'d8<hw>Ku"da</hw> <pr>(k<oomac/"d<adot/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The East Indian tapir. See <er>Tapir</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kudos</ent><br/
-||<hw>Ku"dos</hw> <pr>(k<umac/"d<ocr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ky^dos</grk> glory.]</ety> <def>Glory; fame; renown; praise.</def>  <rj><au>W. H. Russel.</au></rj><br/
+\'d8<hw>Ku"dos</hw> <pr>(k<umac/"d<ocr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ky^dos</grk> glory.]</ety> <def>Glory; fame; renown; praise.</def>  <rj><au>W. H. Russel.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kudos</ent><br/
@@ -6574,7 +6574,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kudu</ent><br/
-||<hw>Ku"du</hw> <pr>(k<oomac/"d<oomac/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Koodoo</er>.</def><br/
+\'d8<hw>Ku"du</hw> <pr>(k<oomac/"d<oomac/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Koodoo</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kufic</ent><br/
@@ -6582,7 +6582,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kukang</ent><br/
-||<hw>Ku*kang"</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <ety>[Native name.]</ety> <def>The slow lemur. See <er>Lemur</er>.</def><br/
+\'d8<hw>Ku*kang"</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <ety>[Native name.]</ety> <def>The slow lemur. See <er>Lemur</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ku Klux Klan</ent><br/
@@ -6612,7 +6612,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 [<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 
 <p><ent>Kupfernickel</ent><br/
-||<hw>Kup"fer*nick"el</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G. See <er>Copper</er>, and <er>Nickel</er>.]</ety> <fld>(Min.)</fld> <def>Copper-nickel; niccolite. See <er>Niccolite</er>.</def><br/
+\'d8<hw>Kup"fer*nick"el</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G. See <er>Copper</er>, and <er>Nickel</er>.]</ety> <fld>(Min.)</fld> <def>Copper-nickel; niccolite. See <er>Niccolite</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>kurakkan</ent><br/
@@ -6648,11 +6648,11 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kuro-Siwo</ent><br/
-||<hw>Ku"ro-Siwo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Jap. <ets>kuroshio</ets>; <ets>kuro</ets> black + <ets>shio</ets> tide.]</ety> <def>See <er>Japan Current</er>, above.</def><br/
+\'d8<hw>Ku"ro-Siwo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Jap. <ets>kuroshio</ets>; <ets>kuro</ets> black + <ets>shio</ets> tide.]</ety> <def>See <er>Japan Current</er>, above.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Kursaal</ent><br/
-||<hw>Kur"saal`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.]</ety> <def>A public hall or room, for the use of visitors at watering places and health resorts in Germany.</def><br/
+\'d8<hw>Kur"saal`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.]</ety> <def>A public hall or room, for the use of visitors at watering places and health resorts in Germany.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kusimanse</ent><br/
@@ -6845,11 +6845,11 @@ As he had <qex>kyked</qex> on the newe moon.</q> <rj><qau>Chaucer.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kytomiton</ent><br/
-||<hw>Ky*tom"i*ton</hw> <pr>(k<isl/*t<ocr/m"<icr/*t<ocr/n)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>ky`tos</grk> a hollow vessel + <grk>mi`tos</grk> a thread.]</ety> <fld>(Biol.)</fld> <def>See <er>Karyomiton</er>.</def><br/
+\'d8<hw>Ky*tom"i*ton</hw> <pr>(k<isl/*t<ocr/m"<icr/*t<ocr/n)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>ky`tos</grk> a hollow vessel + <grk>mi`tos</grk> a thread.]</ety> <fld>(Biol.)</fld> <def>See <er>Karyomiton</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kytoplasma</ent><br/
-||<hw>Ky`to*plas"ma</hw> <pr>(k<imac/`t<osl/*pl<acr/z"m<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ky`tos</grk> a hollow vessel + <grk>pla`sma</grk> thing molded.]</ety> <fld>(Biol.)</fld> <def>See <er>Karyoplasma</er>.</def><br/
+\'d8<hw>Ky`to*plas"ma</hw> <pr>(k<imac/`t<osl/*pl<acr/z"m<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ky`tos</grk> a hollow vessel + <grk>pla`sma</grk> thing molded.]</ety> <fld>(Biol.)</fld> <def>See <er>Karyoplasma</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 821 --></p>

@@ -97,7 +97,7 @@ knowledge base should contact:
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rabat</ent><br/
-||<hw>Ra`bat"</hw> <pr>(r<adot/*b<amac/t")</pr>, <pos>n.</pos> <ety>[F. Cf. <er>Rabato</er>.]</ety> <fld>(Eccl.)</fld> <sd>(a)</sd> <def>A clerical linen collar.</def> <sd>(b)</sd> <def>A kind of clerical scarf fitted to a collar; <as>as, a black silk <ex>rabat</ex></as>.</def><br/
+\'d8<hw>Ra`bat"</hw> <pr>(r<adot/*b<amac/t")</pr>, <pos>n.</pos> <ety>[F. Cf. <er>Rabato</er>.]</ety> <fld>(Eccl.)</fld> <sd>(a)</sd> <def>A clerical linen collar.</def> <sd>(b)</sd> <def>A kind of clerical scarf fitted to a collar; <as>as, a black silk <ex>rabat</ex></as>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Rabate</ent><br/
@@ -302,7 +302,7 @@ Of winds that ruin ships.</q> <rj><qau>Chapman.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rabies</ent><br/
-||<hw>Ra"bi*es</hw> <pr>(r<amac/"b<icr/*<emac/z)</pr>, <pos>n.</pos> <ety>[L. See <er>Rage</er>, <pos>n.</pos>]</ety> <def>Same as <er>Hydrophobia</er> <sd>(b)</sd>; canine madness.</def><br/
+\'d8<hw>Ra"bi*es</hw> <pr>(r<amac/"b<icr/*<emac/z)</pr>, <pos>n.</pos> <ety>[L. See <er>Rage</er>, <pos>n.</pos>]</ety> <def>Same as <er>Hydrophobia</er> <sd>(b)</sd>; canine madness.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rabinet</ent><br/
@@ -318,14 +318,14 @@ Of winds that ruin ships.</q> <rj><qau>Chapman.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raca</ent><br/
-||<hw>Ra"ca</hw> <pr>(r<amac/"k<adot/)</pr>, <pos>a.</pos> <ety>[Gr. <grk>"raka`</grk>, from Chaldee <ets>r<emac/k<amac/</ets>.]</ety> <def>A term of reproach used by the Jews of our Savior's time, meaning <ldquo/worthless.<rdquo/</def><br/
+\'d8<hw>Ra"ca</hw> <pr>(r<amac/"k<adot/)</pr>, <pos>a.</pos> <ety>[Gr. <grk>"raka`</grk>, from Chaldee <ets>r<emac/k<amac/</ets>.]</ety> <def>A term of reproach used by the Jews of our Savior's time, meaning <ldquo/worthless.<rdquo/</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Whosoever shall say to his brother, <qex>Raca</qex>, shall be in danger of the council.</q> <rj><qau>Matt. v. 22.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Racahout</ent><br/
-||<hw>Ra`ca`hout"</hw> <pr>(r<adot/`k<adot/`<oomac/")</pr>, <pos>n.</pos> <ety>[F. <ets>racahout</ets>, probably fr. Ar. <ets>r<amac/qaut</ets>.]</ety> <def>A preparation from acorns used by the Arabs as a substitute for chocolate, and also as a beverage for invalids.</def><br/
+\'d8<hw>Ra`ca`hout"</hw> <pr>(r<adot/`k<adot/`<oomac/")</pr>, <pos>n.</pos> <ety>[F. <ets>racahout</ets>, probably fr. Ar. <ets>r<amac/qaut</ets>.]</ety> <def>A preparation from acorns used by the Arabs as a substitute for chocolate, and also as a beverage for invalids.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raccoon</ent><br/
@@ -524,7 +524,7 @@ Fetching mad bounds.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rachialgia</ent><br/
-||<hw>Ra`chi*al"gi*a</hw> <pr>(r<amac/`k<icr/*<acr/l"j<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ra`chis</grk> backbone + <grk>'a`lgos</grk> pain.]</ety> <fld>(Med.)</fld> <def>A painful affection of the spine; especially, <stype>Pott's disease</stype>; also, formerly, lead colic.</def><br/
+\'d8<hw>Ra`chi*al"gi*a</hw> <pr>(r<amac/`k<icr/*<acr/l"j<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ra`chis</grk> backbone + <grk>'a`lgos</grk> pain.]</ety> <fld>(Med.)</fld> <def>A painful affection of the spine; especially, <stype>Pott's disease</stype>; also, formerly, lead colic.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rachidian</ent><br/
@@ -532,7 +532,7 @@ Fetching mad bounds.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rachilla</ent><br/
-||<hw>Ra*chil"la</hw> <pr>(r<adot/*k<icr/l"l<adot/)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Bot.)</fld> <def>Same as <er>Rhachilla</er>.</def><br/
+\'d8<hw>Ra*chil"la</hw> <pr>(r<adot/*k<icr/l"l<adot/)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Bot.)</fld> <def>Same as <er>Rhachilla</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rachiodont</ent><br/
@@ -540,7 +540,7 @@ Fetching mad bounds.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rachis</ent><br/
-||<hw>Ra"chis</hw> <pr>(r<amac/"k<icr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Rachises</plw> <pr>(r<amac/"k<icr/s*<ecr/z)</pr>, L. <plw>Rachides</plw> <pr>(r<acr/k"<icr/*d<emac/z)</pr>.</plu> <ety>[NL., fr. Gr. <grk>"ra`chis</grk>, <grk>-ios</grk>.]</ety> <altsp>[Written also <asp>rhachis</asp>.]</altsp> <sn>1.</sn> <fld>(Anat.)</fld> <def>The spine; the vertebral column.</def><br/
+\'d8<hw>Ra"chis</hw> <pr>(r<amac/"k<icr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Rachises</plw> <pr>(r<amac/"k<icr/s*<ecr/z)</pr>, L. <plw>Rachides</plw> <pr>(r<acr/k"<icr/*d<emac/z)</pr>.</plu> <ety>[NL., fr. Gr. <grk>"ra`chis</grk>, <grk>-ios</grk>.]</ety> <altsp>[Written also <asp>rhachis</asp>.]</altsp> <sn>1.</sn> <fld>(Anat.)</fld> <def>The spine; the vertebral column.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Bot. & Zool.)</fld> <def>Same as <er>Rhachis</er>.</def><br/
@@ -551,7 +551,7 @@ Fetching mad bounds.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rachitis</ent><br/
-||<hw>Ra*chi"tis</hw> <pr>(r<adot/*k<imac/"t<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"rachi^tis</grk> (sc. <grk>nosos</grk>), fr. <grk>"ra`chis</grk>, <grk>-ios</grk>, the spine.]</ety> <altsp>[Written also <asp>rhachitis</asp>.]</altsp> <sn>1.</sn> <fld>(Med.)</fld> <def>Literally, inflammation of the spine, but commonly applied to the rickets. See <er>Rickets</er>.</def><br/
+\'d8<hw>Ra*chi"tis</hw> <pr>(r<adot/*k<imac/"t<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"rachi^tis</grk> (sc. <grk>nosos</grk>), fr. <grk>"ra`chis</grk>, <grk>-ios</grk>, the spine.]</ety> <altsp>[Written also <asp>rhachitis</asp>.]</altsp> <sn>1.</sn> <fld>(Med.)</fld> <def>Literally, inflammation of the spine, but commonly applied to the rickets. See <er>Rickets</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Bot.)</fld> <def>A disease which produces abortion in the fruit or seeds.</def>  <rj><au>Henslow.</au></rj><br/
@@ -816,11 +816,11 @@ That shall be <qex>racked</qex> even to the uttermost.</q> <rj><qau>Shak.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raconteur</ent><br/
-||<hw>Ra`con`teur"</hw> <pr>(r<adot/`k<ocir/N`t<etil/r")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A relater; a storyteller.</def><br/
+\'d8<hw>Ra`con`teur"</hw> <pr>(r<adot/`k<ocir/N`t<etil/r")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A relater; a storyteller.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Racoonda</ent><br/
-||<hw>Ra*coon"da</hw> <pr>(r<adot/*k<oomac/n"d<adot/)</pr>, <pos>n.</pos> <ety>[From a native name.]</ety> <fld>(Zool.)</fld> <def>The coypu.</def><br/
+\'d8<hw>Ra*coon"da</hw> <pr>(r<adot/*k<oomac/n"d<adot/)</pr>, <pos>n.</pos> <ety>[From a native name.]</ety> <fld>(Zool.)</fld> <def>The coypu.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Racovian</ent><br/
@@ -914,7 +914,7 @@ The soil from which they come, taste, smell, and see.</q> <rj><qau>Cowley.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Radeau</ent><br/
-||<hw>Ra`deau"</hw> <pr>(r<adot/`d<omac/")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A float; a raft.</def><br/
+\'d8<hw>Ra`deau"</hw> <pr>(r<adot/`d<omac/")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A float; a raft.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Three vessels under sail, and one at anchor, above Split Rock, and behind it the <qex>radeau</qex> Thunderer.</q> <rj><qau>W. Irving.</qau></rj><br/
@@ -928,7 +928,7 @@ The soil from which they come, taste, smell, and see.</q> <rj><qau>Cowley.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Radiale</ent><br/
-||<hw>Ra`di*a"le</hw> <pr>(r<amac/`d<icr/*<amac/"l<esl/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Radialia</plw> <pr>(r<amac/`d<icr/*<amac/"l<icr/*<adot/)</pr>.</plu> <ety>[NL. See <er>Radial</er>.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>The bone or cartilage of the carpus which articulates with the radius and corresponds to the scaphoid bone in man.</def><br/
+\'d8<hw>Ra`di*a"le</hw> <pr>(r<amac/`d<icr/*<amac/"l<esl/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Radialia</plw> <pr>(r<amac/`d<icr/*<amac/"l<icr/*<adot/)</pr>.</plu> <ety>[NL. See <er>Radial</er>.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>The bone or cartilage of the carpus which articulates with the radius and corresponds to the scaphoid bone in man.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <pluf>pl.</pluf> <fld>(Zool.)</fld> <def>Radial plates in the calyx of a crinoid.</def><br/
@@ -1013,7 +1013,7 @@ What light beyond compare !</q> <rj><qau>Neale.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Radiata</ent><br/
-||<hw>Ra`di*a"ta</hw> <pr>(r<amac/"d<icr/*<amac/"t<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. <ets>radiatus</ets>, p. p. See <er>Radiate</er>.]</ety> <fld>(Zool.)</fld> <def>An extensive artificial group of invertebrates, having all the parts arranged radially around the vertical axis of the body, and the various organs repeated symmetrically in each ray or spheromere.</def><br/
+\'d8<hw>Ra`di*a"ta</hw> <pr>(r<amac/"d<icr/*<amac/"t<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. <ets>radiatus</ets>, p. p. See <er>Radiate</er>.]</ety> <fld>(Zool.)</fld> <def>An extensive artificial group of invertebrates, having all the parts arranged radially around the vertical axis of the body, and the various organs repeated symmetrically in each ray or spheromere.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ It includes the c<oe/lenterates and the echinoderms. Formerly, the group was supposed to be a natural one, and was considered one of the grand divisions of the animal kingdom.</note><br/
@@ -1270,7 +1270,7 @@ In them [kings], and <qex>radiate</qex> like the sun at noon.</q> <rj><qau>Howel
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Radio-flagellata</ent><br/
-||<hw>Ra`di*o-flag`el*la"ta</hw> <pr>(r<amac/`d<icr/*<osl/*fl<acr/j`<ecr/l*l<amac/"t<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Radiate</er>, and <er>Flagellata</er>.]</ety> <fld>(Zool.)</fld> <def>A group of Protozoa having both flagella and pseudopodia.</def><br/
+\'d8<hw>Ra`di*o-flag`el*la"ta</hw> <pr>(r<amac/`d<icr/*<osl/*fl<acr/j`<ecr/l*l<amac/"t<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Radiate</er>, and <er>Flagellata</er>.]</ety> <fld>(Zool.)</fld> <def>A group of Protozoa having both flagella and pseudopodia.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>radiograph</ent><br/
@@ -1291,7 +1291,7 @@ In them [kings], and <qex>radiate</qex> like the sun at noon.</q> <rj><qau>Howel
 <p><-- p. 1184 pr=vmg --></p>
 
 <p><ent>Radiolaria</ent><br/
-||<hw>Ra`di*o*la"ri*a</hw> <pr>(r<amac/`d<icr/*<osl/*l<amac/"r<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Radioli</er>.]</ety> <fld>(Zool.)</fld> <def>Order of rhizopods, usually having a siliceous skeleton, or shell, and sometimes radiating spicules. The pseudopodia project from the body like rays. It includes the polycystines. See <er>Polycystina</er>.</def><br/
+\'d8<hw>Ra`di*o*la"ri*a</hw> <pr>(r<amac/`d<icr/*<osl/*l<amac/"r<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Radioli</er>.]</ety> <fld>(Zool.)</fld> <def>Order of rhizopods, usually having a siliceous skeleton, or shell, and sometimes radiating spicules. The pseudopodia project from the body like rays. It includes the polycystines. See <er>Polycystina</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Radiolarian</ent><br/
@@ -1299,7 +1299,7 @@ In them [kings], and <qex>radiate</qex> like the sun at noon.</q> <rj><qau>Howel
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Radioli</ent><br/
-||<hw>Ra*di"o*li</hw> <pr>(r<adot/*d<imac/"<osl/*l<imac/)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Radiolus</singw> <pr>(r<adot/*d<imac/"<osl/*l<ucr/s)</pr></sing>. <ety>[NL., dim. of L. <ets>radius</ets> radius: cf. L. <ets>radiolus</ets> a feeble sunbeam.]</ety> <fld>(Zool.)</fld> <def>The barbs of the radii of a feather; barbules.</def><br/
+\'d8<hw>Ra*di"o*li</hw> <pr>(r<adot/*d<imac/"<osl/*l<imac/)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Radiolus</singw> <pr>(r<adot/*d<imac/"<osl/*l<ucr/s)</pr></sing>. <ety>[NL., dim. of L. <ets>radius</ets> radius: cf. L. <ets>radiolus</ets> a feeble sunbeam.]</ety> <fld>(Zool.)</fld> <def>The barbs of the radii of a feather; barbules.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Radiolite</ent><br/
@@ -1416,7 +1416,7 @@ In them [kings], and <qex>radiate</qex> like the sun at noon.</q> <rj><qau>Howel
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Radius vector</ent><br/
-||<hw>Ra"di*us vec"tor</hw> <pr>(v<ecr/k"t<ocr/r)</pr>. <sn>1.</sn> <fld>(Math.)</fld> <def>A straight line (or the length of such line) connecting any point, as of a curve, with a fixed point, or pole, round which the straight line turns, and to which it serves to refer the successive points of a curve, in a system of polar coordinates. See <er>Coordinate</er>, <pos>n.</pos></def><br/
+\'d8<hw>Ra"di*us vec"tor</hw> <pr>(v<ecr/k"t<ocr/r)</pr>. <sn>1.</sn> <fld>(Math.)</fld> <def>A straight line (or the length of such line) connecting any point, as of a curve, with a fixed point, or pole, round which the straight line turns, and to which it serves to refer the successive points of a curve, in a system of polar coordinates. See <er>Coordinate</er>, <pos>n.</pos></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Astron.)</fld> <def>An ideal straight line joining the center of an attracting body with that of a body describing an orbit around it, as a line joining the sun and a planet or comet, or a planet and its satellite.</def><br/
@@ -1437,7 +1437,7 @@ In them [kings], and <qex>radiate</qex> like the sun at noon.</q> <rj><qau>Howel
 [<source>PJC</source>]</p>
 
 <p><ent>Radula</ent><br/
-||<hw>Rad"u*la</hw> <pr>(r<acr/d"<usl/*l<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Radulae</plw> <pr>(r<acr/d"<usl/*l<emac/)</pr>.</plu> <ety>[L., a scraper, fr. <ets>radere</ets> to scrape.]</ety> <fld>(Zool.)</fld> <def>The chitinous ribbon bearing the teeth of mollusks; -- called also <altname>lingual ribbon</altname>, and <altname>tongue</altname>. See <er>Odontophore</er>.</def><br/
+\'d8<hw>Rad"u*la</hw> <pr>(r<acr/d"<usl/*l<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Radulae</plw> <pr>(r<acr/d"<usl/*l<emac/)</pr>.</plu> <ety>[L., a scraper, fr. <ets>radere</ets> to scrape.]</ety> <fld>(Zool.)</fld> <def>The chitinous ribbon bearing the teeth of mollusks; -- called also <altname>lingual ribbon</altname>, and <altname>tongue</altname>. See <er>Odontophore</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raduliform</ent><br/
@@ -1555,7 +1555,7 @@ Hatch held up a restraining hand. <ldquo/No, hear me out. You remember my aide, 
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rafflesia</ent><br/
-||<hw>Raf*fle"si*a</hw> <pr>(r<acr/f*fl<emac/"zh<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL. Named from its discoverer, <person>Sir S. <etsep>Raffles</etsep></person>.]</ety> <fld>(Bot.)</fld> <def>A genus of stemless, leafless plants, living parasitically upon the roots and stems of grapevines in Malaysia. The flowers have a carrionlike odor, and are very large, in one species (<spn>Rafflesia Arnoldi</spn>) having a diameter of two or three feet.</def><br/
+\'d8<hw>Raf*fle"si*a</hw> <pr>(r<acr/f*fl<emac/"zh<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL. Named from its discoverer, <person>Sir S. <etsep>Raffles</etsep></person>.]</ety> <fld>(Bot.)</fld> <def>A genus of stemless, leafless plants, living parasitically upon the roots and stems of grapevines in Malaysia. The flowers have a carrionlike odor, and are very large, in one species (<spn>Rafflesia Arnoldi</spn>) having a diameter of two or three feet.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raft</ent><br/
@@ -1794,7 +1794,7 @@ Of brazen chariots <qex>raged</qex>; dire was the noise.</q> <rj><qau>Milton.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raghuvansa</ent><br/
-||<hw>Ragh`u*van"sa</hw> <pr>(r<ucr/g`<usdot/*v<ucr/n"s<adot/)</pr>, <pos>n.</pos> <ety>[Skr. <ets>Raguva<msdot/<cced/a</ets>.]</ety> <def>A celebrated Sanskrit poem having for its subject the Raghu dynasty.</def><br/
+\'d8<hw>Ragh`u*van"sa</hw> <pr>(r<ucr/g`<usdot/*v<ucr/n"s<adot/)</pr>, <pos>n.</pos> <ety>[Skr. <ets>Raguva<msdot/<cced/a</ets>.]</ety> <def>A celebrated Sanskrit poem having for its subject the Raghu dynasty.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raging</ent><br/
@@ -1830,7 +1830,7 @@ Of brazen chariots <qex>raged</qex>; dire was the noise.</q> <rj><qau>Milton.</q
 
 <p><ent>Ragnarok</ent><br/
 <ent>Ragnarok</ent><br/
-<mhw>{ <hw>Rag"na*rok"</hw> <pr>(r<adot/"n<adot/*r<ocr/k")</pr>, ||<hw>Rag"na*r<oum/k"</hw> <pr>(r<adot/"n<adot/*r<ucir/k")</pr> }</mhw>, <pos>n.</pos> <ety>[Icel., fr. <ets>regin</ets>, <ets>r<oum/gn</ets>, gods + <ets>r<oum/k</ets> reason, origin, history; confused with <ets>ragna-r<oum/kr</ets> the twilight of the gods.]</ety> <fld>(Norse Myth.)</fld> <def>The so-called <ldquo/Twilight of the Gods<rdquo/ (called in German <altname>G<oum/tterd<aum/mmerung</altname>), the final destruction of the world in the great conflict between the Aesir (gods) on the one hand, and on the other, the giants and the powers of Hel under the leadership of Loki (who is escaped from bondage).</def><br/
+<mhw>{ <hw>Rag"na*rok"</hw> <pr>(r<adot/"n<adot/*r<ocr/k")</pr>, \'d8<hw>Rag"na*r<oum/k"</hw> <pr>(r<adot/"n<adot/*r<ucir/k")</pr> }</mhw>, <pos>n.</pos> <ety>[Icel., fr. <ets>regin</ets>, <ets>r<oum/gn</ets>, gods + <ets>r<oum/k</ets> reason, origin, history; confused with <ets>ragna-r<oum/kr</ets> the twilight of the gods.]</ety> <fld>(Norse Myth.)</fld> <def>The so-called <ldquo/Twilight of the Gods<rdquo/ (called in German <altname>G<oum/tterd<aum/mmerung</altname>), the final destruction of the world in the great conflict between the Aesir (gods) on the one hand, and on the other, the giants and the powers of Hel under the leadership of Loki (who is escaped from bondage).</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Ragout</ent><br/
@@ -1871,11 +1871,11 @@ Of brazen chariots <qex>raged</qex>; dire was the noise.</q> <rj><qau>Milton.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raia</ent><br/
-||<hw>Ra"ia</hw> <pr>(r<amac/"y<adot/)</pr>, <pos>n.</pos> <ety>[L., a ray.  Cf. <er>Ray</er> the fish.]</ety> <fld>(Zool.)</fld> <def>A genus of rays which includes the skates. See <er>Skate</er>.</def><br/
+\'d8<hw>Ra"ia</hw> <pr>(r<amac/"y<adot/)</pr>, <pos>n.</pos> <ety>[L., a ray.  Cf. <er>Ray</er> the fish.]</ety> <fld>(Zool.)</fld> <def>A genus of rays which includes the skates. See <er>Skate</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raiae</ent><br/
-||<hw>Ra"iae</hw> <pr>(r<amac/"y<emac/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Raia</er>.]</ety> <fld>(Zool.)</fld> <def>The order of elasmobranch fishes which includes the sawfishes, skates, and rays; -- called also <altname>Rajae</altname>, and <altname>Rajii</altname>.</def><br/
+\'d8<hw>Ra"iae</hw> <pr>(r<amac/"y<emac/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Raia</er>.]</ety> <fld>(Zool.)</fld> <def>The order of elasmobranch fishes which includes the sawfishes, skates, and rays; -- called also <altname>Rajae</altname>, and <altname>Rajii</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raid</ent><br/
@@ -2016,7 +2016,7 @@ The moonlight <qex>raid</qex>, the morning fight.</q> <rj><qau>Sir W. Scott.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Railleur</ent><br/
-||<hw>Rail`leur"</hw> <pr>(r<adot/`ly<etil/r" <or/ r<adot/`y<etil/r")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A banterer; a jester; a mocker.</def> <mark>[R.]</mark>  <rj><au>Wycherley.</au></rj><br/
+\'d8<hw>Rail`leur"</hw> <pr>(r<adot/`ly<etil/r" <or/ r<adot/`y<etil/r")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A banterer; a jester; a mocker.</def> <mark>[R.]</mark>  <rj><au>Wycherley.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Railway</ent><br/
@@ -2305,7 +2305,7 @@ From him [Noah], and all his anger to forget.</q> <rj><qau>Milton.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raisonne</ent><br/
-||<hw>Rai`son`n<eacute/"</hw> <pr>(r<asl/`z<osl/`n<asl/")</pr>, <pos>a.</pos> <ety>[F. <ets>raisonn<eacute/</ets>, p. p. of <ets>raisonner</ets> to reason.]</ety> <def>Arranged systematically, or according to classes or subjects; <as>as, a catalogue <ex>raisonn<eacute/</ex></as>. See under <er>Catalogue</er>.</def><br/
+\'d8<hw>Rai`son`n<eacute/"</hw> <pr>(r<asl/`z<osl/`n<asl/")</pr>, <pos>a.</pos> <ety>[F. <ets>raisonn<eacute/</ets>, p. p. of <ets>raisonner</ets> to reason.]</ety> <def>Arranged systematically, or according to classes or subjects; <as>as, a catalogue <ex>raisonn<eacute/</ex></as>. See under <er>Catalogue</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raivel</ent><br/
@@ -2313,11 +2313,11 @@ From him [Noah], and all his anger to forget.</q> <rj><qau>Milton.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raj</ent><br/
-||<hw>Raj</hw> <pr>(r<aum/j)</pr>, <pos>n.</pos> <ety>[See <er>Rajah</er>.]</ety> <def>Reign; rule.</def> <mark>[India]</mark><br/
+\'d8<hw>Raj</hw> <pr>(r<aum/j)</pr>, <pos>n.</pos> <ety>[See <er>Rajah</er>.]</ety> <def>Reign; rule.</def> <mark>[India]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raja</ent><br/
-||<hw>Ra"ja</hw> <pr>(r<aum/"j<aum/ <or/ r<amac/"j<adot/)</pr>, <pos>n.</pos> <def>Same as <er>Rajah</er>.</def><br/
+\'d8<hw>Ra"ja</hw> <pr>(r<aum/"j<aum/ <or/ r<amac/"j<adot/)</pr>, <pos>n.</pos> <def>Same as <er>Rajah</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rajah</ent><br/
@@ -2330,7 +2330,7 @@ From him [Noah], and all his anger to forget.</q> <rj><qau>Milton.</qau></rj><br
 
 <p><ent>Rajput</ent><br/
 <ent>Rajpoot</ent><br/
-<mhw>{ ||<hw>Raj`poot"</hw>, ||<hw>Raj`put"</hw>  }</mhw> <pr>(r<aum/j`p<oomac/t")</pr>, <pos>n.</pos> <ety>[Hind. <ets>r<amac/j-p<umac/t</ets>, Skr. <ets>r<amac/ja-putra</ets> king's son.]</ety> <def>A Hindoo of the second, or royal and military, caste; a Kshatriya; especially, an inhabitant of the country of Rajpootana, in northern central India.</def><br/
+<mhw>{ \'d8<hw>Raj`poot"</hw>, \'d8<hw>Raj`put"</hw>  }</mhw> <pr>(r<aum/j`p<oomac/t")</pr>, <pos>n.</pos> <ety>[Hind. <ets>r<amac/j-p<umac/t</ets>, Skr. <ets>r<amac/ja-putra</ets> king's son.]</ety> <def>A Hindoo of the second, or royal and military, caste; a Kshatriya; especially, an inhabitant of the country of Rajpootana, in northern central India.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rake</ent><br/
@@ -2462,7 +2462,7 @@ From him [Noah], and all his anger to forget.</q> <rj><qau>Milton.</qau></rj><br
 
 <p><ent>Rakee</ent><br/
 <ent>Raki</ent><br/
-<mhw>{ ||<hw>Ra`ki"</hw>, ||<hw>Ra`kee"</hw>  }</mhw> <pr>(r<adot/`k<emac/"; r<acr/k"<esl/)</pr>, <pos>n.</pos> <ety>[Turk. <ets>r<amac/q<imac/</ets> arrack.]</ety> <def>A kind of <isa>ardent spirits</isa> used in southern Europe and the East, distilled from grape juice, grain, etc.</def><br/
+<mhw>{ \'d8<hw>Ra`ki"</hw>, \'d8<hw>Ra`kee"</hw>  }</mhw> <pr>(r<adot/`k<emac/"; r<acr/k"<esl/)</pr>, <pos>n.</pos> <ety>[Turk. <ets>r<amac/q<imac/</ets> arrack.]</ety> <def>A kind of <isa>ardent spirits</isa> used in southern Europe and the East, distilled from grape juice, grain, etc.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Raking</ent><br/
@@ -2492,18 +2492,18 @@ From him [Noah], and all his anger to forget.</q> <rj><qau>Milton.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raku ware</ent><br/
-||<hw>Ra"ku ware`</hw> <pr>(r<aum/"k<oomac/ w<acir/r`)</pr>. <def>A kind of earthenware made in Japan, resembling Satsuma ware, but having a paler color.</def><br/
+\'d8<hw>Ra"ku ware`</hw> <pr>(r<aum/"k<oomac/ w<acir/r`)</pr>. <def>A kind of earthenware made in Japan, resembling Satsuma ware, but having a paler color.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rale</ent><br/
-||<hw>R<acir/le</hw> <pr>(r<aum/l)</pr>, <pos>n.</pos> <ety>[F. <ets>r<acir/le</ets>.  Cf. <er>Rail</er> the bird.]</ety> <fld>(Med.)</fld> <def>An adventitious sound, usually of morbid origin, accompanying the normal respiratory sounds. See <er>Rhonchus</er>.</def><br/
+\'d8<hw>R<acir/le</hw> <pr>(r<aum/l)</pr>, <pos>n.</pos> <ety>[F. <ets>r<acir/le</ets>.  Cf. <er>Rail</er> the bird.]</ety> <fld>(Med.)</fld> <def>An adventitious sound, usually of morbid origin, accompanying the normal respiratory sounds. See <er>Rhonchus</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Various kinds are distinguished by pathologists; differing in intensity, as loud and small; in quality, as moist, dry, clicking, whistling, and sonorous; and in origin, as tracheal, pulmonary, and pleural.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rallentando</ent><br/
-||<hw>Ral`len*tan"do</hw> <pr>(r<aum/l`l<ecr/n*t<aum/n"d<osl/)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Slackening; -- a direction to perform a passage with a gradual decrease in time and force; ritardando.</def><br/
+\'d8<hw>Ral`len*tan"do</hw> <pr>(r<aum/l`l<ecr/n*t<aum/n"d<osl/)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Slackening; -- a direction to perform a passage with a gradual decrease in time and force; ritardando.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ralliance</ent><br/
@@ -2515,7 +2515,7 @@ From him [Noah], and all his anger to forget.</q> <rj><qau>Milton.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rallies</ent><br/
-||<hw>Ral"li<eacute/s"</hw> <pr>(r<adot/l`y<amac/")</pr>, <pos>n. pl.</pos> <ety>[F., p. p. pl. See <er>Rally</er>, <pos>v. t.</pos>]</ety> <def>A French political group, also known as the Constitutional Right from its position in the Chambers, mainly monarchists who rallied to the support of the Republic in obedience to the encyclical put forth by <person>Pope Leo XIII.</person> in Feb., 1892.</def><br/
+\'d8<hw>Ral"li<eacute/s"</hw> <pr>(r<adot/l`y<amac/")</pr>, <pos>n. pl.</pos> <ety>[F., p. p. pl. See <er>Rally</er>, <pos>v. t.</pos>]</ety> <def>A French political group, also known as the Constitutional Right from its position in the Chambers, mainly monarchists who rallied to the support of the Republic in obedience to the encyclical put forth by <person>Pope Leo XIII.</person> in Feb., 1892.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Ralline</ent><br/
@@ -2615,7 +2615,7 @@ Which gay Corinna <qex>rallied</qex> with disdain.</q> <rj><qau>Gay.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ramadan</ent><br/
-||<hw>Ram`a*dan"</hw> <pr>(r<acr/m`<adot/*d<acr/n")</pr>, <pos>n.</pos> <ety>[Ar. <ets>rama<dsdot/<amac/n</ets>, or <ets>ramaz<amac/n</ets>, properly, the hot month.]</ety> <altsp>[Written also <asp>Ramadhan</asp>, <asp>Ramadzan</asp>, and <asp>Rhamadan</asp>.]</altsp> <sn>1.</sn> <def>The ninth Mohammedan month.</def><br/
+\'d8<hw>Ram`a*dan"</hw> <pr>(r<acr/m`<adot/*d<acr/n")</pr>, <pos>n.</pos> <ety>[Ar. <ets>rama<dsdot/<amac/n</ets>, or <ets>ramaz<amac/n</ets>, properly, the hot month.]</ety> <altsp>[Written also <asp>Ramadhan</asp>, <asp>Ramadzan</asp>, and <asp>Rhamadan</asp>.]</altsp> <sn>1.</sn> <def>The ninth Mohammedan month.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The great annual fast of the Mohammedans, kept during daylight through the ninth month.</def><br/
@@ -2644,7 +2644,7 @@ Which gay Corinna <qex>rallied</qex> with disdain.</q> <rj><qau>Gay.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ramayana</ent><br/
-||<hw>Ra*ma"ya*na</hw> <pr>(r<aum/*m<aum/"y<adot/*n<adot/)</pr>, <pos>n.</pos> <ety>[Skr. <ets>R<amac/m<amac/ya<nsdot/a</ets>.]</ety> <def>The more ancient of the two great epic poems in Sanskrit.  The hero and heroine are <persfn>Rama</persfn> and his wife <persfn>Sita</persfn>.</def><br/
+\'d8<hw>Ra*ma"ya*na</hw> <pr>(r<aum/*m<aum/"y<adot/*n<adot/)</pr>, <pos>n.</pos> <ety>[Skr. <ets>R<amac/m<amac/ya<nsdot/a</ets>.]</ety> <def>The more ancient of the two great epic poems in Sanskrit.  The hero and heroine are <persfn>Rama</persfn> and his wife <persfn>Sita</persfn>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ramberge</ent><br/
@@ -2730,7 +2730,7 @@ Which gay Corinna <qex>rallied</qex> with disdain.</q> <rj><qau>Gay.</qau></rj><
 <p><sn>2.</sn> <pluf>pl.</pluf> <fld>(Bot.)</fld> <def>Ramenta.</def></p>
 
 <p><ent>Ramenta</ent><br/
-||<hw>Ra*men"ta</hw> <pr>(r<adot/*m<ecr/n"t<adot/)</pr>, <pos>n. pl.</pos> <ety>[L., scrapings.]</ety> <fld>(Bot.)</fld> <def>Thin brownish chaffy scales upon the leaves or young shoots of some plants, especially upon the petioles and leaves of ferns.</def>  <rj><au>Gray.</au></rj><br/
+\'d8<hw>Ra*men"ta</hw> <pr>(r<adot/*m<ecr/n"t<adot/)</pr>, <pos>n. pl.</pos> <ety>[L., scrapings.]</ety> <fld>(Bot.)</fld> <def>Thin brownish chaffy scales upon the leaves or young shoots of some plants, especially upon the petioles and leaves of ferns.</def>  <rj><au>Gray.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 1187 pr=vmg --></p>
@@ -3032,11 +3032,11 @@ Proudly <qex>ramparted</qex> with rocks.</q> <rj><qau>Coleridge.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ramulus</ent><br/
-||<hw>Ram"u*lus</hw> <pr>(r<acr/m"<usl/*l<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ramuli</plw> <pr>(r<acr/m"<usl/*l<imac/)</pr>.</plu> <fld>(Zool.)</fld> <def>A small branch, or branchlet, of corals, hydroids, and similar organisms.</def><br/
+\'d8<hw>Ram"u*lus</hw> <pr>(r<acr/m"<usl/*l<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ramuli</plw> <pr>(r<acr/m"<usl/*l<imac/)</pr>.</plu> <fld>(Zool.)</fld> <def>A small branch, or branchlet, of corals, hydroids, and similar organisms.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ramus</ent><br/
-||<hw>Ra"mus</hw> <pr>(r<amac/"m<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rami</plw> <pr>(r<amac/"m<imac/)</pr>.</plu> <fld>(Nat. Hist.)</fld> <def>A branch; a projecting part or prominent process; a ramification.</def><br/
+\'d8<hw>Ra"mus</hw> <pr>(r<amac/"m<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rami</plw> <pr>(r<amac/"m<imac/)</pr>.</plu> <fld>(Nat. Hist.)</fld> <def>A branch; a projecting part or prominent process; a ramification.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ramuscule</ent><br/
@@ -3056,7 +3056,7 @@ Proudly <qex>ramparted</qex> with rocks.</q> <rj><qau>Coleridge.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rana</ent><br/
-||<hw>Ra"na</hw> <pr>(r<amac/"n<adot/)</pr>, <pos>n.</pos> <ety>[L., a frog.]</ety> <fld>(Zool.)</fld> <def>A genus of anurous batrachians, including the common frogs.</def><br/
+\'d8<hw>Ra"na</hw> <pr>(r<amac/"n<adot/)</pr>, <pos>n.</pos> <ety>[L., a frog.]</ety> <fld>(Zool.)</fld> <def>A genus of anurous batrachians, including the common frogs.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ranal</ent><br/
@@ -3086,7 +3086,7 @@ Proudly <qex>ramparted</qex> with rocks.</q> <rj><qau>Coleridge.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rancheria</ent><br/
-||<hw>Ran`che*ri"a</hw> <pr>(r<adot/n`ch<asl/"r<emac/"<adot/)</pr>, <pos>n.</pos> <ety>[Sp. <ets>rancheria</ets>.]</ety> <sn>1.</sn> <def>A dwelling place of a ranchero.</def><br/
+\'d8<hw>Ran`che*ri"a</hw> <pr>(r<adot/n`ch<asl/"r<emac/"<adot/)</pr>, <pos>n.</pos> <ety>[Sp. <ets>rancheria</ets>.]</ety> <sn>1.</sn> <def>A dwelling place of a ranchero.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <def>A small settlement or collection of ranchos, or rude huts, esp. for Indians.</def> <mark>[Sp. Amer. & Southwestern U. S.]</mark><br/
@@ -3096,7 +3096,7 @@ Proudly <qex>ramparted</qex> with rocks.</q> <rj><qau>Coleridge.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Ranchero</ent><br/
-||<hw>Ran*che"ro</hw> <pr>(r<acr/n*ch<amac/"r<osl/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rancheros</plw> <pr>(r<acr/n*ch<amac/"r<omac/z)</pr>.</plu> <ety>[Sp.]</ety> <mark>[Mexico & Western U. S.]</mark> <sn>1.</sn> <def>A herdsman; a peasant employed on a ranch or rancho.</def><br/
+\'d8<hw>Ran*che"ro</hw> <pr>(r<acr/n*ch<amac/"r<osl/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rancheros</plw> <pr>(r<acr/n*ch<amac/"r<omac/z)</pr>.</plu> <ety>[Sp.]</ety> <mark>[Mexico & Western U. S.]</mark> <sn>1.</sn> <def>A herdsman; a peasant employed on a ranch or rancho.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The owner and occupant of a ranch or rancho.</def><br/
@@ -3107,7 +3107,7 @@ Proudly <qex>ramparted</qex> with rocks.</q> <rj><qau>Coleridge.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rancho</ent><br/
-||<hw>Ran"cho</hw> <pr>(r<acr/n"ch<osl/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ranchos</plw> <pr>(r<acr/n"ch<omac/z)</pr>.</plu> <ety>[Sp., properly, a mess, mess room.  Cf. 2d <er>Ranch</er>.]</ety> <sn>1.</sn> <def>A rude hut, as of posts, covered with branches or thatch, where herdsmen or farm laborers may live or lodge at night.</def><br/
+\'d8<hw>Ran"cho</hw> <pr>(r<acr/n"ch<osl/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ranchos</plw> <pr>(r<acr/n"ch<omac/z)</pr>.</plu> <ety>[Sp., properly, a mess, mess room.  Cf. 2d <er>Ranch</er>.]</ety> <sn>1.</sn> <def>A rude hut, as of posts, covered with branches or thatch, where herdsmen or farm laborers may live or lodge at night.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A large grazing farm where horses and cattle are raised; -- distinguished from <contr>hacienda</contr>, a cultivated farm or plantation.</def> <mark>[Mexico & California]</mark>  <rj><au>Bartlett.</au></rj><br/
@@ -3274,7 +3274,7 @@ Finds mark the archer little meant!</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ranee</ent><br/
-||<hw>Ra"nee</hw> <pr>(r<aum/"n<emac/)</pr>, <pos>n.</pos> <def>Same as <er>Rani</er>.</def><br/
+\'d8<hw>Ra"nee</hw> <pr>(r<aum/"n<emac/)</pr>, <pos>n.</pos> <def>Same as <er>Rani</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ranforce</ent><br/
@@ -3444,7 +3444,7 @@ Finds mark the archer little meant!</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Rani</ent><br/
-||<hw>Ra"ni</hw> <pr>(r<aum/"n<emac/)</pr>, <pos>n.</pos> <ety>[Hind. <ets>r<amac/n<imac/</ets>, Skr. <ets>r<amac/jn<imac/</ets>. See <er>Rajah</er>.]</ety> <def>A queen or princess; the wife of a rajah.</def> <altsp>[Written also <asp>ranee</asp>.]</altsp> <mark>[India]</mark><br/
+\'d8<hw>Ra"ni</hw> <pr>(r<aum/"n<emac/)</pr>, <pos>n.</pos> <ety>[Hind. <ets>r<amac/n<imac/</ets>, Skr. <ets>r<amac/jn<imac/</ets>. See <er>Rajah</er>.]</ety> <def>A queen or princess; the wife of a rajah.</def> <altsp>[Written also <asp>ranee</asp>.]</altsp> <mark>[India]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ranine</ent><br/
@@ -3714,7 +3714,7 @@ Shall not be free from <qex>ransack</qex>.</q> <rj><qau>J. Webster.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ranula</ent><br/
-||<hw>Ran"u*la</hw> <pr>(r<acr/n"<usl/*l<adot/)</pr>, <pos>n.</pos> <ety>[L., a little frog, a little swelling on the tongue of cattle, dim. of <ets>rana</ets> a frog.]</ety> <fld>(Med.)</fld> <def>A cyst formed under the tongue by obstruction of the duct of the submaxillary gland.</def><br/
+\'d8<hw>Ran"u*la</hw> <pr>(r<acr/n"<usl/*l<adot/)</pr>, <pos>n.</pos> <ety>[L., a little frog, a little swelling on the tongue of cattle, dim. of <ets>rana</ets> a frog.]</ety> <fld>(Med.)</fld> <def>A cyst formed under the tongue by obstruction of the duct of the submaxillary gland.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ranunculaceous</ent><br/
@@ -3728,7 +3728,7 @@ Shall not be free from <qex>ransack</qex>.</q> <rj><qau>J. Webster.</qau></rj><b
 <p><-- p. 1189 pr=vmg --></p>
 
 <p><ent>Ranz des vaches</ent><br/
-||<hw>Ranz" des` vaches"</hw> <pr>(r<aum/Ns" d<asl/` v<adot/sh")</pr>. <ety>[F., the ranks or rows of cows, the name being given from the fact that the cattle, when answering the musical call of their keeper, move towards him in a row, preceded by those wearing bells.]</ety> <def>The name for numerous simple, but very irregular, melodies of the Swiss mountaineers, blown on a long tube called the <xex>Alpine horn</xex>, and sometimes sung.</def><br/
+\'d8<hw>Ranz" des` vaches"</hw> <pr>(r<aum/Ns" d<asl/` v<adot/sh")</pr>. <ety>[F., the ranks or rows of cows, the name being given from the fact that the cattle, when answering the musical call of their keeper, move towards him in a row, preceded by those wearing bells.]</ety> <def>The name for numerous simple, but very irregular, melodies of the Swiss mountaineers, blown on a long tube called the <xex>Alpine horn</xex>, and sometimes sung.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rap</ent><br/
@@ -3818,7 +3818,7 @@ The whirring chariot.</q> <rj><qau>Chapman.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Rapaces</ent><br/
-||<hw>Ra*pa"ces</hw> <pr>(r<adot/*p<amac/"s<emac/z)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Rapacious</er>.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Accipitres</er>.</def><br/
+\'d8<hw>Ra*pa"ces</hw> <pr>(r<adot/*p<amac/"s<emac/z)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Rapacious</er>.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Accipitres</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rapacious</ent><br/
@@ -3954,7 +3954,7 @@ Shall they revive! nor death her <qex>rapes</qex> restore.</q> <rj><qau>Sandys.<
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raphides</ent><br/
-||<hw>Raph"i*des</hw> <pr>(r<acr/f"<icr/*d<emac/z)</pr>, <pos>n. pl.</pos> <ety>[F. <ets>raphide</ets>.]</ety> <fld>(Bot.)</fld> <def>See <er>Rhaphides</er>.</def><br/
+\'d8<hw>Raph"i*des</hw> <pr>(r<acr/f"<icr/*d<emac/z)</pr>, <pos>n. pl.</pos> <ety>[F. <ets>raphide</ets>.]</ety> <fld>(Bot.)</fld> <def>See <er>Rhaphides</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rapid</ent><br/
@@ -4022,7 +4022,7 @@ The <qex>rapids</qex> are near, and the daylight's past.</q> <rj><qau>Moore.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rapilli</ent><br/
-||<hw>Ra*pil"li</hw> <pr>(r<adot/*p<icr/l"l<esl/)</pr>, <pos>n. pl.</pos> <ety>[It.]</ety> <fld>(Min.)</fld> <def>Lapilli.</def><br/
+\'d8<hw>Ra*pil"li</hw> <pr>(r<adot/*p<icr/l"l<esl/)</pr>, <pos>n. pl.</pos> <ety>[It.]</ety> <fld>(Min.)</fld> <def>Lapilli.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rapine</ent><br/
@@ -4088,11 +4088,11 @@ The <qex>rapids</qex> are near, and the daylight's past.</q> <rj><qau>Moore.</qa
 <p><q>'T is obvious what <qex>rapport</qex> there is between the conceptions and languages in every country.</q> <rj><qau>Sir W. Temple.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs>||<col><b>En` rap`port"</b></col> <pr>(<aum/N` r<adot/`p<ocir/r")</pr> <ety>[F.]</ety>, <cd>in accord, harmony, or sympathy; having a mutual, especially a private, understanding; in hypnotism, in that relation of sympathy which permits influence or communication.</cd></cs><br/
+<p><cs>\'d8<col><b>En` rap`port"</b></col> <pr>(<aum/N` r<adot/`p<ocir/r")</pr> <ety>[F.]</ety>, <cd>in accord, harmony, or sympathy; having a mutual, especially a private, understanding; in hypnotism, in that relation of sympathy which permits influence or communication.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rapprochement</ent><br/
-||<hw>Rap`proche`ment"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>rapprocher</ets> to cause to approach again. See <er>Re-</er>; <er>Approach</er>.]</ety> <def>Act or fact of coming or being drawn near or together; establishment or state of cordial relations.</def><br/
+\'d8<hw>Rap`proche`ment"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>rapprocher</ets> to cause to approach again. See <er>Re-</er>; <er>Approach</er>.]</ety> <def>Act or fact of coming or being drawn near or together; establishment or state of cordial relations.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><q>He had witnessed the gradual <qex>rapprochement</qex> between the papacy and Austria.</q>  <rj><qau>Wilfrid Ward.</qau></rj><br/
@@ -4142,7 +4142,7 @@ The <qex>rapids</qex> are near, and the daylight's past.</q> <rj><qau>Moore.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raptores</ent><br/
-||<hw>Rap*to"res</hw> <pr>(r<acr/p*t<omac/"r<emac/z)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Raptor</er>.]</ety> <fld>(Zool.)</fld> <def>An order of birds, same as <er>Accipitres</er>. Called also <altname>Raptatores</altname>.</def><br/
+\'d8<hw>Rap*to"res</hw> <pr>(r<acr/p*t<omac/"r<emac/z)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Raptor</er>.]</ety> <fld>(Zool.)</fld> <def>An order of birds, same as <er>Accipitres</er>. Called also <altname>Raptatores</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raptorial</ent><br/
@@ -4363,7 +4363,7 @@ Even though the mutant DNA only occurs in a very small percentage of the cells i
 [<source>PJC</source>]</p>
 
 <p><ent>Rasante</ent><br/
-||<hw>Ra`sante"</hw> <pr>(r<adot/`z<aum/Nt")</pr>, <pos>a.</pos> <ety>[F., p. pr. of <ets>raser</ets> to graze.]</ety> <fld>(Fort.)</fld> <def>Sweeping; grazing; -- applied to a style of fortification in which the command of the works over each other, and over the country, is kept very low, in order that the shot may more effectually sweep or graze the ground before them.</def>  <rj><au>H. L. Scott.</au></rj><br/
+\'d8<hw>Ra`sante"</hw> <pr>(r<adot/`z<aum/Nt")</pr>, <pos>a.</pos> <ety>[F., p. pr. of <ets>raser</ets> to graze.]</ety> <fld>(Fort.)</fld> <def>Sweeping; grazing; -- applied to a style of fortification in which the command of the works over each other, and over the country, is kept very low, in order that the shot may more effectually sweep or graze the ground before them.</def>  <rj><au>H. L. Scott.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rascal</ent><br/
@@ -4565,11 +4565,11 @@ No honor's got by such a maim.</q> <rj><qau>Hudibras.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raskolnik</ent><br/
-||<hw>Ras*kol"nik</hw> <pr>(r<acr/s*k<ocr/l"n<icr/k)</pr>, <pos>n.</pos>; <plu>pl. <plw>Raskolniki</plw> <pr>(r<acr/s*k<ocr/l"n<icr/k*<emac/)</pr> or <plw>Raskolniks</plw> <pr>(#)</pr></plu>. <ety>[Russ. <ets>raskol'nik</ets> dissenter, fr. <ets>raskol</ets> dissent.]</ety> <def>The name applied by the Russian government to any subject of the Greek faith who dissents from the established church. The <xex>Raskolniki</xex> embrace many sects, whose common characteristic is a clinging to antique traditions, habits, and customs. The schism originated in 1667 in an ecclesiastical dispute as to the correctness of the translation of the religious books. The dissenters, who have been continually persecuted, are believed to number about 20,000,000, although the Holy Synod officially puts the number at about 2,000,000. They are officially divided into three groups according to the degree of their variance from orthodox beliefs and observances, as follows: I. <ldquo/Most obnoxious.<rdquo/ the <col><b>Judaizers</b></col>; the <col><b>Molokane</b></col>, who refuse to recognize civil authority or to take oaths; the <col><b>Dukhobortsy</b></col>, or <col><b>Dukhobors</b></col>, who are communistic, marry without ceremony, and believe that Christ was human, but that his soul reappears at intervals in living men; the <col><b>Khlysty</b></col>, who countenance anthropolatory, are ascetics, practice continual self-flagellation, and reject marriage; the <col><b>Skoptsy</b></col>, who practice castration; and a section of the <col><b>Bezpopovtsy</b></col>, or priestless sect, which disbelieve in prayers for the Czar and in marriage. II. <ldquo/Obnoxious:<rdquo/ the <col><b>Bezpopovtsy</b></col>, who pray for the Czar and recognize marriage. III. <ldquo/Least obnoxious:<rdquo/ the <col><b>Popovtsy</b></col>, who dissent from the orthodox church in minor points only.</def> <altsp>[Written also <asp>rascolnik</asp>.]</altsp><br/
+\'d8<hw>Ras*kol"nik</hw> <pr>(r<acr/s*k<ocr/l"n<icr/k)</pr>, <pos>n.</pos>; <plu>pl. <plw>Raskolniki</plw> <pr>(r<acr/s*k<ocr/l"n<icr/k*<emac/)</pr> or <plw>Raskolniks</plw> <pr>(#)</pr></plu>. <ety>[Russ. <ets>raskol'nik</ets> dissenter, fr. <ets>raskol</ets> dissent.]</ety> <def>The name applied by the Russian government to any subject of the Greek faith who dissents from the established church. The <xex>Raskolniki</xex> embrace many sects, whose common characteristic is a clinging to antique traditions, habits, and customs. The schism originated in 1667 in an ecclesiastical dispute as to the correctness of the translation of the religious books. The dissenters, who have been continually persecuted, are believed to number about 20,000,000, although the Holy Synod officially puts the number at about 2,000,000. They are officially divided into three groups according to the degree of their variance from orthodox beliefs and observances, as follows: I. <ldquo/Most obnoxious.<rdquo/ the <col><b>Judaizers</b></col>; the <col><b>Molokane</b></col>, who refuse to recognize civil authority or to take oaths; the <col><b>Dukhobortsy</b></col>, or <col><b>Dukhobors</b></col>, who are communistic, marry without ceremony, and believe that Christ was human, but that his soul reappears at intervals in living men; the <col><b>Khlysty</b></col>, who countenance anthropolatory, are ascetics, practice continual self-flagellation, and reject marriage; the <col><b>Skoptsy</b></col>, who practice castration; and a section of the <col><b>Bezpopovtsy</b></col>, or priestless sect, which disbelieve in prayers for the Czar and in marriage. II. <ldquo/Obnoxious:<rdquo/ the <col><b>Bezpopovtsy</b></col>, who pray for the Czar and recognize marriage. III. <ldquo/Least obnoxious:<rdquo/ the <col><b>Popovtsy</b></col>, who dissent from the orthodox church in minor points only.</def> <altsp>[Written also <asp>rascolnik</asp>.]</altsp><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Rasores</ent><br/
-||<hw>Ra*so"res</hw> <pr>(r<adot/*z<omac/"r<emac/z)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>radere</ets>, <ets>rasum</ets>, to scratch. See <er>Rase</er>, <pos>v. t.</pos>]</ety> <fld>(Zool.)</fld> <def>An order of birds; the Gallinae.</def><br/
+\'d8<hw>Ra*so"res</hw> <pr>(r<adot/*z<omac/"r<emac/z)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>radere</ets>, <ets>rasum</ets>, to scratch. See <er>Rase</er>, <pos>v. t.</pos>]</ety> <fld>(Zool.)</fld> <def>An order of birds; the Gallinae.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Formerly, the word <ord>Rasores</ord> was used in a wider sense, so as to include other birds now widely separated in classification.</note><br/
@@ -4607,7 +4607,7 @@ No honor's got by such a maim.</q> <rj><qau>Hudibras.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raspatorium</ent><br/
-||<hw>Ras`pa*to"ri*um</hw> <pr>(r<acr/s`p<adot/*t<omac/"r<icr/*<ucr/m)</pr>, <pos>n.</pos> <ety>[LL.]</ety> <def>See <er>Raspatory</er>.</def><br/
+\'d8<hw>Ras`pa*to"ri*um</hw> <pr>(r<acr/s`p<adot/*t<omac/"r<icr/*<ucr/m)</pr>, <pos>n.</pos> <ety>[LL.]</ety> <def>See <er>Raspatory</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raspatory</ent><br/
@@ -4711,7 +4711,7 @@ No honor's got by such a maim.</q> <rj><qau>Hudibras.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rataplan</ent><br/
-||<hw>Ra`ta`plan"</hw> <pr>(r<adot/`t<adot/`pl<aum/N")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>The iterative sound of beating a drum, or of a galloping horse.</def><br/
+\'d8<hw>Ra`ta`plan"</hw> <pr>(r<adot/`t<adot/`pl<aum/N")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>The iterative sound of beating a drum, or of a galloping horse.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ratch</ent><br/
@@ -4951,7 +4951,7 @@ The art itself is nature.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rathskeller</ent><br/
-||<hw>Raths"kel`ler</hw> <pr>(r<aum/ts"k<ecr/l*l<etil/r)</pr>, <pos>n.</pos> <ety>[G., also <asp>ratskeller</asp>, prop., town-hall cellar.]</ety> <def>Orig., in Germany, the cellar or basement of the city hall, usually rented for use as a restaurant where beer is sold; hence, a beer saloon of the German type below the street level, where, usually, drinks are served only at tables and simple food may also be had; -- sometimes loosely used, in English, of what are essentially basement restaurants where liquors are served.</def><br/
+\'d8<hw>Raths"kel`ler</hw> <pr>(r<aum/ts"k<ecr/l*l<etil/r)</pr>, <pos>n.</pos> <ety>[G., also <asp>ratskeller</asp>, prop., town-hall cellar.]</ety> <def>Orig., in Germany, the cellar or basement of the city hall, usually rented for use as a restaurant where beer is sold; hence, a beer saloon of the German type below the street level, where, usually, drinks are served only at tables and simple food may also be had; -- sometimes loosely used, in English, of what are essentially basement restaurants where liquors are served.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Ratification</ent><br/
@@ -5122,7 +5122,7 @@ Attractive, human, <qex>rational</qex>, love still.</q> <rj><qau>Milton.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ratitae</ent><br/
-||<hw>Ra*ti"tae</hw> <pr>(r<adot/*t<imac/"t<esl/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>ratis</ets> a raft; cf. L. <ets>ratitus</ets> marked with the figure of a raft.]</ety> <fld>(Zool.)</fld> <def>An order of birds in which the wings are small, rudimentary, or absent, and the breastbone is destitute of a keel. The ostrich, emu, moa, and apteryx are examples.</def><br/
+\'d8<hw>Ra*ti"tae</hw> <pr>(r<adot/*t<imac/"t<esl/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>ratis</ets> a raft; cf. L. <ets>ratitus</ets> marked with the figure of a raft.]</ety> <fld>(Zool.)</fld> <def>An order of birds in which the wings are small, rudimentary, or absent, and the breastbone is destitute of a keel. The ostrich, emu, moa, and apteryx are examples.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ratitate</ent><br/
@@ -5558,7 +5558,7 @@ They <qex>ravel</qex> more, still less resolved.</q> <rj><qau>Milton.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ravenala</ent><br/
-||<hw>Rav`e*na"la</hw> <pr>(r<acr/v`<esl/*n<aum/"l<adot/)</pr>, <pos>n.</pos> <ety>[Malagasy.]</ety> <fld>(Bot.)</fld> <def>A genus of plants related to the banana.</def><br/
+\'d8<hw>Rav`e*na"la</hw> <pr>(r<acr/v`<esl/*n<aum/"l<adot/)</pr>, <pos>n.</pos> <ety>[Malagasy.]</ety> <fld>(Bot.)</fld> <def>A genus of plants related to the banana.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ <spn>Ravenala Madagascariensis</spn>, the principal species, is an unbranched tree with immense oarlike leaves growing alternately from two sides of the stem. The sheathing bases of the leafstalks collect and retain rain water, which flows freely when they are pierced with a knife, whence the plant is called <altname>traveler's tree</altname>.</note><br/
@@ -5808,7 +5808,7 @@ On him, and crowds turn coxcombs as they gaze.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rayah</ent><br/
-||<hw>Ra"yah</hw> <pr>(r<amac/"y<adot/ <or/ r<aum/"y<adot/)</pr>, <pos>n.</pos> <ety>[Ar. <ets>ra'iyah</ets> a herd, a subject, fr. <ets>ra'a</ets> to pasture, guard.]</ety> <def>A person not a Mohammedan, who pays the capitation tax.</def> <mark>[Turkey.]</mark><br/
+\'d8<hw>Ra"yah</hw> <pr>(r<amac/"y<adot/ <or/ r<aum/"y<adot/)</pr>, <pos>n.</pos> <ety>[Ar. <ets>ra'iyah</ets> a herd, a subject, fr. <ets>ra'a</ets> to pasture, guard.]</ety> <def>A person not a Mohammedan, who pays the capitation tax.</def> <mark>[Turkey.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ray grass</ent><br/
@@ -5914,7 +5914,7 @@ On him, and crowds turn coxcombs as they gaze.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Razzia</ent><br/
-||<hw>Raz"zi*a</hw> <pr>(r<aum/"z<esl/*<aum/)</pr>, <pos>n.</pos> <ety>[F., fr. Ar. <ets>gh<amac/z<imac/a</ets> (pron. <ets>razia</ets> in Algeria).]</ety> <def>A plundering and destructive incursion; a foray; a raid.</def><br/
+\'d8<hw>Raz"zi*a</hw> <pr>(r<aum/"z<esl/*<aum/)</pr>, <pos>n.</pos> <ety>[F., fr. Ar. <ets>gh<amac/z<imac/a</ets> (pron. <ets>razia</ets> in Algeria).]</ety> <def>A plundering and destructive incursion; a foray; a raid.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Re-</ent><br/
@@ -7345,7 +7345,7 @@ Till dauntless Pallas <qex>reassured</qex> the rest.</q> <rj><qau>Dryden.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reata</ent><br/
-||<hw>Re*a"ta</hw> <pr>(r<asl/*<aum/"t<adot/)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>A lariat.</def><br/
+\'d8<hw>Re*a"ta</hw> <pr>(r<asl/*<aum/"t<adot/)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>A lariat.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reattach</ent><br/
@@ -7651,7 +7651,7 @@ How could your heart <qex>rebel</qex> against your reason?</q> <rj><qau>Dryden.<
 [<source>PJC</source>]</p>
 
 <p><ent>Rebozo</ent><br/
-||<hw>Re*bo"zo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. <ets>rebozo</ets>.]</ety> <def>A kind of mantilla worn by women over the head and shoulders, and sometimes over part of the face.</def> <mark>[Mexico & Sp. Amer.]</mark><br/
+\'d8<hw>Re*bo"zo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. <ets>rebozo</ets>.]</ety> <def>A kind of mantilla worn by women over the head and shoulders, and sometimes over part of the face.</def> <mark>[Mexico & Sp. Amer.]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Rebrace</ent><br/
@@ -8238,7 +8238,7 @@ Life offered, or soon beg to lay it down.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Receptaculum</ent><br/
-||<hw>Rec`ep*tac"u*lum</hw> <pr>(r<ecr/s`<ecr/p*t<acr/k"<usl/*l<ucr/m)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Receptacula</plw> <pr>(r<ecr/s`<ecr/p*t<acr/k"<usl/*l<adot/)</pr>.</plu> <ety>[L.]</ety> <fld>(Anat.)</fld> <def>A receptacle; <as>as, the <ex>receptaculum</ex> of the chyle</as>.</def><br/
+\'d8<hw>Rec`ep*tac"u*lum</hw> <pr>(r<ecr/s`<ecr/p*t<acr/k"<usl/*l<ucr/m)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Receptacula</plw> <pr>(r<ecr/s`<ecr/p*t<acr/k"<usl/*l<adot/)</pr>.</plu> <ety>[L.]</ety> <fld>(Anat.)</fld> <def>A receptacle; <as>as, the <ex>receptaculum</ex> of the chyle</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Receptary</ent><br/
@@ -8433,7 +8433,7 @@ Life offered, or soon beg to lay it down.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rechauff<eacute/</ent><br/
-||<hw>R<eacute/`chauf`f<eacute/"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., orig. p.p. of <ets>r<eacute/chauffer</ets> 8warm over. See <er>Chafe</er>, <pos>v. t.</pos>]</ety> <def>A dish of food that has been warmed again, hence, fig., something made up from old material; a rehash.</def><br/
+\'d8<hw>R<eacute/`chauf`f<eacute/"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., orig. p.p. of <ets>r<eacute/chauffer</ets> 8warm over. See <er>Chafe</er>, <pos>v. t.</pos>]</ety> <def>A dish of food that has been warmed again, hence, fig., something made up from old material; a rehash.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><q>It is merely a <qex>r<eacute/chauff<eacute/</qex> of ancient philosophies.</q>  <rj><qau>F. W. H. Myers.</qau></rj><br/
@@ -8448,7 +8448,7 @@ Life offered, or soon beg to lay it down.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Recherche</ent><br/
-||<hw>Re*cher`ch<eacute/"</hw> <pr>(r<eit/*sh<acir/r`sh<asl/")</pr>, <pos>a.</pos> <ety>[F.]</ety> <def>Sought out with care; choice.</def> <specif>Hence:</specif> <def>of rare quality, elegance, or attractiveness; peculiar and refined in kind.</def><br/
+\'d8<hw>Re*cher`ch<eacute/"</hw> <pr>(r<eit/*sh<acir/r`sh<asl/")</pr>, <pos>a.</pos> <ety>[F.]</ety> <def>Sought out with care; choice.</def> <specif>Hence:</specif> <def>of rare quality, elegance, or attractiveness; peculiar and refined in kind.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rechless</ent><br/
@@ -8670,7 +8670,7 @@ And draws and blows <qex>reciprocating</qex> air.</q> <rj><qau>Dryden.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Recitativo</ent><br/
-||<hw>Rec`i*ta*ti"vo</hw> <pr>(r<ecr/s`<icr/*t<adot/*t<emac/"v<osl/)</pr>, <pos>n.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Recitative.</def><br/
+\'d8<hw>Rec`i*ta*ti"vo</hw> <pr>(r<ecr/s`<icr/*t<adot/*t<emac/"v<osl/)</pr>, <pos>n.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Recitative.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Recite</ent><br/
@@ -9483,7 +9483,7 @@ My rash, but more unfortunate, misdeed.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reconcentrado</ent><br/
-||<hw>Re*con`cen*tra"do</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., p.p. of <ets>reconcentrar</ets> to inclose, to reconcentrate.]</ety> <def>Lit., one who has been reconcentrated; specif., in Cuba, the Philippines, etc., during the revolution of 1895-98, one of the rural noncombatants who were concentrated by the military authorities in areas surrounding the fortified towns, and later were reconcentrated in the smaller limits of the towns themselves.</def><br/
+\'d8<hw>Re*con`cen*tra"do</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., p.p. of <ets>reconcentrar</ets> to inclose, to reconcentrate.]</ety> <def>Lit., one who has been reconcentrated; specif., in Cuba, the Philippines, etc., during the revolution of 1895-98, one of the rural noncombatants who were concentrated by the military authorities in areas surrounding the fortified towns, and later were reconcentrated in the smaller limits of the towns themselves.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Reconcentrate</ent><br/
@@ -10365,7 +10365,7 @@ Turned <qex>recreant</qex> to God, ingrate and false.</q> <rj><qau>Milton.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rectitis</ent><br/
-||<hw>Rec*ti"tis</hw> <pr>(r?k*t?"t?s)</pr>, <pos>n.</pos> <ety>[NL. See <er>Rectum</er>, and <er>-itis</er>.]</ety> <fld>(Med.)</fld> <def>Proctitis.</def>  <rj><au>Dunglison.</au></rj><br/
+\'d8<hw>Rec*ti"tis</hw> <pr>(r?k*t?"t?s)</pr>, <pos>n.</pos> <ety>[NL. See <er>Rectum</er>, and <er>-itis</er>.]</ety> <fld>(Med.)</fld> <def>Proctitis.</def>  <rj><au>Dunglison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rectitude</ent><br/
@@ -10465,7 +10465,7 @@ Turned <qex>recreant</qex> to God, ingrate and false.</q> <rj><qau>Milton.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rectrix</ent><br/
-||<hw>Rec"trix</hw> <pr>(-tr?ks)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rectrices</plw> <pr>(-tr<?/"s<?/z)</pr>.</plu> <ety>[L., fem. of <ets>rector</ets>.]</ety> <sn>1.</sn> <def>A governess; a rectoress.</def><br/
+\'d8<hw>Rec"trix</hw> <pr>(-tr?ks)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rectrices</plw> <pr>(-tr<?/"s<?/z)</pr>.</plu> <ety>[L., fem. of <ets>rector</ets>.]</ety> <sn>1.</sn> <def>A governess; a rectoress.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>One of the quill feathers of the tail of a bird.</def><br/
@@ -10476,7 +10476,7 @@ Turned <qex>recreant</qex> to God, ingrate and false.</q> <rj><qau>Milton.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rectus</ent><br/
-||<hw>Rec"tus</hw> <pr>(-t?s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Recti</plw> <pr>(-t<?/)</pr>.</plu> <ety>[NL., fr. L. <ets>regere</ets> to keep straight.]</ety> <fld>(Anat.)</fld> <def>A straight muscle; <as>as, the <ex>recti</ex> of the eye</as>.</def><br/
+\'d8<hw>Rec"tus</hw> <pr>(-t?s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Recti</plw> <pr>(-t<?/)</pr>.</plu> <ety>[NL., fr. L. <ets>regere</ets> to keep straight.]</ety> <fld>(Anat.)</fld> <def>A straight muscle; <as>as, the <ex>recti</ex> of the eye</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Recubation</ent><br/
@@ -10753,7 +10753,7 @@ Might avail his sickness to <qex>recure</qex>.</q> <rj><qau>Lydgate.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Redacteur</ent><br/
-||<hw>R<eacute/`dac`teur"</hw> <pr>(r<asl/`d<adot/k`t<etil/r")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>See <er>Redactor</er>.</def><br/
+\'d8<hw>R<eacute/`dac`teur"</hw> <pr>(r<asl/`d<adot/k`t<etil/r")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>See <er>Redactor</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Redaction</ent><br/
@@ -10849,7 +10849,7 @@ Might avail his sickness to <qex>recure</qex>.</q> <rj><qau>Lydgate.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reddendum</ent><br/
-||<hw>Red*den"dum</hw> <pr>(r?d*d?n"d?m)</pr>, <pos>n.</pos> <ety>[Neut. of L. <ets>reddendus</ets> that must be given back or yielded, gerundive of <ets>reddere</ets>. See <er>Reddition</er>.]</ety> <fld>(Law)</fld> <def>A clause in a deed by which some new thing is reserved out of what had been granted before; the clause by which rent is reserved in a lease.</def>  <rj><au>Cruise.</au></rj><br/
+\'d8<hw>Red*den"dum</hw> <pr>(r?d*d?n"d?m)</pr>, <pos>n.</pos> <ety>[Neut. of L. <ets>reddendus</ets> that must be given back or yielded, gerundive of <ets>reddere</ets>. See <er>Reddition</er>.]</ety> <fld>(Law)</fld> <def>A clause in a deed by which some new thing is reserved out of what had been granted before; the clause by which rent is reserved in a lease.</def>  <rj><au>Cruise.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reddish</ent><br/
@@ -11161,7 +11161,7 @@ Man's mortal crime?</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Redia</ent><br/
-||<hw>Re"di*a</hw> <pr>(r?"d?*?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Rediae</plw> (-<emac/), E. <plw>Redias</plw> <pr>(-<?/z)</pr>.</plu> <ety>[NL.; of uncertain origin.]</ety> <fld>(Zool.)</fld> <def>A kind of larva, or nurse, which is prroduced within the sporocyst of certain trematodes by asexual generation. It in turn produces, in the same way, either another generation of rediae, or else cercariae within its own body. Called also <altname>proscolex</altname>, and <altname>nurse</altname>. See <xex>Illustration</xex> in Appendix.</def><br/
+\'d8<hw>Re"di*a</hw> <pr>(r?"d?*?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Rediae</plw> (-<emac/), E. <plw>Redias</plw> <pr>(-<?/z)</pr>.</plu> <ety>[NL.; of uncertain origin.]</ety> <fld>(Zool.)</fld> <def>A kind of larva, or nurse, which is prroduced within the sporocyst of certain trematodes by asexual generation. It in turn produces, in the same way, either another generation of rediae, or else cercariae within its own body. Called also <altname>proscolex</altname>, and <altname>nurse</altname>. See <xex>Illustration</xex> in Appendix.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Redient</ent><br/
@@ -11169,7 +11169,7 @@ Man's mortal crime?</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Redif</ent><br/
-||<hw>Re*dif"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Turk. <ets>red<imac/f</ets>, fr. <ets>rad<imac/f</ets>, orig., he who rides behind another on the same beast, fr. <ets>radaf</ets> to follow.]</ety> <def>A reserve force in the Turkish army, or a soldier of the reserve. See <er>Army organization</er>, above.</def><br/
+\'d8<hw>Re*dif"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Turk. <ets>red<imac/f</ets>, fr. <ets>rad<imac/f</ets>, orig., he who rides behind another on the same beast, fr. <ets>radaf</ets> to follow.]</ety> <def>A reserve force in the Turkish army, or a soldier of the reserve. See <er>Army organization</er>, above.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Redigest</ent><br/
@@ -11265,7 +11265,7 @@ Man's mortal crime?</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Redivivus</ent><br/
-||<hw>Red`i*vi"vus</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L., fr. pref. <ets>red-</ets>, <ets>re-</ets>, re- + <ets>vivus</ets> alive.]</ety> <def>Living again; revived; restored.</def><br/
+\'d8<hw>Red`i*vi"vus</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L., fr. pref. <ets>red-</ets>, <ets>re-</ets>, re- + <ets>vivus</ets> alive.]</ety> <def>Living again; revived; restored.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Redlegs</ent><br/
@@ -11724,7 +11724,7 @@ And equal to <qex>reduce</qex> me to my dust.</q> <rj><qau>Milton.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reduit</ent><br/
-||<hw>R<eacute/`duit"</hw> <pr>(r?`dw?")</pr>, <pos>n.</pos> <ety>[F. See <er>Redoubt</er>, <pos>n.</pos> ]</ety> <fld>(Fort.)</fld> <def>A central or retired work within any other work.</def><br/
+\'d8<hw>R<eacute/`duit"</hw> <pr>(r?`dw?")</pr>, <pos>n.</pos> <ety>[F. See <er>Redoubt</er>, <pos>n.</pos> ]</ety> <fld>(Fort.)</fld> <def>A central or retired work within any other work.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Redundancy</ent><br/
@@ -12444,7 +12444,7 @@ Soon dried, and on the <qex>reeking</qex> moisture fed.</q> <rj><qau>Milton.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Refait</ent><br/
-||<hw>Re*fait"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Card Playing)</fld> <def>A drawn game;</def> <specif>specif.</specif> <fld>(Trente et quarante)</fld>, <def>A state of the game in which the aggregate pip value of cards dealt to red equals that of those dealt to black. All bets are then off; unless the value is 31, in which case the banker wins half the stakes.</def><br/
+\'d8<hw>Re*fait"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Card Playing)</fld> <def>A drawn game;</def> <specif>specif.</specif> <fld>(Trente et quarante)</fld>, <def>A state of the game in which the aggregate pip value of cards dealt to red equals that of those dealt to black. All bets are then off; unless the value is 31, in which case the banker wins half the stakes.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Refar</ent><br/
@@ -12594,7 +12594,7 @@ The earth regard as of that whole a part.</q> <rj><qau>Blackmore.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Referendum</ent><br/
-||<hw>Ref`er*en"dum</hw> <pr>(r?f`?r*?n"d?m)</pr>, <pos>n.</pos>; <plu>pl. <plw>-da</plw> <pr>(#)</pr></plu> <ety>[Gerundive fr. L. <ets>referre</ets>. See <er>Refer</er>.]</ety> <sn>1.</sn> <def>A diplomatic agent's note asking for instructions from his government concerning a particular matter or point.</def><br/
+\'d8<hw>Ref`er*en"dum</hw> <pr>(r?f`?r*?n"d?m)</pr>, <pos>n.</pos>; <plu>pl. <plw>-da</plw> <pr>(#)</pr></plu> <ety>[Gerundive fr. L. <ets>referre</ets>. See <er>Refer</er>.]</ety> <sn>1.</sn> <def>A diplomatic agent's note asking for instructions from his government concerning a particular matter or point.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The right to approve or reject by popular vote a meassure passed upon by a legislature.</def><br/
@@ -12901,7 +12901,7 @@ Its poisonous venom on the royal dead.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reflet</ent><br/
-||<hw>Re*flet"</hw> <pr>(r<eit/*fl<ecr/")</pr>, <pos>n.</pos> <ety>[F., reflection. See <er>Reflect</er>.]</ety> <def>Luster; special brilliancy of surface; -- used esp. in ceramics to denote the peculiar metallic brilliancy seen in lustered pottery such as majolica; <as>as, silver <ex>reflet</ex>; gold <ex>reflet</ex></as>.</def><br/
+\'d8<hw>Re*flet"</hw> <pr>(r<eit/*fl<ecr/")</pr>, <pos>n.</pos> <ety>[F., reflection. See <er>Reflect</er>.]</ety> <def>Luster; special brilliancy of surface; -- used esp. in ceramics to denote the peculiar metallic brilliancy seen in lustered pottery such as majolica; <as>as, silver <ex>reflet</ex>; gold <ex>reflet</ex></as>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Reflex</ent><br/
@@ -13494,7 +13494,7 @@ The shield of Pallas, and renew their gold.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Refrigerium</ent><br/
-||<hw>Ref`ri*ge"ri*um</hw> <pr>(r?f`r?*j?"r?*?m)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Cooling refreshment; refrigeration.</def> <mark>[Obs.]</mark>  <rj><au>South.</au></rj><br/
+\'d8<hw>Ref`ri*ge"ri*um</hw> <pr>(r?f`r?*j?"r?*?m)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Cooling refreshment; refrigeration.</def> <mark>[Obs.]</mark>  <rj><au>South.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Refringency</ent><br/
@@ -13763,7 +13763,7 @@ The meanest tool that he may chance to use.</q> <rj><qau>Herbert.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Regale</ent><br/
-||<hw>Re*ga"le</hw> <pr>(r<esl/*g<amac/"l<esl/)</pr>, <pos>n.</pos> <ety>[LL. <ets>regale</ets>, pl. <ets>regalia</ets>, fr. L. <ets>regalis</ets>: cf. F. <ets>r<eacute/gale</ets>. See <er>Regal</er>.]</ety> <def>A prerogative of royalty.</def> <mark>[R.]</mark>  <rj><au>Johnson.</au></rj><br/
+\'d8<hw>Re*ga"le</hw> <pr>(r<esl/*g<amac/"l<esl/)</pr>, <pos>n.</pos> <ety>[LL. <ets>regale</ets>, pl. <ets>regalia</ets>, fr. L. <ets>regalis</ets>: cf. F. <ets>r<eacute/gale</ets>. See <er>Regal</er>.]</ety> <def>A prerogative of royalty.</def> <mark>[R.]</mark>  <rj><au>Johnson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Regale</ent><br/
@@ -14210,11 +14210,11 @@ Doth with a twofold vigor lift me up.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Regidor</ent><br/
-||<hw>Re`gi*dor"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>-dores</plw> <pr>(#)</pr></plu>. <ety>[Sp., fr. <ets>regir</ets> to rule, L. <ets>regere</ets>.]</ety> <def>One of a body of officers charged with the government of Spanish municipalities, corresponding to the English alderman.</def><br/
+\'d8<hw>Re`gi*dor"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>-dores</plw> <pr>(#)</pr></plu>. <ety>[Sp., fr. <ets>regir</ets> to rule, L. <ets>regere</ets>.]</ety> <def>One of a body of officers charged with the government of Spanish municipalities, corresponding to the English alderman.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Regie</ent><br/
-||<hw>R<eacute/`gie"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>Direct management of public finance or public works by agents of the government for government account; -- opposed to the <contr><colf>contract system</colf></contr>.</def><br/
+\'d8<hw>R<eacute/`gie"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>Direct management of public finance or public works by agents of the government for government account; -- opposed to the <contr><colf>contract system</colf></contr>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <specif>Specif.:</specif> <def>The system of collecting taxes by officials who have either no interest or a very small interest in the proceeds, as distinguished from the ancient system of farming them out.</def><br/
@@ -14228,7 +14228,7 @@ Doth with a twofold vigor lift me up.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Regime</ent><br/
-||<hw>R<eacute/`gime"</hw> <pr>(r?`zh?m")</pr>, <pos>n.</pos> <ety>[F. See <er>Regimen</er>.]</ety> <sn>1.</sn> <def>Mode or system of rule or management; character of government, or of the prevailing social system.</def><br/
+\'d8<hw>R<eacute/`gime"</hw> <pr>(r?`zh?m")</pr>, <pos>n.</pos> <ety>[F. See <er>Regimen</er>.]</ety> <sn>1.</sn> <def>Mode or system of rule or management; character of government, or of the prevailing social system.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>I dream . . . of the new <qex>r<eacute/gime</qex> which is to come.</q> <rj><qau>H. Kingsley.</qau></rj><br/
@@ -14449,7 +14449,7 @@ Doth rend the <qex>region</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Regius</ent><br/
-||<hw>Re"gi*us</hw> <pr>(r?l"?*?s)</pr>, <pos>a.</pos> <ety>[L. <ets>regius</ets>, from <ets>rex</ets>, <ets>regis</ets>, a king.]</ety> <def>Of or pertaining to a king; royal.</def><br/
+\'d8<hw>Re"gi*us</hw> <pr>(r?l"?*?s)</pr>, <pos>a.</pos> <ety>[L. <ets>regius</ets>, from <ets>rex</ets>, <ets>regis</ets>, a king.]</ety> <def>Of or pertaining to a king; royal.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Regius professor</b></col>, <cd>an incumbent of a professorship founded by royal bounty, as in an English university.</cd></cs><br/
@@ -14482,7 +14482,7 @@ Doth rend the <qex>region</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Regma</ent><br/
-||<hw>Reg"ma</hw> <pr>(r?g"m?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/<?/<?/<?/, -<?/<?/<?/, fracture, fr. <?/<?/<?/<?/<?/<?/ to break.]</ety> <fld>(Bot.)</fld> <def>A kind of dry fruit, consisting of three or more cells, each which at length breaks open at the inner angle.</def><br/
+\'d8<hw>Reg"ma</hw> <pr>(r?g"m?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/<?/<?/<?/, -<?/<?/<?/, fracture, fr. <?/<?/<?/<?/<?/<?/ to break.]</ety> <fld>(Bot.)</fld> <def>A kind of dry fruit, consisting of three or more cells, each which at length breaks open at the inner angle.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Regmacarp</ent><br/
@@ -14728,7 +14728,7 @@ Saw nothing to <qex>regret</qex>, or there to fear.</q> <rj><qau>Pope.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Regularia</ent><br/
-||<hw>Reg`u*la"ri*a</hw> <pr>(r<ecr/g`<usl/*l<amac/"r<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A division of Echini which includes the circular, or regular, sea urchins.</def><br/
+\'d8<hw>Reg`u*la"ri*a</hw> <pr>(r<ecr/g`<usl/*l<amac/"r<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A division of Echini which includes the circular, or regular, sea urchins.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Regularity</ent><br/
@@ -14947,15 +14947,15 @@ Saw nothing to <qex>regret</qex>, or there to fear.</q> <rj><qau>Pope.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reichsrath</ent><br/
-||<hw>Reichs"rath`</hw> <pr>(r?ks"r?t)</pr>, <pos>n.</pos> <ety>[G]</ety> <def>The parliament of Austria (exclusive of Hungary, which has its own diet, or parliament). It consists of an Upper and a Lower House, or a House of Lords and a House of Representatives.</def><br/
+\'d8<hw>Reichs"rath`</hw> <pr>(r?ks"r?t)</pr>, <pos>n.</pos> <ety>[G]</ety> <def>The parliament of Austria (exclusive of Hungary, which has its own diet, or parliament). It consists of an Upper and a Lower House, or a House of Lords and a House of Representatives.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reichsstand</ent><br/
-||<hw>Reichs"stand`</hw> <pr>(r?ks"st?t`)</pr>, <pos>n.</pos> <ety>[G.]</ety> <def>A free city of the former German empire.</def><br/
+\'d8<hw>Reichs"stand`</hw> <pr>(r?ks"st?t`)</pr>, <pos>n.</pos> <ety>[G.]</ety> <def>A free city of the former German empire.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reichstag</ent><br/
-||<hw>Reichs"tag`</hw> <pr>(r?ks"t?g`)</pr>, <pos>n.</pos> <ety>[G.]</ety> <sn>1.</sn> <mark>[Note: from the 1913 definition]</mark> <def>The Diet, or House of Representatives, of the German empire (and of the Weimar Republic), which was composed of members elected for a term of three years by the direct vote of the people. This term is no longer (in 1997) applied to the German parliament. See also <er>Bundesrath</er>.</def><br/
+\'d8<hw>Reichs"tag`</hw> <pr>(r?ks"t?g`)</pr>, <pos>n.</pos> <ety>[G.]</ety> <sn>1.</sn> <mark>[Note: from the 1913 definition]</mark> <def>The Diet, or House of Representatives, of the German empire (and of the Weimar Republic), which was composed of members elected for a term of three years by the direct vote of the people. This term is no longer (in 1997) applied to the German parliament. See also <er>Bundesrath</er>.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><sn>2.</sn> <mark>[Note: from the 1913 definition]</mark> <def>The national representative body of Hungary, consisting of a House of Magnates (including archdukes, peers, high officials of the Roman Catholic, Greek, and Protestant Churches, and certain other dignitaries) and a House of Representatives (in 1912 consisting of 453 members). See <er>Legislative</er>, <er>Diet</er>.</def> <mark>[archaic]</mark> <br/
@@ -15384,7 +15384,7 @@ Be <qex>reined</qex> again to temperance.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reis</ent><br/
-||<hw>Re`is</hw> <pr>(r?"?s <or/ r?z)</pr>, <pos>n.</pos> <ety>[Pg., pl. of <ets>real</ets>, an ancient Portuguese coin.]</ety> <def>The word is used as a Portuguese designation of money of account, one hundred reis being about equal in value to eleven cents.</def><br/
+\'d8<hw>Re`is</hw> <pr>(r?"?s <or/ r?z)</pr>, <pos>n.</pos> <ety>[Pg., pl. of <ets>real</ets>, an ancient Portuguese coin.]</ety> <def>The word is used as a Portuguese designation of money of account, one hundred reis being about equal in value to eleven cents.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reis</ent><br/
@@ -15392,7 +15392,7 @@ Be <qex>reined</qex> again to temperance.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reis Effendi</ent><br/
-||<hw>Reis` Ef*fen"di</hw> <pr>(r?s` ?f*f?n"d?)</pr>. <ety>[See 2d <er>Reis</er>, and <er>Effendi</er>.]</ety> <def>A title formerly given to one of the chief Turkish officers of state.  He was chancellor of the empire, etc.</def><br/
+\'d8<hw>Reis` Ef*fen"di</hw> <pr>(r?s` ?f*f?n"d?)</pr>. <ety>[See 2d <er>Reis</er>, and <er>Effendi</er>.]</ety> <def>A title formerly given to one of the chief Turkish officers of state.  He was chancellor of the empire, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reissner's membrane</ent><br/
@@ -15416,7 +15416,7 @@ Be <qex>reined</qex> again to temperance.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reiter</ent><br/
-||<hw>Rei"ter</hw> <pr>(r?"t?r)</pr>, <pos>n.</pos> <ety>[G., rider.]</ety> <def>A German cavalry soldier of the fourteenth and fifteenth centuries.</def><br/
+\'d8<hw>Rei"ter</hw> <pr>(r?"t?r)</pr>, <pos>n.</pos> <ety>[G., rider.]</ety> <def>A German cavalry soldier of the fourteenth and fifteenth centuries.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reiterant</ent><br/
@@ -15491,7 +15491,7 @@ Than this; which to <qex>reiterate</qex> were sin.</q> <rj><qau>Shak.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rejectamenta</ent><br/
-||<hw>Re*jec`ta*men"ta</hw> <pr>(r?-j?k`t?-m?n"ta)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>rejectare</ets>, v. intens. fr. <ets>rejicere</ets>. See <er>Reject</er>.]</ety> <def>Things thrown out or away; especially, things excreted by a living organism.</def>  <rj><au>J. Fleming.</au></rj><br/
+\'d8<hw>Re*jec`ta*men"ta</hw> <pr>(r?-j?k`t?-m?n"ta)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>rejectare</ets>, v. intens. fr. <ets>rejicere</ets>. See <er>Reject</er>.]</ety> <def>Things thrown out or away; especially, things excreted by a living organism.</def>  <rj><au>J. Fleming.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rejectaneous</ent><br/
@@ -15706,7 +15706,7 @@ Than this; which to <qex>reiterate</qex> were sin.</q> <rj><qau>Shak.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Relais</ent><br/
-||<hw>Re*lais"</hw> <pr>(r<eit/*l<asl/")</pr>, <pos>n.</pos> <ety>[F. See <er>Relay</er>, <pos>n.</pos>]</ety> <fld>(Fort.)</fld> <def>A narrow space between the foot of the rampart and the scarp of the ditch, serving to receive the earth that may crumble off or be washed down, and prevent its falling into the ditch.</def>  <rj><au>Wilhelm.</au></rj><br/
+\'d8<hw>Re*lais"</hw> <pr>(r<eit/*l<asl/")</pr>, <pos>n.</pos> <ety>[F. See <er>Relay</er>, <pos>n.</pos>]</ety> <fld>(Fort.)</fld> <def>A narrow space between the foot of the rampart and the scarp of the ditch, serving to receive the earth that may crumble off or be washed down, and prevent its falling into the ditch.</def>  <rj><au>Wilhelm.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reland</ent><br/
@@ -16442,7 +16442,7 @@ That, where it seizes, all <qex>relief</qex> is vain.</q> <rj><qau>Dryden.</qau>
 
 <p><ent>Religieux</ent><br/
 <ent>Religieuse</ent><br/
-<mhw>{ ||<hw>Re*li`gi`euse"</hw> <pr>(r<eit/-l?`zh?`?z")</pr>, <pos>n. f.</pos> ||<hw>Re*li`gi`eux"</hw> <pr>(r<eit/-l?`zh?`?")</pr>, <pos>n. m.</pos> }</mhw> <ety>[F.]</ety> <def>A person bound by monastic vows; a nun; a monk.</def><br/
+<mhw>{ \'d8<hw>Re*li`gi`euse"</hw> <pr>(r<eit/-l?`zh?`?z")</pr>, <pos>n. f.</pos> \'d8<hw>Re*li`gi`eux"</hw> <pr>(r<eit/-l?`zh?`?")</pr>, <pos>n. m.</pos> }</mhw> <ety>[F.]</ety> <def>A person bound by monastic vows; a nun; a monk.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Religion</ent><br/
@@ -16625,7 +16625,7 @@ The sun, that looks upon his worshiper.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reliquiae</ent><br/
-||<hw>Re*liq"ui*ae</hw> <pr>(r?-l?k"w?-?)</pr>, <pos>n. pl.</pos> <ety>[L. See <er>Relic</er>.]</ety><br/
+\'d8<hw>Re*liq"ui*ae</hw> <pr>(r?-l?k"w?-?)</pr>, <pos>n. pl.</pos> <ety>[L. See <er>Relic</er>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>Remains of the dead; organic remains; relics.</def><br/
@@ -16982,7 +16982,7 @@ After a voyage.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Remanet</ent><br/
-||<hw>Rem"a*net</hw> <pr>(-n?t)</pr>, <pos>n.</pos> <ety>[L., it remains.]</ety> <fld>(Legal Practice)</fld> <def>A case for trial which can not be tried during the term; a postponed case.</def> <mark>[Eng.]</mark><br/
+\'d8<hw>Rem"a*net</hw> <pr>(-n?t)</pr>, <pos>n.</pos> <ety>[L., it remains.]</ety> <fld>(Legal Practice)</fld> <def>A case for trial which can not be tried during the term; a postponed case.</def> <mark>[Eng.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Re-mark</ent><br/
@@ -17079,7 +17079,7 @@ Beneath the visiting moon.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Remblai</ent><br/
-||<hw>Rem`blai"</hw> <pr>(r?n`bl?")</pr>, <pos>n.</pos> <ety>[F., fr. remblayer to fill up an excavation, to embank.]</ety> <fld>(Fort. & Engin.)</fld> <def>Earth or materials made into a bank after having been excavated.</def><br/
+\'d8<hw>Rem`blai"</hw> <pr>(r?n`bl?")</pr>, <pos>n.</pos> <ety>[F., fr. remblayer to fill up an excavation, to embank.]</ety> <fld>(Fort. & Engin.)</fld> <def>Earth or materials made into a bank after having been excavated.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Remble</ent><br/
@@ -17341,7 +17341,7 @@ Ere my <qex>remembrance</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Remiges</ent><br/
-||<hw>Rem"i*ges</hw> <pr>(r?m"?*j?z)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Remex</singw>. (r<?/"m<?/ks)</sing>. <ety>[L. <ets>remex</ets>, <ets>-igis</ets>, an oarsman.]</ety> <fld>(Zool.)</fld> <def>The quill feathers of the wings of a bird.</def><br/
+\'d8<hw>Rem"i*ges</hw> <pr>(r?m"?*j?z)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Remex</singw>. (r<?/"m<?/ks)</sing>. <ety>[L. <ets>remex</ets>, <ets>-igis</ets>, an oarsman.]</ety> <fld>(Zool.)</fld> <def>The quill feathers of the wings of a bird.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Remigrate</ent><br/
@@ -17586,7 +17586,7 @@ Will gain thee no <qex>remission</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Remittitur</ent><br/
-||<hw>Re*mit"ti*tur</hw> <pr>(-t?-t?r)</pr>, <pos>n.</pos> <ety>[L., (it) is remitted.]</ety> <fld>(Law)</fld> <sd>(a)</sd> <def>A remission or surrender, -- <stype>remittitur damnut</stype> being a remission of excess of damages.</def> <sd>(b)</sd> <def>A sending back, as when a record is remitted by a superior to an inferior court.</def>  <rj><au>Wharton.</au></rj><br/
+\'d8<hw>Re*mit"ti*tur</hw> <pr>(-t?-t?r)</pr>, <pos>n.</pos> <ety>[L., (it) is remitted.]</ety> <fld>(Law)</fld> <sd>(a)</sd> <def>A remission or surrender, -- <stype>remittitur damnut</stype> being a remission of excess of damages.</def> <sd>(b)</sd> <def>A sending back, as when a record is remitted by a superior to an inferior court.</def>  <rj><au>Wharton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Remittor</ent><br/
@@ -17648,7 +17648,7 @@ To tire your patience.</q> <rj><qau>Dryden.</qau></rj><br/
 
 <p><ent>Remoulad</ent><br/
 <ent>Remolade</ent><br/
-<mhw>{ ||<hw>R<eacute/`mo`lade"</hw> <pr>(r?`m?`l?d")</pr>, ||<hw>R<eacute/`mou`lad"</hw> <pr>(r?`m??`l?d")</pr>, }</mhw> <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>A kind of piquant sauce or salad dressing resembling mayonnaise.</def><br/
+<mhw>{ \'d8<hw>R<eacute/`mo`lade"</hw> <pr>(r?`m?`l?d")</pr>, \'d8<hw>R<eacute/`mou`lad"</hw> <pr>(r?`m??`l?d")</pr>, }</mhw> <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>A kind of piquant sauce or salad dressing resembling mayonnaise.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>An ointment used in farriery.</def><br/
@@ -17734,11 +17734,11 @@ Than let him be so lost.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Remontoir</ent><br/
-||<hw>Re*mon`toir"</hw> <pr>(r<it>e</it>-m<er>?n</er>"tw?r"; E. r?-m?n"tw?r)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Horology)</fld> <def>See under <er>Escapement</er>.</def><br/
+\'d8<hw>Re*mon`toir"</hw> <pr>(r<it>e</it>-m<er>?n</er>"tw?r"; E. r?-m?n"tw?r)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Horology)</fld> <def>See under <er>Escapement</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Remora</ent><br/
-||<hw>Rem"o*ra</hw> <pr>(r?m"?*r?)</pr>, <pos>n.</pos> <ety>[L.: cf. F. <ets>r<eacute/mora</ets>.]</ety><br/
+\'d8<hw>Rem"o*ra</hw> <pr>(r?m"?*r?)</pr>, <pos>n.</pos> <ety>[L.: cf. F. <ets>r<eacute/mora</ets>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>Delay; obstacle; hindrance.</def> <mark>[Obs.]</mark>  <rj><au>Milton.</au></rj><br/
@@ -18013,7 +18013,7 @@ Her fate <qex>remurmur</qex> to the silver flood.</q> <rj><qau>Pope.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Renaissance</ent><br/
-||<hw>Re*nais`sance"</hw> <pr>(F. r<eit/-n<asl/`s<aum/Ns"; E. r<esl/-n<amac/s"s<ait/ns)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>rena<icir/tre</ets> to be born again.  Cf. <er>Renascence</er>.]</ety> <def>A new birth, or revival.</def> Specifically: <sd>(a)</sd> <def>The transitional movement in Europe, marked by the revival of classical learning and art in Italy in the 15th century, and the similar revival following in other countries.</def> <sd>(b)</sd> <def>The style of art which prevailed at this epoch.</def><br/
+\'d8<hw>Re*nais`sance"</hw> <pr>(F. r<eit/-n<asl/`s<aum/Ns"; E. r<esl/-n<amac/s"s<ait/ns)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>rena<icir/tre</ets> to be born again.  Cf. <er>Renascence</er>.]</ety> <def>A new birth, or revival.</def> Specifically: <sd>(a)</sd> <def>The transitional movement in Europe, marked by the revival of classical learning and art in Italy in the 15th century, and the similar revival following in other countries.</def> <sd>(b)</sd> <def>The style of art which prevailed at this epoch.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The <qex>Renaissance</qex> was rather the last stage of the Middle Ages, emerging from ecclesiastical and feudal despotism, developing what was original in mediaeval ideas by the light of classic arts and letters.</q> <rj><qau>J. A. Symonds (Encyc. Brit.).</qau></rj><br/
@@ -18712,7 +18712,7 @@ And liv'd, just as you see I do.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rente</ent><br/
-||<hw>Rente</hw> <pr>(r<aum/Nt)</pr>, <pos>n.</pos> <ety>[F. See <er>Rent</er> income.]</ety> <def>In France, interest payable by government on indebtedness; the bonds, shares, stocks, etc., which represent government indebtedness.</def><br/
+\'d8<hw>Rente</hw> <pr>(r<aum/Nt)</pr>, <pos>n.</pos> <ety>[F. See <er>Rent</er> income.]</ety> <def>In France, interest payable by government on indebtedness; the bonds, shares, stocks, etc., which represent government indebtedness.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Renter</ent><br/
@@ -18731,7 +18731,7 @@ And liv'd, just as you see I do.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rentier</ent><br/
-||<hw>Ren`tier"</hw> <pr>(r?N`ty?")</pr>, <pos>n.</pos> <ety>[F. See 5th <er>Rent</er>.]</ety> <def>One who has a fixed income, as from lands, stocks, or the like.</def><br/
+\'d8<hw>Ren`tier"</hw> <pr>(r?N`ty?")</pr>, <pos>n.</pos> <ety>[F. See 5th <er>Rent</er>.]</ety> <def>One who has a fixed income, as from lands, stocks, or the like.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Renumerate</ent><br/
@@ -18763,7 +18763,7 @@ And liv'd, just as you see I do.</q> <rj><qau>Pope.</qau></rj><br/
 
 <p><ent>Renverse</ent><br/
 <ent>Renverse</ent><br/
-<mhw>{ <hw>Ren*verse"</hw> <pr>(r?n*v?rs")</pr>, <it>or</it>  ||<hw>Ren`ver`s<eacute/"</hw> <pr>(r?n`v?r`s?")</pr> }</mhw>, <pos>a.</pos> <ety>[F. <ets>renvers<eacute/</ets>, <ets>p. p.</ets> ]</ety> <fld>(Her.)</fld> <def>Reversed; set with the head downward; turned contrary to the natural position.</def><br/
+<mhw>{ <hw>Ren*verse"</hw> <pr>(r?n*v?rs")</pr>, <it>or</it>  \'d8<hw>Ren`ver`s<eacute/"</hw> <pr>(r?n`v?r`s?")</pr> }</mhw>, <pos>a.</pos> <ety>[F. <ets>renvers<eacute/</ets>, <ets>p. p.</ets> ]</ety> <fld>(Her.)</fld> <def>Reversed; set with the head downward; turned contrary to the natural position.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Renversement</ent><br/
@@ -19002,7 +19002,7 @@ Hear but the youngster's <qex>repartee</qex>.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Repartimiento</ent><br/
-||<hw>Re`par*ti`mi*en"to</hw> <pr>(r?`p?r-t?`m?-?n"t?)</pr>, <pos>n.</pos> <ety>[Sp., fr. <ets>repartir</ets> to divide.]</ety> <def>A partition or distribution, especially of slaves; also, an assessment of taxes.</def>  <rj><au>W. Irving.</au></rj><br/
+\'d8<hw>Re`par*ti`mi*en"to</hw> <pr>(r?`p?r-t?`m?-?n"t?)</pr>, <pos>n.</pos> <ety>[Sp., fr. <ets>repartir</ets> to divide.]</ety> <def>A partition or distribution, especially of slaves; also, an assessment of taxes.</def>  <rj><au>W. Irving.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Repartotion</ent><br/
@@ -19396,7 +19396,7 @@ With pity; of that pity then <qex>repents</qex>.</q> <rj><qau>Dryden.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Repertoire</ent><br/
-||<hw>R<eacute/`per`toire"</hw> <pr>(F. r<asl/`p<acir/r`tw<aum/r"; E. r<ecr/p"<etil/r*tw<aum/r)</pr>, <pos>n.</pos> <ety>[F. See <er>Repertory</er>.]</ety> <def>A list of dramas, operas, pieces, parts, etc., which a company or a person has rehearsed and is prepared to perform.</def><br/
+\'d8<hw>R<eacute/`per`toire"</hw> <pr>(F. r<asl/`p<acir/r`tw<aum/r"; E. r<ecr/p"<etil/r*tw<aum/r)</pr>, <pos>n.</pos> <ety>[F. See <er>Repertory</er>.]</ety> <def>A list of dramas, operas, pieces, parts, etc., which a company or a person has rehearsed and is prepared to perform.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Repertory</ent><br/
@@ -19464,7 +19464,7 @@ With pity; of that pity then <qex>repents</qex>.</q> <rj><qau>Dryden.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Repetitor</ent><br/
-||<hw>Rep"e*ti`tor</hw> <pr>(r?p"?-t?`t?r)</pr>, <pos>n.</pos> <ety>[Cf. L. <ets>repetitor</ets> a reclaimer.]</ety> <fld>(Ger.Univ.)</fld> <def>A private instructor.</def><br/
+\'d8<hw>Rep"e*ti`tor</hw> <pr>(r?p"?-t?`t?r)</pr>, <pos>n.</pos> <ety>[Cf. L. <ets>repetitor</ets> a reclaimer.]</ety> <fld>(Ger.Univ.)</fld> <def>A private instructor.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Repine</ent><br/
@@ -19497,7 +19497,7 @@ To serve mere engines to the ruling mind?</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Repkie</ent><br/
-||<hw>Rep"kie</hw> <pr>(r?p"k?)</pr>, <pos>n.</pos> <ety>[From the native name.]</ety> <fld>(Zool.)</fld> <def>Any edible sea urchin.</def> <mark>[Alaska]</mark><br/
+\'d8<hw>Rep"kie</hw> <pr>(r?p"k?)</pr>, <pos>n.</pos> <ety>[From the native name.]</ety> <fld>(Zool.)</fld> <def>Any edible sea urchin.</def> <mark>[Alaska]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Replace</ent><br/
@@ -19685,7 +19685,7 @@ The most <qex>replenished</qex> sweet work of nature.</q> <rj><qau>Shak.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Replica</ent><br/
-||<hw>Rep"li*ca</hw> <pr>(r?p"l?-k?)</pr>, <pos>n.</pos> <ety>[It. See <er>Reply</er>, <pos>v. & n.</pos>]</ety><br/
+\'d8<hw>Rep"li*ca</hw> <pr>(r?p"l?-k?)</pr>, <pos>n.</pos> <ety>[It. See <er>Reply</er>, <pos>v. & n.</pos>]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <fld>(Fine Arts)</fld> <def>A copy of a work of art, as of a picture or statue, made by the maker of the original.</def><br/
@@ -19737,7 +19737,7 @@ The most <qex>replenished</qex> sweet work of nature.</q> <rj><qau>Shak.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Replum</ent><br/
-||<hw>Re"plum</hw> <pr>(r?"pl?m)</pr>, <pos>n.</pos> <ety>[L., doorcase.]</ety> <fld>(Bot.)</fld> <def>The framework of some pods, as the cress, which remains after the valves drop off.</def>  <rj><au>Gray.</au></rj><br/
+\'d8<hw>Re"plum</hw> <pr>(r?"pl?m)</pr>, <pos>n.</pos> <ety>[L., doorcase.]</ety> <fld>(Bot.)</fld> <def>The framework of some pods, as the cress, which remains after the valves drop off.</def>  <rj><au>Gray.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reply</ent><br/
@@ -20023,11 +20023,11 @@ Your wearied virtue.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Repoussage</ent><br/
-||<hw>Re*pous`sage"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Repouss<eacute/</er>.]</ety> <fld>(Art)</fld> <def>Art or process of hammering out or pressing thin metal from the reverse side: (1) in producing repouss<eacute/ work; (2) in leveling up any part of an etched plate that has been worked so as to cause a depression.</def><br/
+\'d8<hw>Re*pous`sage"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Repouss<eacute/</er>.]</ety> <fld>(Art)</fld> <def>Art or process of hammering out or pressing thin metal from the reverse side: (1) in producing repouss<eacute/ work; (2) in leveling up any part of an etched plate that has been worked so as to cause a depression.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Repousse</ent><br/
-||<hw>Re*pous`s<eacute/"</hw> <pr>(r<it>e</it> -p??`s?")</pr>, <pos>a.</pos> <ety>[F., p. p. of <ets>repousser</ets> to thrust back; pref <ets>re-</ets> + <ets>pousser</ets> to push. See <er>Push</er>.]</ety> <sd>(a)</sd> <def>Formed in relief, as a pattern on metal.</def> <sd>(b)</sd> <def>Ornamented with patterns in relief made by pressing or hammering on the reverse side; -- said of thin metal, or of a vessel made of thin metal.</def> -- <def2><pos>n.</pos> <def>Repouss<eacute/ work.</def></def2><br/
+\'d8<hw>Re*pous`s<eacute/"</hw> <pr>(r<it>e</it> -p??`s?")</pr>, <pos>a.</pos> <ety>[F., p. p. of <ets>repousser</ets> to thrust back; pref <ets>re-</ets> + <ets>pousser</ets> to push. See <er>Push</er>.]</ety> <sd>(a)</sd> <def>Formed in relief, as a pattern on metal.</def> <sd>(b)</sd> <def>Ornamented with patterns in relief made by pressing or hammering on the reverse side; -- said of thin metal, or of a vessel made of thin metal.</def> -- <def2><pos>n.</pos> <def>Repouss<eacute/ work.</def></def2><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Repouss<eacute/ work</b></col>, <cd>ornamentation of metal in relief by pressing or hammering on the reverse side.</cd></cs><br/
@@ -20742,7 +20742,7 @@ By spirits <qex>reprobate</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reptantia</ent><br/
-||<hw>Rep*tan"ti*a</hw> <pr>(r?p-t?n"sh?-?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A division of gastropods; the Pectinibranchiata.</def><br/
+\'d8<hw>Rep*tan"ti*a</hw> <pr>(r?p-t?n"sh?-?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A division of gastropods; the Pectinibranchiata.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reptation</ent><br/
@@ -20787,7 +20787,7 @@ Will tread aside, and let the <qex>reptile</qex> live.</q> <rj><qau>Cowper.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reptilia</ent><br/
-||<hw>Rep*til"i*a</hw> <pr>(r?p-t?l"?-?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A class of air-breathing oviparous vertebrates, usually covered with scales or bony plates. The heart generally has two auricles and one ventricle. The development of the young is the same as that of birds.</def><br/
+\'d8<hw>Rep*til"i*a</hw> <pr>(r?p-t?l"?-?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A class of air-breathing oviparous vertebrates, usually covered with scales or bony plates. The heart generally has two auricles and one ventricle. The development of the young is the same as that of birds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ It is nearly related in many respects to Aves, or birds. The principal existing orders are <ord>Testidunata</ord> or <ord>Chelonia</ord> (turtles), <ord>Crocodilia</ord>, <ord>Lacertilla</ord> (lizards), <ord>Ophidia</ord> (serpents), and <ord>Rhynchocephala</ord>; the chief extinct orders are <ord>Dinosauria</ord>, <ord>Theremorpha</ord>, <ord>Mosasauria</ord>, <ord>Pterosauria</ord>, <ord>Plesiosauria</ord>, <ord>Ichtyosauria</ord>.</note><br/
@@ -21420,10 +21420,10 @@ That call fame on such gentle acts as these.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Res</ent><br/
-||<hw>Res</hw> <pr>(r?z)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Res</plw>.</plu> <ety>[L.]</ety> <def>A thing; the particular thing; a matter; a point.</def><br/
+\'d8<hw>Res</hw> <pr>(r?z)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Res</plw>.</plu> <ety>[L.]</ety> <def>A thing; the particular thing; a matter; a point.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs>||<col><b>Res gestae</b></col> <ety>[L., things done]</ety> <fld>(Law)</fld>, <cd>the facts which form the environment of a litigated issue.</cd> <au>Wharton.</au> -- ||<col><b>Res judicata</b></col> <mark>[L.]</mark> <fld>(Law)</fld>, <cd>a thing adjudicated; a matter no longer open to controversy.</cd></cs><br/
+<p><cs>\'d8<col><b>Res gestae</b></col> <ety>[L., things done]</ety> <fld>(Law)</fld>, <cd>the facts which form the environment of a litigated issue.</cd> <au>Wharton.</au> -- \'d8<col><b>Res judicata</b></col> <mark>[L.]</mark> <fld>(Law)</fld>, <cd>a thing adjudicated; a matter no longer open to controversy.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Resail</ent><br/
@@ -21624,7 +21624,7 @@ Rather than have false Proteus <qex>rescue</qex> me.</q> <rj><qau>Shak.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reseau</ent><br/
-||<hw>R<eacute/`seau"</hw> <pr>(r<amac/`z<omac/")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A network;</def> <specif>specif.</specif>: <sd>(a)</sd> <fld>(Astron.)</fld> <def>A system of lines forming small squares of standard size, which is photographed, by a separate exposure, on the same plate with star images to facilitate measurements, detect changes of the film, etc.</def> <sd>(b)</sd> <def>In lace, a ground or foundation of regular meshes, like network.</def><br/
+\'d8<hw>R<eacute/`seau"</hw> <pr>(r<amac/`z<omac/")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A network;</def> <specif>specif.</specif>: <sd>(a)</sd> <fld>(Astron.)</fld> <def>A system of lines forming small squares of standard size, which is photographed, by a separate exposure, on the same plate with star images to facilitate measurements, detect changes of the film, etc.</def> <sd>(b)</sd> <def>In lace, a ground or foundation of regular meshes, like network.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Resect</ent><br/
@@ -22165,7 +22165,7 @@ Left all <qex>reserve</qex>, and all the sex, behind.</q> <rj><qau>Prior.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Residencia</ent><br/
-||<hw>Re`si*den"cia</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>In Spanish countries, a court or trial held, sometimes as long as six months, by a newly elected official, as the governor of a province, to examine into the conduct of a predecessor.</def><br/
+\'d8<hw>Re`si*den"cia</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>In Spanish countries, a court or trial held, sometimes as long as six months, by a newly elected official, as the governor of a province, to examine into the conduct of a predecessor.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Residency</ent><br/
@@ -23457,7 +23457,7 @@ To the instruments divine <qex>respondence</qex> meet.</q> <rj><qau>Spenser.</qa
 <p><-- p. 1228 --></p>
 
 <p><ent>Respondentia</ent><br/
-||<hw>Re`spon*den"ti*a</hw> <pr>(r?`sp?n*d?n"sh?*?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Respondence</er>.]</ety> <fld>(Commercial Law)</fld> <def>A loan upon goods laden on board a ship. It differs from <xex>bottomry</xex>, which is a loan on the ship itself.</def>  <rj><au>Bouvier.</au></rj><br/
+\'d8<hw>Re`spon*den"ti*a</hw> <pr>(r?`sp?n*d?n"sh?*?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Respondence</er>.]</ety> <fld>(Commercial Law)</fld> <def>A loan upon goods laden on board a ship. It differs from <xex>bottomry</xex>, which is a loan on the ship itself.</def>  <rj><au>Bouvier.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Responsal</ent><br/
@@ -23550,7 +23550,7 @@ To the instruments divine <qex>respondence</qex> meet.</q> <rj><qau>Spenser.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ressaldar</ent><br/
-||<hw>Res"sal*dar</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets>ris<amac/ld<amac/r</ets>, fr. <ets>ris<amac/lt<amac/</ets>troop of horse + Per. <ets>d<amac/r</ets> holding.]</ety> <fld>(Mil.)</fld> <def>In the Anglo-Indian army, a native commander of a ressala.</def><br/
+\'d8<hw>Res"sal*dar</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets>ris<amac/ld<amac/r</ets>, fr. <ets>ris<amac/lt<amac/</ets>troop of horse + Per. <ets>d<amac/r</ets> holding.]</ety> <fld>(Mil.)</fld> <def>In the Anglo-Indian army, a native commander of a ressala.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Rest</ent><br/
@@ -23730,7 +23730,7 @@ All needful rites, to <qex>rest</qex> my wandering shade.</q> <rj><qau>Dryden.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Restaurateur</ent><br/
-||<hw>Re`stau`ra`teur"</hw> <pr>(r<asl/`st<omac/`r<adot/`t<etil/r")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>The keeper of an eating house or a restaurant.</def><br/
+\'d8<hw>Re`stau`ra`teur"</hw> <pr>(r<asl/`st<omac/`r<adot/`t<etil/r")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>The keeper of an eating house or a restaurant.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Restauration</ent><br/
@@ -24247,7 +24247,7 @@ With trumpet's regal sound the great <qex>result</qex>.</q> <rj><qau>Milton.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Resume</ent><br/
-||<hw>R<eacute/`su"m<eacute/"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Resume</er>.]</ety> <def>A summing up; a condensed statement; an abridgment or brief recapitulation.</def><br/
+\'d8<hw>R<eacute/`su"m<eacute/"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Resume</er>.]</ety> <def>A summing up; a condensed statement; an abridgment or brief recapitulation.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The exellent little <qex>r<eacute/sum<eacute/</qex> thereof in Dr. Landsborough's book.</q> <rj><qau>C. Kingsley.</qau></rj><br/
@@ -24666,7 +24666,7 @@ Unalterably firm his love entire.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rete</ent><br/
-||<hw>Re"te</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a net.]</ety> <fld>(Anat.)</fld> <def>A net or network; a plexus; particularly, a network of blood vessels or nerves, or a part resembling a network.</def><br/
+\'d8<hw>Re"te</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a net.]</ety> <fld>(Anat.)</fld> <def>A net or network; a plexus; particularly, a network of blood vessels or nerves, or a part resembling a network.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Retecious</ent><br/
@@ -24740,7 +24740,7 @@ Can be <qex>retentive</qex> to the strength of spirit.</q> <rj><qau>Shak.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Retentor</ent><br/
-||<hw>Re*ten"tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a retainer.]</ety> <fld>(Zool.)</fld> <def>A muscle which serves to retain an organ or part in place, esp. when retracted. See <xex>Illust.</xex> of <er>Phylactolemata</er>.</def><br/
+\'d8<hw>Re*ten"tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a retainer.]</ety> <fld>(Zool.)</fld> <def>A muscle which serves to retain an organ or part in place, esp. when retracted. See <xex>Illust.</xex> of <er>Phylactolemata</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Retepore</ent><br/
@@ -24767,7 +24767,7 @@ Can be <qex>retentive</qex> to the strength of spirit.</q> <rj><qau>Shak.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Retiarius</ent><br/
-||<hw>Re`ti*a"ri*us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>rete</ets> a net.]</ety> <fld>(Rom.Antiq.)</fld> <def>A gladiator armed with a net for entangling his adversary and a trident for despatching him.</def><br/
+\'d8<hw>Re`ti*a"ri*us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>rete</ets> a net.]</ety> <fld>(Rom.Antiq.)</fld> <def>A gladiator armed with a net for entangling his adversary and a trident for despatching him.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Retiary</ent><br/
@@ -24826,7 +24826,7 @@ Can be <qex>retentive</qex> to the strength of spirit.</q> <rj><qau>Shak.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reticularia</ent><br/
-||<hw>Re*tic`u*la"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Reticular</er>.]</ety> <fld>(Zool.)</fld> <def>An extensive division of rhizopods in which the pseudopodia are more or less slender and coalesce at certain points, forming irregular meshes. It includes the shelled Foraminifera, together with some groups which lack a true shell.</def><br/
+\'d8<hw>Re*tic`u*la"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Reticular</er>.]</ety> <fld>(Zool.)</fld> <def>An extensive division of rhizopods in which the pseudopodia are more or less slender and coalesce at certain points, forming irregular meshes. It includes the shelled Foraminifera, together with some groups which lack a true shell.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reticularian</ent><br/
@@ -24863,7 +24863,7 @@ Can be <qex>retentive</qex> to the strength of spirit.</q> <rj><qau>Shak.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reticulosa</ent><br/
-||<hw>Re*tic`u*lo"sa</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Reticularia</er>.</def><br/
+\'d8<hw>Re*tic`u*lo"sa</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Reticularia</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reticulose</ent><br/
@@ -24874,7 +24874,7 @@ Can be <qex>retentive</qex> to the strength of spirit.</q> <rj><qau>Shak.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reticulum</ent><br/
-||<hw>Re*tic"u*lum</hw> <pr>(?)</pr>, <pos>n.</pos>;<plu><it>pl.</it> <plw>Reticula</plw> <pr>(#)</pr>.</plu> <ety>[L. dim. of <ets>rete</ets> a net.]</ety> <fld>(Anat.)</fld> <sd>(a)</sd> <def>The second stomach of ruminants, in which folds of the mucous membrane form hexagonal cells; -- also called the <altname>honeycomb stomach</altname>.</def> <sd>(b)</sd> <def>The neuroglia.</def><br/
+\'d8<hw>Re*tic"u*lum</hw> <pr>(?)</pr>, <pos>n.</pos>;<plu><it>pl.</it> <plw>Reticula</plw> <pr>(#)</pr>.</plu> <ety>[L. dim. of <ets>rete</ets> a net.]</ety> <fld>(Anat.)</fld> <sd>(a)</sd> <def>The second stomach of ruminants, in which folds of the mucous membrane form hexagonal cells; -- also called the <altname>honeycomb stomach</altname>.</def> <sd>(b)</sd> <def>The neuroglia.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Retiform</ent><br/
@@ -24889,7 +24889,7 @@ Can be <qex>retentive</qex> to the strength of spirit.</q> <rj><qau>Shak.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Retinaculum</ent><br/
-||<hw>Ret`i*nac"u*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Retinacula</plw> <pr>(#)</pr>.</plu> <ety>[L., a holdfast, a band. See <er>Retain</er>.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <sd>(a)</sd> <def>A connecting band; a fraenum; <as>as, the <ex>retinacula</ex> of the ileocaecal and ileocolic valves</as>.</def> <sd>(b)</sd> <def>One of the annular ligaments which hold the tendons close to the bones at the larger joints, as at the wrist and ankle.</def><br/
+\'d8<hw>Ret`i*nac"u*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Retinacula</plw> <pr>(#)</pr>.</plu> <ety>[L., a holdfast, a band. See <er>Retain</er>.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <sd>(a)</sd> <def>A connecting band; a fraenum; <as>as, the <ex>retinacula</ex> of the ileocaecal and ileocolic valves</as>.</def> <sd>(b)</sd> <def>One of the annular ligaments which hold the tendons close to the bones at the larger joints, as at the wrist and ankle.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>One of the retractor muscles of the proboscis of certain worms.</def><br/
@@ -24915,7 +24915,7 @@ Can be <qex>retentive</qex> to the strength of spirit.</q> <rj><qau>Shak.</qau><
 
 <p><ent>Retinasphaltum</ent><br/
 <ent>Retinasphalt</ent><br/
-<mhw>{ <hw>Ret`in*as"phalt</hw> <pr>(?)</pr>, ||<hw>Ret`in*as*phal"tum</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[Gr. <?/<?/<?/<?/ resin + <?/<?/<?/<?/<?/ asphalt.]</ety> <fld>(Min.)</fld> <def>Retinite.</def><br/
+<mhw>{ <hw>Ret`in*as"phalt</hw> <pr>(?)</pr>, \'d8<hw>Ret`in*as*phal"tum</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[Gr. <?/<?/<?/<?/ resin + <?/<?/<?/<?/<?/ asphalt.]</ety> <fld>(Min.)</fld> <def>Retinite.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Retinerved</ent><br/
@@ -24923,7 +24923,7 @@ Can be <qex>retentive</qex> to the strength of spirit.</q> <rj><qau>Shak.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Retineum</ent><br/
-||<hw>Ret`i*ne"um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Retinea</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Retina</er>.]</ety> <fld>(Zool.)</fld> <def>That part of the eye of an invertebrate which corresponds in function with the retina of a vertebrate.</def><br/
+\'d8<hw>Ret`i*ne"um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Retinea</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Retina</er>.]</ety> <fld>(Zool.)</fld> <def>That part of the eye of an invertebrate which corresponds in function with the retina of a vertebrate.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Retinic</ent><br/
@@ -24954,7 +24954,7 @@ Can be <qex>retentive</qex> to the strength of spirit.</q> <rj><qau>Shak.</qau><
 [<source>PJC</source>]</p>
 
 <p><ent>Retinophora</ent><br/
-||<hw>Ret`i*noph"o*ra</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Retiniphorae</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. NL. & E. <ets>retina</ets> + Gr. <grk>fe`rein</grk> to bear.]</ety> <fld>(Zool.)</fld> <def>One of group of two to four united cells which occupy the axial part of the ocelli, or ommatidia, of the eyes of invertebrates, and contain the terminal nerve fibrillae. See <xex>Illust.</xex> under <er>Ommatidium</er>.</def><br/
+\'d8<hw>Ret`i*noph"o*ra</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Retiniphorae</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. NL. & E. <ets>retina</ets> + Gr. <grk>fe`rein</grk> to bear.]</ety> <fld>(Zool.)</fld> <def>One of group of two to four united cells which occupy the axial part of the ocelli, or ommatidia, of the eyes of invertebrates, and contain the terminal nerve fibrillae. See <xex>Illust.</xex> under <er>Ommatidium</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Retinophoral</ent><br/
@@ -24979,7 +24979,7 @@ Can be <qex>retentive</qex> to the strength of spirit.</q> <rj><qau>Shak.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Retinula</ent><br/
-||<hw>Re*tin"u*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Retinulae</plw> <pr>(#)</pr>.</plu> <ety>[NL., dim. of NL. & E. <ets>retina</ets>.]</ety> <fld>(Zool.)</fld> <def>One of the group of pigmented cells which surround the retinophorae of invertebrates. See <xex>Illust.</xex> under <er>Ommatidium</er>.</def><br/
+\'d8<hw>Re*tin"u*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Retinulae</plw> <pr>(#)</pr>.</plu> <ety>[NL., dim. of NL. & E. <ets>retina</ets>.]</ety> <fld>(Zool.)</fld> <def>One of the group of pigmented cells which surround the retinophorae of invertebrates. See <xex>Illust.</xex> under <er>Ommatidium</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Retinulate</ent><br/
@@ -25122,7 +25122,7 @@ And to herself she gladly doth <qex>retire</qex>.</q> <rj><qau>Sir J. Davies.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Retitelae</ent><br/
-||<hw>Ret`i*te"lae</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. <ets>rete</ets> a net + <ets>tela</ets> a web.]</ety> <fld>(Zool.)</fld> <def>A group of spiders which spin irregular webs; -- called also <altname>Retitelariae</altname>.</def><br/
+\'d8<hw>Ret`i*te"lae</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. <ets>rete</ets> a net + <ets>tela</ets> a web.]</ety> <fld>(Zool.)</fld> <def>A group of spiders which spin irregular webs; -- called also <altname>Retitelariae</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Retold</ent><br/
@@ -25321,7 +25321,7 @@ Consents, <qex>retracts</qex>, advances, and then files.</q> <rj><qau>Granville.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Retraxit</ent><br/
-||<hw>Re*trax"it</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., (he) has withdrawn. See <er>Retract</er>.]</ety> <fld>(O. Eng. Law)</fld> <def>The withdrawing, or open renunciation, of a suit in court by the plaintiff, by which he forever lost his right of action.</def>  <rj><au>Blackstone.</au></rj><br/
+\'d8<hw>Re*trax"it</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., (he) has withdrawn. See <er>Retract</er>.]</ety> <fld>(O. Eng. Law)</fld> <def>The withdrawing, or open renunciation, of a suit in court by the plaintiff, by which he forever lost his right of action.</def>  <rj><au>Blackstone.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Retread</ent><br/
@@ -26434,7 +26434,7 @@ And none so poor <qex>to do</qex> him <qex>reverence</qex>.</q> <rj><qau>Shak.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Revers</ent><br/
-||<hw>Re*vers"</hw> <pr>(r<eit/*v<acir/r"; <it>colloq.</it> r<eit/*v<emac/r", r<eit/*v<etil/r")</pr>, <pos>n. sing & pl.</pos> <ety>[F. See <er>Reverse</er>, <pos>n.</pos>]</ety> <fld>(Dressmaking, Tailoring, etc.)</fld> <def>A part turned or folded back so as to show the inside, or a piece put on in imitation of such a part, as the lapel of a coat.</def><br/
+\'d8<hw>Re*vers"</hw> <pr>(r<eit/*v<acir/r"; <it>colloq.</it> r<eit/*v<emac/r", r<eit/*v<etil/r")</pr>, <pos>n. sing & pl.</pos> <ety>[F. See <er>Reverse</er>, <pos>n.</pos>]</ety> <fld>(Dressmaking, Tailoring, etc.)</fld> <def>A part turned or folded back so as to show the inside, or a piece put on in imitation of such a part, as the lapel of a coat.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Reversal</ent><br/
@@ -27529,7 +27529,7 @@ Thy merited <qex>reward</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rex</ent><br/
-||<hw>Rex</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Reges</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <def>A king.</def><br/
+\'d8<hw>Rex</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Reges</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <def>A king.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>To play rex</b></col>, <cd>to play the king; to domineer.</cd> <mark>[Obs.]</mark></cs><br/
@@ -27552,7 +27552,7 @@ Thy merited <qex>reward</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rez-de-chaussee</ent><br/
-||<hw>Rez`-de-chaus`s<eacute/e"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., lit., level of the street. See <er>Raze</er>, <pos>v. t.</pos>, and <er>Causey</er>.]</ety> <fld>(Arch.)</fld> <def>The ground story of a building, either on a level with the street or raised slightly above it; -- said esp. of buildings on the continent of Europe.</def></p>
+\'d8<hw>Rez`-de-chaus`s<eacute/e"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., lit., level of the street. See <er>Raze</er>, <pos>v. t.</pos>, and <er>Causey</er>.]</ety> <fld>(Arch.)</fld> <def>The ground story of a building, either on a level with the street or raised slightly above it; -- said esp. of buildings on the continent of Europe.</def></p>
 
 <p><q>Tier above tier of neat apartments rise over the little shops which form the <qex>rez-de-chauss<eacute/e</qex>.</q>  <rj><qau>The Century.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -27574,7 +27574,7 @@ Thy merited <qex>reward</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhabdocoela</ent><br/
-||<hw>Rhab`do*coe"la</hw> <pr>(r<acr/b`d<osl/*s<emac/"l<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ra`bdos</grk> a rod + <grk>koi^los</grk> hollow.]</ety> <fld>(Zool.)</fld> <def>A suborder of Turbellaria including those that have a simple cylindrical, or saclike, stomach, without an intestine.</def><br/
+\'d8<hw>Rhab`do*coe"la</hw> <pr>(r<acr/b`d<osl/*s<emac/"l<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ra`bdos</grk> a rod + <grk>koi^los</grk> hollow.]</ety> <fld>(Zool.)</fld> <def>A suborder of Turbellaria including those that have a simple cylindrical, or saclike, stomach, without an intestine.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhabdocoelous</ent><br/
@@ -27606,11 +27606,11 @@ Thy merited <qex>reward</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhabdophora</ent><br/
-||<hw>Rhab*doph"o*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ra`bdos</grk> a rod + <grk>fe`rein</grk> to bear.]</ety> <fld>(Zool.)</fld> <def>An extinct division of Hydrozoa which includes the graptolities.</def><br/
+\'d8<hw>Rhab*doph"o*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ra`bdos</grk> a rod + <grk>fe`rein</grk> to bear.]</ety> <fld>(Zool.)</fld> <def>An extinct division of Hydrozoa which includes the graptolities.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhabdopleura</ent><br/
-||<hw>Rhab`do*pleu"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ra`bdos</grk> a rod + <?/<?/<?/<?/ the side.]</ety> <fld>(Zool.)</fld> <def>A genus of marine Bryozoa in which the tubular cells have a centralchitinous axis and the tentacles are borne on a bilobed lophophore. It is the type of the order Pterobranchia, or Podostomata</def><br/
+\'d8<hw>Rhab`do*pleu"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ra`bdos</grk> a rod + <?/<?/<?/<?/ the side.]</ety> <fld>(Zool.)</fld> <def>A genus of marine Bryozoa in which the tubular cells have a centralchitinous axis and the tentacles are borne on a bilobed lophophore. It is the type of the order Pterobranchia, or Podostomata</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhabdosphere</ent><br/
@@ -27618,7 +27618,7 @@ Thy merited <qex>reward</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhachialgia</ent><br/
-||<hw>Rha`chi*al"gi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>See <er>Rachialgia</er>.</def><br/
+\'d8<hw>Rha`chi*al"gi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>See <er>Rachialgia</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhachidian</ent><br/
@@ -27626,11 +27626,11 @@ Thy merited <qex>reward</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhachiglossa</ent><br/
-||<hw>Rhach`i*glos"sa</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Rhachis</er>, and <er>Glossa</er>.]</ety> <fld>(Zool.)</fld> <def>A division of marine gastropods having a retractile proboscis and three longitudinal rows of teeth on the radula. It includes many of the large ornamental shells, as the <stype>miters</stype>, <stype>murices</stype>, <stype>olives</stype>, <stype>purpuras</stype>, <stype>volutes</stype>, and <stype>whelks</stype>. See <xex>Illust.</xex> in the Appendix.</def><br/
+\'d8<hw>Rhach`i*glos"sa</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Rhachis</er>, and <er>Glossa</er>.]</ety> <fld>(Zool.)</fld> <def>A division of marine gastropods having a retractile proboscis and three longitudinal rows of teeth on the radula. It includes many of the large ornamental shells, as the <stype>miters</stype>, <stype>murices</stype>, <stype>olives</stype>, <stype>purpuras</stype>, <stype>volutes</stype>, and <stype>whelks</stype>. See <xex>Illust.</xex> in the Appendix.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhachilla</ent><br/
-||<hw>Rha*chil"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ra`chis</grk> the spine.]</ety> <fld>(Bot.)</fld> <def>A branch of inflorescence; the zigzag axis on which the florets are arranged in the spikelets of grasses.</def><br/
+\'d8<hw>Rha*chil"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ra`chis</grk> the spine.]</ety> <fld>(Bot.)</fld> <def>A branch of inflorescence; the zigzag axis on which the florets are arranged in the spikelets of grasses.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhachiodont</ent><br/
@@ -27638,7 +27638,7 @@ Thy merited <qex>reward</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhachis</ent><br/
-||<hw>Rha"chis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Rhachises</plw> <pr>(#)</pr>, L. <plw>Rhachides</plw> <pr>(#)</pr>.</plu> <ety>[See <er>Rachis</er>.]</ety> <altsp>[Written also <asp>rechis</asp>.]</altsp> <sn>1.</sn> <fld>(Anat.)</fld> <def>The spine.</def><br/
+\'d8<hw>Rha"chis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Rhachises</plw> <pr>(#)</pr>, L. <plw>Rhachides</plw> <pr>(#)</pr>.</plu> <ety>[See <er>Rachis</er>.]</ety> <altsp>[Written also <asp>rechis</asp>.]</altsp> <sn>1.</sn> <fld>(Anat.)</fld> <def>The spine.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Bot.)</fld> <sd>(a)</sd> <def>The continued stem or midrib of a pinnately compound leaf, as in a rose leaf or a fern.</def> <sd>(b)</sd> <def>The principal axis in a raceme, spike, panicle, or corymb.</def><br/
@@ -27648,7 +27648,7 @@ Thy merited <qex>reward</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhachitis</ent><br/
-||<hw>Rha*chi"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>See <er>Rachitis</er>.</def><br/
+\'d8<hw>Rha*chi"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>See <er>Rachitis</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhadamanthine</ent><br/
@@ -27672,7 +27672,7 @@ Thy merited <qex>reward</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhamadan</ent><br/
-||<hw>Rham`a*dan"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Ramadan</er>.</def><br/
+\'d8<hw>Rham`a*dan"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Ramadan</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhamnaceous</ent><br/
@@ -27680,15 +27680,15 @@ Thy merited <qex>reward</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhamnus</ent><br/
-||<hw>Rham"nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>"ra`mnos</grk> a kind of prickly shrub; cf. L. <ets>rhamnos</ets>.]</ety> <fld>(Bot.)</fld> <def>A genus of shrubs and small trees; buckthorn. The California <spn>Rhamnus Purshianus</spn> and the European <spn>Rhamnus catharticus</spn> are used in medicine. The latter is used for hedges.</def><br/
+\'d8<hw>Rham"nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>"ra`mnos</grk> a kind of prickly shrub; cf. L. <ets>rhamnos</ets>.]</ety> <fld>(Bot.)</fld> <def>A genus of shrubs and small trees; buckthorn. The California <spn>Rhamnus Purshianus</spn> and the European <spn>Rhamnus catharticus</spn> are used in medicine. The latter is used for hedges.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhamphorhynchus</ent><br/
-||<hw>Rham`pho*rhyn"chus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ra`mfos</grk> a beak + <?/<?/<?/<?/ snout.]</ety> <fld>(Paleon.)</fld> <def>A genus of pterodactyls in which the elongated tail supported a leathery expansion at the tip.</def><br/
+\'d8<hw>Rham`pho*rhyn"chus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ra`mfos</grk> a beak + <?/<?/<?/<?/ snout.]</ety> <fld>(Paleon.)</fld> <def>A genus of pterodactyls in which the elongated tail supported a leathery expansion at the tip.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhamphotheca</ent><br/
-||<hw>Rham`pho*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rhamphothecae</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr <grk>"ra`mnos</grk> a beak + <?/<?/ a case.]</ety> <fld>(Zool.)</fld> <def>The horny covering of the bill of birds.</def><br/
+\'d8<hw>Rham`pho*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rhamphothecae</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr <grk>"ra`mnos</grk> a beak + <?/<?/ a case.]</ety> <fld>(Zool.)</fld> <def>The horny covering of the bill of birds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhaphe</ent><br/
@@ -27696,7 +27696,7 @@ Thy merited <qex>reward</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhaphides</ent><br/
-||<hw>Rhaph"i*des</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/<?/<?/, <?/<?/<?/, a needle, F. <ets>raphides</ets>.]</ety> <fld>(Bot.)</fld> <def>Minute transparent, often needle-shaped, crystals found in the tissues of plants.</def> <altsp>[Written also <asp>raphides</asp>.]</altsp><br/
+\'d8<hw>Rhaph"i*des</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/<?/<?/, <?/<?/<?/, a needle, F. <ets>raphides</ets>.]</ety> <fld>(Bot.)</fld> <def>Minute transparent, often needle-shaped, crystals found in the tissues of plants.</def> <altsp>[Written also <asp>raphides</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhaponticine</ent><br/
@@ -27771,7 +27771,7 @@ Thy merited <qex>reward</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rheae</ent><br/
-||<hw>Rhe"ae</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A suborder of struthious birds including the rheas.</def><br/
+\'d8<hw>Rhe"ae</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A suborder of struthious birds including the rheas.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rheeboc</ent><br/
@@ -27860,7 +27860,7 @@ Thy merited <qex>reward</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhesus</ent><br/
-||<hw>Rhe"sus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>Rhesus</ets>, a proper name, Gr. <?/<?/<?/.]</ety> <fld>(Zool.)</fld> <def>A monkey; the bhunder.</def><br/
+\'d8<hw>Rhe"sus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>Rhesus</ets>, a proper name, Gr. <?/<?/<?/.]</ety> <fld>(Zool.)</fld> <def>A monkey; the bhunder.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 1237 --></p>
@@ -27944,7 +27944,7 @@ Thy merited <qex>reward</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rheum</ent><br/
-||<hw>Rhe"um</hw> <pr>(r<emac/"<ucr/m)</pr>, <pos>n.</pos> <ety>[NL., from L. <ets>Rha</ets> the river Volga, on the banks of which it grows. See <er>Rhubarb</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of plants. See <er>Rhubarb</er>.</def><br/
+\'d8<hw>Rhe"um</hw> <pr>(r<emac/"<ucr/m)</pr>, <pos>n.</pos> <ety>[NL., from L. <ets>Rha</ets> the river Volga, on the banks of which it grows. See <er>Rhubarb</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of plants. See <er>Rhubarb</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rheum</ent><br/
@@ -27994,7 +27994,7 @@ Thy merited <qex>reward</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rheumides</ent><br/
-||<hw>Rheu"mi*des</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Rheum</er>.]</ety> <fld>(Med.)</fld> <def>The class of skin disease developed by the dartrous diathesis. See under <er>Dartrous</er>.</def><br/
+\'d8<hw>Rheu"mi*des</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Rheum</er>.]</ety> <fld>(Med.)</fld> <def>The class of skin disease developed by the dartrous diathesis. See under <er>Dartrous</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rheumy</ent><br/
@@ -28021,7 +28021,7 @@ To add unto his sickness.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhinaster</ent><br/
-||<hw>Rhi*nas"ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/<?/<?/, <?/<?/<?/, nose + <?/<?/<?/ star.]</ety> <fld>(Zool.)</fld> <def>The borele.</def><br/
+\'d8<hw>Rhi*nas"ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/<?/<?/, <?/<?/<?/, nose + <?/<?/<?/ star.]</ety> <fld>(Zool.)</fld> <def>The borele.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhine</ent><br/
@@ -28033,7 +28033,7 @@ To add unto his sickness.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhinencephalon</ent><br/
-||<hw>Rhi`nen*ceph"a*lon</hw> <pr>(r<imac/`n<ecr/n*s<ecr/f"<adot/*l<ocr/n)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rhinencephala</plw> <pr>(r<imac/`n<ecr/n*s<ecr/f"<adot/*l<adot/)</pr>.</plu> <ety>[NL., fr. Gr. <grk>"ri`s</grk>, <grk>"rino`s</grk>, the nose + <grk>'egke`falos</grk> the brain.]</ety> <fld>(Anat.)</fld> <def>The division of the brain in front of the prosencephalon, consisting of the two olfactory lobes from which the olfactory nerves arise.</def><br/
+\'d8<hw>Rhi`nen*ceph"a*lon</hw> <pr>(r<imac/`n<ecr/n*s<ecr/f"<adot/*l<ocr/n)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rhinencephala</plw> <pr>(r<imac/`n<ecr/n*s<ecr/f"<adot/*l<adot/)</pr>.</plu> <ety>[NL., fr. Gr. <grk>"ri`s</grk>, <grk>"rino`s</grk>, the nose + <grk>'egke`falos</grk> the brain.]</ety> <fld>(Anat.)</fld> <def>The division of the brain in front of the prosencephalon, consisting of the two olfactory lobes from which the olfactory nerves arise.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The term is sometimes used for one of the olfactory lobes, the plural being used for the two taken together.</note><br/
@@ -28044,7 +28044,7 @@ To add unto his sickness.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhinitis</ent><br/
-||<hw>Rhi*ni"tis</hw> <pr>(r<isl/*n<imac/"t<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ri`s</grk>, <grk>"rino`s</grk>, the nose + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the nose; esp., inflammation of the mucous membrane of the nostrils.</def><br/
+\'d8<hw>Rhi*ni"tis</hw> <pr>(r<isl/*n<imac/"t<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ri`s</grk>, <grk>"rino`s</grk>, the nose + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the nose; esp., inflammation of the mucous membrane of the nostrils.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhino</ent><br/
@@ -28123,7 +28123,7 @@ To add unto his sickness.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhinoscleroma</ent><br/
-||<hw>Rhi`no*scle*ro"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Rhino-</ets> + <ets>scleroma</ets>.]</ety> <fld>(Med.)</fld> <def>A rare disease of the skin, characterized by the development of very hard, more or less flattened, prominences, appearing first upon the nose and subsequently upon the neighboring parts, esp. the lips, palate, and throat.</def>  <rj><au>J. V. Shoemaker.</au></rj><br/
+\'d8<hw>Rhi`no*scle*ro"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Rhino-</ets> + <ets>scleroma</ets>.]</ety> <fld>(Med.)</fld> <def>A rare disease of the skin, characterized by the development of very hard, more or less flattened, prominences, appearing first upon the nose and subsequently upon the neighboring parts, esp. the lips, palate, and throat.</def>  <rj><au>J. V. Shoemaker.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhinoscope</ent><br/
@@ -28139,11 +28139,11 @@ To add unto his sickness.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhinotheca</ent><br/
-||<hw>Rhi`no*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rhinothecae</plw> <pr>(#)</pr>.</plu> <ety>[NL., from gr. <?/<?/<?/, <?/<?/<?/, the nose + <?/<?/<?/ case.]</ety> <fld>(Zool.)</fld> <def>The sheath of the upper mandible of a bird.</def><br/
+\'d8<hw>Rhi`no*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rhinothecae</plw> <pr>(#)</pr>.</plu> <ety>[NL., from gr. <?/<?/<?/, <?/<?/<?/, the nose + <?/<?/<?/ case.]</ety> <fld>(Zool.)</fld> <def>The sheath of the upper mandible of a bird.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhipidoglossa</ent><br/
-||<hw>Rhi*pi`do*glos"sa</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/<?/<?/ a fan + <?/<?/<?/<?/ a tongue.]</ety> <fld>(Zool.)</fld> <def>A division of gastropod mollusks having a large number of long, divergent, hooklike, lingual teeth in each transverse row. It includes the scutibranchs. See <xex>Illustration</xex> in Appendix.</def><br/
+\'d8<hw>Rhi*pi`do*glos"sa</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/<?/<?/ a fan + <?/<?/<?/<?/ a tongue.]</ety> <fld>(Zool.)</fld> <def>A division of gastropod mollusks having a large number of long, divergent, hooklike, lingual teeth in each transverse row. It includes the scutibranchs. See <xex>Illustration</xex> in Appendix.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhipipter</ent><br/
@@ -28167,7 +28167,7 @@ To add unto his sickness.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhizocephala</ent><br/
-||<hw>Rhi`zo*ceph"a*la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/<?/<?/ root + <?/<?/<?/ head.]</ety> <fld>(Zool.)</fld> <def>A division of Pectostraca including saclike parasites of Crustacea. They adhere by rootlike extensions of the head. See <xex>Illusration</xex> in Appendix.</def><br/
+\'d8<hw>Rhi`zo*ceph"a*la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/<?/<?/ root + <?/<?/<?/ head.]</ety> <fld>(Zool.)</fld> <def>A division of Pectostraca including saclike parasites of Crustacea. They adhere by rootlike extensions of the head. See <xex>Illusration</xex> in Appendix.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhizodont</ent><br/
@@ -28187,7 +28187,7 @@ To add unto his sickness.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhizoma</ent><br/
-||<hw>Rhi*zo"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rhizomata</plw> <pr>(#)</pr>.</plu> <ety>[NL.]</ety> <fld>(Bot.)</fld> <def>Same as <er>Rhizome</er>.</def><br/
+\'d8<hw>Rhi*zo"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rhizomata</plw> <pr>(#)</pr>.</plu> <ety>[NL.]</ety> <fld>(Bot.)</fld> <def>Same as <er>Rhizome</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhizomatous</ent><br/
@@ -28199,7 +28199,7 @@ To add unto his sickness.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhizophaga</ent><br/
-||<hw>Rhi*zoph"a*ga</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A division of marsupials.  The wombat is the type.</def><br/
+\'d8<hw>Rhi*zoph"a*ga</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A division of marsupials.  The wombat is the type.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhizophagous</ent><br/
@@ -28207,7 +28207,7 @@ To add unto his sickness.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhizophora</ent><br/
-||<hw>Rhi*zoph"o*ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Rhizophorous</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of trees including the mangrove. See <er>Mangrove</er>.</def><br/
+\'d8<hw>Rhi*zoph"o*ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Rhizophorous</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of trees including the mangrove. See <er>Mangrove</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhizophorous</ent><br/
@@ -28222,7 +28222,7 @@ To add unto his sickness.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhizopoda</ent><br/
-||<hw>Rhi*zop"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/<?/<?/ a root + <ets>-poda</ets>.]</ety> <fld>(Zool.)</fld> <def>An extensive class of Protozoa, including those which have pseudopodia, by means of which they move about and take their food. The principal groups are Lobosa (or Am<oe/bea), Helizoa, Radiolaria, and Foraminifera (or Reticularia). See <er>Protozoa</er>.</def><br/
+\'d8<hw>Rhi*zop"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/<?/<?/ a root + <ets>-poda</ets>.]</ety> <fld>(Zool.)</fld> <def>An extensive class of Protozoa, including those which have pseudopodia, by means of which they move about and take their food. The principal groups are Lobosa (or Am<oe/bea), Helizoa, Radiolaria, and Foraminifera (or Reticularia). See <er>Protozoa</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhizopodous</ent><br/
@@ -28230,7 +28230,7 @@ To add unto his sickness.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhizostomata</ent><br/
-||<hw>Rhi`zo*stom"a*ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/<?/<?/ a root + <?/<?/<?/, <?/<?/<?/<?/, a mouth.]</ety> <fld>(Zool.)</fld> <def>A suborder of Medusae which includes very large species without marginal tentacles, but having large mouth lobes closely united at the edges. See <xex>Illust.</xex> in Appendix.</def><br/
+\'d8<hw>Rhi`zo*stom"a*ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/<?/<?/ a root + <?/<?/<?/, <?/<?/<?/<?/, a mouth.]</ety> <fld>(Zool.)</fld> <def>A suborder of Medusae which includes very large species without marginal tentacles, but having large mouth lobes closely united at the edges. See <xex>Illust.</xex> in Appendix.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhizostome</ent><br/
@@ -28240,7 +28240,7 @@ To add unto his sickness.</q> <rj><qau>Shak.</qau></rj><br/
 <p><-- p. 1238 --></p>
 
 <p><ent>Rhizotaxis</ent><br/
-||<hw>Rhi`zo*tax"is</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/<?/<?/ a root + <?/<?/<?/ arrangement.]</ety> <fld>(Bot.)</fld> <def>The arrangement of the roots of plants.</def><br/
+\'d8<hw>Rhi`zo*tax"is</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/<?/<?/ a root + <?/<?/<?/ arrangement.]</ety> <fld>(Bot.)</fld> <def>The arrangement of the roots of plants.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhob</ent><br/
@@ -28341,7 +28341,7 @@ To add unto his sickness.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhomboganoidei</ent><br/
-||<hw>Rhom`bo*ga*noi"de*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Ginglymodi</er>.</def><br/
+\'d8<hw>Rhom`bo*ga*noi"de*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Ginglymodi</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhombogene</ent><br/
@@ -28407,7 +28407,7 @@ To add unto his sickness.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhonchus</ent><br/
-||<hw>Rhon"chus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rhonchi</plw> <pr>(#)</pr>.</plu> <ety>[L., a snoring, a croaking.]</ety> <fld>(Med.)</fld> <def>An adventitious whistling or snoring sound heard on auscultation of the chest when the air channels are partially obstructed. By some writers the term <xex>rhonchus</xex> is used as equivalent to <xex>r<acir/le</xex> in its widest sense. See <er>R<acir/le</er>.</def><br/
+\'d8<hw>Rhon"chus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rhonchi</plw> <pr>(#)</pr>.</plu> <ety>[L., a snoring, a croaking.]</ety> <fld>(Med.)</fld> <def>An adventitious whistling or snoring sound heard on auscultation of the chest when the air channels are partially obstructed. By some writers the term <xex>rhonchus</xex> is used as equivalent to <xex>r<acir/le</xex> in its widest sense. See <er>R<acir/le</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhopalic</ent><br/
@@ -28415,11 +28415,11 @@ To add unto his sickness.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhopalium</ent><br/
-||<hw>Rho*pa"li*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rhopalia</plw> <pr>(#)</pr>.</plu> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>One of the marginal sensory bodies of medusae belonging to the Discophora.</def><br/
+\'d8<hw>Rho*pa"li*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rhopalia</plw> <pr>(#)</pr>.</plu> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>One of the marginal sensory bodies of medusae belonging to the Discophora.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhopalocera</ent><br/
-||<hw>Rhop`a*loc"e*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <?/<?/<?/ a club + <?/<?/<?/ ahorn.]</ety> <fld>(Zool.)</fld> <def>A division of Lepidoptera including all the butterflies. They differ from other Lepidoptera in having club-shaped antennae.</def><br/
+\'d8<hw>Rhop`a*loc"e*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <?/<?/<?/ a club + <?/<?/<?/ ahorn.]</ety> <fld>(Zool.)</fld> <def>A division of Lepidoptera including all the butterflies. They differ from other Lepidoptera in having club-shaped antennae.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhotacism</ent><br/
@@ -28451,7 +28451,7 @@ To add unto his sickness.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhus</ent><br/
-||<hw>Rhus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., sumac, fr. Gr. <?/<?/<?/.]</ety> <fld>(Bot.)</fld> <def>A genus of shrubs and small treets. See <er>Sumac</er>.</def><br/
+\'d8<hw>Rhus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., sumac, fr. Gr. <?/<?/<?/.]</ety> <fld>(Bot.)</fld> <def>A genus of shrubs and small treets. See <er>Sumac</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhusma</ent><br/
@@ -28538,15 +28538,15 @@ Who <qex>rhymed</qex> for hire, and patronized for pride.</q> <rj><qau>Pope.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhynchobdellea</ent><br/
-||<hw>Rhyn`chob*del"le*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ry`gchos</grk> snout + <?/<?/<?/ a leech.]</ety> <fld>(Zool.)</fld> <def>A suborder of leeches including those that have a protractile proboscis, without jaws. Clepsine is the type.</def><br/
+\'d8<hw>Rhyn`chob*del"le*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ry`gchos</grk> snout + <?/<?/<?/ a leech.]</ety> <fld>(Zool.)</fld> <def>A suborder of leeches including those that have a protractile proboscis, without jaws. Clepsine is the type.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhynchocephala</ent><br/
-||<hw>Rhyn`cho*ceph"a*la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ry`gchos</grk> snout + <grk>kefalh`</grk> head.]</ety> <fld>(Zool.)</fld> <def>An order of reptiles having biconcave vertebrae, immovable quadrate bones, and many other peculiar osteological characters. Hatteria is the only living genus, but numerous fossil genera are known, some of which are among the earliest of reptiles. See <er>Hatteria</er>. Called also <altname>Rhynchocephalia</altname>.</def><br/
+\'d8<hw>Rhyn`cho*ceph"a*la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ry`gchos</grk> snout + <grk>kefalh`</grk> head.]</ety> <fld>(Zool.)</fld> <def>An order of reptiles having biconcave vertebrae, immovable quadrate bones, and many other peculiar osteological characters. Hatteria is the only living genus, but numerous fossil genera are known, some of which are among the earliest of reptiles. See <er>Hatteria</er>. Called also <altname>Rhynchocephalia</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhynchocoela</ent><br/
-||<hw>Rhyn`cho*coe"la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ry`gchos</grk> snout + <grk>koi`los</grk> hollow.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Nemertina</er>.</def> -- <wordforms><wf>Rhyn`cho*coe"lous</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>Rhyn`cho*coe"la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ry`gchos</grk> snout + <grk>koi`los</grk> hollow.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Nemertina</er>.</def> -- <wordforms><wf>Rhyn`cho*coe"lous</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhyncholite</ent><br/
@@ -28554,11 +28554,11 @@ Who <qex>rhymed</qex> for hire, and patronized for pride.</q> <rj><qau>Pope.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhynchonella</ent><br/
-||<hw>Rhyn`cho*nel"la</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ry`gchos</grk> snout.]</ety> <fld>(Zool.)</fld> <def>A genus of brachiopods of which some species are still living, while many are found fossil.</def><br/
+\'d8<hw>Rhyn`cho*nel"la</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ry`gchos</grk> snout.]</ety> <fld>(Zool.)</fld> <def>A genus of brachiopods of which some species are still living, while many are found fossil.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhynchophora</ent><br/
-||<hw>Rhyn*choph"o*ra</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ry`gchos</grk> snout + <grk>fe`rein</grk> to carry.]</ety> <fld>(Zool.)</fld> <def>A group of Coleoptera having a snoutlike head; the snout beetles, curculios, or weevils.</def><br/
+\'d8<hw>Rhyn*choph"o*ra</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ry`gchos</grk> snout + <grk>fe`rein</grk> to carry.]</ety> <fld>(Zool.)</fld> <def>A group of Coleoptera having a snoutlike head; the snout beetles, curculios, or weevils.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhynchophore</ent><br/
@@ -28566,7 +28566,7 @@ Who <qex>rhymed</qex> for hire, and patronized for pride.</q> <rj><qau>Pope.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhynchota</ent><br/
-||<hw>Rhyn*cho"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ry`gchos</grk> snout.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Hemiptera</er>.</def> <altsp>[Written also <asp>Rhyncota</asp>.]</altsp><br/
+\'d8<hw>Rhyn*cho"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ry`gchos</grk> snout.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Hemiptera</er>.</def> <altsp>[Written also <asp>Rhyncota</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhyolite</ent><br/
@@ -28636,11 +28636,11 @@ I worked my <qex>rhythmic</qex> thought.</q> <rj><qau>Mrs. Browning.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhythmus</ent><br/
-||<hw>Rhyth"mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Rhythm.</def><br/
+\'d8<hw>Rhyth"mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Rhythm.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhytina</ent><br/
-||<hw>Rhyt"i*na</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Rytina</er>.</def><br/
+\'d8<hw>Rhyt"i*na</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Rytina</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rial</ent><br/
@@ -28656,7 +28656,7 @@ I worked my <qex>rhythmic</qex> thought.</q> <rj><qau>Mrs. Browning.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Riant</ent><br/
-||<hw>Ri`ant"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F. <ets>riant</ets>, p. pr. of <ets>rire</ets> to laugh, L. <ets>ridere</ets>.]</ety> <def>Laughing; laughable; exciting gayety; gay; merry; delightful to the view, as a landscape.</def><br/
+\'d8<hw>Ri`ant"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F. <ets>riant</ets>, p. pr. of <ets>rire</ets> to laugh, L. <ets>ridere</ets>.]</ety> <def>Laughing; laughable; exciting gayety; gay; merry; delightful to the view, as a landscape.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>In such cases the sublimity must be drawn from the other sources, with a strict caution, howewer, against anything light and <qex>riant</qex>.</q> <rj><qau>Burke.</qau></rj><br/
@@ -28761,7 +28761,7 @@ Waked by the lark, hath roused the <qex>ribald</qex> crows.</q> <rj><qau>Shak.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ribaudequin</ent><br/
-||<hw>Ri*bau"de*quin</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>An engine of war used in the Middle Ages, consisting of a protected elevated staging on wheels, and armed in front with pikes. It was (after the 14th century) furnished with small cannon.</def><br/
+\'d8<hw>Ri*bau"de*quin</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>An engine of war used in the Middle Ages, consisting of a protected elevated staging on wheels, and armed in front with pikes. It was (after the 14th century) furnished with small cannon.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A huge bow fixed on the wall of a fortified town for casting javelins.</def><br/
@@ -28848,7 +28848,7 @@ Waked by the lark, hath roused the <qex>ribald</qex> crows.</q> <rj><qau>Shak.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ribes</ent><br/
-||<hw>Ri"bes</hw> <pr>(?)</pr>, <pos>n.</pos><ety>[NL.; cf. Dan. <ets>ribs</ets>, and Ar. <ets>r<imac/b<amac/s</ets> a plant with an acid juice.]</ety> <fld>(Bot.)</fld> <def>A genus of shrubs including gooseberries and currants of many kinds.</def><br/
+\'d8<hw>Ri"bes</hw> <pr>(?)</pr>, <pos>n.</pos><ety>[NL.; cf. Dan. <ets>ribs</ets>, and Ar. <ets>r<imac/b<amac/s</ets> a plant with an acid juice.]</ety> <fld>(Bot.)</fld> <def>A genus of shrubs including gooseberries and currants of many kinds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ribibe</ent><br/
@@ -29047,7 +29047,7 @@ Showers on her kings barbaric pearl and gold.</q> <rj><qau>Milton.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ricinus</ent><br/
-||<hw>Ric"i*nus</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L., the castor-oil plant.]</ety> <fld>(Bot.)</fld> <def>A genus of plants of the Spurge family, containing but one species (<spn>Ricinus communis</spn>), the castor-oil plant.  The fruit is three-celled, and contains three large seeds from which castor oil is expressed. See <er>Palma Christi</er>.</def><br/
+\'d8<hw>Ric"i*nus</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L., the castor-oil plant.]</ety> <fld>(Bot.)</fld> <def>A genus of plants of the Spurge family, containing but one species (<spn>Ricinus communis</spn>), the castor-oil plant.  The fruit is three-celled, and contains three large seeds from which castor oil is expressed. See <er>Palma Christi</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rick</ent><br/
@@ -29119,7 +29119,7 @@ Showers on her kings barbaric pearl and gold.</q> <rj><qau>Milton.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rictus</ent><br/
-||<hw>Ric"tus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., the aperture of the mouth.]</ety> <def>The gape of the mouth, as of birds; -- often resricted to the corners of the mouth.</def><br/
+\'d8<hw>Ric"tus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., the aperture of the mouth.]</ety> <def>The gape of the mouth, as of birds; -- often resricted to the corners of the mouth.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rid</ent><br/
@@ -29582,7 +29582,7 @@ Yet touched and shamed by <qex>ridicule</qex> alone.</q> <rj><qau>Pope.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ridotto</ent><br/
-||<hw>Ri*dot"to</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It., fr. LL. <ets>reductus</ets> a retreat. See <er>Redoubt</er>.]</ety> <sn>1.</sn> <def>A favorite Italian public entertainment, consisting of music and dancing, -- held generally on fast eves.</def>  <rj><au>Brande & C.</au></rj><br/
+\'d8<hw>Ri*dot"to</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It., fr. LL. <ets>reductus</ets> a retreat. See <er>Redoubt</er>.]</ety> <sn>1.</sn> <def>A favorite Italian public entertainment, consisting of music and dancing, -- held generally on fast eves.</def>  <rj><au>Brande & C.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>There are to be <qex>ridottos</qex> at guinea tickets.</q> <rj><qau>Walpole.</qau></rj><br/
@@ -29611,7 +29611,7 @@ Yet touched and shamed by <qex>ridicule</qex> alone.</q> <rj><qau>Pope.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rifacimento</ent><br/
-||<hw>Ri*fa`ci*men"to</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Rifacimenti</plw> <pr>(#)</pr></plu>. <ety>[It.]</ety> <def>A remaking or recasting; an adaptation, esp. of a literary work or musical composition.</def><br/
+\'d8<hw>Ri*fa`ci*men"to</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Rifacimenti</plw> <pr>(#)</pr></plu>. <ety>[It.]</ety> <def>A remaking or recasting; an adaptation, esp. of a literary work or musical composition.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Rife</ent><br/
@@ -30350,13 +30350,13 @@ Of <qex>rigid</qex> spears.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rigor</ent><br/
-||<hw>Ri"gor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Rigor</er>., below.]</ety> <sn>1.</sn> <def>Rigidity; stiffness.</def><br/
+\'d8<hw>Ri"gor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Rigor</er>., below.]</ety> <sn>1.</sn> <def>Rigidity; stiffness.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(ed.)</fld> <def>A sense of chilliness, with contraction of the skin; a convulsive shuddering or tremor, as in the chill preceding a fever.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs>||<col><b>Rigor caloris</b></col> <pr>(<?/)</pr> <ety>[L., rigor of heat]</ety> <fld>(Physiol.)</fld>, <cd>a form of rigor mortis induced by heat, as when the muscle of a mammal is heated to about 50<deg/ C.</cd> -- ||<col><b>Rigor mortis</b></col> <pr>(<?/)</pr> <ety>[L. , rigor of death]</ety>, <cd>death stiffening; the rigidity of the muscles that occurs at death and lasts till decomposition sets in. It is due to the formation of myosin by the coagulation of the contents of the individual muscle fibers.</cd></cs><br/
+<p><cs>\'d8<col><b>Rigor caloris</b></col> <pr>(<?/)</pr> <ety>[L., rigor of heat]</ety> <fld>(Physiol.)</fld>, <cd>a form of rigor mortis induced by heat, as when the muscle of a mammal is heated to about 50<deg/ C.</cd> -- \'d8<col><b>Rigor mortis</b></col> <pr>(<?/)</pr> <ety>[L. , rigor of death]</ety>, <cd>death stiffening; the rigidity of the muscles that occurs at death and lasts till decomposition sets in. It is due to the formation of myosin by the coagulation of the contents of the individual muscle fibers.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rigor</ent><br/
@@ -30443,19 +30443,19 @@ With <qex>rigorous hands</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rigsdag</ent><br/
-||<hw>Rigs"dag</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Dan. Cf. <er>Reichstag</er>.]</ety> <def>See <er>Legislature</er>, <xex>Denmark</xex>.</def><br/
+\'d8<hw>Rigs"dag</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Dan. Cf. <er>Reichstag</er>.]</ety> <def>See <er>Legislature</er>, <xex>Denmark</xex>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Rigsdaler</ent><br/
-||<hw>Rigs"da`ler</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Dan. See <er>Rix-dollar</er>.]</ety> <def>A Danish coin worth about fifty-four cents. It was the former unit of value in Denmark.</def><br/
+\'d8<hw>Rigs"da`ler</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Dan. See <er>Rix-dollar</er>.]</ety> <def>A Danish coin worth about fifty-four cents. It was the former unit of value in Denmark.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rig-Veda</ent><br/
-||<hw>Rig`-Ve"da</hw> <pr>(?)</pr>. <def>See <er>Veda</er>.</def><br/
+\'d8<hw>Rig`-Ve"da</hw> <pr>(?)</pr>. <def>See <er>Veda</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Riksdaler</ent><br/
-||<hw>Riks"da`ler</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sw. See <er>Rix-dollar</er>.]</ety> <def>A Swedish coin worth about twenty-seven cents. It was formerly the unit of value in Sweden.</def><br/
+\'d8<hw>Riks"da`ler</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sw. See <er>Rix-dollar</er>.]</ety> <def>A Swedish coin worth about twenty-seven cents. It was formerly the unit of value in Sweden.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rile</ent><br/
@@ -30469,7 +30469,7 @@ With <qex>rigorous hands</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rilievo</ent><br/
-||<hw>Ri*lie"vo</hw> <pr>(?)</pr>, <pos>n.</pos><ety>[It. See <er>Relief</er>.]</ety> <fld>(Sculp. & Arch.)</fld> <def>Same as <er>Relief</er>, <pos>n.</pos>, 5.</def><br/
+\'d8<hw>Ri*lie"vo</hw> <pr>(?)</pr>, <pos>n.</pos><ety>[It. See <er>Relief</er>.]</ety> <fld>(Sculp. & Arch.)</fld> <def>Same as <er>Relief</er>, <pos>n.</pos>, 5.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rill</ent><br/
@@ -30512,11 +30512,11 @@ With <qex>rigorous hands</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rima</ent><br/
-||<hw>Ri"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rimae</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Anat.)</fld> <def>A narrow and elongated aperture; a cleft; a fissure.</def><br/
+\'d8<hw>Ri"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rimae</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Anat.)</fld> <def>A narrow and elongated aperture; a cleft; a fissure.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rimau dahan</ent><br/
-||<hw>Ri"mau da"han</hw> <pr>(?)</pr>. <ety>[From the native Oriental name.]</ety> <fld>(Zool.)</fld> <def>The clouded tiger cat (<spn>Felis marmorata</spn>) of Southern Asia and the East Indies.</def><br/
+\'d8<hw>Ri"mau da"han</hw> <pr>(?)</pr>. <ety>[From the native Oriental name.]</ety> <fld>(Zool.)</fld> <def>The clouded tiger cat (<spn>Felis marmorata</spn>) of Southern Asia and the East Indies.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rimbase</ent><br/
@@ -30608,7 +30608,7 @@ With <qex>rigorous hands</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rincon</ent><br/
-||<hw>Rin*con"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Rincones</plw> <pr>(#)</pr></plu>. <ety>[Sp. <ets>rinc<oacute/n</ets>.]</ety> <def>An interior corner; a nook; hence, an angular recess or hollow bend in a mountain, river, cliff, or the like.</def> <mark>[Western & Southern U. S.]</mark>  <rj><au>D. S. Jordan.</au></rj><br/
+\'d8<hw>Rin*con"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Rincones</plw> <pr>(#)</pr></plu>. <ety>[Sp. <ets>rinc<oacute/n</ets>.]</ety> <def>An interior corner; a nook; hence, an angular recess or hollow bend in a mountain, river, cliff, or the like.</def> <mark>[Western & Southern U. S.]</mark>  <rj><au>D. S. Jordan.</au></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Rind</ent><br/
@@ -30652,7 +30652,7 @@ Thou hast immanacled.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rinforzando</ent><br/
-||<hw>Rin`for*zan"do</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It., fr. <ets>rinforzare</ets> to reenforce, strengthen.]</ety> <fld>(Mus.)</fld> <def>Increasing; strengthening; -- a direction indicating a sudden increase of force (abbreviated <abbr>rf.</abbr>, <abbr>rfz.</abbr>) Cf. <er>Forzando</er>, and <er>Sforzando</er>.</def><br/
+\'d8<hw>Rin`for*zan"do</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It., fr. <ets>rinforzare</ets> to reenforce, strengthen.]</ety> <fld>(Mus.)</fld> <def>Increasing; strengthening; -- a direction indicating a sudden increase of force (abbreviated <abbr>rf.</abbr>, <abbr>rfz.</abbr>) Cf. <er>Forzando</er>, and <er>Sforzando</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ring</ent><br/
@@ -31204,7 +31204,7 @@ To Cowley scarce did <qex>ripeness</qex> give.</q> <rj><qau>Denham.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ripieno</ent><br/
-||<hw>Ri*pi*e"no</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Filling up; supplementary; supernumerary; -- a term applied to those instruments which only swell the mass or <xex>tutti</xex> of an orchestra, but are not obbligato.</def><br/
+\'d8<hw>Ri*pi*e"no</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Filling up; supplementary; supernumerary; -- a term applied to those instruments which only swell the mass or <xex>tutti</xex> of an orchestra, but are not obbligato.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ripper</ent><br/
@@ -31640,12 +31640,12 @@ With blackest insurrection.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Risotto</ent><br/
-||<hw>Ri*sot"to</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <def>A kind of pottage.</def><br/
+\'d8<hw>Ri*sot"to</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <def>A kind of pottage.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Risquee</ent><br/
 <ent>Risque</ent><br/
-<mhw>{ ||<hw>Ris`qu<eacute/"</hw>, <pos>a. masc.</pos>, ||<hw>Ris`qu<eacute/e"</hw>, <pos>a. fem.</pos> }</mhw>, <pr>(r<esl/s`k<asl/")</pr>. <ety>[F., p.p. of <ets>risquer</ets> to risk.]</ety> <def>Hazardous; risky; esp., fig., verging upon impropriety; dangerously close to, or suggestive of, what is indecent or of doubtful morality; <as>as, a <ex>risqu<eacute/</ex> story</as>.</def>  <rj><au>Henry Austin.</au></rj><br/
+<mhw>{ \'d8<hw>Ris`qu<eacute/"</hw>, <pos>a. masc.</pos>, \'d8<hw>Ris`qu<eacute/e"</hw>, <pos>a. fem.</pos> }</mhw>, <pr>(r<esl/s`k<asl/")</pr>. <ety>[F., p.p. of <ets>risquer</ets> to risk.]</ety> <def>Hazardous; risky; esp., fig., verging upon impropriety; dangerously close to, or suggestive of, what is indecent or of doubtful morality; <as>as, a <ex>risqu<eacute/</ex> story</as>.</def>  <rj><au>Henry Austin.</au></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Risse</ent><br/
@@ -31657,7 +31657,7 @@ With blackest insurrection.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rissole</ent><br/
-||<hw>Ris`sole"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>rissoler</ets> to fry meat till it is brown.]</ety> <fld>(Cookery)</fld> <def>A small ball of rich minced meat or fish, covered with pastry and fried.</def><br/
+\'d8<hw>Ris`sole"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>rissoler</ets> to fry meat till it is brown.]</ety> <fld>(Cookery)</fld> <def>A small ball of rich minced meat or fish, covered with pastry and fried.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rist</ent><br/
@@ -31669,7 +31669,7 @@ With blackest insurrection.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ritardando</ent><br/
-||<hw>Ri`tar*dan"do</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Retarding; -- a direction for slower time; rallentado.</def><br/
+\'d8<hw>Ri`tar*dan"do</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Retarding; -- a direction for slower time; rallentado.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rite</ent><br/
@@ -31683,16 +31683,16 @@ With blackest insurrection.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ritenuto</ent><br/
-||<hw>Ri`te*nu"to</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Held back; holding back; ritardando.</def><br/
+\'d8<hw>Ri`te*nu"to</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Held back; holding back; ritardando.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ritornello</ent><br/
 <ent>Ritornelle</ent><br/
-<mhw>{ <hw>Rit`or*nelle"</hw> <pr>(?)</pr>, ||<hw>Ri`tor*nel"lo</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[It. <ets>ritornello</ets>, dim. of <ets>ritorno</ets> return, fr. <ets>ritornare</ets> to return: cf. F. <ets>ritournelle</ets>.]</ety> <fld>(Mus.)</fld> <sd>(a)</sd> <def>A short return or repetition; a concluding symphony to an air, often consisting of the burden of the song.</def> <sd>(a)</sd> <def>A short intermediate symphony, or instrumental passage, in the course of a vocal piece; an interlude.</def><br/
+<mhw>{ <hw>Rit`or*nelle"</hw> <pr>(?)</pr>, \'d8<hw>Ri`tor*nel"lo</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[It. <ets>ritornello</ets>, dim. of <ets>ritorno</ets> return, fr. <ets>ritornare</ets> to return: cf. F. <ets>ritournelle</ets>.]</ety> <fld>(Mus.)</fld> <sd>(a)</sd> <def>A short return or repetition; a concluding symphony to an air, often consisting of the burden of the song.</def> <sd>(a)</sd> <def>A short intermediate symphony, or instrumental passage, in the course of a vocal piece; an interlude.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ritratto</ent><br/
-||<hw>Ri*trat"to</hw> <pr>(?)</pr>, <pos>n.</pos><ety>[It.]</ety> <def>A picture.</def>  <rj><au>Sterne.</au></rj><br/
+\'d8<hw>Ri*trat"to</hw> <pr>(?)</pr>, <pos>n.</pos><ety>[It.]</ety> <def>A picture.</def>  <rj><au>Sterne.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ritual</ent><br/
@@ -31924,7 +31924,7 @@ The <qex>rivals</qex> of my watch, bid them make haste.</q> <rj><qau>Shak.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Riviere</ent><br/
-||<hw>Ri`vi<egrave/re"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A necklace of diamonds or other precious stones, esp. one of several strings.</def><br/
+\'d8<hw>Ri`vi<egrave/re"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A necklace of diamonds or other precious stones, esp. one of several strings.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Rivose</ent><br/
@@ -31944,11 +31944,11 @@ He sought them.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rixatrix</ent><br/
-||<hw>Rix*a"trix</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Old Eng. Law)</fld> <def>A scolding or quarrelsome woman; a scold.</def>  <rj><au>Burrill.</au></rj><br/
+\'d8<hw>Rix*a"trix</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Old Eng. Law)</fld> <def>A scolding or quarrelsome woman; a scold.</def>  <rj><au>Burrill.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rixdaler</ent><br/
-||<hw>Rix"da`ler</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A Dutch silver coin, worth about $1.00.</def><br/
+\'d8<hw>Rix"da`ler</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A Dutch silver coin, worth about $1.00.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rix-dollar</ent><br/
@@ -32405,7 +32405,7 @@ When judges steal themselves.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Robe-de-chambre</ent><br/
-||<hw>Robe`-de-cham"bre</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., lit., a chamber gown.]</ety> <def>A dressing gown, or morning gown.</def><br/
+\'d8<hw>Robe`-de-cham"bre</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., lit., a chamber gown.]</ety> <def>A dressing gown, or morning gown.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Robertsman</ent><br/
@@ -32443,11 +32443,11 @@ When judges steal themselves.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Robinia</ent><br/
-||<hw>Ro*bin"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. So called after Jean <etsep>Robin</etsep>, a French herbalist.]</ety> <fld>(Bot.)</fld> <def>A genus of leguminous trees including the common locust of North America (<spn>Robinia Pseudocacia</spn>).</def><br/
+\'d8<hw>Ro*bin"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. So called after Jean <etsep>Robin</etsep>, a French herbalist.]</ety> <fld>(Bot.)</fld> <def>A genus of leguminous trees including the common locust of North America (<spn>Robinia Pseudocacia</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Roble</ent><br/
-||<hw>Ro"ble</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., oak.]</ety> <fld>(Bot.)</fld> <def>The California white oak (<spn>Quercus lobata</spn>).</def><br/
+\'d8<hw>Ro"ble</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., oak.]</ety> <fld>(Bot.)</fld> <def>The California white oak (<spn>Quercus lobata</spn>).</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Roborant</ent><br/
@@ -32513,7 +32513,7 @@ Is hauled about in gallantry <qex>robust</qex>.</q> <rj><qau>Thomson.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rocaille</ent><br/
-||<hw>Ro`caille"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. Cf. <er>Rock</er> a stone.]</ety> <fld>(Art)</fld> <sd>(a)</sd> <def>Artificial rockwork made of rough stones and cement, as for gardens.</def> <sd>(b)</sd> <def>The rococo system of scroll ornament, based in part on the forms of shells and water-worn rocks.</def><br/
+\'d8<hw>Ro`caille"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. Cf. <er>Rock</er> a stone.]</ety> <fld>(Art)</fld> <sd>(a)</sd> <def>Artificial rockwork made of rough stones and cement, as for gardens.</def> <sd>(b)</sd> <def>The rococo system of scroll ornament, based in part on the forms of shells and water-worn rocks.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Rocambole</ent><br/
@@ -32548,7 +32548,7 @@ Is hauled about in gallantry <qex>robust</qex>.</q> <rj><qau>Thomson.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Roche moutonnee</ent><br/
-||<hw>Roche" mou`ton`n<eacute/e"</hw> <pr>(?)</pr>. <ety>[F., sheep-shaped rock.]</ety> <fld>(Geol.)</fld> <def>See <er>Sheepback</er>.</def><br/
+\'d8<hw>Roche" mou`ton`n<eacute/e"</hw> <pr>(?)</pr>. <ety>[F., sheep-shaped rock.]</ety> <fld>(Geol.)</fld> <def>See <er>Sheepback</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rochet</ent><br/
@@ -32863,14 +32863,14 @@ Supplants their footsteps.</q> <rj><qau>J. Philips .</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rodentia</ent><br/
-||<hw>Ro*den"ti*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Rodent</er>, <pos>a.</pos>]</ety> <fld>(Zool.)</fld> <def>An order of mammals having two (rarely four) large incisor teeth in each jaw, distant from the molar teeth. The rats, squirrels, rabbits, marmots, and beavers belong to this order.</def><br/
+\'d8<hw>Ro*den"ti*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Rodent</er>, <pos>a.</pos>]</ety> <fld>(Zool.)</fld> <def>An order of mammals having two (rarely four) large incisor teeth in each jaw, distant from the molar teeth. The rats, squirrels, rabbits, marmots, and beavers belong to this order.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The incisor teeth are long, curved, and strongly enameled on the outside, so as to keep a cutting edge. They have a persistent pulp and grow continuously.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rodeo</ent><br/
-||<hw>Ro*de"o</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[SP., a going round.]</ety> <def>A round-up. See <er>Round-up</er>.</def> <mark>[Western U.S.]</mark><br/
+\'d8<hw>Ro*de"o</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[SP., a going round.]</ety> <def>A round-up. See <er>Round-up</er>.</def> <mark>[Western U.S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rodge</ent><br/
@@ -33659,7 +33659,7 @@ The lasting <qex>roll</qex>, recording what we say.</q> <rj><qau>Prior.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Romanza</ent><br/
-||<hw>Ro*man"za</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <def>See <er>Romance</er>, 5.</def><br/
+\'d8<hw>Ro*man"za</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <def>See <er>Romance</er>, 5.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Romaunt</ent><br/
@@ -33773,11 +33773,11 @@ Is hauled about in gallantry robust.</q> <rj><qau>Thomson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rondache</ent><br/
-||<hw>Ron`dache"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Anc. Armor.)</fld> <def>A circular shield carried by foot soldiers.</def><br/
+\'d8<hw>Ron`dache"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Anc. Armor.)</fld> <def>A circular shield carried by foot soldiers.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ronde</ent><br/
-||<hw>Ronde</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Print.)</fld> <def>A kind of script in which the heavy strokes are nearly upright, giving the characters when taken together a round look.</def><br/
+\'d8<hw>Ronde</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Print.)</fld> <def>A kind of script in which the heavy strokes are nearly upright, giving the characters when taken together a round look.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rondeau</ent><br/
@@ -33798,7 +33798,7 @@ Is hauled about in gallantry robust.</q> <rj><qau>Thomson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rondeletia</ent><br/
-||<hw>Ron`de*le"ti*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. So named after William <etsep>Rondelet</etsep>, a French naturalist.]</ety> <fld>(Bot.)</fld> <def>A tropical genus of rubiaceous shrubs which often have brilliant flowers.</def><br/
+\'d8<hw>Ron`de*le"ti*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. So named after William <etsep>Rondelet</etsep>, a French naturalist.]</ety> <fld>(Bot.)</fld> <def>A tropical genus of rubiaceous shrubs which often have brilliant flowers.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rondle</ent><br/
@@ -33835,11 +33835,11 @@ Of maiden <qex>rondure</qex>, like the rose half-blown.</q> <rj><qau>Lowell.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rongeur</ent><br/
-||<hw>Ron`geur"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>ronger</ets> to gnaw.]</ety> <fld>(Surg.)</fld> <def>An instrument for removing small rough portions of bone.</def><br/
+\'d8<hw>Ron`geur"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>ronger</ets> to gnaw.]</ety> <fld>(Surg.)</fld> <def>An instrument for removing small rough portions of bone.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>ronin</ent><br/
-||<hw>ro"nin"</hw> <pr>(r<omac/"n<icr/n)</pr>, <pos>n.</pos> <ety>[Jap. <ets>r<omac/-nin</ets>, fr. Chin. <ets>lang</ets> profligate, lawless + <ets>j<ecir/n</ets> (old sound <ets>n<imac/n</ets>) man.]</ety>  <def>In Japan, under the feudal system, a samurai who had renounced his clan or who had been discharged or ostracized and had become a wanderer without a lord; an outcast; an outlaw.</def><br/
+\'d8<hw>ro"nin"</hw> <pr>(r<omac/"n<icr/n)</pr>, <pos>n.</pos> <ety>[Jap. <ets>r<omac/-nin</ets>, fr. Chin. <ets>lang</ets> profligate, lawless + <ets>j<ecir/n</ets> (old sound <ets>n<imac/n</ets>) man.]</ety>  <def>In Japan, under the feudal system, a samurai who had renounced his clan or who had been discharged or ostracized and had become a wanderer without a lord; an outcast; an outlaw.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Ronyon</ent><br/
@@ -34501,7 +34501,7 @@ Upon our houses' thatch.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rosalia</ent><br/
-||<hw>Ro*sa"li*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>rosalie</ets>.]</ety> <fld>(Mus.)</fld> <def>A form of melody in which a phrase or passage is successively repeated, each time a step or half step higher; a melodic sequence.</def><br/
+\'d8<hw>Ro*sa"li*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>rosalie</ets>.]</ety> <fld>(Mus.)</fld> <def>A form of melody in which a phrase or passage is successively repeated, each time a step or half step higher; a melodic sequence.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rosaniline</ent><br/
@@ -34661,7 +34661,7 @@ Upon our houses' thatch.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rosella</ent><br/
-||<hw>Ro"sel"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., dim. of L. <ets>rosa</ets> rose.]</ety> <fld>(Zool.)</fld> <def>A beautiful Australian parrakeet (<spn>Platycercus eximius</spn>) often kept as a cage bird. The head and back of the neck are scarlet, the throat is white, the back dark green varied with lighter green, and the breast yellow.</def><br/
+\'d8<hw>Ro"sel"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., dim. of L. <ets>rosa</ets> rose.]</ety> <fld>(Zool.)</fld> <def>A beautiful Australian parrakeet (<spn>Platycercus eximius</spn>) often kept as a cage bird. The head and back of the neck are scarlet, the throat is white, the back dark green varied with lighter green, and the breast yellow.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Roselle</ent><br/
@@ -34696,7 +34696,7 @@ Upon our houses' thatch.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Roseola</ent><br/
-||<hw>Ro*se"o*la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., dim. of L. <ets>rosa</ets> a rose.]</ety> <fld>(med.)</fld> <def>A rose-colored efflorescence upon the skin, occurring in circumscribed patches of little or no elevation and often alternately fading and reviving; also, an acute specific disease which is characterized by an eruption of this character; -- called also <altname>rose rash</altname>.</def> -- <wordforms><wf>Ro*se"o*lous</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>Ro*se"o*la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., dim. of L. <ets>rosa</ets> a rose.]</ety> <fld>(med.)</fld> <def>A rose-colored efflorescence upon the skin, occurring in circumscribed patches of little or no elevation and often alternately fading and reviving; also, an acute specific disease which is characterized by an eruption of this character; -- called also <altname>rose rash</altname>.</def> -- <wordforms><wf>Ro*se"o*lous</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rose-pink</ent><br/
@@ -34892,7 +34892,7 @@ And wholesome dew called <qex>rosmarine</qex>.</q> <rj><qau>B. Jonson.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rostellum</ent><br/
-||<hw>Ros*tel"lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rostella</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Rostel</er>.]</ety> <def>A small beaklike process or extension of some part; a small rostrum; <as>as, the <ex>rostellum</ex> of the stigma of violets, or of the operculum of many mosses; the <ex>rostellum</ex> on the head of a tapeworm.</as></def><br/
+\'d8<hw>Ros*tel"lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rostella</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Rostel</er>.]</ety> <def>A small beaklike process or extension of some part; a small rostrum; <as>as, the <ex>rostellum</ex> of the stigma of violets, or of the operculum of many mosses; the <ex>rostellum</ex> on the head of a tapeworm.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Roster</ent><br/
@@ -34919,7 +34919,7 @@ And wholesome dew called <qex>rosmarine</qex>.</q> <rj><qau>B. Jonson.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rostrifera</ent><br/
-||<hw>Ros*trif"e*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>rostrum</ets> beak + <ets>ferre</ets> to bear.]</ety> <fld>(Zool.)</fld> <def>A division of pectinibranchiate gastropods, having the head prolonged into a snout which is not retractile.</def><br/
+\'d8<hw>Ros*trif"e*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>rostrum</ets> beak + <ets>ferre</ets> to bear.]</ety> <fld>(Zool.)</fld> <def>A division of pectinibranchiate gastropods, having the head prolonged into a snout which is not retractile.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rostriform</ent><br/
@@ -34927,7 +34927,7 @@ And wholesome dew called <qex>rosmarine</qex>.</q> <rj><qau>B. Jonson.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rostrulum</ent><br/
-||<hw>Ros"tru*lum</hw> <pr>(-tr<usdot/*l<ucr/m)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rostrula</plw> <pr>(#)</pr>.</plu> <ety>[NL., dim. of L. <ets>rostrum</ets> a beak.]</ety> <def>A little rostrum, or beak, as of an insect.</def><br/
+\'d8<hw>Ros"tru*lum</hw> <pr>(-tr<usdot/*l<ucr/m)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rostrula</plw> <pr>(#)</pr>.</plu> <ety>[NL., dim. of L. <ets>rostrum</ets> a beak.]</ety> <def>A little rostrum, or beak, as of an insect.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rostrum</ent><br/
@@ -35023,7 +35023,7 @@ To draw nutrition, propagate, and <qex>rot</qex>.</q> <rj><qau>Pope.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rota</ent><br/
-||<hw>Ro"ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>rota</ets> wheel. The name is said to allude to the design of the floor of the room in which the court used to sit, which was that of a wheel. See <er>Rotary</er>.]</ety> <sn>1.</sn> <def>An ecclesiastical court of Rome, called also <altname>Rota Romana</altname>, that takes cognizance of suits by appeal. It consists of twelve members.</def><br/
+\'d8<hw>Ro"ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>rota</ets> wheel. The name is said to allude to the design of the floor of the room in which the court used to sit, which was that of a wheel. See <er>Rotary</er>.]</ety> <sn>1.</sn> <def>An ecclesiastical court of Rome, called also <altname>Rota Romana</altname>, that takes cognizance of suits by appeal. It consists of twelve members.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Eng. Hist.)</fld> <def>A short-lived political club established in 1659 by J.Harrington to inculcate the democratic doctrine of election of the principal officers of the state by ballot, and the annual retirement of a portion of Parliament.</def><br/
@@ -35110,7 +35110,7 @@ To draw nutrition, propagate, and <qex>rot</qex>.</q> <rj><qau>Pope.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rotatoria</ent><br/
-||<hw>Ro`ta*to"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Rotifera</er>.</def><br/
+\'d8<hw>Ro`ta*to"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Rotifera</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rotatory</ent><br/
@@ -35206,7 +35206,7 @@ To draw nutrition, propagate, and <qex>rot</qex>.</q> <rj><qau>Pope.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rotifera</ent><br/
-||<hw>Ro*tif"e*ra</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it></plu> <ety>[NL., from L. <ets>rota</ets> <?/ wheel + <ets>ferre</ets> to bear.]</ety> <fld>(Zool.)</fld> <def>An order of minute worms which usually have one or two groups of vibrating cilia on the head, which, when in motion, often give an appearance of rapidly revolving wheels.  The species are very numerous in fresh waters, and are very diversified in form and habits.</def><br/
+\'d8<hw>Ro*tif"e*ra</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it></plu> <ety>[NL., from L. <ets>rota</ets> <?/ wheel + <ets>ferre</ets> to bear.]</ety> <fld>(Zool.)</fld> <def>An order of minute worms which usually have one or two groups of vibrating cilia on the head, which, when in motion, often give an appearance of rapidly revolving wheels.  The species are very numerous in fresh waters, and are very diversified in form and habits.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rotiform</ent><br/
@@ -35249,7 +35249,7 @@ As reek of the <qex>rotten</qex> fens.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rotula</ent><br/
-||<hw>Rot"u*la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a little wheel; cf. It. <ets>rotula</ets>.]</ety> <fld>(Anat.)</fld> <def>The patella, or kneepan.</def><br/
+\'d8<hw>Rot"u*la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a little wheel; cf. It. <ets>rotula</ets>.]</ety> <fld>(Anat.)</fld> <def>The patella, or kneepan.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rotular</ent><br/
@@ -35307,7 +35307,7 @@ As reek of the <qex>rotten</qex> fens.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Roture</ent><br/
-||<hw>Ro`ture</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>The condition of being a roturier.</def><br/
+\'d8<hw>Ro`ture</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>The condition of being a roturier.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <fld>(Fr. & Canadian Law)</fld> <def>A feudal tenure of lands by one who has no privileges of nobility, but is permitted to discharge all his obligations to his feudal lord or superior by a payment of rent in money or kind and without rendering any personal services.</def><br/
@@ -35318,7 +35318,7 @@ As reek of the <qex>rotten</qex> fens.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Roturier</ent><br/
-||<hw>Ro`tu`rier"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A person who is not of noble birth; specif., a freeman who during the prevalence of feudalism held allodial land.</def><br/
+\'d8<hw>Ro`tu`rier"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A person who is not of noble birth; specif., a freeman who during the prevalence of feudalism held allodial land.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Roty</ent><br/
@@ -35330,7 +35330,7 @@ Than that it <qex>roty</qex> all the remenant.</q> <rj><qau>Chaucer.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rouble</ent><br/
-||<hw>Rou"ble</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A coin. See <er>Ruble</er>.</def><br/
+\'d8<hw>Rou"ble</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A coin. See <er>Ruble</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rouche</ent><br/
@@ -35338,18 +35338,18 @@ Than that it <qex>roty</qex> all the remenant.</q> <rj><qau>Chaucer.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Roue</ent><br/
-||<hw>Rou`<eacute/"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., properly p. p. of <ets>rouer</ets> to break upon the wheel, fr. <ets>roue</ets> a wheel, L. <ets>rota</ets>. See <er>Rotate</er>, <er>Rotary</er>.]</ety> <def>One devoted to a life of sensual pleasure; a debauchee; a rake.</def><br/
+\'d8<hw>Rou`<eacute/"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., properly p. p. of <ets>rouer</ets> to break upon the wheel, fr. <ets>roue</ets> a wheel, L. <ets>rota</ets>. See <er>Rotate</er>, <er>Rotary</er>.]</ety> <def>One devoted to a life of sensual pleasure; a debauchee; a rake.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rouet</ent><br/
-||<hw>Rou`et"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A small wheel formerly fixed to the pan of firelocks for discharging them.</def>  <rj><au>Crabb.</au></rj><br/
+\'d8<hw>Rou`et"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A small wheel formerly fixed to the pan of firelocks for discharging them.</def>  <rj><au>Crabb.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rouge</ent><br/
 <hw>Rouge</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., fr. L. <ets>rubeus</ets> red, akin to <ets>rubere</ets> to be red, <ets>ruber</ets> red. See <er>Red</er>.]</ety> <def>red.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs>||<col><b>Rouge et noir</b></col> <pr>(<?/)</pr> <ety>[F., red and black]</ety>, <cd>a game at cards in which persons play against the owner of the bank; -- so called because the table around which the players sit has certain compartments colored red and black, upon which the stakes are deposited.</cd>  <rj><au>Hoyle.</au></rj></cs><br/
+<p><cs>\'d8<col><b>Rouge et noir</b></col> <pr>(<?/)</pr> <ety>[F., red and black]</ety>, <cd>a game at cards in which persons play against the owner of the bank; -- so called because the table around which the players sit has certain compartments colored red and black, upon which the stakes are deposited.</cd>  <rj><au>Hoyle.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rouge</ent><br/
@@ -35623,11 +35623,11 @@ Than that it <qex>roty</qex> all the remenant.</q> <rj><qau>Chaucer.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Roulade</ent><br/
-||<hw>Rou`lade"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Mus.)</fld> <def>A smoothly running passage of short notes (as semiquavers, or sixteenths) uniformly grouped, sung upon one long syllable, as in Handel's oratorios.</def><br/
+\'d8<hw>Rou`lade"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Mus.)</fld> <def>A smoothly running passage of short notes (as semiquavers, or sixteenths) uniformly grouped, sung upon one long syllable, as in Handel's oratorios.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rouleau</ent><br/
-||<hw>Rou`leau"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> F. <plw>Rouleaux</plw> <pr>(F. <?/; E. <?/)</pr>, E. <plw>Rouleaus</plw> <pr>(#)</pr>.</plu> <ety>[F., a roll, dim. fr. fr. <ets>r<ocir/le</ets>, formerly also spelt <ets>roulle</ets>. See <er>Roll</er>.]</ety> <def>A little roll; a roll of coins put up in paper, or something resembling such a roll.</def><br/
+\'d8<hw>Rou`leau"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> F. <plw>Rouleaux</plw> <pr>(F. <?/; E. <?/)</pr>, E. <plw>Rouleaus</plw> <pr>(#)</pr>.</plu> <ety>[F., a roll, dim. fr. fr. <ets>r<ocir/le</ets>, formerly also spelt <ets>roulle</ets>. See <er>Roll</er>.]</ety> <def>A little roll; a roll of coins put up in paper, or something resembling such a roll.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Roulette</ent><br/
@@ -36423,7 +36423,7 @@ Dispersed in <qex>rout</qex>, betook them all to fly.</q> <rj><qau>Daniel.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Roux</ent><br/
-||<hw>Roux</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. beurre <ets>roux</ets> brown butter.]</ety> <fld>(Cookery)</fld> <def>A thickening, made of flour, for soups and gravies.</def><br/
+\'d8<hw>Roux</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. beurre <ets>roux</ets> brown butter.]</ety> <fld>(Cookery)</fld> <def>A thickening, made of flour, for soups and gravies.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 1256 --></p>
@@ -36934,16 +36934,16 @@ Will not be <qex>rubbed</qex> nor stopped.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rubaiyat</ent><br/
-||<hw>Ru*bai*yat"</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Rubai</singw> <pr>(<?/)</pr></sing>. <ety>[Ar. <ets>rub<amac/'iy<amac/h</ets> quatrian, pl. of <ets>rub<amac/'iy</ets> having four radicals, fr. <ets>rub<amac/'</ets> four.]</ety> <def>Quatrians; <as>as, the <ex>Rubaiyat</ex> of <person>Omar Khayyam</person></as>. Sometimes in <pluf>pl.</pluf> construed as <pos>sing.</pos>, a poem in such stanzas.</def><br/
+\'d8<hw>Ru*bai*yat"</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Rubai</singw> <pr>(<?/)</pr></sing>. <ety>[Ar. <ets>rub<amac/'iy<amac/h</ets> quatrian, pl. of <ets>rub<amac/'iy</ets> having four radicals, fr. <ets>rub<amac/'</ets> four.]</ety> <def>Quatrians; <as>as, the <ex>Rubaiyat</ex> of <person>Omar Khayyam</person></as>. Sometimes in <pluf>pl.</pluf> construed as <pos>sing.</pos>, a poem in such stanzas.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><-- p. 1257 --></p>
 
 <p><ent>Rubato</ent><br/
-||<hw>Ru*ba"to</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <def>Robbed; borrowed.</def><br/
+\'d8<hw>Ru*ba"to</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <def>Robbed; borrowed.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs>||<col><b>Temple rubato</b></col>. <ety>[It.]</ety> <fld>(Mus.)</fld> <cd>Borrowed time; -- a term applied to a style of performance in which some tones are held longer than their legitimate time, while others are proportionally curtailed.</cd></cs><br/
+<p><cs>\'d8<col><b>Temple rubato</b></col>. <ety>[It.]</ety> <fld>(Mus.)</fld> <cd>Borrowed time; -- a term applied to a style of performance in which some tones are held longer than their legitimate time, while others are proportionally curtailed.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rubbage</ent><br/
@@ -37053,7 +37053,7 @@ Will not be <qex>rubbed</qex> nor stopped.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>rubella</ent><br/
-||<hw>ru*bel"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>rubellus</ets> reddish.]</ety> <fld>(Med.)</fld> <def>An acute but mild viral infection characterized by a dusky red cutaneous eruption resembling that of measles, but attended by only mild respiratory problems or fever; -- called also <altname>German measles</altname>.  The infective virus is called <causedby>Rubella virus</causedby>, or <gen>Rubivirus</gen>. If contracted by a woman during the first several months of pregnancy, <ex>rubella</ex> may cause serious abnormalities in the fetus.</def><br/
+\'d8<hw>ru*bel"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>rubellus</ets> reddish.]</ety> <fld>(Med.)</fld> <def>An acute but mild viral infection characterized by a dusky red cutaneous eruption resembling that of measles, but attended by only mild respiratory problems or fever; -- called also <altname>German measles</altname>.  The infective virus is called <causedby>Rubella virus</causedby>, or <gen>Rubivirus</gen>. If contracted by a woman during the first several months of pregnancy, <ex>rubella</ex> may cause serious abnormalities in the fetus.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>rubella virus</ent><br/
@@ -37069,7 +37069,7 @@ Will not be <qex>rubbed</qex> nor stopped.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rubeola</ent><br/
-||<hw>Ru*be"o*la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>ruber</ets> red.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>the measles.</def> <sd>(b)</sd> <def>Rubella.</def><br/
+\'d8<hw>Ru*be"o*la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>ruber</ets> red.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>the measles.</def> <sd>(b)</sd> <def>Rubella.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ruberythrinic</ent><br/
@@ -37164,7 +37164,7 @@ Will not be <qex>rubbed</qex> nor stopped.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rubigo</ent><br/
-||<hw>Ru*bi"go</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>rubigo</ets>, <ets>robigo</ets>, rust of metals, rust, blight.]</ety> <fld>(bot.)</fld> <def>same as <er>Rust</er>, <pos>n.</pos>, 2.</def><br/
+\'d8<hw>Ru*bi"go</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>rubigo</ets>, <ets>robigo</ets>, rust of metals, rust, blight.]</ety> <fld>(bot.)</fld> <def>same as <er>Rust</er>, <pos>n.</pos>, 2.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rubin</ent><br/
@@ -37243,7 +37243,7 @@ Or plaistered posts, with claps, in capitals?</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rubus</ent><br/
-||<hw>Ru"bus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Bot.)</fld> <def>A genus of rosaceous plants, including the raspberry and blackberry.</def><br/
+\'d8<hw>Ru"bus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Bot.)</fld> <def>A genus of rosaceous plants, including the raspberry and blackberry.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ruby</ent><br/
@@ -37366,7 +37366,7 @@ Or plaistered posts, with claps, in capitals?</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rudbeckia</ent><br/
-||<hw>Rud*beck"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. So named after Olaf <etsep>Rudebeck</etsep>, a Swedish botanist.]</ety> <fld>(Bot.)</fld> <def>A genus of composite plants, the coneflowers, consisting of perennial herbs with showy pedunculate heads, having a hemispherical involucre, sterile ray flowers, and a conical chaffy receptacle. There are about thirty species, exclusively North American. <spn>Rudbeckia hirta</spn>, the  <stype>black-eyed Susan</stype>, is a common weed in meadows.</def><br/
+\'d8<hw>Rud*beck"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. So named after Olaf <etsep>Rudebeck</etsep>, a Swedish botanist.]</ety> <fld>(Bot.)</fld> <def>A genus of composite plants, the coneflowers, consisting of perennial herbs with showy pedunculate heads, having a hemispherical involucre, sterile ray flowers, and a conical chaffy receptacle. There are about thirty species, exclusively North American. <spn>Rudbeckia hirta</spn>, the  <stype>black-eyed Susan</stype>, is a common weed in meadows.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Rudd</ent><br/
@@ -37966,7 +37966,7 @@ Do sorely <qex>ruffle</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ruga</ent><br/
-||<hw>Ru"ga</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rugae</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Nat. Hist.)</fld> <def>A wrinkle; a fold; <as>as, the <ex>rugae</ex> of the stomach</as>.</def><br/
+\'d8<hw>Ru"ga</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rugae</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Nat. Hist.)</fld> <def>A wrinkle; a fold; <as>as, the <ex>rugae</ex> of the stomach</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rugate</ent><br/
@@ -38051,7 +38051,7 @@ Do sorely <qex>ruffle</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rugosa</ent><br/
-||<hw>Ru*go"sa</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Rugose</er>.]</ety> <fld>(Paleon.)</fld> <def>An extinct tribe of fossil corals, including numerous species, many of them of large size.  They are characteristic of the Paleozoic formations. The radiating septs, when present, are usually in multiples of four.  See <er>Cyathophylloid</er>.</def><br/
+\'d8<hw>Ru*go"sa</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Rugose</er>.]</ety> <fld>(Paleon.)</fld> <def>An extinct tribe of fossil corals, including numerous species, many of them of large size.  They are characteristic of the Paleozoic formations. The radiating septs, when present, are usually in multiples of four.  See <er>Cyathophylloid</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rugose</ent><br/
@@ -38454,7 +38454,7 @@ In all respects by me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rumen</ent><br/
-||<hw>Ru"men</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>rumen</ets>, <ets>- inis</ets>, the throat.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>The first stomach of ruminants; the paunch; the fardingbag. See <xex>Illust.</xex> below. <-- ! PCP --></def><br/
+\'d8<hw>Ru"men</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>rumen</ets>, <ets>- inis</ets>, the throat.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>The first stomach of ruminants; the paunch; the fardingbag. See <xex>Illust.</xex> below. <-- ! PCP --></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The cud of a ruminant.</def><br/
@@ -38477,7 +38477,7 @@ In all respects by me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ruminantia</ent><br/
-||<hw>Ru`mi*nan"ti*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A division of Artiodactyla having four stomachs. This division includes the camels, deer, antelopes, goats, sheep, neat cattle, and allies.</def><br/
+\'d8<hw>Ru`mi*nan"ti*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A division of Artiodactyla having four stomachs. This division includes the camels, deer, antelopes, goats, sheep, neat cattle, and allies.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- Letters refer to the Illustration, "Stomach of a ruminant." --><br/
@@ -39376,7 +39376,7 @@ I'll buy a college for bears, and live among 'em.</q> <rj><qau>Beau. & Fl.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rupia</ent><br/
-||<hw>Ru"pi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. G. <?/ filth, dirt.]</ety> <fld>(Med.)</fld> <def>An eruption upon the skin, consisting of vesicles with inflamed base and filled with serous, purulent, or bloody fluid, which dries up, forming a blackish crust.</def><br/
+\'d8<hw>Ru"pi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. G. <?/ filth, dirt.]</ety> <fld>(Med.)</fld> <def>An eruption upon the skin, consisting of vesicles with inflamed base and filled with serous, purulent, or bloody fluid, which dries up, forming a blackish crust.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rupial</ent><br/
@@ -39384,7 +39384,7 @@ I'll buy a college for bears, and live among 'em.</q> <rj><qau>Beau. & Fl.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rupicola</ent><br/
-||<hw>Ru*pic"o*la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>rupes</ets>, gen. <ets>rupis</ets>, a rock + <ets>colere</ets> to inhabit.]</ety> <fld>(Zool.)</fld> <def>A genus of beautiful South American passerine birds, including the cock of the rock.</def><br/
+\'d8<hw>Ru*pic"o*la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>rupes</ets>, gen. <ets>rupis</ets>, a rock + <ets>colere</ets> to inhabit.]</ety> <fld>(Zool.)</fld> <def>A genus of beautiful South American passerine birds, including the cock of the rock.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The species are remarkable for having an elevated fan-shaped crest of feathers on the head, and for the beautiful color of their plumage, which is mostly some delicate shade of yellow or orange.</note><br/
@@ -39477,7 +39477,7 @@ To manly confidence thy throughts apply.</q> <rj><qau>Dryden.</qau></rj></usage>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rurales</ent><br/
-||<hw>Ru*ra"les</hw> <pr>(r<usdot/*r<amac/"l<emac/z)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>The gossamer-winged butterflies; a family of small butterflies, including the hairstreaks, violets, and theclas.</def><br/
+\'d8<hw>Ru*ra"les</hw> <pr>(r<usdot/*r<amac/"l<emac/z)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>The gossamer-winged butterflies; a family of small butterflies, including the hairstreaks, violets, and theclas.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ruralism</ent><br/
@@ -39530,7 +39530,7 @@ To manly confidence thy throughts apply.</q> <rj><qau>Dryden.</qau></rj></usage>
 <hw>Ruse</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. OF. <ets>re<uum/ser</ets>, <ets>rehuser</ets>, to turn aside, to shuffle, retreat, fr. L. <ets>recusare</ets> to refuse; pref. <ets>re-</ets> again + <ets>causa</ets> cause. See <er>Cause</er>, and cf. <er>Recusant</er>.]</ety> <def>An artifice; trick; stratagem; wile; fraud; deceit.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs>||<col><b>Ruse de guerre</b></col> <pr>(<?/)</pr> <ety>[F.]</ety>, <cd>a stratagem of war.</cd></cs><br/
+<p><cs>\'d8<col><b>Ruse de guerre</b></col> <pr>(<?/)</pr> <ety>[F.]</ety>, <cd>a stratagem of war.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rush</ent><br/
@@ -40182,7 +40182,7 @@ Never defied men braver.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rytina</ent><br/
-||<hw>Ryt"i*na</hw> <pr>(r<icr/t"<icr/*n<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ryti`s</grk> a wrinkle.]</ety> <fld>(Zool.)</fld> <def>A genus of large edentulous sirenians, allied to the dugong and manatee, including but one species (<spn>Rytina Stelleri</spn>); -- called also <altname>Steller's sea cow</altname>, <altname>stellerine</altname> and <altname>steller</altname>.</def> <altsp>[Written also <asp>Rhytina</asp>.]</altsp><br/
+\'d8<hw>Ryt"i*na</hw> <pr>(r<icr/t"<icr/*n<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ryti`s</grk> a wrinkle.]</ety> <fld>(Zool.)</fld> <def>A genus of large edentulous sirenians, allied to the dugong and manatee, including but one species (<spn>Rytina Stelleri</spn>); -- called also <altname>Steller's sea cow</altname>, <altname>stellerine</altname> and <altname>steller</altname>.</def> <altsp>[Written also <asp>Rhytina</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ It is now extinct, but was formerly abundant at Bering's Island, near Bering's Straits.  It was twenty-five feet or more in length, with a thick, blackish, naked skin.  The last were killed in 1768 for their oil and flesh.</note><-- another man-made extinction --><br/

@@ -133,7 +133,7 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ianthina</ent><br/
-||<hw>I*an"thi*na</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Ianthin<ae/</plw> <pr>(#)</pr>, E. <plw>Ianthinas</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. L. <ets>ianthinus</ets> violet-blue, Gr. <?/; <?/ violet + <?/ flower.]</ety> <fld>(Zool.)</fld> <def>Any gastropod of the genus <gen>Ianthina</gen>, of which various species are found living in mid ocean; -- called also <altname>purple shell</altname>, and <altname>violet snail</altname>.</def> <altsp>[Written also <asp>janthina</asp>.]</altsp><br/
+\'d8<hw>I*an"thi*na</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Ianthin<ae/</plw> <pr>(#)</pr>, E. <plw>Ianthinas</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. L. <ets>ianthinus</ets> violet-blue, Gr. <?/; <?/ violet + <?/ flower.]</ety> <fld>(Zool.)</fld> <def>Any gastropod of the genus <gen>Ianthina</gen>, of which various species are found living in mid ocean; -- called also <altname>purple shell</altname>, and <altname>violet snail</altname>.</def> <altsp>[Written also <asp>janthina</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ It floats at the surface by means of a raft, which it constructs by forming and uniting together air bubbles of hardened mucus. The Tyrian purple of the ancients was obtained in part from mollusks of this genus.</note><br/
@@ -188,7 +188,7 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ibidem</ent><br/
-||<hw>I*bi"dem</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[L.]</ety> <def>In the same place; -- abbreviated <abbr>ibid.</abbr> or <abbr>ib.</abbr></def><br/
+\'d8<hw>I*bi"dem</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[L.]</ety> <def>In the same place; -- abbreviated <abbr>ibid.</abbr> or <abbr>ib.</abbr></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ibis</ent><br/
@@ -431,7 +431,7 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ichneumonides</ent><br/
-||<hw>Ich`neu*mon"i*des</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Ichneumon</er>.]</ety> <fld>(Zool.)</fld> <def>The ichneumon flies.</def><br/
+\'d8<hw>Ich`neu*mon"i*des</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Ichneumon</er>.]</ety> <fld>(Zool.)</fld> <def>The ichneumon flies.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ichnite</ent><br/
@@ -474,7 +474,7 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ichorhaemia</ent><br/
-||<hw>I`chor*h<ae/"mi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'ichw`r</grk> ichor + <?/ blood.]</ety> <fld>(Med.)</fld> <def>Infection of the blood with ichorous or putrid substances.</def><br/
+\'d8<hw>I`chor*h<ae/"mi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'ichw`r</grk> ichor + <?/ blood.]</ety> <fld>(Med.)</fld> <def>Infection of the blood with ichorous or putrid substances.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ichorous</ent><br/
@@ -551,7 +551,7 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ichthyomorpha</ent><br/
-||<hw>Ich`thy*o*mor"pha</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ fish-shaped; <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <grk>morfh`</grk> form.]</ety> <fld>(Zool.)</fld> <def>The Urodela.</def></p>
+\'d8<hw>Ich`thy*o*mor"pha</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ fish-shaped; <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <grk>morfh`</grk> form.]</ety> <fld>(Zool.)</fld> <def>The Urodela.</def></p>
 
 <p><ent>Ichthyomorphous</ent><br/
 <ent>Ichthyomorphic</ent><br/
@@ -575,23 +575,23 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ichthyophthira</ent><br/
-||<hw>Ich`thy*oph*thi"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ a louse.]</ety> <fld>(Zool.)</fld> <def>A division of copepod crustaceans, including numerous species parasitic on fishes.</def><br/
+\'d8<hw>Ich`thy*oph*thi"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ a louse.]</ety> <fld>(Zool.)</fld> <def>A division of copepod crustaceans, including numerous species parasitic on fishes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ichthyopsida</ent><br/
-||<hw>Ich`thy*op"si*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ appearance.]</ety> <fld>(Zool.)</fld> <def>A grand division of the Vertebrata, including the Amphibia and Fishes.</def><br/
+\'d8<hw>Ich`thy*op"si*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ appearance.]</ety> <fld>(Zool.)</fld> <def>A grand division of the Vertebrata, including the Amphibia and Fishes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ichthyopterygia</ent><br/
-||<hw>Ich`thy*op`te*ryg"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Ichthyopterygium</er>.]</ety> <fld>(Paleon.)</fld> <def>See <er>Ichthyosauria</er>.</def><br/
+\'d8<hw>Ich`thy*op`te*ryg"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Ichthyopterygium</er>.]</ety> <fld>(Paleon.)</fld> <def>See <er>Ichthyosauria</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ichthyopterygium</ent><br/
-||<hw>Ich`thy*op`te*ryg"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ a fin.]</ety> <fld>(Anat.)</fld> <def>The typical limb, or lateral fin, of fishes.</def><br/
+\'d8<hw>Ich`thy*op`te*ryg"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ a fin.]</ety> <fld>(Anat.)</fld> <def>The typical limb, or lateral fin, of fishes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ichthyornis</ent><br/
-||<hw>Ich`thy*or"nis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ bird.]</ety> <fld>(Paleon.)</fld> <def>An extinct genus of toothed birds found in the American Cretaceous formation. It is remarkable for having biconcave vertebr<ae/, and sharp, conical teeth set in sockets. Its wings were well developed. It is the type of the order <ord>Odontotorm<ae/</ord>.</def><br/
+\'d8<hw>Ich`thy*or"nis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ bird.]</ety> <fld>(Paleon.)</fld> <def>An extinct genus of toothed birds found in the American Cretaceous formation. It is remarkable for having biconcave vertebr<ae/, and sharp, conical teeth set in sockets. Its wings were well developed. It is the type of the order <ord>Odontotorm<ae/</ord>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ichthyosaur</ent><br/
@@ -599,7 +599,7 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ichthyosauria</ent><br/
-||<hw>Ich`thy*o*sau"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Ichthyosaurus</er>.]</ety> <fld>(Paleon.)</fld> <def>An extinct order of marine reptiles, including Ichthyosaurus and allied forms; -- called also <altname>Ichthyopterygia</altname>. They have not been found later than the Cretaceous period.</def><br/
+\'d8<hw>Ich`thy*o*sau"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Ichthyosaurus</er>.]</ety> <fld>(Paleon.)</fld> <def>An extinct order of marine reptiles, including Ichthyosaurus and allied forms; -- called also <altname>Ichthyopterygia</altname>. They have not been found later than the Cretaceous period.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ichthyosaurian</ent><br/
@@ -607,11 +607,11 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ichthyosaurus</ent><br/
-||<hw>Ich`thy*o*sau"rus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ichthyosauri</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <grk>say^ros</grk> a lizard.]</ety> <fld>(Paleon.)</fld> <def>An extinct genus of marine reptiles; -- so named from their short, biconcave vertebr<ae/, resembling those of fishes. Several species, varying in length from ten to thirty feet, are known from the Liassic, O<oum/litic, and Cretaceous formations.</def><br/
+\'d8<hw>Ich`thy*o*sau"rus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ichthyosauri</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <grk>say^ros</grk> a lizard.]</ety> <fld>(Paleon.)</fld> <def>An extinct genus of marine reptiles; -- so named from their short, biconcave vertebr<ae/, resembling those of fishes. Several species, varying in length from ten to thirty feet, are known from the Liassic, O<oum/litic, and Cretaceous formations.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ichthyosis</ent><br/
-||<hw>Ich`thy*o"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'ichqy`s</grk> fish.]</ety> <fld>(Med.)</fld> <def>A disease in which the skin is thick, rough, and scaly; -- called also <altname>fishskin</altname>.</def> -- <wordforms><wf>Ich`thy*ot"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>Ich`thy*o"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'ichqy`s</grk> fish.]</ety> <fld>(Med.)</fld> <def>A disease in which the skin is thick, rough, and scaly; -- called also <altname>fishskin</altname>.</def> -- <wordforms><wf>Ich`thy*ot"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ichthyotomist</ent><br/
@@ -623,7 +623,7 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ichthys</ent><br/
-||<hw>Ich"thys</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'ichqy`s</grk> a fish.]</ety> <def>Same as <er>Ichthus</er>.</def><br/
+\'d8<hw>Ich"thys</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'ichqy`s</grk> a fish.]</ety> <def>Same as <er>Ichthus</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Icicle</ent><br/
@@ -790,7 +790,7 @@ Dead perfection, no more.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Icosandria</ent><br/
-||<hw>I`co*san"dri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ twenty +<?/, <?/, man, male: cf. F. <ets>icosandrie</ets>.]</ety> <fld>(Bot.)</fld> <def>A Linn<ae/an class of plants, having twenty or more stamens inserted in the calyx.</def></p>
+\'d8<hw>I`co*san"dri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ twenty +<?/, <?/, man, male: cf. F. <ets>icosandrie</ets>.]</ety> <fld>(Bot.)</fld> <def>A Linn<ae/an class of plants, having twenty or more stamens inserted in the calyx.</def></p>
 
 <p><ent>Icosandrous</ent><br/
 <ent>Icosandrian</ent><br/
@@ -846,7 +846,7 @@ Dead perfection, no more.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Icterus</ent><br/
-||<hw>Ic"te*rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Icteric</er>, <pos>a.</pos>]</ety> <fld>(Med.)</fld> <def>The jaundice.</def><br/
+\'d8<hw>Ic"te*rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Icteric</er>, <pos>a.</pos>]</ety> <fld>(Med.)</fld> <def>The jaundice.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ictic</ent><br/
@@ -868,7 +868,7 @@ Dead perfection, no more.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Ictus</ent><br/
-||<hw>Ic"tus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>icere</ets>, <ets>ictum</ets>, to strike.]</ety> <sn>1.</sn> <fld>(Pros.)</fld> <def>The stress of voice laid upon accented syllable of a word.  Cf. <er>Arsis</er>.</def><br/
+\'d8<hw>Ic"tus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>icere</ets>, <ets>ictum</ets>, to strike.]</ety> <sn>1.</sn> <fld>(Pros.)</fld> <def>The stress of voice laid upon accented syllable of a word.  Cf. <er>Arsis</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Med.)</fld> <def>A stroke or blow, as in a sunstroke, the sting of an insect, pulsation of an artery, etc.</def><br/
@@ -1346,7 +1346,7 @@ Answering his great <qex>idea</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Idiocrasis</ent><br/
-||<hw>Id`i*o*cra"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>Idiocracy.</def><br/
+\'d8<hw>Id`i*o*cra"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>Idiocracy.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Idiocrasy</ent><br/
@@ -1481,7 +1481,7 @@ And to just <qex>idioms</qex> fix our doubtful speech.</q> <rj><qau>Prior.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Idioplasma</ent><br/
-||<hw>Id`i*o*plas"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'i`dios</grk> proper, peculiar + <?/ a form, mold.]</ety> <fld>(Biol.)</fld> <def>That portion of the cell protoplasm which is the seat of all active changes, and which carries on the function of hereditary transmission; -- distinguished from the other portion, which is termed <xex>nutritive plasma</xex>. See <er>Hygroplasm</er>.</def>
+\'d8<hw>Id`i*o*plas"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'i`dios</grk> proper, peculiar + <?/ a form, mold.]</ety> <fld>(Biol.)</fld> <def>That portion of the cell protoplasm which is the seat of all active changes, and which carries on the function of hereditary transmission; -- distinguished from the other portion, which is termed <xex>nutritive plasma</xex>. See <er>Hygroplasm</er>.</def>
 <-- any modern equivalent?  The chromosome/ Genome? --><br/
 [<source>1913 Webster</source>]</p>
 
@@ -1798,7 +1798,7 @@ Of alienated Judah.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Idolon</ent><br/
 <ent>Idolum</ent><br/
-<mhw>||<hw>I*do"lum</hw> <pr>(?)</pr>, ||<hw>I*do"lon</hw> <pr>(<?/)</pr></mhw>, <pos>n.</pos>; <plu>pl. <plw>Idola</plw> <pr>(#)</pr></plu>. <ety>[L. See <er>Idol</er>; cf. <er>Eidolon</er>.]</ety> <def>Appearance or image; a phantasm; a spectral image; also, a mental image or idea.</def><br/
+<mhw>\'d8<hw>I*do"lum</hw> <pr>(?)</pr>, \'d8<hw>I*do"lon</hw> <pr>(<?/)</pr></mhw>, <pos>n.</pos>; <plu>pl. <plw>Idola</plw> <pr>(#)</pr></plu>. <ety>[L. See <er>Idol</er>; cf. <er>Eidolon</er>.]</ety> <def>Appearance or image; a phantasm; a spectral image; also, a mental image or idea.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Idoneous</ent><br/
@@ -1933,7 +1933,7 @@ Assist, <qex>if</qex> <OE/dipus deserve thy care.</q> <rj><qau>Pope.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ignis fatuus</ent><br/
-||<hw>Ig"nis fat"u*us</hw> <pr>(?)</pr>; <plu><it>pl.</it> <plw>Ignes fatui</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>ignis</ets> fire + <ets>fatuus</ets> foolish. So called in allusion to its tendency to mislead travelers.]</ety> <sn>1.</sn> <def>A phosphorescent light that appears, in the night, over marshy ground, supposed to be occasioned by the decomposition of animal or vegetable substances, or by some inflammable gas; -- popularly called also <altname>Will-with-the-wisp</altname>, or <altname>Will-o'-the-wisp</altname>, and <altname>Jack-with-a-lantern</altname>, or <altname>Jack-o'-lantern</altname>.  It is thought by some to be caused by phosphine, <chform>PH3</chform>, a sponaneously combustible gas.</def><br/
+\'d8<hw>Ig"nis fat"u*us</hw> <pr>(?)</pr>; <plu><it>pl.</it> <plw>Ignes fatui</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>ignis</ets> fire + <ets>fatuus</ets> foolish. So called in allusion to its tendency to mislead travelers.]</ety> <sn>1.</sn> <def>A phosphorescent light that appears, in the night, over marshy ground, supposed to be occasioned by the decomposition of animal or vegetable substances, or by some inflammable gas; -- popularly called also <altname>Will-with-the-wisp</altname>, or <altname>Will-o'-the-wisp</altname>, and <altname>Jack-with-a-lantern</altname>, or <altname>Jack-o'-lantern</altname>.  It is thought by some to be caused by phosphine, <chform>PH3</chform>, a sponaneously combustible gas.</def><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Will o'the Wisp -- which also rejoices in the names of <qex>Ignis Fatuus</qex> or Jack o'Lantern -- is not, as some of you may think, a cartoon character.  In mediaeval times this chemical phenomenon struck terror into travellers and, very likely, lured some of them to their deaths in a stinking and marshy grave.<br/
@@ -2238,7 +2238,7 @@ And seeing things before, behind.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ihram</ent><br/
-||<hw>Ih*ram"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The peculiar dress worn by pilgrims to Mecca.</def><br/
+\'d8<hw>Ih*ram"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The peculiar dress worn by pilgrims to Mecca.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>IHVH</ent><br/
@@ -2309,7 +2309,7 @@ And seeing things before, behind.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Ileum</ent><br/
-||<hw>Il"e*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>ile</ets>, <ets>ileum</ets>, <ets>ilium</ets>, pl. <ets>ilia</ets>, groin, flank.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>The last, and usually the longest, division of the small intestine; the part between the jejunum and large intestine.</def> <altsp>[Written also <asp>ileon</asp>, and <asp>ilium</asp>.]</altsp><br/
+\'d8<hw>Il"e*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>ile</ets>, <ets>ileum</ets>, <ets>ilium</ets>, pl. <ets>ilia</ets>, groin, flank.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>The last, and usually the longest, division of the small intestine; the part between the jejunum and large intestine.</def> <altsp>[Written also <asp>ileon</asp>, and <asp>ilium</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Anat.)</fld> <def>See <er>Ilium</er>.</def> <mark>[R.]</mark><br/
@@ -2319,11 +2319,11 @@ And seeing things before, behind.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ileus</ent><br/
-||<hw>Il"e*us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, <?/, fr. <?/ to roll up.]</ety> <fld>(Med.)</fld> <def>A morbid condition due to intestinal obstruction.  It is characterized by complete constipation, with griping pains in the abdomen, which is greatly distended, and in the later stages by vomiting of fecal matter.  Called also <altname>ileac passion</altname> <it>or</it> <altname>iliac passion</altname>.</def><br/
+\'d8<hw>Il"e*us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, <?/, fr. <?/ to roll up.]</ety> <fld>(Med.)</fld> <def>A morbid condition due to intestinal obstruction.  It is characterized by complete constipation, with griping pains in the abdomen, which is greatly distended, and in the later stages by vomiting of fecal matter.  Called also <altname>ileac passion</altname> <it>or</it> <altname>iliac passion</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ilex</ent><br/
-||<hw>I"lex</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., holm oak.]</ety> <fld>(Bot.)</fld> <sd>(a)</sd> <def>The holm oak (<spn>Quercus Ilex</spn>).</def> <sd>(b)</sd> <def>A genus of evergreen trees and shrubs, including the common holly.</def><br/
+\'d8<hw>I"lex</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., holm oak.]</ety> <fld>(Bot.)</fld> <sd>(a)</sd> <def>The holm oak (<spn>Quercus Ilex</spn>).</def> <sd>(b)</sd> <def>A genus of evergreen trees and shrubs, including the common holly.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Iliac</ent><br/
@@ -2386,7 +2386,7 @@ And seeing things before, behind.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ilium</ent><br/
-||<hw>Il"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Ileum</er>.]</ety> <fld>(Anat.)</fld> <def>The dorsal one of the three principal bones comprising either lateral half of the pelvis; the dorsal or upper part of the hip bone. See <cref>Innominate bone</cref>, under <er>Innominate</er>.</def> <altsp>[Written also <asp>ilion</asp>, and <asp>ileum</asp>.]</altsp><br/
+\'d8<hw>Il"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Ileum</er>.]</ety> <fld>(Anat.)</fld> <def>The dorsal one of the three principal bones comprising either lateral half of the pelvis; the dorsal or upper part of the hip bone. See <cref>Innominate bone</cref>, under <er>Innominate</er>.</def> <altsp>[Written also <asp>ilion</asp>, and <asp>ileum</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ilixanthin</ent><br/
@@ -2755,7 +2755,7 @@ Where wealth accumulates and men decay.</q> <rj><qau>Goldsmith.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Illicium</ent><br/
-||<hw>Il*li"ci*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[So called, in allusion to its aroma, from L. <ets>illicium</ets> an allurement.]</ety> <fld>(Bot.)</fld> <def>A genus of Asiatic and American magnoliaceous trees, having star-shaped fruit; star anise. The fruit of <spn>Illicium anisatum</spn> is used as a spice in India, and its oil is largely used in Europe for flavoring cordials, being almost identical with true oil of anise.</def><br/
+\'d8<hw>Il*li"ci*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[So called, in allusion to its aroma, from L. <ets>illicium</ets> an allurement.]</ety> <fld>(Bot.)</fld> <def>A genus of Asiatic and American magnoliaceous trees, having star-shaped fruit; star anise. The fruit of <spn>Illicium anisatum</spn> is used as a spice in India, and its oil is largely used in Europe for flavoring cordials, being almost identical with true oil of anise.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Illighten</ent><br/
@@ -3025,7 +3025,7 @@ Where wealth accumulates and men decay.</q> <rj><qau>Goldsmith.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Illuminati</ent><br/
-||<hw>Il*lu`mi*na"ti</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L. <ets>illuminatus</ets>. See <er>Illuminate</er>, <pos>v. t.</pos>, and cf. <er>Illuminee</er>.]</ety> <def>Literally, those who are enlightened</def>; -- variously applied as follows: --<br/
+\'d8<hw>Il*lu`mi*na"ti</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L. <ets>illuminatus</ets>. See <er>Illuminate</er>, <pos>v. t.</pos>, and cf. <er>Illuminee</er>.]</ety> <def>Literally, those who are enlightened</def>; -- variously applied as follows: --<br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <fld>(Eccl.)</fld> <def>Persons in the early church who had received baptism; in which ceremony a lighted taper was given them, as a symbol of the spiritual illumination they has received by that sacrament.</def><br/
@@ -3614,7 +3614,7 @@ As you <qex>imagine</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Imago</ent><br/
-||<hw>I*ma"go</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Imagoes</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Image</er>.]</ety> <sn>1.</sn> <def>An image.</def><br/
+\'d8<hw>I*ma"go</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Imagoes</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Image</er>.]</ety> <sn>1.</sn> <def>An image.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>The final adult, and usually winged, state of an insect. See <xex>Illust.</xex> of <er>Ant-lion</er>, and <er>Army worm</er>.</def></p>
@@ -3622,7 +3622,7 @@ As you <qex>imagine</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>Imaum</ent><br/
 <ent>Iman</ent><br/
 <ent>Imam</ent><br/
-<mhw>{ ||<hw>I*mam"</hw> <pr>(?)</pr>, ||<hw>I*man"</hw> <pr>(?)</pr>, ||<hw>I*maum"</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[Ar. <ets>im<amac/m</ets>.]</ety> <sn>1.</sn> <def>Among the Muslims, a minister or priest who performs the regular service of the mosque.</def><br/
+<mhw>{ \'d8<hw>I*mam"</hw> <pr>(?)</pr>, \'d8<hw>I*man"</hw> <pr>(?)</pr>, \'d8<hw>I*maum"</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[Ar. <ets>im<amac/m</ets>.]</ety> <sn>1.</sn> <def>Among the Muslims, a minister or priest who performs the regular service of the mosque.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A Muslim prince who, as a successor of Mohammed, unites in his person supreme spiritual and temporal power.</def><br/
@@ -3922,7 +3922,7 @@ By whom in bliss <qex>imbosomed</qex> sat the Son.</q> <rj><qau>Milton.</qau></r
 
 <p><ent>Imbroccata</ent><br/
 <ent>Imbrocata</ent><br/
-<mhw>{ ||<hw>Im`bro*ca"ta</hw> <pr>(?)</pr>, <hw>Im`broc*ca"ta</hw>  }</mhw>, <pos>n.</pos> <ety>[It. <ets>imbroccata</ets>.]</ety> <def>A hit or thrust.</def> <mark>[Obs.]</mark>  <rj><au>B. Jonson.</au></rj><br/
+<mhw>{ \'d8<hw>Im`bro*ca"ta</hw> <pr>(?)</pr>, <hw>Im`broc*ca"ta</hw>  }</mhw>, <pos>n.</pos> <ety>[It. <ets>imbroccata</ets>.]</ety> <def>A hit or thrust.</def> <mark>[Obs.]</mark>  <rj><au>B. Jonson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Imbroglio</ent><br/
@@ -5498,7 +5498,7 @@ To you alone.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impasse</ent><br/
-||<hw>Im`passe"</hw> <pr>(<acr/N`p<aum/s"; E. <icr/m*p<adot/s")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>An impassable road or way; a  blind alley; cul-de-sac; fig., a position or predicament affording no escape.</def></p>
+\'d8<hw>Im`passe"</hw> <pr>(<acr/N`p<aum/s"; E. <icr/m*p<adot/s")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>An impassable road or way; a  blind alley; cul-de-sac; fig., a position or predicament affording no escape.</def></p>
 
 <p><q>The issue from the present <qex>impasse</qex> will, in all probability, proceed from below, not from above.</q>  <rj><qau>Arnold White.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -5615,7 +5615,7 @@ Than for the burning torment which he felt.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impatiens</ent><br/
-||<hw>Im*pa"ti*ens</hw> <pr>(<icr/m*p<amac/"sh<icr/*<ecr/nz)</pr>, <pos>prop. n.</pos> <ety>[L., impatient.]</ety> <fld>(Bot.)</fld> <def>A genus of plants, several species of which have very beautiful flowers; -- so called because the elastic capsules burst when touched, and scatter the seeds with considerable force.  Called also <altname>touch-me-not</altname>, <altname>jewelweed</altname>, and <altname>snapweed</altname>.  <spn>Impatiens Balsamina</spn> (sometimes called <stype>lady's slipper</stype>) is the common garden balsam.</def><br/
+\'d8<hw>Im*pa"ti*ens</hw> <pr>(<icr/m*p<amac/"sh<icr/*<ecr/nz)</pr>, <pos>prop. n.</pos> <ety>[L., impatient.]</ety> <fld>(Bot.)</fld> <def>A genus of plants, several species of which have very beautiful flowers; -- so called because the elastic capsules burst when touched, and scatter the seeds with considerable force.  Called also <altname>touch-me-not</altname>, <altname>jewelweed</altname>, and <altname>snapweed</altname>.  <spn>Impatiens Balsamina</spn> (sometimes called <stype>lady's slipper</stype>) is the common garden balsam.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impatient</ent><br/
@@ -5825,7 +5825,7 @@ Have we marched on without <qex>impediment</qex>.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impedimenta</ent><br/
-||<hw>Im*ped`i*men"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L. See <er>Impediment</er>, <er>Impede</er>.]</ety> <def>Things which impede or hinder progress; incumbrances; baggage;</def> <specif>specif.</specif> <fld>(Mil.)</fld>, <def>the supply trains which must accompany an army.</def></p>
+\'d8<hw>Im*ped`i*men"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L. See <er>Impediment</er>, <er>Impede</er>.]</ety> <def>Things which impede or hinder progress; incumbrances; baggage;</def> <specif>specif.</specif> <fld>(Mil.)</fld>, <def>the supply trains which must accompany an army.</def></p>
 
 <p><q>On the plains they will have horses dragging travoises, dogs with travoises, women and children loaded with <qex>impedimenta</qex>.</q>  <rj><qau>Julian Ralph.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -5981,7 +5981,7 @@ To star or sunlight.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impennes</ent><br/
-||<hw>Im*pen"nes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. pref. <ets>im-</ets> not + <ets>penna</ets> feather.]</ety> <fld>(Zool.)</fld> <def>An order of birds, including only the penguins, in which the wings are without quills, and not suited for flight.</def><br/
+\'d8<hw>Im*pen"nes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. pref. <ets>im-</ets> not + <ets>penna</ets> feather.]</ety> <fld>(Zool.)</fld> <def>An order of birds, including only the penguins, in which the wings are without quills, and not suited for flight.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impennous</ent><br/
@@ -6032,7 +6032,7 @@ To star or sunlight.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Imperator</ent><br/
-||<hw>Im`pe*ra"tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Emperor</er>.]</ety> <fld>(Rom. Antiq.)</fld> <def>A commander; a leader; an emperor; -- originally an appellation of honor by which Roman soldiers saluted their general after an important victory.  Subsequently the title was conferred as a recognition of great military achievements by the senate, whence it carried with it some special privileges.  After the downfall of the Republic it was assumed by Augustus and his successors, and came to have the meaning now attached to the word <altname>emperor</altname>.</def><br/
+\'d8<hw>Im`pe*ra"tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Emperor</er>.]</ety> <fld>(Rom. Antiq.)</fld> <def>A commander; a leader; an emperor; -- originally an appellation of honor by which Roman soldiers saluted their general after an important victory.  Subsequently the title was conferred as a recognition of great military achievements by the senate, whence it carried with it some special privileges.  After the downfall of the Republic it was assumed by Augustus and his successors, and came to have the meaning now attached to the word <altname>emperor</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Imperatorial</ent><br/
@@ -6167,7 +6167,7 @@ With all my <qex>imperfections</qex> on my head.</q> <rj><qau>Shak.</qau></rj></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Imperforata</ent><br/
-||<hw>Im*per"fo*ra"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Imperforate</er>.]</ety> <fld>(Zool.)</fld> <def>A division of Foraminifera, including those in which the shell is not porous.</def></p>
+\'d8<hw>Im*per"fo*ra"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Imperforate</er>.]</ety> <fld>(Zool.)</fld> <def>A division of Foraminifera, including those in which the shell is not porous.</def></p>
 
 <p><ent>Imperforated</ent><br/
 <ent>Imperforate</ent><br/
@@ -6331,7 +6331,7 @@ From princes into pages.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Imperium</ent><br/
-||<hw>Im*pe"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Imperia</plw> <pr>(#)</pr></plu>. <ety>[L. See <er>Empire</er>.]</ety> <sn>1.</sn> <def>Supreme power; absolute dominion; empire.</def><br/
+\'d8<hw>Im*pe"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Imperia</plw> <pr>(#)</pr></plu>. <ety>[L. See <er>Empire</er>.]</ety> <sn>1.</sn> <def>Supreme power; absolute dominion; empire.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <fld>(Law)</fld> <def>The right to command, which includes the right to employ the force of the state to enforce the laws. It is one of the principal attributes of the executive power.</def><br/
@@ -6545,7 +6545,7 @@ Reason in madness!</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impetigo</ent><br/
-||<hw>Im`pe*ti"go</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>impetere</ets> to attack.]</ety> <fld>(Med.)</fld> <def>A cutaneous, pustular eruption, not attended with fever; usually, a kind of eczema with pustulation.</def><br/
+\'d8<hw>Im`pe*ti"go</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>impetere</ets> to attack.]</ety> <fld>(Med.)</fld> <def>A cutaneous, pustular eruption, not attended with fever; usually, a kind of eczema with pustulation.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impetrable</ent><br/
@@ -6630,7 +6630,7 @@ Reason in madness!</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impi</ent><br/
-||<hw>Im"pi</hw> <pr>(<icr/m"p<icr/)</pr>, <pos>n.</pos> <ety>[Zulu.]</ety> <def>A body of Kaffir warriors; a body of native armed men.</def> <mark>[South Africa]</mark><br/
+\'d8<hw>Im"pi</hw> <pr>(<icr/m"p<icr/)</pr>, <pos>n.</pos> <ety>[Zulu.]</ety> <def>A body of Kaffir warriors; a body of native armed men.</def> <mark>[South Africa]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><q>As early as 1862 he crossed assagais with and defeated a Matabili <qex>impi</qex> (war band).</q>  <rj><qau>James Bryce.</qau></rj><br/
@@ -6769,7 +6769,7 @@ The post of honor is a private station.</q> <rj><qau>Addison.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Implacentalia</ent><br/
-||<hw>Im`pla*cen*ta"li*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>In-</er> not, and <er>Placental</er>.]</ety> <fld>(Zool.)</fld> <def>A primary division of the Mammalia, including the monotremes and marsupials, in which no placenta is formed.</def><br/
+\'d8<hw>Im`pla*cen*ta"li*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>In-</er> not, and <er>Placental</er>.]</ety> <fld>(Zool.)</fld> <def>A primary division of the Mammalia, including the monotremes and marsupials, in which no placenta is formed.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Implant</ent><br/
@@ -7043,7 +7043,7 @@ I cling <qex>implicit</qex>.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impluvium</ent><br/
-||<hw>Im*plu"vi*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>impluere</ets> to rain into; pref. <ets>im-</ets> in + <ets>pluere</ets> to rain.]</ety> <fld>(Arch.)</fld> <def>In Roman dwellings, a cistern or tank, set in the atrium or peristyle to recieve the water from the roof, by means of the <xex>compluvium</xex>; generally made ornamental with flowers and works of art around its birm.</def><br/
+\'d8<hw>Im*plu"vi*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>impluere</ets> to rain into; pref. <ets>im-</ets> in + <ets>pluere</ets> to rain.]</ety> <fld>(Arch.)</fld> <def>In Roman dwellings, a cistern or tank, set in the atrium or peristyle to recieve the water from the roof, by means of the <xex>compluvium</xex>; generally made ornamental with flowers and works of art around its birm.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Imply</ent><br/
@@ -7146,11 +7146,11 @@ To which I most <qex>imply</qex> it.</q> <rj><qau>J. Webster.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impoofo</ent><br/
-||<hw>Im*poo"fo</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The eland.</def> <altsp>[Written also <asp>impoofoo</asp>.]</altsp><br/
+\'d8<hw>Im*poo"fo</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The eland.</def> <altsp>[Written also <asp>impoofoo</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impoon</ent><br/
-||<hw>Im*poon"</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The duykerbok.</def><br/
+\'d8<hw>Im*poon"</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The duykerbok.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impoor</ent><br/
@@ -7897,7 +7897,7 @@ Here pierceth not, <qex>impregnate</qex> with disease.</q> <rj><qau>Byron.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impresa</ent><br/
-||<hw>Im*pre"sa</hw> <pr>(<esl/m*pr<amac/"s<adot/)</pr>, <pos>n.</pos> <ety>[It. See <er>Emprise</er>, and cf. <er>Impress</er>, <pos>n.</pos>, 4.]</ety> <fld>(Her.)</fld> <def>A device on a shield or seal, or used as a bookplate or the like.</def> <altsp>[Written also <asp>imprese</asp> and <asp>impress</asp>.]</altsp><br/
+\'d8<hw>Im*pre"sa</hw> <pr>(<esl/m*pr<amac/"s<adot/)</pr>, <pos>n.</pos> <ety>[It. See <er>Emprise</er>, and cf. <er>Impress</er>, <pos>n.</pos>, 4.]</ety> <fld>(Her.)</fld> <def>A device on a shield or seal, or used as a bookplate or the like.</def> <altsp>[Written also <asp>imprese</asp> and <asp>impress</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>My <qex>impresa</qex> to your lordship; a swain<br/
@@ -7905,7 +7905,7 @@ Flying to a laurel for shelter.</q> <rj><qau>J. Webster.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impresario</ent><br/
-||<hw>Im`pre*sa"ri*o</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Impresarios</plw> <pr>(#)</pr>.</plu> <ety>[It., from <ets>impresa</ets> enterprise.]</ety> <sn>1.</sn> <def>The projector, manager, or conductor, of an opera or concert company.</def><br/
+\'d8<hw>Im`pre*sa"ri*o</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Impresarios</plw> <pr>(#)</pr>.</plu> <ety>[It., from <ets>impresa</ets> enterprise.]</ety> <sn>1.</sn> <def>The projector, manager, or conductor, of an opera or concert company.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <specif>Hence, broadly:</specif> <def>Any manager who organizes performances of a group.</def><br/
@@ -8160,7 +8160,7 @@ That I might see her married.</q> <rj><qau>Ford.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Imprimatur</ent><br/
-||<hw>Im`pri*ma"tur</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., let it be printed.]</ety> <sn>1.</sn> <fld>(Law)</fld> <def>A license to print or publish a book, paper, etc.; also, in countries subjected to the censorship of the press, approval of that which is published.</def><br/
+\'d8<hw>Im`pri*ma"tur</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., let it be printed.]</ety> <sn>1.</sn> <fld>(Law)</fld> <def>A license to print or publish a book, paper, etc.; also, in countries subjected to the censorship of the press, approval of that which is published.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(R. C. Ch.)</fld> <def>Permission granted from a designated eccliastical authority to publish a book or other document; -- required by church law for Catholics, especially ecclesiastics, who wish to publish.</def><br/
@@ -8178,7 +8178,7 @@ That I might see her married.</q> <rj><qau>Ford.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Imprimis</ent><br/
-||<hw>Im*pri"mis</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[L., for <ets>in primis</ets> among the first, chiefly; <ets>in</ets> in + <ets>primus</ets> first.]</ety> <def>In the first place; first in order.</def><br/
+\'d8<hw>Im*pri"mis</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[L., for <ets>in primis</ets> among the first, chiefly; <ets>in</ets> in + <ets>primus</ets> first.]</ety> <def>In the first place; first in order.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Imprint</ent><br/
@@ -8357,7 +8357,7 @@ Ascribe all Good; to their <qex>improper</qex>, Ill.</q> <rj><qau>Pope.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Improperia</ent><br/
-||<hw>Im`pro*pe"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., reproaches.]</ety> <fld>(Mus.)</fld> <def>A series of antiphons and responses, expressing the sorrowful remonstrance of our Lord with his people; -- sung on the morning of the Good Friday in place of the usual daily Mass of the Roman ritual.</def>  <rj><au>Grove.</au></rj><br/
+\'d8<hw>Im`pro*pe"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., reproaches.]</ety> <fld>(Mus.)</fld> <def>A series of antiphons and responses, expressing the sorrowful remonstrance of our Lord with his people; -- sung on the morning of the Good Friday in place of the usual daily Mass of the Roman ritual.</def>  <rj><au>Grove.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Improperly</ent><br/
@@ -8634,7 +8634,7 @@ This sudden mischief never could have fallen.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Improvisatore</ent><br/
-||<hw>Im`pro*vi`sa*to"re</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Improvvisatore</er>.</def></p>
+\'d8<hw>Im`pro*vi`sa*to"re</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Improvvisatore</er>.</def></p>
 
 <p><ent>Improvisatory</ent><br/
 <ent>Improvisatorial</ent><br/
@@ -8642,7 +8642,7 @@ This sudden mischief never could have fallen.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Improvisatrice</ent><br/
-||<hw>Im`pro*vi`sa*tri"ce</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Improvvisatrice</er>.</def><br/
+\'d8<hw>Im`pro*vi`sa*tri"ce</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Improvvisatrice</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Improvise</ent><br/
@@ -8675,11 +8675,11 @@ This sudden mischief never could have fallen.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Improvvisatore</ent><br/
-||<hw>Im`prov*vi`sa*to"re</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Improvvisatori</plw> <pr>(#)</pr>.</plu> <ety>[It. See <er>Improvise</er>.]</ety> <def>One who composes and sings or recites rhymes and short poems extemporaneously.</def> <altsp>[Written also <asp>improvisatore</asp>.]</altsp><br/
+\'d8<hw>Im`prov*vi`sa*to"re</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Improvvisatori</plw> <pr>(#)</pr>.</plu> <ety>[It. See <er>Improvise</er>.]</ety> <def>One who composes and sings or recites rhymes and short poems extemporaneously.</def> <altsp>[Written also <asp>improvisatore</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Improvvisatrice</ent><br/
-||<hw>Im`prov*vi`sa*tri"ce</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Improvvisatrici</plw> <pr>(#)</pr>.</plu> <ety>[It. See <er>Improvise</er>.]</ety> <def>A female improvvisatore.</def> <altsp>[Written also <asp>improvisatrice</asp>.]</altsp><br/
+\'d8<hw>Im`prov*vi`sa*tri"ce</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Improvvisatrici</plw> <pr>(#)</pr>.</plu> <ety>[It. See <er>Improvise</er>.]</ety> <def>A female improvvisatore.</def> <altsp>[Written also <asp>improvisatrice</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Imprudence</ent><br/
@@ -9463,7 +9463,7 @@ That crawls at evening in the public path.</q> <rj><qau>Cowper.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inamorato</ent><br/
-||<hw>In*a`mo*ra"to</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Inamoratos</plw> <pr>(#)</pr>.</plu> <ety>[See <er>Inamorata</er>.]</ety> <def>A male lover.</def><br/
+\'d8<hw>In*a`mo*ra"to</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Inamoratos</plw> <pr>(#)</pr>.</plu> <ety>[See <er>Inamorata</er>.]</ety> <def>A male lover.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inamovable</ent><br/
@@ -9568,7 +9568,7 @@ That crawls at evening in the public path.</q> <rj><qau>Cowper.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>In antis</ent><br/
-||<hw>In an"tis</hw> <pr>(?)</pr>. <ety>[L.]</ety> <fld>(Arch.)</fld> <def>Between ant<ae/; -- said of a portico in classical style, where columns are set between two ant<ae/, forming the angles of the building. See <er>Anta</er>.</def><br/
+\'d8<hw>In an"tis</hw> <pr>(?)</pr>. <ety>[L.]</ety> <fld>(Arch.)</fld> <def>Between ant<ae/; -- said of a portico in classical style, where columns are set between two ant<ae/, forming the angles of the building. See <er>Anta</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inapathy</ent><br/
@@ -10554,7 +10554,7 @@ Provide, pernicious with one touch of fire.</q>  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Incertum</ent><br/
-||<hw>In*cer"tum</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Doubtful; not of definite form.</def><br/
+\'d8<hw>In*cer"tum</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Doubtful; not of definite form.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Opus incertum</b></col> <fld>(Anc. Arch.)</fld>, <cd>a kind of masonry employed in building walls, in which the stones were not squared nor laid in courses; rubblework.</cd></cs><br/
@@ -11414,7 +11414,7 @@ With triumphs, mirth, and rare solemnity.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inclusa</ent><br/
-||<hw>In*clu"sa</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>inclusus</ets>, p. p. of <ets>includere</ets> to shut in.]</ety> <fld>(Zool.)</fld> <def>A tribe of bivalve mollusks, characterized by the closed state of the mantle which envelops the body. The ship borer (<spn>Teredo navalis</spn>) is an example.</def><br/
+\'d8<hw>In*clu"sa</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>inclusus</ets>, p. p. of <ets>includere</ets> to shut in.]</ety> <fld>(Zool.)</fld> <def>A tribe of bivalve mollusks, characterized by the closed state of the mantle which envelops the body. The ship borer (<spn>Teredo navalis</spn>) is an example.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inclusion</ent><br/
@@ -11742,7 +11742,7 @@ So large an <qex>income</qex> to the village lord.</q> <rj><qau>Dryden.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>In commendam</ent><br/
-||<hw>In com*men"dam</hw> <pr>(?)</pr>. <ety>[See <er>Commendam</er>.]</ety> <fld>(Law)</fld> <def>See <er>Commendam</er>, and <cref>Partnership in Commendam</cref>, under <er>Partnership</er>.</def><br/
+\'d8<hw>In com*men"dam</hw> <pr>(?)</pr>. <ety>[See <er>Commendam</er>.]</ety> <fld>(Law)</fld> <def>See <er>Commendam</er>, and <cref>Partnership in Commendam</cref>, under <er>Partnership</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Incommensurability</ent><br/
@@ -13320,7 +13320,7 @@ Shoot up with swift <qex>increase</qex>, and sudden are decay'd.</q> <rj><qau>Dr
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Incroyable</ent><br/
-||<hw>In`croy`a"ble</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., lit., incredible.]</ety> <def>A French fop or dandy of the time of the Directory; hence, any fop.</def></p>
+\'d8<hw>In`croy`a"ble</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., lit., incredible.]</ety> <def>A French fop or dandy of the time of the Directory; hence, any fop.</def></p>
 
 <p><note><hand/ The name is said to have been given in allusion not only to the extravagant dress, but also to the frequent use of the phrase <ldquo/<xex>C'est vraiment incroyable</xex><rdquo/ (That is really incredible.).</note><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -13625,7 +13625,7 @@ Shoot up with swift <qex>increase</qex>, and sudden are decay'd.</q> <rj><qau>Dr
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Incunabulum</ent><br/
-||<hw>In`cu*nab"u*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Incunabula</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>incunabula</ets> cradle, birthplace, origin. See 1st <er>In-</er>, and <er>Cunabula</er>.]</ety> <def>A work of art or of human industry, of an early epoch; especially, a book printed before <sc>a. d.</sc> 1500.</def><br/
+\'d8<hw>In`cu*nab"u*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Incunabula</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>incunabula</ets> cradle, birthplace, origin. See 1st <er>In-</er>, and <er>Cunabula</er>.]</ety> <def>A work of art or of human industry, of an early epoch; especially, a book printed before <sc>a. d.</sc> 1500.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Incur</ent><br/
@@ -13786,7 +13786,7 @@ Have wasted Sogdiana.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Incus</ent><br/
-||<hw>In"cus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., anvil.]</ety><br/
+\'d8<hw>In"cus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., anvil.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>An anvil.</def><br/
@@ -14921,7 +14921,7 @@ From what point blows the weather.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indicavit</ent><br/
-||<hw>In`di*ca"vit</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., he has indicated.]</ety> <fld>(Eng. Law)</fld> <def>A writ of prohibition against proceeding in the spiritual court in certain cases, when the suit belongs to the common-law courts.</def>  <rj><au>Wharton (Law Dict.).</au></rj><br/
+\'d8<hw>In`di*ca"vit</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., he has indicated.]</ety> <fld>(Eng. Law)</fld> <def>A writ of prohibition against proceeding in the spiritual court in certain cases, when the suit belongs to the common-law courts.</def>  <rj><au>Wharton (Law Dict.).</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indice</ent><br/
@@ -14933,7 +14933,7 @@ From what point blows the weather.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indicia</ent><br/
-||<hw>In*di"ci*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., pl. of <ets>indicium</ets>, fr. <ets>index</ets> an index.]</ety> <fld>(Law)</fld> <def>Discriminating marks; signs; tokens; indications; appearances.</def>  <rj><au>Burrill.</au></rj><br/
+\'d8<hw>In*di"ci*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., pl. of <ets>indicium</ets>, fr. <ets>index</ets> an index.]</ety> <fld>(Law)</fld> <def>Discriminating marks; signs; tokens; indications; appearances.</def>  <rj><au>Burrill.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indicible</ent><br/
@@ -15373,7 +15373,7 @@ So great <qex>indignities</qex> you laid upon me?</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indigofera</ent><br/
-||<hw>In`di*gof"e*ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from E. <ets>indigo</ets> + L. <ets>ferre</ets> to bear.]</ety> <fld>(Bot.)</fld> <def>A genus of leguminous plants (family <fam>Leguminosae</fam>) having many species, mostly in tropical countries, several of them yielding indigo, esp. <spn>Indigofera tinctoria</spn>, <spn>Indigofera suffroticosa</spn>, and <spn>Indigofera Anil</spn>.</def><br/
+\'d8<hw>In`di*gof"e*ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from E. <ets>indigo</ets> + L. <ets>ferre</ets> to bear.]</ety> <fld>(Bot.)</fld> <def>A genus of leguminous plants (family <fam>Leguminosae</fam>) having many species, mostly in tropical countries, several of them yielding indigo, esp. <spn>Indigofera tinctoria</spn>, <spn>Indigofera suffroticosa</spn>, and <spn>Indigofera Anil</spn>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indigogen</ent><br/
@@ -16201,7 +16201,7 @@ Forever knit.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indoles</ent><br/
-||<hw>In"do*les</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.  Cf. <er>Adolescence</er>.]</ety> <def>Natural disposition; natural quality or abilities.</def><br/
+\'d8<hw>In"do*les</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.  Cf. <er>Adolescence</er>.]</ety> <def>Natural disposition; natural quality or abilities.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indolin</ent><br/
@@ -16824,7 +16824,7 @@ The curtains of the tragedy hereafter.</q> <rj><qau>Massinger.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indusium</ent><br/
-||<hw>In*du"si*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Indusia</plw> <pr>(-<adot/)</pr>.</plu> <ety>[L., an under garment, fr. <ets>induere</ets> to put on: cf. F. <ets>indusie</ets> the covering of the seed spots of ferns.]</ety> <fld>(Bot.)</fld> <sd>(a)</sd> <def>A collection of hairs united so as to form a sort of cup, and inclosing the stigma of a flower.</def> <sd>(b)</sd> <def>The immediate covering of the fruit dots or sori in many ferns, usually a very thin scale attached by the middle or side to a veinlet.</def> <sd>(c)</sd> <def>A peculiar covering found in certain fungi.</def><br/
+\'d8<hw>In*du"si*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Indusia</plw> <pr>(-<adot/)</pr>.</plu> <ety>[L., an under garment, fr. <ets>induere</ets> to put on: cf. F. <ets>indusie</ets> the covering of the seed spots of ferns.]</ety> <fld>(Bot.)</fld> <sd>(a)</sd> <def>A collection of hairs united so as to form a sort of cup, and inclosing the stigma of a flower.</def> <sd>(b)</sd> <def>The immediate covering of the fruit dots or sori in many ferns, usually a very thin scale attached by the middle or side to a veinlet.</def> <sd>(c)</sd> <def>A peculiar covering found in certain fungi.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Industrial</ent><br/
@@ -16915,7 +16915,7 @@ The curtains of the tragedy hereafter.</q> <rj><qau>Massinger.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Induviae</ent><br/
-||<hw>In*du"vi*<ae/</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., clothes, fr. <ets>induere</ets> to put on. See <er>Indue</er>.]</ety> <fld>(Bot.)</fld> <def>Persistent portions of a calyx or corolla; also, leaves which do not disarticulate from the stem, and hence remain for a long time.</def><br/
+\'d8<hw>In*du"vi*<ae/</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., clothes, fr. <ets>induere</ets> to put on. See <er>Indue</er>.]</ety> <fld>(Bot.)</fld> <def>Persistent portions of a calyx or corolla; also, leaves which do not disarticulate from the stem, and hence remain for a long time.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Induviate</ent><br/
@@ -17028,7 +17028,7 @@ That cheer but not <qex>inebriate</qex>.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inee</ent><br/
-||<hw>I`n<eacute/e"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>An arrow poison, made from an apocynaceous plant (<spn>Strophanthus hispidus</spn>) of the Gaboon country; -- called also <altname>onaye</altname>.</def><br/
+\'d8<hw>I`n<eacute/e"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>An arrow poison, made from an apocynaceous plant (<spn>Strophanthus hispidus</spn>) of the Gaboon country; -- called also <altname>onaye</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ineffability</ent><br/
@@ -17399,7 +17399,7 @@ Nor tongue <qex>ineloquent</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inermis</ent><br/
-||<hw>In*er"mis</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>inermis</ets>, <ets>inermus</ets>; pref. <ets>in-</ets> not + <ets>arma</ets> arms: cf. F. <ets>inerme</ets>.]</ety> <fld>(Bot.)</fld> <def>Unarmed; destitute of prickles or thorns, as a leaf.</def>  <rj><au>Gray.</au></rj><br/
+\'d8<hw>In*er"mis</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>inermis</ets>, <ets>inermus</ets>; pref. <ets>in-</ets> not + <ets>arma</ets> arms: cf. F. <ets>inerme</ets>.]</ety> <fld>(Bot.)</fld> <def>Unarmed; destitute of prickles or thorns, as a leaf.</def>  <rj><au>Gray.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inerrability</ent><br/
@@ -17537,7 +17537,7 @@ Upon a slothful ass he chose to ride.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>In esse</ent><br/
-||<hw>In` es"se</hw> <pr>(?)</pr>. <ety>[L.]</ety> <def>In being; actually existing; -- distinguished from <contr>in posse</contr>, or <contr>in potentia</contr>, which denote that a thing is not, but may be.</def><br/
+\'d8<hw>In` es"se</hw> <pr>(?)</pr>. <ety>[L.]</ety> <def>In being; actually existing; -- distinguished from <contr>in posse</contr>, or <contr>in potentia</contr>, which denote that a thing is not, but may be.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inessential</ent><br/
@@ -18179,11 +18179,11 @@ More <qex>infamous</qex> by cursed Lycaon made.</q> <rj><qau>Dryden.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Infanta</ent><br/
-||<hw>In*fan"ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. & Pg., fem. of <ets>infante</ets>. See <er>Infante</er>.]</ety> <def>A title borne by every one of the daughters of the kings of Spain and Portugal, except the eldest.</def><br/
+\'d8<hw>In*fan"ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. & Pg., fem. of <ets>infante</ets>. See <er>Infante</er>.]</ety> <def>A title borne by every one of the daughters of the kings of Spain and Portugal, except the eldest.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Infante</ent><br/
-||<hw>In*fan"te</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. & Pg. See <er>Infant</er>.]</ety> <def>A title given to every one of sons of the kings of Spain and Portugal, except the eldest or heir apparent.</def><br/
+\'d8<hw>In*fan"te</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. & Pg. See <er>Infant</er>.]</ety> <def>A title given to every one of sons of the kings of Spain and Portugal, except the eldest or heir apparent.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Infanthood</ent><br/
@@ -18580,7 +18580,7 @@ Amidst the gross <qex>infections</qex> of those times.</q> <rj><qau>Daniel.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inferiae</ent><br/
-||<hw>In*fe"ri*<ae/</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., fr. <ets>inferus</ets> underneath.]</ety> <fld>(Rom. Antiq.)</fld> <def>Sacrifices offered to the souls of deceased heroes or friends.</def><br/
+\'d8<hw>In*fe"ri*<ae/</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., fr. <ets>inferus</ets> underneath.]</ety> <fld>(Rom. Antiq.)</fld> <def>Sacrifices offered to the souls of deceased heroes or friends.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inferior</ent><br/
@@ -18986,7 +18986,7 @@ With <qex>infinite</qex> of pearls and finest gold.</q> <rj><qau>Fanshawe.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Infinito</ent><br/
-||<hw>In`fi*ni"to</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Infinite; perpetual, as a canon whose end leads back to the beginning. See <er>Infinite</er>, <pos>a.</pos>, 5.</def><br/
+\'d8<hw>In`fi*ni"to</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Infinite; perpetual, as a canon whose end leads back to the beginning. See <er>Infinite</er>, <pos>a.</pos>, 5.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Infinitude</ent><br/
@@ -19298,7 +19298,7 @@ By light of the <qex>inflamed</qex> fleet.</q> <rj><qau>Chapman.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inflatus</ent><br/
-||<hw>In*fla"tus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Inflate</er>, <pos>v. t.</pos>]</ety> <def>A blowing or breathing into; inflation; inspiration.</def><br/
+\'d8<hw>In*fla"tus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Inflate</er>, <pos>v. t.</pos>]</ety> <def>A blowing or breathing into; inflation; inspiration.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The divine breath that blows the nostrils out<br/
@@ -19820,7 +19820,7 @@ was hanged.</q> <rj><qau>Burke.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Infra</ent><br/
-||<hw>In*"fra</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[L.  Cf. <er>Inferior</er>.]</ety> <def>Below; beneath; under; after; -- often used as a prefix.</def><br/
+\'d8<hw>In*"fra</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[L.  Cf. <er>Inferior</er>.]</ety> <def>Below; beneath; under; after; -- often used as a prefix.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Infra-axillary</ent><br/
@@ -20068,7 +20068,7 @@ jurisdiction against which the contempt is.</q> <rj><qau>Clarendon.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Infula</ent><br/
-||<hw>In"fu*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Infule</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <def>A sort of fillet worn by dignitaries, priests, and others among the ancient Romans. It was generally white.</def><br/
+\'d8<hw>In"fu*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Infule</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <def>A sort of fillet worn by dignitaries, priests, and others among the ancient Romans. It was generally white.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Infumate</ent><br/
@@ -20105,7 +20105,7 @@ jurisdiction against which the contempt is.</q> <rj><qau>Clarendon.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Infundibulum</ent><br/
-||<hw>In`fun*dib"u*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Infundibula</plw> <pr>(#)</pr>, E. <plw>Infundibulums</plw> <pr>(#)</pr>.</plu> <ety>[L., a funnel, from <ets>infundere</ets> to pour in or into. See <er>Infuse</er>.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>A funnel-shaped or dilated organ or part; <as>as, the <ex>infundibulum</ex> of the brain, a hollow, conical process, connecting the floor of the third ventricle with the pituitary body; the <ex>infundibula</ex> of the lungs, the enlarged terminations of the bronchial tubes.</as></def><br/
+\'d8<hw>In`fun*dib"u*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Infundibula</plw> <pr>(#)</pr>, E. <plw>Infundibulums</plw> <pr>(#)</pr>.</plu> <ety>[L., a funnel, from <ets>infundere</ets> to pour in or into. See <er>Infuse</er>.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>A funnel-shaped or dilated organ or part; <as>as, the <ex>infundibulum</ex> of the brain, a hollow, conical process, connecting the floor of the third ventricle with the pituitary body; the <ex>infundibula</ex> of the lungs, the enlarged terminations of the bronchial tubes.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A central cavity in the Ctenophora, into which the gastric sac leads.</def> <sd>(b)</sd> <def>The siphon of Cephalopoda. See <er>Cephalopoda</er>.</def><br/
@@ -20261,7 +20261,7 @@ jurisdiction against which the contempt is.</q> <rj><qau>Clarendon.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Infusoria</ent><br/
-||<hw>In`fu*so"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.; -- so called because found in infusions which are left exposed to the air for a time. See <er>Infuse</er>.]</ety> <fld>(Zool.)</fld> <def>One of the classes of Protozoa, including a large number of species, all of minute size.  Formerly, the term was applied to any microbe found in infusions of decaying organic material, but the term is now applied more specifically to one of the classes of the phylum <phylum>Ciliophora</phylum>, of ciliated protozoans.</def><br/
+\'d8<hw>In`fu*so"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.; -- so called because found in infusions which are left exposed to the air for a time. See <er>Infuse</er>.]</ety> <fld>(Zool.)</fld> <def>One of the classes of Protozoa, including a large number of species, all of minute size.  Formerly, the term was applied to any microbe found in infusions of decaying organic material, but the term is now applied more specifically to one of the classes of the phylum <phylum>Ciliophora</phylum>, of ciliated protozoans.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><note><hand/ (From 1913 dictionary): They are found in all seas, lakes, ponds, and streams, as well as in infusions of organic matter exposed to the air.  They are distinguished by having vibrating lashes or cilia, with which they obtain their food and swim about.  They are devided into the orders <ord>Flagellata</ord>, <ord>Ciliata</ord>, and <ord>Tentaculifera</ord>. See these words in the Vocabulary.</p>
@@ -20353,7 +20353,7 @@ The last of sounds, and what she hears relates.</q> <rj><qau>Sandys.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ingena</ent><br/
-||<hw>In*ge"na</hw> <pr>(<icr/n*g<emac/"n<adot/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The gorilla.</def> <mark>[Archaic]</mark> <br/
+\'d8<hw>In*ge"na</hw> <pr>(<icr/n*g<emac/"n<adot/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The gorilla.</def> <mark>[Archaic]</mark> <br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Ingender</ent><br/
@@ -20450,7 +20450,7 @@ For torturers <qex>ingenious</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ingenue</ent><br/
-||<hw>In`g<eacute/`nue"</hw> <pr>(<acr/N`zh<asl/`n<usdot/")</pr>, <pos>n.</pos>; <plu>pl. <plw>-nues</plw> <pr>(#)</pr></plu>. <ety>[F., fem. of <ets>ing<eacute/nu</ets> ingenious.]</ety> <def>An ingenuous or na<ium/ve girl or young woman, or an actress representing such a person.</def><br/
+\'d8<hw>In`g<eacute/`nue"</hw> <pr>(<acr/N`zh<asl/`n<usdot/")</pr>, <pos>n.</pos>; <plu>pl. <plw>-nues</plw> <pr>(#)</pr></plu>. <ety>[F., fem. of <ets>ing<eacute/nu</ets> ingenious.]</ety> <def>An ingenuous or na<ium/ve girl or young woman, or an actress representing such a person.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Ingenuity</ent><br/
@@ -20529,7 +20529,7 @@ To artist <qex>ingenuity</qex> and skill.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Ingesta</ent><br/
-||<hw>In*ges"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Ingest</er>.]</ety> <fld>(Physiol.)</fld> <def>That which is introduced into the body by the stomach or alimentary canal; -- opposed to <contr>egesta</contr>.</def><br/
+\'d8<hw>In*ges"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Ingest</er>.]</ety> <fld>(Physiol.)</fld> <def>That which is introduced into the body by the stomach or alimentary canal; -- opposed to <contr>egesta</contr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>ingested</ent><br/
@@ -20540,7 +20540,7 @@ To artist <qex>ingenuity</qex> and skill.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inghalla</ent><br/
-||<hw>In*ghal"la</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The reedbuck of South Africa.</def> <altsp>[Written also <asp>ingali</asp>.]</altsp><br/
+\'d8<hw>In*ghal"la</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The reedbuck of South Africa.</def> <altsp>[Written also <asp>ingali</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ingirt</ent><br/
@@ -20616,7 +20616,7 @@ To lead a soft, secure, <qex>inglorious</qex> life.</q> <rj><qau>Dryden.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ingluvies</ent><br/
-||<hw>In*glu"vi*es</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Anat.)</fld> <def>The crop, or craw, of birds.</def><br/
+\'d8<hw>In*glu"vi*es</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Anat.)</fld> <def>The crop, or craw, of birds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ingluvious</ent><br/
@@ -20923,7 +20923,7 @@ Upon our stock.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inguen</ent><br/
-||<hw>In"guen</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>inguen</ets>, <ets>inguinis</ets>.]</ety> <fld>(Anat.)</fld> <def>The groin.</def><br/
+\'d8<hw>In"guen</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>inguen</ets>, <ets>inguinis</ets>.]</ety> <fld>(Anat.)</fld> <def>The groin.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inguilty</ent><br/
@@ -21514,7 +21514,7 @@ Makes countless thousands mourn.</q> <rj><qau>Burns.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inia</ent><br/
-||<hw>In"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A South American freshwater dolphin (<spn>Inia Boliviensis</spn>). It is ten or twelve feet long, and has a hairy snout.</def><br/
+\'d8<hw>In"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A South American freshwater dolphin (<spn>Inia Boliviensis</spn>). It is ten or twelve feet long, and has a hairy snout.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inial</ent><br/
@@ -21568,7 +21568,7 @@ Makes countless thousands mourn.</q> <rj><qau>Burns.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inion</ent><br/
-||<hw>In"i*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'ini`on</grk> the back of the head.]</ety> <fld>(Anat.)</fld> <def>The external occipital protuberance of the skull.</def><br/
+\'d8<hw>In"i*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'ini`on</grk> the back of the head.]</ety> <fld>(Anat.)</fld> <def>The external occipital protuberance of the skull.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Iniquitous</ent><br/
@@ -21921,7 +21921,7 @@ The high <qex>injunction</qex>, not to taste that fruit.</q> <rj><qau>Milton.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Injuria</ent><br/
-||<hw>In*ju"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Injurie</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Law)</fld> <def>Injury; invasion of another's rights.</def><br/
+\'d8<hw>In*ju"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Injurie</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Law)</fld> <def>Injury; invasion of another's rights.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Injurious</ent><br/
@@ -22223,7 +22223,7 @@ With his, for purchase of full growth in friendship.</q> <rj><qau>Ford.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>In loco</ent><br/
-||<hw>In lo"co</hw> <pr>(?)</pr>. <ety>[L.]</ety> <def>In the place; in the proper or natural place.</def><br/
+\'d8<hw>In lo"co</hw> <pr>(?)</pr>. <ety>[L.]</ety> <def>In the place; in the proper or natural place.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inlumine</ent><br/
@@ -22742,7 +22742,7 @@ That Stella loves to talk with fellows.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inoceramus</ent><br/
-||<hw>In`o*cer"a*mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'i`s</grk>, <grk>'ino`s</grk>, a muscle + <?/ an earthen vessel.]</ety> <fld>(Paleon.)</fld> <def>An extinct genus of large, fossil, bivalve shells, allied to the mussels. The genus is characteristic of the Cretaceous period.</def><br/
+\'d8<hw>In`o*cer"a*mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'i`s</grk>, <grk>'ino`s</grk>, a muscle + <?/ an earthen vessel.]</ety> <fld>(Paleon.)</fld> <def>An extinct genus of large, fossil, bivalve shells, allied to the mussels. The genus is characteristic of the Cretaceous period.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inoculability</ent><br/
@@ -23024,7 +23024,7 @@ In a smooth course, and <qex>inoffensive</qex> tide.</q> <rj><qau>Addison.</qau>
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>In posse</ent><br/
-||<hw>In` pos"se</hw> <pr>(?)</pr>. <ety>[L.]</ety> <def>In possibility; possible, although not yet in existence or come to pass; -- contradistinguished from <contr>in esse</contr>.</def><br/
+\'d8<hw>In` pos"se</hw> <pr>(?)</pr>. <ety>[L.]</ety> <def>In possibility; possible, although not yet in existence or come to pass; -- contradistinguished from <contr>in esse</contr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inquartation</ent><br/
@@ -23289,11 +23289,11 @@ The distant skies, to find the Milky Way.</q> <rj><qau>Creech.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>In rem</ent><br/
-||<hw>In rem</hw> <pr>(?)</pr>. <ety>[L.]</ety> <fld>(Law)</fld> <def>Lit., in or against a (or the) thing;</def> -- <note>used: <sd>(a)</sd> Of any right (called <col><b>right in rem</b></col> <it>or</it> <col><b>jus in rem</b></col>) of such a nature as to be available over its subject without reference to one person more than another, or, as generally expressed, a right competent, or available, against all persons. Rights <ex>in rem</ex> include not alone rights over physical property, but all rights available against all persons indifferently, as those of life, liberty, and reputation. <sd>(b)</sd> Of actions for recovering or reducing to possession or enjoyment a specific object, as in the enforcement of maritime liens against a vessel, which is made the defendant by a sort of personification. Most actions for the specific recovery of property in English and American law are in the nature of actions <it>in personam</it> against a person alleged to be unlawfully withholding the property.</note><br/
+\'d8<hw>In rem</hw> <pr>(?)</pr>. <ety>[L.]</ety> <fld>(Law)</fld> <def>Lit., in or against a (or the) thing;</def> -- <note>used: <sd>(a)</sd> Of any right (called <col><b>right in rem</b></col> <it>or</it> <col><b>jus in rem</b></col>) of such a nature as to be available over its subject without reference to one person more than another, or, as generally expressed, a right competent, or available, against all persons. Rights <ex>in rem</ex> include not alone rights over physical property, but all rights available against all persons indifferently, as those of life, liberty, and reputation. <sd>(b)</sd> Of actions for recovering or reducing to possession or enjoyment a specific object, as in the enforcement of maritime liens against a vessel, which is made the defendant by a sort of personification. Most actions for the specific recovery of property in English and American law are in the nature of actions <it>in personam</it> against a person alleged to be unlawfully withholding the property.</note><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Inro</ent><br/
-||<hw>In"ro</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Jap. <ets>inr<omac/</ets>; <ets>in</ets> seal + <ets>r<omac/</ets> box.]</ety> <def>A small closed receptacle or set of receptacles of hard material, as lacquered wood, iron, bronze, or ivory, used by the Japanese to hold medicines, perfumes, and the like, and carried in the girdle. It is usually secured by a silk cord by which the wearer may grasp it, which cord passes through an ornamental button or knob called a netsuke.</def><br/
+\'d8<hw>In"ro</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Jap. <ets>inr<omac/</ets>; <ets>in</ets> seal + <ets>r<omac/</ets> box.]</ety> <def>A small closed receptacle or set of receptacles of hard material, as lacquered wood, iron, bronze, or ivory, used by the Japanese to hold medicines, perfumes, and the like, and carried in the girdle. It is usually secured by a silk cord by which the wearer may grasp it, which cord passes through an ornamental button or knob called a netsuke.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Inroad</ent><br/
@@ -23335,7 +23335,7 @@ Though inaccessible, his fatal throne.</q> <rj><qau>Milton.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Insabbatati</ent><br/
-||<hw>In*sab`ba*ta"ti</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[LL. <ets>Insabatati</ets>. See 1st <er>In-</er>, and <er>Sabot</er>.]</ety> <def>The Waldenses; -- so called from their peculiarly cut or marked <xex>sabots</xex>, or shoes.</def><br/
+\'d8<hw>In*sab`ba*ta"ti</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[LL. <ets>Insabatati</ets>. See 1st <er>In-</er>, and <er>Sabot</er>.]</ety> <def>The Waldenses; -- so called from their peculiarly cut or marked <xex>sabots</xex>, or shoes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Insafety</ent><br/
@@ -23673,7 +23673,7 @@ Which is <qex>inscrutable</qex>.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Insecta</ent><br/
-||<hw>In*sec"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Insect</er>.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>One of the classes of <phylum>Arthropoda</phylum>, including those that have one pair of antenn<ae/, three pairs of mouth organs, and breathe air by means of trache<ae/, opening by spiracles along the sides of the body. In this sense it includes the Hexapoda, or six-legged insects and the Myriapoda, with numerous legs. See <er>Insect</er>, <pos>n.</pos></def><br/
+\'d8<hw>In*sec"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Insect</er>.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>One of the classes of <phylum>Arthropoda</phylum>, including those that have one pair of antenn<ae/, three pairs of mouth organs, and breathe air by means of trache<ae/, opening by spiracles along the sides of the body. In this sense it includes the Hexapoda, or six-legged insects and the Myriapoda, with numerous legs. See <er>Insect</er>, <pos>n.</pos></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>In a more restricted sense, the Hexapoda alone. See <er>Hexapoda</er>.</def><br/
@@ -23714,7 +23714,7 @@ Which is <qex>inscrutable</qex>.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Insectivora</ent><br/
-||<hw>In`sec*tiv"o*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from L. <ets>insectum</ets> an insect + <ets>vorare</ets> to devour.]</ety> <fld>(Zool.)</fld> <sn>1.</sn> <def>An order of mammals which feed principally upon insects.</def><br/
+\'d8<hw>In`sec*tiv"o*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from L. <ets>insectum</ets> an insect + <ets>vorare</ets> to devour.]</ety> <fld>(Zool.)</fld> <sn>1.</sn> <def>An order of mammals which feed principally upon insects.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ They are mostly of small size, and their molar teeth have sharp cusps. Most of the species burrow in the earth, and many of those of cold climates hibernate in winter. The order includes the moles, shrews, hedgehogs, tanrecs, and allied animals, also the colugo.</note><br/
@@ -24005,11 +24005,11 @@ And form <qex>insensuous</qex>.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Insessor</ent><br/
-||<hw>In*ses"sor</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Insessores</plw> <pr>(#)</pr>.</plu> <ety>[See <er>Insessores</er>.]</ety> <fld>(Zool.)</fld> <def>One of the <ord>Insessores</ord>. The group includes most of the common singing birds.</def><br/
+\'d8<hw>In*ses"sor</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Insessores</plw> <pr>(#)</pr>.</plu> <ety>[See <er>Insessores</er>.]</ety> <fld>(Zool.)</fld> <def>One of the <ord>Insessores</ord>. The group includes most of the common singing birds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Insessores</ent><br/
-||<hw>In`ses*so"res</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>insessor</ets>, lit., one who sits down, fr. <ets>incidere</ets>. See <er>Insession</er>.]</ety> <fld>(Zool.)</fld> <def>An order of birds, formerly established to include the perching birds, but now generally regarded as an artificial group.</def><br/
+\'d8<hw>In`ses*so"res</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>insessor</ets>, lit., one who sits down, fr. <ets>incidere</ets>. See <er>Insession</er>.]</ety> <fld>(Zool.)</fld> <def>An order of birds, formerly established to include the perching birds, but now generally regarded as an artificial group.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Insessorial</ent><br/
@@ -24480,7 +24480,7 @@ With earth's large mass.</q> <rj><qau>Crashaw.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>In situ</ent><br/
-||<hw>In si"tu</hw> <pr>(?)</pr> <pos>adv. & adj.</pos> <ety>[L.]</ety> <sn>1.</sn> <def>In its natural or original position  or place; in position; -- said specif., in geology, of a rock, soil, or fossil, when in the situation in which it was originally formed or deposited.</def><br/
+\'d8<hw>In si"tu</hw> <pr>(?)</pr> <pos>adv. & adj.</pos> <ety>[L.]</ety> <sn>1.</sn> <def>In its natural or original position  or place; in position; -- said specif., in geology, of a rock, soil, or fossil, when in the situation in which it was originally formed or deposited.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn> <fld>(Med.)</fld> <def>In its original position; not extending beyond the place of origin; localized and undisturbed; <as>as, carcinoma <ex>in situ</ex></as>.</def><br/
@@ -24719,11 +24719,11 @@ How proud, how peremptory?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Insouciance</ent><br/
-||<hw>In`sou`ciance"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Carelessness; heedlessness; thoughtlessness; unconcern.</def><br/
+\'d8<hw>In`sou`ciance"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Carelessness; heedlessness; thoughtlessness; unconcern.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Insouciant</ent><br/
-||<hw>In`sou`ciant"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F.]</ety> <def>Careless; heedless; indifferent; unconcerned.</def>  <rj><au>J. S. Mill.</au></rj><br/
+\'d8<hw>In`sou`ciant"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F.]</ety> <def>Careless; heedless; indifferent; unconcerned.</def>  <rj><au>J. S. Mill.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Insoul</ent><br/
@@ -24808,7 +24808,7 @@ Considered every creature.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inspeximus</ent><br/
-||<hw>In*spex"i*mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., we have inspected.]</ety> <def>The first word of ancient charters in England, confirming a grant made by a former king; hence, a royal grant.</def><br/
+\'d8<hw>In*spex"i*mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., we have inspected.]</ety> <def>The first word of ancient charters in England, confirming a grant made by a former king; hence, a royal grant.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Insphere</ent><br/
@@ -25198,7 +25198,7 @@ With <qex>instantaneous</qex> view, the truth of things.</q> <rj><qau>Thomson.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Instanter</ent><br/
-||<hw>In*stan"ter</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[L., vehemently, earnestly. See <er>Instant</er>, <pos>n.</pos> & <pos>a.</pos>]</ety> <def>Immediately; instantly; at once; <as>as, he left <ex>instanter</ex></as>.</def><br/
+\'d8<hw>In*stan"ter</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[L., vehemently, earnestly. See <er>Instant</er>, <pos>n.</pos> & <pos>a.</pos>]</ety> <def>Immediately; instantly; at once; <as>as, he left <ex>instanter</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Instantly</ent><br/
@@ -27405,7 +27405,7 @@ By want embittered and <qex>intensified</qex>.</q> <rj><qau>Longfellow.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Interambulacrum</ent><br/
-||<hw>In`ter*am`bu*la"crum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Interambulacra</plw> <pr>(<?/)</pr>, E. <plw>Interambulacrums</plw> <pr>(<?/)</pr>.</plu> <fld>(Zool.)</fld> <def>In echinoderms, one of the areas or zones intervening between two ambulacra. See <xex>Illust.</xex> of <er>Ambulacrum</er>.</def><br/
+\'d8<hw>In`ter*am`bu*la"crum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Interambulacra</plw> <pr>(<?/)</pr>, E. <plw>Interambulacrums</plw> <pr>(<?/)</pr>.</plu> <fld>(Zool.)</fld> <def>In echinoderms, one of the areas or zones intervening between two ambulacra. See <xex>Illust.</xex> of <er>Ambulacrum</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Interamnian</ent><br/
@@ -27580,7 +27580,7 @@ Their favorable ear.</q> <rj><qau>Milton.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intercentrum</ent><br/
-||<hw>In`ter*cen"trum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Intercentra</plw> <pr>(<?/)</pr>.</plu> <fld>(Anat.)</fld> <def>The median of the three elements composing the centra of the vertebr<ae/ in some fossil batrachians.</def><br/
+\'d8<hw>In`ter*cen"trum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Intercentra</plw> <pr>(<?/)</pr>.</plu> <fld>(Anat.)</fld> <def>The median of the three elements composing the centra of the vertebr<ae/ in some fossil batrachians.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intercept</ent><br/
@@ -28822,7 +28822,7 @@ When monarch reason sleeps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intermaxilla</ent><br/
-||<hw>In`ter*max*il"la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Intermaxill<ae/</plw> <pr>(<?/)</pr>.</plu> <fld>(Anat.)</fld> <def>See <er>Premaxilla</er>.</def><br/
+\'d8<hw>In`ter*max*il"la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Intermaxill<ae/</plw> <pr>(<?/)</pr>.</plu> <fld>(Anat.)</fld> <def>See <er>Premaxilla</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intermaxillary</ent><br/
@@ -28874,7 +28874,7 @@ When monarch reason sleeps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intermediae</ent><br/
-||<hw>In`ter*me"di*<ae/</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>intermedius</ets> intermedial.]</ety> <fld>(Zool.)</fld> <def>The middle pair of tail feathers, or middle rectrices.</def><br/
+\'d8<hw>In`ter*me"di*<ae/</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>intermedius</ets> intermedial.]</ety> <fld>(Zool.)</fld> <def>The middle pair of tail feathers, or middle rectrices.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intermedial</ent><br/
@@ -28986,7 +28986,7 @@ When monarch reason sleeps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intermezzo</ent><br/
-||<hw>In`ter*mez"zo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. See <er>Intermede</er>.]</ety> <fld>(Mus.)</fld> <def>An interlude; an intermede. See <er>Intermede</er>.</def><br/
+\'d8<hw>In`ter*mez"zo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. See <er>Intermede</er>.]</ety> <fld>(Mus.)</fld> <def>An interlude; an intermede. See <er>Intermede</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intermicate</ent><br/
@@ -29466,7 +29466,7 @@ With myrtle, find what to redress till noon.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Internuncius</ent><br/
-||<hw>In`ter*nun"ci*us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Internuncio.</def><br/
+\'d8<hw>In`ter*nun"ci*us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Internuncio.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Interoceanic</ent><br/
@@ -29490,7 +29490,7 @@ With myrtle, find what to redress till noon.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Interoperculum</ent><br/
-||<hw>In`ter*o*per"cu*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>-la</plw> <pr>(-l<adot/)</pr>.</plu> <fld>(Anat.)</fld> <def>The postero-inferior opercular bone, in fishes.</def><br/
+\'d8<hw>In`ter*o*per"cu*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>-la</plw> <pr>(-l<adot/)</pr>.</plu> <fld>(Anat.)</fld> <def>The postero-inferior opercular bone, in fishes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Interorbital</ent><br/
@@ -30313,7 +30313,7 @@ Of thorny boughs.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intertrigo</ent><br/
-||<hw>In`ter*tri"go</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>inter</ets> between + <ets>terere</ets>, <ets>tritum</ets>, to rub.]</ety> <fld>(Med.)</fld> <def>A rubbing or chafing of the skin; especially, an abrasion or excoriation of the skin between folds, as in fat or neglected children.</def><br/
+\'d8<hw>In`ter*tri"go</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>inter</ets> between + <ets>terere</ets>, <ets>tritum</ets>, to rub.]</ety> <fld>(Med.)</fld> <def>A rubbing or chafing of the skin; especially, an abrasion or excoriation of the skin between folds, as in fat or neglected children.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intertrochanteric</ent><br/
@@ -30393,7 +30393,7 @@ A dreadful <qex>interval</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intervallum</ent><br/
-||<hw>In`ter*val"lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Intervallums</plw> <pr>(#)</pr>, L. <plw>Intervalla</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <def>An interval.</def> <mark>[R.]</mark><br/
+\'d8<hw>In`ter*val"lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Intervallums</plw> <pr>(#)</pr>, L. <plw>Intervalla</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <def>An interval.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>And a' shall laugh without <qex>intervallums</qex>.</q> <rj><qau>Shak.</qau></rj><br/
@@ -31091,7 +31091,7 @@ I am well enough.</q> <rj><qau>Chapman.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intra-</ent><br/
-||<hw>In"tra-</hw> <pr>(?)</pr>. <ety>[L. <ets>intra</ets>, prep., within, on the inside; akin to <ets>inter</ets>. See <er>Inter-</er>.]</ety> <def>A prefix signifying <xex>in</xex>, <xex>within</xex>, <xex>interior</xex>; <as>as, <ex>intra</ex>ocular, within the eyeball; <ex>intra</ex>marginal.</as></def><br/
+\'d8<hw>In"tra-</hw> <pr>(?)</pr>. <ety>[L. <ets>intra</ets>, prep., within, on the inside; akin to <ets>inter</ets>. See <er>Inter-</er>.]</ety> <def>A prefix signifying <xex>in</xex>, <xex>within</xex>, <xex>interior</xex>; <as>as, <ex>intra</ex>ocular, within the eyeball; <ex>intra</ex>marginal.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intraaxillary</ent><br/
@@ -31207,7 +31207,7 @@ I am well enough.</q> <rj><qau>Chapman.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intransigentes</ent><br/
-||<hw>In`trans"i*gen*tes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Sp.]</ety> <fld>(Spanish Politics)</fld> <def>The extreme radicals; the party of the irreconcilables.</def><br/
+\'d8<hw>In`trans"i*gen*tes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Sp.]</ety> <fld>(Spanish Politics)</fld> <def>The extreme radicals; the party of the irreconcilables.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intransitive</ent><br/
@@ -31228,7 +31228,7 @@ I am well enough.</q> <rj><qau>Chapman.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>In transitu</ent><br/
-||<hw>In` tran"si*tu</hw> <pr>(?)</pr>. <ety>[L.]</ety> <fld>(Law)</fld> <def>In transit; during passage; <as>as, goods <ex>in transitu</ex></as>.</def><br/
+\'d8<hw>In` tran"si*tu</hw> <pr>(?)</pr>. <ety>[L.]</ety> <fld>(Law)</fld> <def>In transit; during passage; <as>as, goods <ex>in transitu</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intransmissible</ent><br/
@@ -31447,7 +31447,7 @@ The easiest way.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intrigante</ent><br/
-||<hw>In`tri`gante"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A female intriguer.</def><br/
+\'d8<hw>In`tri`gante"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A female intriguer.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 783 --></p>
@@ -32211,7 +32211,7 @@ Wherein we saw thee quietly <qex>inurned</qex>.</q> <rj><qau>Shak.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>In vacuo</ent><br/
-||<hw>In` vac"u*o</hw> <pr>(?)</pr>. <ety>[L.]</ety> <fld>(Physics)</fld> <def>In a vacuum; in empty space; <as>as, experiments <ex>in vacuo</ex></as>.</def><br/
+\'d8<hw>In` vac"u*o</hw> <pr>(?)</pr>. <ety>[L.]</ety> <fld>(Physics)</fld> <def>In a vacuum; in empty space; <as>as, experiments <ex>in vacuo</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Invade</ent><br/
@@ -32335,7 +32335,7 @@ Is risen to <qex>invade</qex> us.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Invalide</ent><br/
-||<hw>In`va*lide"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>See <er>Invalid</er>, <pos>n.</pos></def><br/
+\'d8<hw>In`va*lide"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>See <er>Invalid</er>, <pos>n.</pos></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Invalidism</ent><br/
@@ -32773,7 +32773,7 @@ Wanting its proper base to stand upon.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Invertebrata</ent><br/
-||<hw>In*ver`te*bra"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>in-</ets> not + <ets>vertebratus</ets> vertebrate.]</ety> <fld>(Zool.)</fld> <def>A comprehensive division of the animal kingdom, including all except the Vertebrata.</def><br/
+\'d8<hw>In*ver`te*bra"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>in-</ets> not + <ets>vertebratus</ets> vertebrate.]</ety> <fld>(Zool.)</fld> <def>A comprehensive division of the animal kingdom, including all except the Vertebrata.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Invertebrate</ent><br/
@@ -33416,7 +33416,7 @@ Go to his temple, <qex>invocate</qex> his aid.</q> <rj><qau>Milton.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Involucellum</ent><br/
-||<hw>In`vo*lu*cel"lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Involucella</plw> <pr>(#)</pr>.</plu> <ety>[NL.]</ety> <def>See <er>Involucel</er>.</def><br/
+\'d8<hw>In`vo*lu*cel"lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Involucella</plw> <pr>(#)</pr>.</plu> <ety>[NL.]</ety> <def>See <er>Involucel</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Involucral</ent><br/
@@ -33440,7 +33440,7 @@ Go to his temple, <qex>invocate</qex> his aid.</q> <rj><qau>Milton.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Involucrum</ent><br/
-||<hw>In`vo*lu"crum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Involucra</plw> <pr>(#)</pr>, E. <plw>Involucrums</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Involucre</er>.]</ety><br/
+\'d8<hw>In`vo*lu"crum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Involucra</plw> <pr>(#)</pr>, E. <plw>Involucrums</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Involucre</er>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <fld>(Bot.)</fld> <def>See <er>Involucre</er>.</def><br/
@@ -33971,7 +33971,7 @@ More images are available at the NASA site.</note>
 [<source>PJC</source>]</p>
 
 <p><ent>Ionidium</ent><br/
-||<hw>I`o*nid"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.  Cf. <er>Iodine</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of violaceous plants, chiefly found in tropical America, some species of which are used as substitutes for ipecacuanha.</def><br/
+\'d8<hw>I`o*nid"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.  Cf. <er>Iodine</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of violaceous plants, chiefly found in tropical America, some species of which are used as substitutes for ipecacuanha.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ionization</ent><br/
@@ -34048,7 +34048,7 @@ More images are available at the NASA site.</note>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ipomoea</ent><br/
-||<hw>Ip`o*m<oe/"a</hw> <pr>(<icr/p`<osl/*m<emac/"<adot/)</pr>, <pos>prop. n.</pos> <ety>[NL. <ldquo/Named, according to Linn<ae/us, from Gr. <grk>'i`ps</grk>, <grk>'ipo`s</grk>, a bindweed [which it is not], and <grk>"o`moios</grk> like.<rdquo/ <au>Gray.</au>]</ety> <fld>(Bot.)</fld> <def>A genus of twining plants with showy monopetalous flowers, including the morning-glory, the sweet potato, and the cypress vine.</def><br/
+\'d8<hw>Ip`o*m<oe/"a</hw> <pr>(<icr/p`<osl/*m<emac/"<adot/)</pr>, <pos>prop. n.</pos> <ety>[NL. <ldquo/Named, according to Linn<ae/us, from Gr. <grk>'i`ps</grk>, <grk>'ipo`s</grk>, a bindweed [which it is not], and <grk>"o`moios</grk> like.<rdquo/ <au>Gray.</au>]</ety> <fld>(Bot.)</fld> <def>A genus of twining plants with showy monopetalous flowers, including the morning-glory, the sweet potato, and the cypress vine.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ipomoeic</ent><br/
@@ -34165,7 +34165,7 @@ More images are available at the NASA site.</note>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Irenicon</ent><br/
-||<hw>I*ren"i*con</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/ peaceful, fr. <?/ peace.]</ety> <def>A proposition or device for securing peace, especially in the church.</def>  <rj><au>South.</au></rj><br/
+\'d8<hw>I*ren"i*con</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/ peaceful, fr. <?/ peace.]</ety> <def>A proposition or device for securing peace, especially in the church.</def>  <rj><au>South.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Irenics</ent><br/
@@ -34337,7 +34337,7 @@ More images are available at the NASA site.</note>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Iritis</ent><br/
-||<hw>I*ri"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Iris</er>, and <er>-itis</er>.]</ety> <fld>(Med.)</fld> <def>An inflammation of the iris of the eye.</def><br/
+\'d8<hw>I*ri"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Iris</er>, and <er>-itis</er>.]</ety> <fld>(Med.)</fld> <def>An inflammation of the iris of the eye.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Irk</ent><br/
@@ -35795,7 +35795,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Isatis</ent><br/
-||<hw>I"sa*tis</hw> <pr>(?; 277)</pr>, <pos>n.</pos> <ety>[L., a kind of plant, Gr. <?/ woad.]</ety> <fld>(Bot.)</fld> <def>A genus of herbs, some species of which, especially the <spn>Isatis tinctoria</spn>, yield a blue dye similar to indigo; woad.</def><br/
+\'d8<hw>I"sa*tis</hw> <pr>(?; 277)</pr>, <pos>n.</pos> <ety>[L., a kind of plant, Gr. <?/ woad.]</ety> <fld>(Bot.)</fld> <def>A genus of herbs, some species of which, especially the <spn>Isatis tinctoria</spn>, yield a blue dye similar to indigo; woad.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Isatogen</ent><br/
@@ -35839,7 +35839,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 
 <p><ent>Ischium</ent><br/
 <ent>Ischion</ent><br/
-<mhw>{ ||<hw>Is"chi*on</hw> <pr>(?)</pr>, ||<hw>Is"chi*um</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[L., Gr. <grk>'ischi`on</grk>.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>The ventral and posterior of the three principal bones composing either half of the pelvis; seat bone; the huckle bone.</def><br/
+<mhw>{ \'d8<hw>Is"chi*on</hw> <pr>(?)</pr>, \'d8<hw>Is"chi*um</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[L., Gr. <grk>'ischi`on</grk>.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>The ventral and posterior of the three principal bones composing either half of the pelvis; seat bone; the huckle bone.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>One of the pleur<ae/ of insects.</def><br/
@@ -36466,7 +36466,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Isopleura</ent><br/
-||<hw>I`so*pleu"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Iso-</er>, and <er>Pleura</er>.]</ety> <fld>(Zool.)</fld> <def>A subclass of Gastropoda, in which the body is symmetrical, the right and left sides being equal.</def><br/
+\'d8<hw>I`so*pleu"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Iso-</er>, and <er>Pleura</er>.]</ety> <fld>(Zool.)</fld> <def>A subclass of Gastropoda, in which the body is symmetrical, the right and left sides being equal.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The intestine terminates at the posterior end of the body, and the gills and circulatory and reproductive organs are paired. It includes the chitons (<spn>Polyplacophora</spn>), together with <spn>Neomenia</spn> and <spn>Ch<ae/toderma</spn>, which are wormlike forms without a shell.</note><br/
@@ -36477,7 +36477,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Isopoda</ent><br/
-||<hw>I*sop"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Iso-</er>, and <er>-poda</er>.]</ety> <fld>(Zool.)</fld> <def>An order of sessile-eyed Crustacea, usually having seven pairs of legs, which are all similar in structure.</def><br/
+\'d8<hw>I*sop"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Iso-</er>, and <er>-poda</er>.]</ety> <fld>(Zool.)</fld> <def>An order of sessile-eyed Crustacea, usually having seven pairs of legs, which are all similar in structure.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The body is usually depressed, with the abdominal segments short, and often consolidated in part. The branchi<ae/ are on the abdominal appendages. The group includes the terrestrial pill bugs and sow bugs, with numerous marine forms. See <er>Arthrostrata</er>, <er>Gribble</er>.</note><br/
@@ -36528,7 +36528,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Isospondyli</ent><br/
-||<hw>I`so*spon"dy*li</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'i`sos</grk> equal + <?/, <?/, a vertebra.]</ety> <fld>(Zool.)</fld> <def>An extensive order of fishes, including the salmons, herrings, and many allied forms.</def><br/
+\'d8<hw>I`so*spon"dy*li</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'i`sos</grk> equal + <?/, <?/, a vertebra.]</ety> <fld>(Zool.)</fld> <def>An extensive order of fishes, including the salmons, herrings, and many allied forms.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Isospondylous</ent><br/
@@ -37096,7 +37096,7 @@ If folly grows romantic, I must paint it.</q> <rj><qau>Pope.</qau></rj>
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Iter</ent><br/
-||<hw>I"ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Eyre</er>.]</ety> <fld>(Anat.)</fld> <def>A passage; esp., the passage between the third and fourth ventricles in the brain; the aqueduct of Sylvius.</def><br/
+\'d8<hw>I"ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Eyre</er>.]</ety> <fld>(Anat.)</fld> <def>A passage; esp., the passage between the third and fourth ventricles in the brain; the aqueduct of Sylvius.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Iterable</ent><br/
@@ -37241,7 +37241,7 @@ To stroll and teach from town to town.</q> <rj><qau>Hudibras.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Iulus</ent><br/
-||<hw>I*u"lus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., down, Gr. <?/ down, centipede.]</ety> <fld>(Zool.)</fld> <def>A genus of chilognathous myriapods. The body is long and round, consisting of numerous smooth, equal segments, each of which bears two pairs of short legs. It includes the galleyworms. See <er>Chilognatha</er>.</def><br/
+\'d8<hw>I*u"lus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., down, Gr. <?/ down, centipede.]</ety> <fld>(Zool.)</fld> <def>A genus of chilognathous myriapods. The body is long and round, consisting of numerous smooth, equal segments, each of which bears two pairs of short legs. It includes the galleyworms. See <er>Chilognatha</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ivan Ivanovitch</ent><br/
@@ -37349,7 +37349,7 @@ The clasping <qex>ivy</qex> where to climb.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Ixodes</ent><br/
-||<hw>Ix*o"des</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ like birdlime; <?/ birdlime + <grk>e'i^dos</grk> form.]</ety> <fld>(Zool.)</fld> <def>A genus of parasitic Acarina, which includes various species of ticks. See <er>Tick</er>, the insect.</def><br/
+\'d8<hw>Ix*o"des</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ like birdlime; <?/ birdlime + <grk>e'i^dos</grk> form.]</ety> <fld>(Zool.)</fld> <def>A genus of parasitic Acarina, which includes various species of ticks. See <er>Tick</er>, the insect.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ixodian</ent><br/
