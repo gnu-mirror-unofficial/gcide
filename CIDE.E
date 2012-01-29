@@ -16536,7 +16536,7 @@ And <qex>enticing</qex> men to pull.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Entozoa</ent><br/
-||<hw>En`to*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ within + <grk>zw,on</grk> an animal.]</ety> <fld>(Zo<oum/l.)</fld> <sn>1.</sn> <def>A group of worms, including the tapeworms, flukes, roundworms, etc., most of which live parasitically in the interior of other animals; the Helminthes.</def><br/
+||<hw>En`to*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ within + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zo<oum/l.)</fld> <sn>1.</sn> <def>A group of worms, including the tapeworms, flukes, roundworms, etc., most of which live parasitically in the interior of other animals; the Helminthes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>An artificial group, including all kinds of animals living parasitically in others.</def></p>
