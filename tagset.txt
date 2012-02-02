@@ -405,6 +405,9 @@ Tag        Font                        Meaning
 <!   !>      *    HTML-style comment.  Used to indicate page numbers 
                      in the public domain version.
 
+<abbr>   italic         Tag for abbreviations, when mentioned within
+                         the definition text.
+
 <adjf>   small caps     Tags for the actual adjective or adverb
                             comparatives or superlatives.  Should be
                             indexed. See also conjf (verbs) and
@@ -458,18 +461,27 @@ Tag        Font                        Meaning
                            reproducing this typography is probably
                            pointless.
 
-<decf>    small caps    The actual morphological variants of nouns or
-                            pronouns.  Should be indexed.
+<decf>    small caps    Declension form. The actual morphological 
+                           variants of nouns or pronouns.  Should 
+                           be indexed.
 
 <ecol>       *           Embedded Collocation.  A word combination
                            containing the headword (or a morphological
                            derivative, embedded within a definition 
-                           without a separate definitin of its own.
+                           without a separate definition of its own.
                            These collocations should be defined
                            implicitly by the text of the definition in
                            which they are embedded.
                          See also <col>, tagging explicitly defined
                             collocations.
+
+<ent>     Bold           Entry field. Gives the headword without accent or 
+                          syllabication marks, and with special-character
+                          symbols converted to their nearest ASCII
+                          equivalents.  Can be used without conversion
+                          as the string that serves as the index word
+                          for that entry.
+
 <er>      Small Caps     Entry reference.  References to headwords
                            within the "etymology" section are in small
                            caps.  Such references also occur
@@ -615,6 +627,11 @@ Tag        Font                        Meaning
                           n.; v. i.; v. t.; a.; adv.; pron.; prep.
                           Combinations may occur, as "a. & n.".
 
+<epos>        *          Part of speech, referring to words in
+                         etymologies, normal type.  Always an 
+                         abbreviation, as in <pos> above
+                          Combinations may occur, as "a. or n.".
+
 <plw>    small caps      Plural word.  The actual plural form of the word,
                             found within a <plu> segment.
 
@@ -697,6 +714,9 @@ Tag        Font                        Meaning
                       font is plain, but spacing is smaller than
                       normal definition spacing.  This seems pointlessly
                       complicating for an on-line display.
+
+<ver>        *      Verified for current accuracy by a technical editor,
+                         without changes.
 
 <vmorph>     *           Verb morphology (conjugation) segment, delimited
                             by square brackets.

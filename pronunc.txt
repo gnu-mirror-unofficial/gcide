@@ -7,10 +7,10 @@ vowel sounds are given here, but the examples should allow one
 to recognize the characters and recall the symbols used to 
 represent them.  The set of symbols used for pronunciation 
 is different from that used in most modern dictionaries,
-but a more worrisome problem is that the pronuncitions themselves 
+but a more worrisome problem is that the pronunciations themselves 
 seem in many cases to differ from modern usage.  The places of
 the strong and weak accent are, however, in every case
-examined the same as in modern dictionaries.  Anyone who is 
+examined, the same as in modern dictionaries.  Anyone who is 
 willing to work at revising the pronunciations to reflect modern
 usage or modern symbols should contact PJC.
 
@@ -25,7 +25,7 @@ syllable-break is represented in the ASCII version by an asterisk (*).
     the main (heavy) accent is represented by a double-quote (").
     the secondary (light) accent is represented by a left-single-quote
 (grave accent) (`)
-    the hyphen in hyphenated words is represented by the ASCII hypen (-).
+    the hyphen in hyphenated words is represented by the ASCII hyphen (-).
     where an accent occurs, no other syllable break is used.
     sometimes a hyphen occurs after an accent.
     ------------------------------------------------
@@ -61,7 +61,7 @@ relative to systems used in recent dictionaries.
 (1) a more complex set of symbols are used. This is evident, for
     example, where the long vowels have different symbols whether
     they are used in stressed or unstressed syllables.  Thus
-    long a in "acre" or "chaos"is represented as a-macron (<amac/ in 
+    long a in "acre" or "chaos" is represented as a-macron (<amac/ in 
     our notation).  But in "chaotic" or "connate" or "comate" it is 
     represented as a symbol looking like a-macron, but with a short 
     ascender in the middle of the macron above the a.  This is denoted 
@@ -72,9 +72,7 @@ relative to systems used in recent dictionaries.
     identical sounds using "i" or "e", but used in those cases where the
     written word has a "y" in it.  So words ending in "y" with 
     pronunciations like the unaccented long "e" usually have 
-    a y-breve (<ycr/) in the pronunciation.  Why?  Apparently,
-    just to look more like the spelling.  In these cases its
-    meaning is unambuiguous.
+    a y-breve (<ycr/) in the pronunciation.  Why?
 
 (2) The indicated pronunciations themselves are in some cases 
     different from what one would find in a modern dictionary.
@@ -85,22 +83,19 @@ relative to systems used in recent dictionaries.
     the present.  Thus we see that words ending in -"ties",
     which are given the pronunciation "-t<icr/z", which sounds
     like "tizz", whereas I have always heard such words pronounced
-    with a long "e", as in "teez" (and most modern dictionaries
-    give it the long-e pronunciation.  In Webster's 10th collegiate,
-    they mention that unstressed long e may be pronounced as i in
+    with a long "e", as in "teez".   In Webster's 10th collegiate, they 
+    mention that unstressed long e may be pronounced as i in
     southern British or southern US dialects, and perhaps it
     was more common in the US in 1890.  The <icr/ is an unreliable
-    indicator of modern standard American pronunciation.  A long-e
-    pronunciation on the antepenult is also sometimes given an
-    <icr/ symbol in this dictionary.
+    indicator of modern standard American pronunciation.
 
 (3)  The indefinite value, represented by an upside-down e (called
      the "schwa" is not used, the same sound being represented by
      symbols like short u <ucr/, or sometimes other vowels. 
 
     So be warned, the pronunciations may not be quite what one would
-    expect.  But for the first phase of this effort, we are trying 
-    to reproduce exactly the pronuciations in the original work.
+    expect.  But for this effort, we are trying to reproduce exactly
+    the pronuciations in the original work.
 
     Notice that in pronunciations, vowels that are obscured are often
       represented by the italicised vowel without any diacritical marks;
@@ -177,6 +172,12 @@ relative to systems used in recent dictionaries.
           deerstalker   =  d<emac/r"st<add/k`<etil/r
 
 
+   <eacute/  e-acute      (e with an acute accent over it --
+                           not used in pronunciations, but in the
+                           spelling of words derived from European
+                           languages,  especially French.)
+          prot<eacute/g<eacute/    =  pr<osl/`t<asl/`zh<asl/"
+
    <ecr/  short e         (e with a crescent [breve] above it)
           degenerate    =  d<esl/*j<ecr/n"<etil/r*<amac/t
           delve         =  d<ecr/lv
@@ -204,6 +205,19 @@ relative to systems used in recent dictionaries.
           fern          =  f<etil/rn
           commercial    =  k<ocr/m*m<etil/r"sh<ait/l
           commerce      =  k<ocr/m"m<etil/rs
+
+   <eum/ e-umlaut  (e-diaeresis)
+              (not used in pronunciations.
+                          represents e after another e, used in the 1913
+                          Webster to indicate that the two e's are
+                          pronounced as two vowels, as in "reentry". 
+                          In the supplemented version, the second e,
+                          which is thus marked in the 1913 version, 
+                          usually has no umlaut over it, conforming
+                          to modern orthographic practise.)
+
+         re<eum/nforce  =  r<emac/`<ecr/n*f<omac/rs"
+         re<eum/entry   =  r<emac/`<ecr/n"tr<ycr/
 
    <icr/  short i         (i with a crescent [breve] above it)
                           Note: In most cases, this is used where the

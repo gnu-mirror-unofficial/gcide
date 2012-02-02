@@ -4,13 +4,24 @@ VERSION = 0.51
 DISTFILES=\
  $(wildcard CIDE.[A-Z])\
  COPYING\
- PRONUNC.JPG\
- PRONUNC.WEB\
- README.DIC\
- SYMBOLS.JPG\
- TAGSET.WEB\
- WEBFONT.ASC\
- WXXVII.JPG
+ README\
+ pronunc.jpg\
+ symbols.jpg\
+ pronunc.txt\
+ tagset.txt\
+ webfont.txt\
+ abbrevn.lst\
+ authors.lst\
+ titlepage.png 
+
+anclist:
+	@ls -o $(DISTFILES) | grep -v 'CIDE.[A-Z]'
+
+clean:
+	rm -f *~
+
+distclean: clean
+	rm -f $(DISTBASE).tar.gz $(DISTBASE).tar.xz $(DISTBASE).zip
 
 DISTBASE = $(PROJECT)-$(VERSION)
 

@@ -186,7 +186,8 @@ Latin-2 table), but the other vowels don't, in the Smith & Stutely book.
 Is this a mistake?
   (7) The symbol <nsc/ is used for "N small capitals", used in
 pronunciations to represent the soun fo the nasal N in French words.
-  (8) If you find any exceptions to these usage assertions, please
+  (8) A weak accent (when not in pronunciations) is symbolized by <prime/, the "minutes" (of a degree) symbol.  A strong accent is symbolized by <bprime/ ("bold prime", not an ISO entity).
+  (9) If you find any exceptions to these usage assertions, please
 let me know.
 ----------------------------------------------------------------------------------------
      webfont       ISO 8879    latin1/ascii    TeX    nearest     description
@@ -200,7 +201,7 @@ oct dec hex entity             oct dec hex
 
 200 128  80 <Cced/   Ccedil     307 199  c7     \c{C}     C     C cedilla
 201 129  81 <uum/    uuml       374 252  fc     \"u       ue    u umlaut (diaeresis)
-202 130  82          eacute     351 233  e9     \'e       e     e acute
+202 130  82 <eacute/ eacute     351 233  e9     \'e       e     e acute
 203 131  83 <acir/   acirc      342 226  e2     \^a       a     a circumflex
 204 132  84 <aum/    auml       344 228  e4     \"a       ae    a umlaut (diaeresis)
 205 133  85 <agrave/ agrave     340 224  e0     \`a       a     a grave
@@ -211,8 +212,8 @@ oct dec hex entity             oct dec hex
 212 138  8a <egrave/ egrave     350 232  e8     \`e       e     e grave
 213 139  8b <ium/    iuml       357 239  ef     \"i       i     i umlaut (diaeresis)
 214 140  8c <icir/   icirc      356 238  ee     \^i       i     i circumflex
-215 141  8d          igrave     354 236  ec     \`i       i     i grave
-216 142  8e          Auml                                 A     A umlaut
+215 141  8d <igrave/ igrave     354 236  ec     \`i       i     i grave
+216 142  8e <Aum/    Auml                                 A     A umlaut
 217 143  8f          Aring                                A     A ring above
 
 220 144  90 <Eacute/ Eacute     311 201  c9     \'E       e      E acute
@@ -220,9 +221,9 @@ oct dec hex entity             oct dec hex
 222 146  92 <AE/     AElig      306 198  c6     \AE       AE     ligature AE
 223 147  93 <ocir/   ocirc      364 244  f4     \^o       o      o circumflex
 224 148  94 <oum/    ouml       366 246  f6     \"o       oe     o umlaut (diaeresis)
-225 149  95          ograve     362 242  f2     \`o       o      o grave
+225 149  95 <ograve/ ograve     362 242  f2     \`o       o      o grave
 226 150  96 <ucir/   ucirc      373 251  fb     \^u       u      u circumflex
-227 151  97          ugrave     371 249  f9     \`u       u      u grave
+227 151  97 <ugrave/ ugrave     371 249  f9     \`u       u      u grave
 230 152  98 <yum/    yuml                                 y      y umlaut
 231 153  99 <Oum/    Ouml                                 O      O umlaut
 232 154  9a <Uum/    Uuml       334 220  dc     \"U       U      U umlaut (diaeresis)
@@ -234,7 +235,7 @@ oct dec hex entity             oct dec hex
 240 160  a0 <aacute/ aacute     341 225  e1     \'a        a     a acute
 241 161  a1 <iacute/ iacute     355 237  ed     \'i        i     i acute
 242 162  a2 <oacute/ oacute     363 243  f3     \'o        o     o acute
-243 163  a3          uacute     372 250  fa     \'u        u     u acute
+243 163  a3 <uacute/ uacute     372 250  fa     \'u        u     u acute
 244 164  a4 <ntil/   ntilde     361 241  f1     \~n        ny    n tilde
 245 165  a5 <Ntil/   Ntilde                                NY    N tilde
 246 166  a6 <frac23/                      $\frac{2}{3}$    2/3   two-thirds
@@ -256,19 +257,19 @@ oct dec hex entity             oct dec hex
 264 180  b4  *                                $\updownarrow$  *   verticle arrow
 265 181  b5 <hand/                                            *   pointing hand
                                                                  (printer's "fist")
-266 182  b6                                     \"{}          ''   bold accent 
+266 182  b6 <bprime/                           \"{}          ''   bold accent 
                                                              (used in pronunciations)
-267 183  b7         prime      264  180  b4     \'{}          '   light accent 
+267 183  b7 <prime/  prime      264  180  b4     \'{}          '   light accent 
                                                             (used in pronunciations)
                                                             also minutes (of arc or time)
-270 184  b8 <rdquo/                             ''            "   close double quote
+270 184  b8 <rdquo/ rdquo                       ''            "   close double quote
 271 185  b9  *
 272 186  ba  *                                  $\parallel$   ||   verticle double bar (l)
 273 187  bb  *
 274 188  bc <sect/  sect                        \S             *    section mark
-275 189  bd <ldquo/                             ``            "    open double quotes
+275 189  bd <ldquo/ ldquo                        ``            "    open double quotes
 276 190  be <amac/  amacr                       \=a           a    a macron
-277 191  bf         lsquo                       `             `    left single quote
+277 191  bf <lsquo/ lsquo                       `             `    left single quote
 
 300 192  c0 <nsm/                                             ng   "n sub-macron"
 301 193  c1 <sharp/ sharp                       $\sharp$      #      musical sharp
@@ -334,10 +335,10 @@ oct dec hex entity             oct dec hex
 362 242  f2   *
 363 243  f3   *
 364 244  f4 <yogh/                                               y   small yogh
-365 245  f5         mdash                       ---              --  em dash
-366 246  f6         divide     367 247 f7       $\div$           /   division sign
+365 245  f5 <mdash/ mdash                       ---              --  em dash
+366 246  f6 <divide/ divide    367 247 f7       $\div$           /   division sign
 367 247  f7         ap                          $\approx$        ~=  "double tilde"
-370 248  f8 <deg/              260 176 b0       ${}^\circ$       *    degree sign
+370 248  f8 <deg/   deg        260 176 b0       ${}^\circ$       *    degree sign
 371 249  f9 <middot/                            $\bullet$        *    bold middle dot
 372 250  fa   *                267 183 b7       $\cdot$          *    light middle dot
 373 251  fb <root/  radic                       $\surd$          *    root sign
