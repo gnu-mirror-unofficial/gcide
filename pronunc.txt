@@ -1,4 +1,4 @@
-file PRONUNC.WEB
+File pronunc.txt
 ================
    This file gives a number of examples of pronunciation, 
 using the entity symbols representing the pronunciations as

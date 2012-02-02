@@ -1,13 +1,13 @@
             FIELD MARKS FOR WEBSTER 1913 and CIDE
             =====================================
-Tagset.web:
      Explanations of the tags used to mark the Webster 1913 dictionary
 and the CIDE (Collaborative International Dictionary of English).
 Note that the list of tags used to mark the public domain version
 of this dictionary is shorter than the full set described here.
     If any tag is not listed here, it is either (1) one of the 
-"point" (font size) or "type" (font style) tags, which should be self-explanatory; or
-        (2) Is a functional field with no effect on the typography.
+"point" (font size) or "type" (font style) tags, which should be
+self-explanatory; or (2) is a functional field with no effect on the
+typography.
 
 Last modified March 12, 1999.
      For questions, contact:
@@ -16,7 +16,7 @@ Last modified March 12, 1999.
      Plainfield, NJ 07062
      (908) 561-3416   or (908) 668-5252
 -------------------------------------------------------------
-A separate file, webfont.asc, contains the list of the individual 
+A separate file, webfont.txt, contains the list of the individual 
 non-ASCII characters represented by either higher-order hexadecimal
 character marks (e.g., \'94, for o-umlaut) or by entity tags
 (e.g., <root/, for the square root symbol.)
