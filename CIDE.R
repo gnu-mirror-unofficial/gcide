@@ -26799,7 +26799,7 @@ Did thus <qex>revest</qex> and decked with due habiliments.</q> <rj><qau>Spenser
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Review</ent><br/
-<hw>Re*view"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Review<?/d</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Reveiwing</conjf>.]</vmorph> <ety>[Pref. <ets>re-</ets> + <ets>view</ets>.  Cf. <er>Review</er>, <pos>n.</pos> ]</ety> <sn>1.</sn> <def>To view or see again; to look back on.</def> <mark>[R.]</mark> <ldquo/I shall <xex>review</xex> Sicilia.<rdquo/  <rj><au>Shak.</au></rj><br/
+<hw>Re*view"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Reviewed</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Reveiwing</conjf>.]</vmorph> <ety>[Pref. <ets>re-</ets> + <ets>view</ets>.  Cf. <er>Review</er>, <pos>n.</pos> ]</ety> <sn>1.</sn> <def>To view or see again; to look back on.</def> <mark>[R.]</mark> <ldquo/I shall <xex>review</xex> Sicilia.<rdquo/  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To go over and examine critically or deliberately.</def> Specifically: <sd>(a)</sd> <def>To reconsider; to revise, as a manuscript before printing it, or a book for a new edition.</def> <sd>(b)</sd> <def>To go over with critical examination, in order to discover exellences or defects; hence, to write a critical notice of; <as>as, to <ex>review</ex> a new novel</as>.</def> <sd>(c)</sd> <def>To make a formal or official examination of the state of, as troops, and the like; <as>as, to <ex>review</ex> a regiment</as>.</def> <sd>(d)</sd> <fld>(Law)</fld> <def>To reexamine judically; <as>as, a higher court may <ex>review</ex> the proceedings and judgments of a lower one</as>.</def><br/

@@ -34207,7 +34207,7 @@ A herd of beeves <qex>disperse</qex>.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Displant</ent><br/
-<hw>Dis*plant"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Di<?/planted</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Displanting</conjf>.]</vmorph> <ety>[Pref. <ets>dis-</ets> + <ets>plant</ets>: cf. OF. <ets>desplanter</ets>, F. <ets>d<eacute/planter</ets>.]</ety> <sn>1.</sn> <def>To remove (what is planted or fixed); to unsettle and take away; to displace; to root out; <as>as, to <ex>displant</ex> inhabitants</as>.</def><br/
+<hw>Dis*plant"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Displanted</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Displanting</conjf>.]</vmorph> <ety>[Pref. <ets>dis-</ets> + <ets>plant</ets>: cf. OF. <ets>desplanter</ets>, F. <ets>d<eacute/planter</ets>.]</ety> <sn>1.</sn> <def>To remove (what is planted or fixed); to unsettle and take away; to displace; to root out; <as>as, to <ex>displant</ex> inhabitants</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>I did not think a look,<br/
@@ -35805,7 +35805,7 @@ But -- why did you kick me down stairs?</q> <rj><qau>J. P. Kemble.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Disserve</ent><br/
-<hw>Dis*serve"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Di<?/<?/<?/<?/<?/</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Disserving</conjf>.]</vmorph> <ety>[Pref. <ets>dis-</ets> + <ets>serve</ets>: cf. F. <ets>desservir</ets>.]</ety> <def>To fail to serve; to do injury or mischief to; to damage; to hurt; to harm.</def><br/
+<hw>Dis*serve"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Disserved</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Disserving</conjf>.]</vmorph> <ety>[Pref. <ets>dis-</ets> + <ets>serve</ets>: cf. F. <ets>desservir</ets>.]</ety> <def>To fail to serve; to do injury or mischief to; to damage; to hurt; to harm.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Have neither served nor <qex>disserved</qex> the interests of any party.</q> <rj><qau>Jer. Taylor.</qau></rj><br/

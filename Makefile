@@ -1,12 +1,12 @@
 PROJECT = gcide
-VERSION = 0.51
+VERSION = 0.51-rc1
 
 DISTFILES=\
  $(wildcard CIDE.[A-Z])\
  COPYING\
  README\
- pronunc.jpg\
- symbols.jpg\
+ pronunc.png\
+ symbols.png\
  pronunc.txt\
  tagset.txt\
  webfont.txt\
