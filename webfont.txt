@@ -3,163 +3,169 @@
 
 * Overview
 
-This file describes special symbols and markup entities used in the
-GNU Collaborative International Dictionary of English.
+This file describes special symbols and markup entities used in the GNU
+Collaborative International Dictionary of English.
 
 * Introduction
 
-The special characters used in the electronic version of the Webster
-1913 are required for visualizing unusual characters used in the
-etymology and pronunciation fields of the dictionary, in a form
-comparable to the way they appear in the original.
+The special characters used in the electronic version of the Webster 1913
+are required for visualizing unusual characters used in the etymology and
+pronunciation fields of the dictionary, in a form comparable to the way they
+appear in the original.
 
-The GCIDE markup provides two ways for representing such characters:
-using special "escape sequences" and using special markup entities.
-Historically, "escape sequences" were used to indicate the
-character's ordinal position in a special font, prepared by MICRA,
-Inc. to represent it on screen.  Although nowadays this method is
-obsolete, the dictionary corpus still uses these sequences.  This file
-describes their mapping to Unicode characters.
+The GCIDE markup provides two ways for representing such characters: using
+special "escape sequences" and using special markup entities.  Historically,
+"escape sequences" were used to indicate the character's ordinal position in
+a special font, prepared by MICRA, Inc. to represent it on screen.  Although
+nowadays this method is obsolete, the dictionary corpus still uses these
+sequences.  This file describes their mapping to Unicode characters.
 
 An escape sequence has the form \'xx, where "x" represent lowercase
-hexadecimal digits.  For example, \'94 stands for "o" with diaeresis.
-There are only 256 such sequences.
+hexadecimal digits.  For example, \'94 stands for "o" with diaeresis.  There
+are only 256 such sequences.
 
-Special markup entities are able to represent a wider range of
-characters.  A markup entity is similar to SGML one, but has a
-different format.  The traditional &xx; format was judged inconvenient
-because the ampersand is used frequently in the corpus.  Instead,
-GCIDE entities have the format <WORD/, where "<" and "/" represent the
-beginning and end of the entity and WORD represents the character
-itself.  Valid WORDs are in some cases abbreviations (for compactness)
-of the ISO 8879 recommended symbols.  Characters representable by
-escape sequences can also be represented by entities, but the reverse
-is not true, due to a limited range of the former.
+Special markup entities are able to represent a wider range of characters.
+A markup entity is similar to SGML one, but has a different format.  The
+traditional &xx; format was judged inconvenient because the ampersand is
+used frequently in the corpus.  Instead, GCIDE entities have the format
+<WORD/, where "<" and "/" represent the beginning and end of the entity and
+WORD represents the character itself.  Valid WORDs are in some cases
+abbreviations (for compactness) of the ISO 8879 recommended symbols.
+Characters representable by escape sequences can also be represented by
+entities, but the reverse is not true, due to a limited range of the former.
 
-The Greek words appearing in the etymologies, when they are included,
-are typed in a roman-letter transcription, which is described below in
-chapter "Greek transliteration".
+The Greek words appearing in the etymologies, when they are included, are
+typed in a roman-letter transcription, which is described below in chapter
+"Greek transliteration".
 
 * Unrecognized characters
 
 Wherever the typists did not know the character to use, they usually
 inserted a reverse-video question mark (decimal 176).  This appears in
 full-ASCII versions as <?/.  This mark was used both for characters in
-non-ASCII fonts, and for unreadable characters (i.e., characters
-smeared in the original or distorted in the copies available to the
-typists. The type in the original was in many places smeared and
-illegible at the left and right page margins; occasionally, small
-parts of words were blotted out by plain white space).
+non-ASCII fonts, and for unreadable characters (i.e., characters smeared in
+the original or distorted in the copies available to the typists. The type
+in the original was in many places smeared and illegible at the left and
+right page margins; occasionally, small parts of words were blotted out by
+plain white space).
 
 * Italics
 
 In most places, italic font is represented by the tags <it>...</it>
-surrounding the italic text, or by some other tag which also implies
-italic font.  In the pronunciations, however, where italicized vowels
-are used among non-italic and other special characters to indicate
-pronunciation, the special codes <ait/, <eit/, <iit/, <oit/, <uit/,
-are also used to indicate the italicized vowel.
+surrounding the italic text, or by some other tag which also implies italic
+font.  In the pronunciations, however, where italicized vowels are used
+among non-italic and other special characters to indicate pronunciation, the
+special codes <ait/, <eit/, <iit/, <oit/, <uit/, are also used to indicate
+the italicized vowel.
 
 * Diacritics
 
-Vowels with a circle above (as in Swedish) are coded <xring/ (x with a
-ring, or "degrees" mark over it); vowels with tilde over them are
-represented by <xtil/, where "x" is the vowel, as in <etil/ (<atil/ 
-also has code 238); letters with a dot above are represented by <xdot/
--- letter with a dot below are represented by <xsdot/ ("subdot");
-vowels with the semi-long mark (a macron with a short perpendicular
-vertical stroke attached above) are represented by <xsl/; the
-circumflex vowels have codes on this list, but may also be represented
-as <xcir/; vowels with macrons above are <xmac/ (including <oomac/,
-the "oo" with an unbroken macron above the two letters, <aemac/ = the
-ligature ae with a macron [also 214 = \'d6], and <oemac/ the ligature
-oe with a macron [also 215 = \'d7]); vowels with umlauts or a crescent
-(breve) above have codes in this list, but may also be represented by
-<xum/ and <xcr/ respectively.  There is an occasional hacek or caron
-mark (an inverted circumflex) in the original; such letters are coded
-<xcar/.  The o with a caron has code 213, but no other letter with a
-caron is representable by an escape sequence.
+Vowels with a circle above (as in Swedish) are coded <xring/ (x with a ring,
+or "degrees" mark over it); vowels with tilde over them are represented by
+<xtil/, where "x" is the vowel, as in <etil/ (<atil/ also has code 238);
+letters with a dot above are represented by <xdot/ -- letter with a dot
+below are represented by <xsdot/ ("subdot"); vowels with the semi-long mark
+(a macron with a short perpendicular vertical stroke attached above) are
+represented by <xsl/; the circumflex vowels have codes on this list, but may
+also be represented as <xcir/; vowels with macrons above are <xmac/
+(including <oomac/, the "oo" with an unbroken macron above the two letters,
+<aemac/ = the ligature ae with a macron [also 214 = \'d6], and <oemac/ the
+ligature oe with a macron [also 215 = \'d7]); vowels with umlauts or a
+crescent (breve) above have codes in this list, but may also be represented
+by <xum/ and <xcr/ respectively.  There is an occasional hacek or caron mark
+(an inverted circumflex) in the original; such letters are coded <xcar/.
+The o with a caron has code 213, but no other letter with a caron is
+representable by an escape sequence.
 
-The diaeresis is treated typographically as identical to the umlaut.
-A special modification, used only for poetry (see entry "saturnian
-verse" under "saturnian") is a vowel with a macron, in which the
-macron is lighter than the usual macron, signifying a stressed
-syllable which has a short vowel sound.  This is represented by
-<xsmac/ ("short mac").
+The diaeresis is treated typographically as identical to the umlaut.  A
+special modification, used only for poetry (see entry "saturnian verse"
+under "saturnian") is a vowel with a macron, in which the macron is lighter
+than the usual macron, signifying a stressed syllable which has a short
+vowel sound.  This is represented by <xsmac/ ("short mac").
 
-Another special character used in pronunciations is an "n" with an
-underline (like a macron, but below the letter), used to represent the
-"ng" sound.  This is coded <nsm/ ("n sub-macron").  The ligated th
-used in pronunciations to depict the "th" sound of "the" is coded as
-<th/.
+Another special character used in pronunciations is an "n" with an underline
+(like a macron, but below the letter), used to represent the "ng" sound.
+This is coded <nsm/ ("n sub-macron").  The ligated th used in pronunciations
+to depict the "th" sound of "the" is coded as <th/.
 
 NOTE: the letter combinations "fi" and "fl" are invariably printed as the
-ligatures &filig; and &fllig;, but these ligatures are not marked as such
-in this transcription, and the two letters are left as individuals.
+ligatures &filig; and &fllig;, but these ligatures are not marked as such in
+this transcription, and the two letters are left as individuals.
 
 * Special symbols
 
-The dagger <dag/, double dagger <ddag/, and paragraph mark <para/ are
-rarely used.
+The dagger <dag/, double dagger <ddag/, and paragraph mark <para/ are rarely
+used.
 
-The double prime, or "seconds" of a degree is sometimes represented by
-a double "light accent" (code 183 = \'b7).  In other places, and in
-later versions, it is represented by <sec/ = \'a9.
+The double prime, or "seconds" of a degree is sometimes represented by a
+double "light accent" (code 183 = \'b7).  In other places, and in later
+versions, it is represented by <sec/ = \'a9.
 
-The symbols "greater than" <gt/ and "less than" are encountered only
-once, but are distinguished from the right- and left-angle brackets (>
-and <) because of possible typographical differences in some fonts.
+The symbols "greater than" <gt/ and "less than" are encountered only once,
+but are distinguished from the right- and left-angle brackets (> and <)
+because of possible typographical differences in some fonts.
 
-The schwa is symbolized by <schwa/.  It is not used in the
-pronunciations, but is mentioned as a symbol.  The right-pointing
-arrow is <rarr/, consistent with ISO 8879.
+The schwa is symbolized by <schwa/.  It is not used in the pronunciations,
+but is mentioned as a symbol.  The right-pointing arrow is <rarr/,
+consistent with ISO 8879.
+
+Two special entities <and/ and <or/ represent words "and" and "or" in
+italics font.
 
 * Symbol summary
 
-Below is a complete list of the symbols used in the Webster, together
-with their "webfont" number (escape sequence), corresponding markup
-entity, and corresponding symbols in ISO 8879 and Tex coding.  Much of
-this table was prepared by Rik Faith, to whom we express our
-appreciation.
+Below is a complete list of the symbols used in the Webster, together with
+their "webfont" number (escape sequence), corresponding markup entity, and
+corresponding symbols in ISO 8879 and Tex coding.  Much of this table was
+prepared by Rik Faith, to whom we express our appreciation.
 
-The "Uc" column gives the Unicode representation of the character.
-The "nearest ASCII" equivalents are given for those who want to
-display the data as best one can in 7-bit simple ASCII symbols without 
-using the "entity" symbols.
+The "Uc" column gives the Unicode representation of the character.  The
+"nearest ASCII" equivalents are given for those who want to display the data
+as best one can in 7-bit simple ASCII symbols without using the "entity"
+symbols.
 
 Comments: 
-  (1) The symbol in the "entity" column is the SGML-like symbol used in
-      the present Webster files; the symbol in the "ISO 8879" column is
-      the symbol for the same character given in "The user's guide to
-      ISO 8879" by Smith and Stutely.
-  (2) An asterisk "*" in the "entity" column means that this symbol and 
-code value is not used in any form in GCIDE.
-  (3)  If no asterisk is in the "entity" column, and no other symbol is 
+  (1) The symbol in the "entity" column is the SGML-like symbol used in the
+      present Webster files; the symbol in the "ISO 8879" column is the
+      symbol for the same character given in "The user's guide to ISO 8879"
+      by Smith and Stutely.
+      
+  (2) An asterisk "*" in the "entity" column means that this symbol and code
+value is not used in any form in GCIDE.
+
+  (3) If no asterisk is in the "entity" column, and no other symbol is
 there, this means that in the Webster, only the hexadecimal representation
-was used (e.g. for \'d8, \'bd, and  \'b8).
-  (4) \'b6 and \'b7, the heavy and light "accents", are never above a
-letter (these are not diacritical marks), but in-between letters, as the
-stress accent used in the headwords and pronunciations.  The
-accent *follows* the syllable accented.  The light accent \'b7 is
-also used as the "prime" in mathematical expressions (e.g. a\'b7 = "a
-prime"), or as "minutes" in degrees-minutes-seconds, and when doubled
-(\'b7\'b7) serves as "double prime" in mathematical expressions, and
-as "seconds" in degrees-minutes-seconds.  The character \'a9 (<sec/ or
-&Prime;) is also used to represent the double prime.
-  (5) Although the semilong vowels are in the table (e.g. the "asl" 
-= "a semilong", most of the entries in the ASCII version dictionary
-use the <xsl/ symbol coding.  If you know of any printers' names for
-these, do let me know.
-  (6)  For some reason, the a breve and u breve have ISO codes (in the
-Latin-2 table), but the other vowels don't, in the Smith & Stutely book.
-Is this a mistake?
+was used (e.g. for \'d8, \'bd, and \'b8).
+
+  (4) \'b6 and \'b7, the heavy and light "accents", are never above a letter
+(these are not diacritical marks), but in-between letters, as the stress
+accent used in the headwords and pronunciations.  The accent *follows* the
+syllable accented.  The light accent \'b7 is also used as the "prime" in
+mathematical expressions (e.g. a\'b7 = "a prime"), or as "minutes" in
+degrees-minutes-seconds, and when doubled (\'b7\'b7) serves as "double
+prime" in mathematical expressions, and as "seconds" in
+degrees-minutes-seconds.  The character \'a9 (<sec/ or &Prime;) is also used
+to represent the double prime.
+
+  (5) Although the semilong vowels are in the table (e.g. the "asl" = "a
+semilong", most of the entries in the ASCII version dictionary use the <xsl/
+symbol coding.  If you know of any printers' names for these, do let me
+know.
+
+  (6) For some reason, the a breve and u breve have ISO codes (in the
+Latin-2 table), but the other vowels don't, in the Smith & Stutely book.  Is
+this a mistake?
+
   (7) The symbol <nsc/ is used for "N small capitals", used in
 pronunciations to represent the soun fo the nasal N in French words.
-  (8) A weak accent (when not in pronunciations) is symbolized by
-<prime/, the "minutes" (of a degree) symbol.  A strong accent is
-symbolized by <bprime/ ("bold prime", not an ISO entity).
+
+  (8) A weak accent (when not in pronunciations) is symbolized by <prime/,
+the "minutes" (of a degree) symbol.  A strong accent is symbolized by
+<bprime/ ("bold prime", not an ISO entity).
+
   (9) If you find any exceptions to these usage assertions, please
 let me know.
+
 ----------------------------------------------------------------------------
      webfont       ISO 8879   TeX             Uc  ASC   Description
 ------------------                               
@@ -340,8 +346,9 @@ oct dec hex entity
 377 255  ff   *                 
 ----------------------------------------------------------------------------
 
-The table below gives some additional information about some of the 
-more commonly used entities
+The table below gives some additional information about some of the more
+commonly used entities:
+
 -------------------------------------------------------------------
 Frequently used:
 decimal  hex    char  definition
@@ -495,16 +502,15 @@ decimal  hex    char  definition
 Stand-alone Greek letters are represented by entities <alpha/, <beta/,
 <gamma/, <lambda/ etc.  Capitalized letters are <ALPHA/, etc.
 
-Text appearing within the markers <grk></grk>, is a Greek
-transliteration written in roman letters.  The following rules are
-used:
+Text appearing within the markers <grk></grk>, is a Greek transliteration
+written in roman letters.  The following rules are used:
 
 ** Aspirants
 
-Aspirants are represented by ' (apostrophe) and " (double quote)
-placed in front of the letter modified.  Apostrophe stands for
-ψιλὸν πνεῦμα (ψιλή or spiritus lenis), and double quote stands for
-δασὺ πνεῦμα (δασεία or spiritus asper). 
+Aspirants are represented by ' (apostrophe) and " (double quote) placed in
+front of the letter modified.  Apostrophe stands for ψιλὸν πνεῦμα (ψιλή or
+spiritus lenis), and double quote stands for δασὺ πνεῦμα (δασεία or spiritus
+asper).
 
    'a  -- ἀ
    "a  -- ἁ
@@ -512,9 +518,8 @@ placed in front of the letter modified.  Apostrophe stands for
 ** Accents
 
 Accents are placed after the accented letter.  The acute accent (ὀξεῖα) is
-represented by ` (gravis).  The grave accent (βαρεῖα) is represented
-by ~ (tilde), and circumflex (περισπωμένη) is represented by
-circumflex.  Thus:
+represented by ` (gravis).  The grave accent (βαρεῖα) is represented by ~
+(tilde), and circumflex (περισπωμένη) is represented by circumflex.  Thus:
 
    a`  -- ά
    a~  -- ὰ
@@ -532,18 +537,17 @@ Some examples of the combined forms (aspirant + accent):
    
 ** Iota subscriptum
 
-Iota subscript is represented by comma placed after the affected
-vowel.  If the vowel is accented, the comma is placed after the
-accent mark.  For example:
+Iota subscript is represented by comma placed after the affected vowel.  If
+the vowel is accented, the comma is placed after the accent mark.  For
+example:
 
     a`,  --  ᾴ
     'a`, --  ᾄ
 
 ** Diaeresis
     
-Diaeresis is represented by a colon immediately after the affected
-vowel.  If the vowel is accented, the accent is placed after the
-colon, e.g.:
+Diaeresis is represented by a colon immediately after the affected vowel.
+If the vowel is accented, the accent is placed after the colon, e.g.:
 
     i:  --  ϊ
     i:^ --  ῗ
@@ -552,8 +556,8 @@ colon, e.g.:
 ** Letters
 
 The table below shows, for each Greek letter, the corresponding markup
-entity and transliteration.  The capitalized Greek letters are
-represented by the capitalized versions of the letters shown here.
+entity and transliteration.  The capitalized Greek letters are represented
+by the capitalized versions of the letters shown here.
 
 -----------------------------------------
   Greek letter    transliteration
@@ -584,22 +588,21 @@ represented by the capitalized versions of the letters shown here.
 ω   omega           w
 
 ---
-[1] "th" was used in some earier sections, but was changed due to
-potential confusion with the tau+eta combination, as in λυτήριος
-(<grk>lyth`rios</grk>, at "lyterian") or ποιητής (<grk>poihth`s</grk>,
-at "maker").
+[1] "th" was used in some earier sections, but was changed due to potential
+confusion with the tau+eta combination, as in λυτήριος
+(<grk>lyth`rios</grk>, at "lyterian") or ποιητής (<grk>poihth`s</grk>, at
+"maker").
 [2] Final sigma is not distinguished here from middle sigma, but when
 isolated, use <sigmat/ ("terminal sigma") for the final form.
 [3] Both y and u are used interchangeably in this edition.
-[4] "c" is always followed by "h", so the "h" component is not
-confusable with eta.  Applications must first convert "ch" before
-converting "h", or at least verify that an "h" to be converted has no
-preceding "c".
+[4] "c" is always followed by "h", so the "h" component is not confusable
+with eta.  Applications must first convert "ch" before converting "h", or at
+least verify that an "h" to be converted has no preceding "c".
 [5] This usage is theoretically confusable with pi-sigma, but that
 combination seems never to occur.
 
-Roman "j" and "v" are unused.  Roman "u" is occasionally used instead
-of "y" to represent upsilon.
+Roman "j" and "v" are unused.  Roman "u" is occasionally used instead of "y"
+to represent upsilon.
 
 Examples:
 
@@ -612,5 +615,6 @@ Examples:
 Local Variables:
 mode: Outline
 coding: utf-8
+fill-column: 76
 End:
 
