@@ -578,7 +578,7 @@ Tag           Font         Meaning and Description
                            be found in the body of a definition or note, not
                            only in the etymology field.  Very few of the
                            names that should be marked this way have
-                           actually been so marked, as of version 0.42.  In
+                           actually been so marked, as of version 0.51.  In
                            cases where such eponymous names have not yet
                            been thus marked, they will usually be marked by
                            <xex>, the non-semantic italic-font marker, or,
@@ -879,8 +879,8 @@ Tag           Font         Meaning and Description
 <fexp>        *            Functional expression (math).  The function names
                            are in plain type, the variables are italic.
 
-<iref>        italic       Illustration reference.  Used ony occasionally,
-                           not yet (v. 0.41) consistently.
+<iref>        italic       Illustration reference.  Used only occasionally,
+                           not yet (v. 0.51) consistently.
 
 <figref>      italic       Figure reference.
 
