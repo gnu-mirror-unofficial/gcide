@@ -268,40 +268,15 @@ file also explains the Greek transliteration syntax used in it.
 
 * DICTIONARY LOOKUP
 
-The GNU Dico project contains a module for reading GCIDE files.  This
-distribution provides a configuration file "gcide.conf" which you can use
-with the "dicod" server in order to look up words in the dictionary.  See
-http://www.gnu.org.ua/software/dico for a description of GNU Dico, including
-links to download.
+The GNU Dico project contains a browser for GCIDE, called "Gcider".  It
+provides a windowing interface allowing user to search for matching
+headwords using several match strategies and browse their definitions.
 
-The instructions below describe how to configure GNU Dico server (dicod) to
-access a copy of the GCIDE dictionary.
+The package also provides a loadable module which allows to use GCIDE with
+the dictionary server.
 
-1. Unpack the GCIDE dictionary;
-
-2. Copy the file "gcide.conf" to a directory where you keep your local
-configuration files (/etc or /usr/local/etc are usual choices).
-
-3. Replace the word GCIDE_PATH in the "gcide.conf" statement with the path
-to the gcide-0.51 dicrectory.  You can omit this step and use the -D option
-instead:
-
-4. Check the configuration file.  Run:
-          dicod --config /path/to/gcide.conf --lint
-If you skipped the step 3, supply the -D option with the acual path to
-the dictionary.  For example, if you copied "gcide.conf" to /etc and
-unpacked GCIDE to /usr/local, then run:
-          dicod --config /etc/gcide.conf -D GCIDE_PATH=/usr/local --lint
-If no errors are reported, then go to the step 5.
-
-5. Start "dicod".  Run the same command as described in step 4, but without
-the "--lint" option.  This will start the dictionary server which will be
-avaialble on localhost (127.0.0.1) port 2628.  The server provides extensive
-searching facilities.  It also parses the GCIDE markup and automatically
-reformats the articles before returning them.
-
-Now you can access the dictionary using dico (a GNU dictionary command line
-utility), or another dictionary client program (such as Kdict or the like).
+See http://www.gnu.org.ua/software/dico for more information, including
+links to download and documentation.
 
 * OTHER VERSIONS OF THE DICTIONARY
 
