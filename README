@@ -268,14 +268,18 @@ file also explains the Greek transliteration syntax used in it.
 
 * DICTIONARY LOOKUP
 
-The GNU Dico project contains a browser for GCIDE, called "Gcider".  It
+The dictionary home page <http://gcide.gnu.org.ua> provides a lookup
+facility.
+
+The GNU Dico project contains a browser for GCIDE, called "gcider".  It
 provides a windowing interface allowing user to search for matching
 headwords using several match strategies and browse their definitions.
+See <http://dico.gnu.org.ua/gcider.html>.
 
 The package also provides a loadable module which allows to use GCIDE with
 the dictionary server.
 
-See http://www.gnu.org.ua/software/dico for more information, including
+See <http://www.gnu.org.ua/software/dico> for more information, including
 links to download and documentation.
 
 * OTHER VERSIONS OF THE DICTIONARY
