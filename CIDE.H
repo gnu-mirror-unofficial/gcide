@@ -1,58 +1,21 @@
-<p><-- Begin file 8 of 26:  H  (Version 0.51) of
+<-- This file is part 8 of the GNU version of
+    The Collaborative International Dictionary of English (GCIDE)
 
-           This file is part 8 of the GNU version of
-     The Collaborative International Dictionary of English
-               Also referred to as GCIDE
-  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+    Copyright (C) 1992-2012 Patrick J. Cassidy
 
-GCIDE is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation; either version 3, or (at your option)
-any later version.
+    GCIDE is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 3, or (at your option)
+    any later version.
 
-GCIDE is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
+    GCIDE is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License
-along with this copy of GCIDE.  If not, see <http://www.gnu.org/licenses/>.
-           * * * * * * * * * * * * * * * * * * * * *
-           This dictionary was derived from the
-         Webster's Revised Unabridged Dictionary
-                 Version published 1913
-               by the  C. & G. Merriam Co.
-                   Springfield, Mass.
-                 Under the direction of
-                Noah Porter, D.D., LL.D.
-
-                        and from
-          WordNet(R), a semantic network created by
-              the Cognitive Science Department
-                 of Princeton University
-                  under the direction of
-                   Prof. George Miller
-
-             and is being updated and supplemented by
-         an open coalition of volunteer collaborators from
-                       around the world.
-
-     This electronic dictionary is the starting point for an 
-ongoing project to develop a modern on-line comprehensive encyclopedic
-dictionary, by the efforts of all individuals willing to help build a
-large and freely available knowledge base.  Contributions of data,
-time, and effort are requested from any person willing to assist creation
-of a comprehensive and organized knowledge base for free access on the
-internet.  Anyone willing to assist in any way in constructing such a
-knowledge base should contact:
-
-     Patrick Cassidy          cassidy@micra.com
-     735 Belvidere Ave.       Office: (908)668-5252
-     Plainfield, NJ 07062
-     (908) 561-3416
-
-   Last edit July 6, 2003.
- --></p>
+    You should have received a copy of the GNU General Public License
+    along with this copy of GCIDE.  If not, see <http://www.gnu.org/licenses/>.
+-->
 
 <p><centered><point26>H.</point26></centered><br/
 [<source>1913 Webster</source>]</p>

@@ -54,17 +54,9 @@ illustrative quotations giving recent examples of usage of the words in
 their various senses will be very helpful, since most quotations in the
 original 1913 dictionary are now well over 100 years old.
 
-This electronic version is being maintained by World Soul, a non-profit
-organization in Plainfield, NJ.  For additional information or if you are
-willing to assist construction of this data source, contact:
+Please send bug reports and suggestions to <gcide@gnu.org>.
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
- Patrick J. Cassidy              | TEL:          (908) 561-3416
- World Soul                      | if no answer, (908) 668-5252
- 735 Belvidere Ave.              | FAX:          (908) 668-5904
- Plainfield, NJ  07062-2054
- pc@worldsoul.org   or  cassidy@micra.com
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+* LICENSE
 
 GCIDE is free software; you can redistribute it and/or modify it under the
 terms of the GNU General Public License as published by the Free Software
@@ -76,9 +68,8 @@ FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more
 details.
 
 You should have received a copy of the GNU General Public License along with
-this copy of GCIDE; see the file COPYING.  If not, write to the Free
-Software Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA
-02111-1307, USA.
+this copy of GCIDE; see the file COPYING.  If not, see
+<http://www.gnu.org/licenses/>.
 
 * STRUCTURE OF THE DICTIONARY
 
