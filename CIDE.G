@@ -563,7 +563,7 @@ Hath left me <qex>gaged</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gain</ent><br/
-<hw>Gain</hw>, <pos>a.</pos> <ety>[OE. <ets>gein</ets>, <ets>gain</ets>, good, near, quick; cf. Icel. <ets>gegn</ets> ready, serviceable, and <ets>gegn</ets>, adv., against, opposite.  Cf. <er>Ahain</er>.]</ety> <def>Convenient; suitable; direct; near; handy; dexterous; easy; profitable; cheap; respectable.</def> <mark>[Obs. or Prov. Eng.]</mark><br/
+<hw>Gain</hw>, <pos>a.</pos> <ety>[OE. <ets>gein</ets>, <ets>gain</ets>, good, near, quick; cf. Icel. <ets>gegn</ets> ready, serviceable, and <ets>gegn</ets>, adv., against, opposite.  Cf. <er>Again</er>.]</ety> <def>Convenient; suitable; direct; near; handy; dexterous; easy; profitable; cheap; respectable.</def> <mark>[Obs. or Prov. Eng.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gain</ent><br/

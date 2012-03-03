@@ -1,5 +1,5 @@
 PROJECT = gcide
-VERSION = 0.51-rc1
+VERSION = 0.51
 
 DISTFILES=\
  $(wildcard CIDE.[A-Z])\
@@ -13,6 +13,8 @@ DISTFILES=\
  abbrevn.lst\
  authors.lst\
  titlepage.png 
+
+all:	dist
 
 anclist:
 	@ls -o $(DISTFILES) | grep -v 'CIDE.[A-Z]'
