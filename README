@@ -54,8 +54,6 @@ illustrative quotations giving recent examples of usage of the words in
 their various senses will be very helpful, since most quotations in the
 original 1913 dictionary are now well over 100 years old.
 
-Please send bug reports and suggestions to <gcide@gnu.org>.
-
 * LICENSE
 
 GCIDE is free software; you can redistribute it and/or modify it under the
@@ -70,6 +68,10 @@ details.
 You should have received a copy of the GNU General Public License along with
 this copy of GCIDE; see the file COPYING.  If not, see
 <http://www.gnu.org/licenses/>.
+
+This dictionary is maintained by Patrick Cassidy and Sergey Poznyakoff.
+
+Please send bug reports and suggestions to <gcide@gnu.org>.
 
 * STRUCTURE OF THE DICTIONARY
 
@@ -181,8 +183,7 @@ individuals willing to help build a large and freely available knowledge
 base.  A large number of collaborators are needed to bring this dictionary
 to a more accurate, more modern, and more useful state. Anyone willing to
 assist in any way in constructing such a knowledge base should contact
-Patrick Cassidy (see above).  All reports of errors will be gratefully
-received, and should also be transmitted to PC at: pc@worldsoul.org.
+its maintainers at <gcide@gnu.org>.
 
 * TAGS
 
@@ -220,6 +221,12 @@ files:
 ** COPYING
 
 The license terms for distributing and modifying this dictionary.
+
+** INFO
+
+Short information about the dictionary.  It is used by GNU Dico dictionary
+server.  The first line of this file provides a short database description.
+The entire file is sent as the response to SHOW INFO command.
 
 ** abbrevn.lst
 
@@ -259,8 +266,8 @@ file also explains the Greek transliteration syntax used in it.
 
 * DICTIONARY LOOKUP
 
-The dictionary home page <http://gcide.gnu.org.ua> provides a lookup
-facility.
+The dictionary home page <http://gcide.gnu.org.ua> provides an on-line
+lookup facility.
 
 The GNU Dico project contains a browser for GCIDE, called "gcider".  It
 provides a windowing interface allowing user to search for matching

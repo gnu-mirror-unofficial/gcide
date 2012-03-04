@@ -5,6 +5,7 @@ DISTFILES=\
  $(wildcard CIDE.[A-Z])\
  COPYING\
  README\
+ INFO\
  pronunc.png\
  symbols.png\
  pronunc.txt\
