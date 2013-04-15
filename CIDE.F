@@ -26624,7 +26624,7 @@ In judging eyes, as libertines from wits.</q> <rj><qau>Young.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>format</ent><br/
-<hw>format</hw> <pos>v. t.</pos> <def>to set into a specific format; -- of printed matter or data recorded on a data soorage medium.</def><br/
+<hw>format</hw> <pos>v. t.</pos> <def>to set into a specific format; -- of printed matter or data recorded on a data storage medium.</def><br/
 <syn><b>Syn. --</b> arrange.</syn><br/
 [<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
