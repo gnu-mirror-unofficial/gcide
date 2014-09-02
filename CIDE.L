@@ -13501,7 +13501,7 @@ Himself the primrose path of dalliance treads.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Libra</ent><br/
 <ent>Librae</ent><br/
-\'d8<hw>Li"bra</hw> <pr>(l<imac/"br<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Libr<ae/</plw> <pr>(l<imac/"br<emac/)</pr>.</plu> <ety>[L., a balance.]</ety> <fld>(Astron.)</fld> <sd>(a)</sd> <def>The Balance; the seventh sign in the zodiac, which the sun enters at the autumnal equinox in September, marked thus <libra/ in almanacs, etc.</def> <sd>(b )</sd> <def>A southern constellation between Virgo and Scorpio.</def><br/
+\'d8<hw>Li"bra</hw> <pr>(l<imac/"br<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Libr<ae/</plw> <pr>(l<imac/"br<emac/)</pr>.</plu> <ety>[L., a balance.]</ety> <fld>(Astron.)</fld> <sd>(a)</sd> <def>The Balance; the seventh sign in the zodiac, which the sun enters at the autumnal equinox in September, marked thus <Libra/ in almanacs, etc.</def> <sd>(b )</sd> <def>A southern constellation between Virgo and Scorpio.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Libral</ent><br/
