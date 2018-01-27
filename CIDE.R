@@ -20339,7 +20339,7 @@ ll I forget to love, and learn to grieve.</q> <rj><qau>Denham.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reprisal</ent><br/
-<hw>Re*pris"al</hw> <pr>(r?-priz"<it>a</it>l)</pr>, <pos>n.</pos> <ety>[F. <ets>repr<?/saille</ets>, It.  <ets>ripresaglia</ets>, <ets>rappresaglia</ets>, LL. <ets>reprensaliae</ets>, fr. L. <ets>reprehendere</ets>, <ets>reprehensum</ets>. See <er>Reprehend</er>, <er>Reprise</er>.]</ety> <sn>1.</sn> <def>The act of taking from an enemy by way of reteliation or indemnity.</def><br/
+<hw>Re*pris"al</hw> <pr>(r?-priz"<it>a</it>l)</pr>, <pos>n.</pos> <ety>[F. <ets>repr<?/saille</ets>, It.  <ets>ripresaglia</ets>, <ets>rappresaglia</ets>, LL. <ets>reprensaliae</ets>, fr. L. <ets>reprehendere</ets>, <ets>reprehensum</ets>. See <er>Reprehend</er>, <er>Reprise</er>.]</ety> <sn>1.</sn> <def>The act of taking from an enemy by way of retaliation or indemnity.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Debatable ground, on which incursions and <qex>reprisals</qex> continued to take place.</q> <rj><qau>Macaulay.</qau></rj><br/
