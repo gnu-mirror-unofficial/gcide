@@ -12614,8 +12614,8 @@ Of woe and sorrow.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Henotheism</ent><br/
-<hw>Hen"o*the*ism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>e"i`s</grk>, <grk>"eno`s</grk>, one + E. <ets>theism</ets>.]</ety> <def>Primitive religion in which each of several divinities is regarded as independent, and is worshiped without reference to the rest.</def> <mark>[R.]</mark><br/
-[<source>1913 Webster</source>]</p>
+<hw>Hen"o*the*ism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>e"i`s "eno`s qeou^</grk>, of one god]</ety> <def>The worship of a single, overarching god without denying the existence of other deities.</def><br/
+[<source>Merriam-Webster</source>]</p>
 
 <p><ent>Henotic</ent><br/
 <hw>He*not"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>"enwtiko`s</grk>, fr. <grk>"enou^n</grk> to unite, fr. <grk>e"i^s</grk> one.]</ety> <def>Harmonizing; irenic.</def>  <rj><au>Gladstone.</au></rj><br/
