@@ -1,5 +1,5 @@
 PROJECT = gcide
-VERSION = 0.51
+VERSION = 0.52
 
 DISTFILES=\
  $(wildcard CIDE.[A-Z])\
