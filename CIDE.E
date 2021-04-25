@@ -22056,7 +22056,7 @@ where <it>R</it> is the radius of the celestial body and <it>g</it> is the accel
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Esperanto</ent><br/
-<hw>Es`pe*ran"to</hw> <pr>(?)</pr>, <pos>n.</pos> <def>An artificial language, intended to be universal, devised by Dr. Zamenhof, a Russian, who adopted the pseudonym <ldquo/Dr. Esperanto<rdquo/ in publishing his first pamphlet regarding it in 1887.  The vocabulary is very largely based upon words common to the chief European languages, and sounds peculiar to any one language are eliminated.  The spelling is phonetic, and the accent (stress) is always on the penult.  A revised and simplified form, called <er>Ido</er> was developed in 1907, but <ex>Esperanto</ex> remained at the end of the 20th century the most popular artificial language designed for normal human linguistic communication.</def> -- <wordforms><wf>Es`pe*ran"tist</wf> <pr>(#)</pr>, <pos>n.</pos></wordforms><br/
+<hw>Es`pe*ran"to</hw> <pr>(?)</pr>, <pos>n.</pos> <def>An artificial language, intended to be universal, devised by Dr. Zamenhof, a Pole, who adopted the pseudonym <ldquo/Dr. Esperanto<rdquo/ in publishing his first pamphlet regarding it in 1887.  The vocabulary is very largely based upon words common to the chief European languages, and sounds peculiar to any one language are eliminated.  The spelling is phonetic, and the accent (stress) is always on the penult.  A revised and simplified form, called <er>Ido</er> was developed in 1907, but <ex>Esperanto</ex> remained at the end of the 20th century the most popular artificial language designed for normal human linguistic communication.</def> -- <wordforms><wf>Es`pe*ran"tist</wf> <pr>(#)</pr>, <pos>n.</pos></wordforms><br/
 [<source>Webster 1913 Suppl.</source> <source>+PJC</source> ]</p>
 
 <p><q>Esperanto<br/
@@ -22128,9 +22128,9 @@ Waiting for the <ldquo/fina venko<rdquo/: <ldquo/We're still a little club, in a
 <br/
 <ldquo/There are directories of Esperantists all over the world, and when someone is traveling to a foreign country it will frequently happen that an Esperantist will write or e-mail a fellow Esperantist and be invited to stay in his home.  Does that happen with people who speak just English? I don't think so.<rdquo/</q><br/
 <br/
-<qau>Mark Feeney<br/
+<qau>Mark Feeney</qau><br/
 [This story ran on page F01 of the Boston Globe on 05/12/99.<br/
-Copyright 1999 Globe Newspaper Company.] (available at http://www.esne.net/ligoj/boston_globe_article.htm)</qau><br/
+Copyright 1999 Globe Newspaper Company.] (available at https://web.archive.org/web/20040604054103/http://www.esne.net/ligoj/boston_globe_article.htm)<br/
 [<source>PJC</source>]</p>
 
 <p><ent>Espiaille</ent><br/

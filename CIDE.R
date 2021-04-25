@@ -10622,7 +10622,7 @@ Might avail his sickness to <qex>recure</qex>.</q> <rj><qau>Lydgate.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Recusant</ent><br/
-<hw>Re*cu"sant</hw> <pr>(-z<it>a</it>t; 277)</pr>, <pos>a.</pos><ety>[L. <ets>recusans</ets>, <ets>-antis</ets>, p. pr. of <ets>recure</ets> to refuse, to oject to; pref. <ets>re-</ets> re + <ets>causa</ets> a cause, pretext: cf. F. <ets>r<eacute/cusant</ets>. See <er>Cause</er>, and cf. <er>Ruse</er>.]</ety> <def>Obstinate in refusal; specifically, in English history, refusing to acknowledge the supremacy of the king in the churc, or to conform to the established rites of the church; <as>as, a <ex>recusant</ex> lord</as>.</def><br/
+<hw>Re*cu"sant</hw> <pr>(-z<it>a</it>t; 277)</pr>, <pos>a.</pos><ety>[L. <ets>recusans</ets>, <ets>-antis</ets>, p. pr. of <ets>recure</ets> to refuse, to oject to; pref. <ets>re-</ets> re + <ets>causa</ets> a cause, pretext: cf. F. <ets>r<eacute/cusant</ets>. See <er>Cause</er>, and cf. <er>Ruse</er>.]</ety> <def>Obstinate in refusal; specifically, in English history, refusing to acknowledge the supremacy of the king in the church, or to conform to the established rites of the church; <as>as, a <ex>recusant</ex> lord</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>It stated him to have placed his son in the household of the Countess of Derby, a <qex>recusant</qex> papist.</q> <rj><qau>Sir W. Scott.</qau></rj><br/
@@ -33322,9 +33322,6 @@ The lasting <qex>roll</qex>, recording what we say.</q> <rj><qau>Prior.</qau></r
 <p><note><h2>Zimbabwe Menu</h2><br/
     The Lilac-breasted Roller (also lilacbreasted roller, <spn>Coracias caudata</spn>) is a common resident in large parts of the Southern African region including <country>Zimbabwe</country>, <country>Zambia</country>, <country>Botswana</country>, <country>Namibia</country>, <country>Mozambique</country> and parts of <country>South Africa</country>.<br/
     They are found in a variety of woodland types and will usually be seen hawking for insects from a favoured position in a tall tree, telephone pole or similar vantage point.  They tend to be quite noisy when carrying out their characteristic aerobatic display.  The Lilacbreasted Roller differs from its Racket-tailed cousin in that it has pointed tail feathers not spatulate tips. The latter bird is less well distributed than the Lilacbreasted and favours moist broad-leafed woodland and hill country.<br/
-<br/
-<a href="\cide\more\lilac-breasted-roller.jpg">Lilac breasted roller</a> from an <i>alternative</i> photographic view of Victoria Falls by <person>Chris Worden</person>.<br/
-   Taken from the Web site of the <a href="http://www.zambezi.co.uk/l/cw06.html">Zambezi Safari and Travel Co., Ltd.</a></note></p>
 
 <p><sn>10.</sn> <fld>(Zool.)</fld> <def>Any species of small ground snakes of the family <fam>Tortricidae</fam>.</def><br/
 [<source>1913 Webster</source>]</p>

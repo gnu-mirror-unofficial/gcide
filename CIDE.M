@@ -18237,7 +18237,7 @@ Revenge upon the cardinal.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><q>  For the first time in World Championships history, two racers shared the first-place gold medal.  <persfn>Maier</persfn> and <persfn>Kjus</persfn> arm-in-arm on the podium, with Austrian <person>Hans Knauss</person> just .01 seconds back from making it a <qex>menage-a-trois</qex>.</q><br/
-<qau>Andrew Hood, in (http://classic.mountainzone.com/ski/worldcup/99/worldchamps/superg-m.html)</qau><br/
+<qau>Andrew Hood (http://classic.mountainzone.com/ski/worldcup/99/worldchamps/superg-m.html)</qau><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Menagerie</ent><br/

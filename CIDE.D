@@ -17256,7 +17256,7 @@ And to his mates thus in <qex>derision</qex> called.</q> <rj><qau>Milton.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Descartes</ent><br/
-<hw>Descartes</hw> <pr>(d<asl/*k<aum/rt")</pr> <pos>prop. n.</pos> <def><person>Ren<eacute/ Descartes</person>, a French philosopher and mathematician, born 159, died 1650.  See biography, below.</def><br/
+<hw>Descartes</hw> <pr>(d<asl/*k<aum/rt")</pr> <pos>prop. n.</pos> <def><person>Ren<eacute/ Descartes</person>, a French philosopher and mathematician, born 1596, died 1650.  See biography, below.</def><br/
 <syn><b>Syn. --</b> Rene Descartes.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -23928,7 +23928,7 @@ Amen.                         Amen.</tt></pre></note><br/
 
 <p><q>We 'll never <qex>differ</qex> with a crowded pit.</q> <rj><qau>Rowe.</qau></rj></p>
 
-<p><syn><b>Syn.</b> -- To vary; disagree; dissent; dispute; contend; oppose; wrangle.</syn>  <usage>-- To <er>Differ with</er>, <er>Differ from</er>. Both <xex>differ from</xex> and <xex>aiffer with</xex> are used in reference to opinions; <as>as, <ldquo/I <ex>differ from</ex> you or <ex>with</ex> you in that opinion</as>.<rdquo/<rdquo/ In all other cases, expressing simple unlikeness, <xex>differ from</xex> is used; <as>as, these two persons or things <ex>differ</ex> entirely <ex>from</ex> each other</as>.</usage><br/
+<p><syn><b>Syn.</b> -- To vary; disagree; dissent; dispute; contend; oppose; wrangle.</syn>  <usage>-- To <er>Differ with</er>, <er>Differ from</er>. Both <xex>differ from</xex> and <xex>differ with</xex> are used in reference to opinions; <as>as, <ldquo/I <ex>differ from</ex> you or <ex>with</ex> you in that opinion</as>.<rdquo/ In all other cases, expressing simple unlikeness, <xex>differ from</xex> is used; <as>as, these two persons or things <ex>differ</ex> entirely <ex>from</ex> each other</as>.</usage><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Severely punished, not for <qex>differing from</qex> us in opinion, but for committing a nuisance.</q> <rj><qau>Macaulay.</qau></rj><br/
@@ -26809,7 +26809,7 @@ That he moved the massy stone at length.</q> <rj><qau>Sir W. Scott.</qau></rj><b
 [<source>PJC</source>]</p>
 
 <p><q>A:  I'm not interested in diploids.<br/
-B: Oh, how I wish your parents had felt the same way!</q> <rj><qau></qau></rj></p>
+B: Oh, how I wish your parents had felt the same way!</q></p>
 
 <p><ent>diploid</ent><br/
 <hw>dip"loid</hw> <pr>(d<icr/p"loid)</pr>, <pos>a.</pos> <ety>[Gr. <grk>diplo`os</grk> twofold + <ets>-oid</ets>.]</ety> <fld>(Biol.)</fld> <def>having a number of chromosomes corresponding to two copies of each chromosome; having double the basic number of chromosomes, as seen in a haploid cell.  Contrasted to <contr>haploid</contr> and <contr>polyploid</contr>.</def> <note>in diploid cells, although the number of chromosomes is double that in haploid cells, it is not always true that there are two copies of every chromosome, since the two sex chromosomes in males will differ from each other.  In females, and for other chromosomes, however, there are generally two copies of each, giving rise to the classical hereditary and sorting patterns of Mendelian genetics.</note><br/
@@ -43417,7 +43417,7 @@ Of plagues.</q> <rj><qau>Marston.</qau></rj><br/
 <p><sn>3.</sn> <def>A close-fitting garment for men, covering the body from the neck to the waist or a little below. It was worn in Western Europe from the 15th to the 17th century.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <fld>(Lapidary Work)</fld> <def>A counterfeit gem, composed of two pieces of crystal, with a color between them, and thus giving the appearance of a naturally colored gem. Also, a piece of paste or glass covered by a veneer of real stone.</def><br/
+<p><sn>4.</sn> <fld>(Lapidary Work)</fld> <def>A counterfeit gem, composed of two pieces of crystal, with a layer of color between them, and thus giving the appearance of a naturally colored gem. Also, a piece of paste or glass covered by a veneer of real stone.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>5.</sn> <fld>(Opt.)</fld> <def>An arrangement of two lenses for a microscope, designed to correct spherical aberration and chromatic dispersion, thus rendering the image of an object more clear and distinct.</def>  <rj><au>W. H. Wollaston.</au></rj><br/
