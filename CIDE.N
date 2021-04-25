@@ -756,7 +756,7 @@ I can not name; 't is <qex>nameless</qex> woe,I wot.</q> <rj><qau>Shak.</qau></r
 [<source>PJC</source>]</p>
 
 <p><ent>nanotechnology</ent><br/
-<hw>nan"o*tech*nol`o*gy</hw> <pr>(n<acr/n"<osl/*t<ecr/k*n<ocr/l`<osl/*j<emac/)</pr>, <pos>n.</pos> <def>The manipulation or construction of objects with sizes in the nanometer range or smaller.</def>  <note>Objects of the size of molecules may be moved and placed in specific locations using <uses>laser tweezers</uses> or an <uses>atomic force microscope</uses>.  See <a href="http://21net.com/content/inside_se/nano.htm">nanotechnology</a>.</note><br/
+<hw>nan"o*tech*nol`o*gy</hw> <pr>(n<acr/n"<osl/*t<ecr/k*n<ocr/l`<osl/*j<emac/)</pr>, <pos>n.</pos> <def>The manipulation or construction of objects with sizes in the nanometer range or smaller.</def>  <note>Objects of the size of molecules may be moved and placed in specific locations using <uses>laser tweezers</uses> or an <uses>atomic force microscope</uses>.  See <a href="https://web.archive.org/web/20001209013400/http://21net.com/content/inside_se/nano.htm">nanotechnology</a>.</note><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Nanpie</ent><br/
@@ -9144,7 +9144,7 @@ I dare accept this your congratulation.</q> <rj><qau>Coleridge.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Nobel prize</ent><br/
-<hw>No*bel" prize</hw> <pr>(?)</pr> <pos>n.</pos>; <plu><it>pl.</it> <plw>No*bel" prizes</plw></plu>. <def>Prizes for the encouragement of men and women who work for the interests of humanity, established by the will of <person>Alfred B. <etsep>Nobel</etsep></person> (1833-1896), the Swedish inventor of dynamite, who left his entire estate for this purpose.  They are awarded yearly for what is regarded as the most important work during the year in physics, chemistry, medicine or physiology, idealistic literature, and service in the interest of peace.  The prizes, averaging $40,000 each, were first awarded in 1901.  The monetary value of the awards have increased each year, to near one million U. S. dollars by the end of the 20th century.</def> <note>The awards are administered by the <a HREF="http://www.nobel.se/index.html">Nobel Foundation</a>, which maintains a Web Page where the lists of prize winners and other information about the Nobel Prize may be found.</note><br/
+<hw>No*bel" prize</hw> <pr>(?)</pr> <pos>n.</pos>; <plu><it>pl.</it> <plw>No*bel" prizes</plw></plu>. <def>Prizes for the encouragement of men and women who work for the interests of humanity, established by the will of <person>Alfred B. <etsep>Nobel</etsep></person> (1833-1896), the Swedish inventor of dynamite, who left his entire estate for this purpose.  They are awarded yearly for what is regarded as the most important work during the year in physics, chemistry, medicine or physiology, idealistic literature, and service in the interest of peace.  The prizes, averaging $40,000 each, were first awarded in 1901.  The monetary value of the awards have increased each year, to near one million U. S. dollars by the end of the 20th century.</def> <note>The awards are administered by the <a HREF="http://www.nobelprize.org">Nobel Foundation</a>, which maintains a Web Page where the lists of prize winners and other information about the Nobel Prize may be found.</note><br/
 [<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
 
 <p><ent>Nobert's lines</ent><br/

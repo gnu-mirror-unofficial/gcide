@@ -1394,7 +1394,7 @@ They most must laugh.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>Any absurd medley; a hotchpotch.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><q>So in this installment I'd like to serve up a <qex>gallimaufry</qex> of tasty URLs that didn't quite fit anywhere else.</q> <rj><qau>James Patrick Kelly, (2003) in 'On the Net Gallimaufry' (http://www.asimovs.com/_issue_0403/onthenet.shtml)</qau></rj><br/
+<p><q>So in this installment I'd like to serve up a <qex>gallimaufry</qex> of tasty URLs that didn't quite fit anywhere else.</q> <rj><qau>James Patrick Kelly, (2003) in 'On the Net Gallimaufry' (https://web.archive.org/web/20060131120420/http://www.asimovs.com/_issue_0403/onthenet.shtml)</qau></rj><br/
 [<source>LM</source>]</p>
 
 <p><ent>Gallin</ent><br/
@@ -11804,7 +11804,7 @@ position accurate within 10 meters 95% of the time.</def><br/
 [<source>RH</source>]</p>
 
 <p><q>On June 26, 1993 . . . the <org>U.S. Air Force</org> launched the 24th Navstar satellite into orbit, completing a network of 24 satellites known as the Global Positioning System, or GPS.  With a GPS receiver that costs less than a few hundred dollars you can instantly learn your location on the planet -- your latitude, longitude, and even altitude -- to within a few hundred feet.<br/
-    This incredible new technology was made possible by a combination of scientific and engineering advances, particularly development of the world's most accurate timepieces: atomic clocks that are precise to within a billionth of a second.</q> <qau>http://www4.nationalacademies.org/beyond/beyonddiscovery.nsf/web/gps?OpenDocument</qau><br/
+    This incredible new technology was made possible by a combination of scientific and engineering advances, particularly development of the world's most accurate timepieces: atomic clocks that are precise to within a billionth of a second.</q> <qau>https://web.archive.org/web/20011125121826/http://www4.nationalacademies.org/beyond/beyonddiscovery.nsf/web/gps?OpenDocument</qau><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Globard</ent><br/
@@ -20689,7 +20689,7 @@ Call forth the <qex>greens</qex>, and wake the rising flowers.</q> <rj><qau>Pope
 <hw>Gren`a*dier"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. grenadier. See <er>Grenade</er>.]</ety> <sn>1.</sn> <fld>(Mil.)</fld> <def>Originaly, a soldier who carried and threw grenades; afterward, one of a company attached to each regiment or battalion, taking post on the right of the line, and wearing a peculiar uniform. In modern times, a member of a special regiment or corps; <as>as, a <ex>grenadier</ex> of the guard of Napoleon I.</as> one of the regiment of <ex>Grenadier</ex> Guards of the British army, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/  The feats of grenadiers have been memorialized in song, as in the following: (for the melody see http://www.acronet.net/~robokopp/english.html) <br/
+<p><note><hand/  The feats of grenadiers have been memorialized in song, as in the following: (for the melody see https://web.archive.org/web/20040202232801/http://www.acronet.net/~robokopp/english.html) <br/
 <br/
 <TITLE>Some talk of Alexander, and some of Hercules / The British Grenadiers</TITLE>
 <I>ca. 18th Century</I>
